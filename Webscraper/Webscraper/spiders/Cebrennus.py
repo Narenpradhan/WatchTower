@@ -10,7 +10,7 @@ class CebrennusSpider(scrapy.Spider):
     page_count = 2
 
     custom_settings = {
-        "FEED_EXPORT_FIELDS": ["Link", "Title", "Timestamp"],
+        "FEED_EXPORT_FIELDS": ["Link", "Img_URL", "Title", "Source", "Timestamp"],
     }
 
     def parse(self, response):
@@ -20,14 +20,17 @@ class CebrennusSpider(scrapy.Spider):
             articles = Cebrennus_articles()
 
             articles["Link"] = (post.css("h2 a ::attr(href)").get(),)
+            articles["Img_URL"] = (post.css(".wp-caption img ::attr(src)").get(),)
             articles["Title"] = (post.css("h2 a ::text").get(),)
+            articles["Source"] = "KrebsonSecurity"
             # articles['Description'] = re.sub(r'<.*?>','',post.css('div p').get()),
             articles["Timestamp"] = (post.css(".date ::text").get(),)
             yield articles
 
         # Page Crawler
-        pages = response.css("div.pagination ul li")
-        total_page = int(pages[len(pages) - 2].css("a ::text").get())
+        # pages = response.css("div.pagination ul li")
+        # total_page = int(pages[len(pages) - 2].css("a ::text").get())
+        total_page = 2
         next_page_url = f"https://krebsonsecurity.com/page/{self.page_count}/"
         if self.page_count <= total_page:
             self.page_count += 1

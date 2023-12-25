@@ -8,7 +8,7 @@ class GaleodesSpider(scrapy.Spider):
     page_count = 2
 
     custom_settings = {
-        "FEED_EXPORT_FIELDS": ["Link", "Title", "Timestamp"],
+        "FEED_EXPORT_FIELDS": ["Link", "Img_URL", "Title", "Source", "Timestamp"],
         "DOWNLOADER_MIDDLEWARES": {
             "Webscraper.middlewares.CebrennusMiddleware": 400,
         },
@@ -18,20 +18,22 @@ class GaleodesSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        posts = response.css(".summary-item__content")
+        posts = response.css(".summary-item")
 
         for post in posts:
             articles = Galeodes_articles()
 
             scraped_link = "https://www.wired.com" + post.css(".summary-item__hed-link ::attr(href)").get()
             articles["Link"] = scraped_link
+            articles["Img_URL"] = post.css('.responsive-image__image ::attr(src)').get()
             articles["Title"] = post.css(".summary-item__hed ::text").get()
+            articles["Source"] = "WIRED"
 
             # Make a request to get the timestamp
             yield scrapy.Request(scraped_link, callback=self.extract_timestamp, meta={'item': articles.copy()})
 
 
-        total_page = 50
+        total_page = 1
         next_page_url = f"https://www.wired.com/tag/cybersecurity/?page={self.page_count}/"
         if self.page_count <= total_page:
             self.page_count += 1
