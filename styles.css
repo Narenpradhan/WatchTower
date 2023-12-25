@@ -1,0 +1,122 @@
+/* font-family: 'Hind Madurai', sans-serif;
+font-family: 'Lora', serif; */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #001427;
+}
+
+.main{
+    width: 70vw;
+    height: 100vh;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    /* border: 1px solid red; */
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-family: 'Lora', serif;
+    font-weight: 500;
+    font-size: 38px;
+    color: #2b87ffad;
+    padding: 60px 0px;
+}
+
+.head{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lora', serif;
+    gap: 20px;
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 65px;
+    color: #e0e1dd;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    border: 2px solid #e0e1dd;
+}
+
+.content-container{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex-direction: column;
+    /* border: 1px solid red; */
+}
+
+.content{
+    width: 1340px;
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 30px 0px;
+    gap: 35px;
+    border-bottom: 2px solid #e0e1dd;
+}
+
+.content-img{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1.5px solid #e0e1dd;
+}
+
+.feed{
+    width: 1003px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: column;
+    padding: 20px 0px;
+    /* border: 1px solid red; */
+}
+
+.feed-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 500;
+    font-size: 29px;
+    color: #e0e1dd;
+}
+
+.feed-meta{
+    width: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: #57a0ffbe;
+    /* border: 1px solid green; */
+}
+
+.date{
+    display: flex;
+    border-radius: 20px;
+
+}
+
+.source{
+    display: flex;
+
+}

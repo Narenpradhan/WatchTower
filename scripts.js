@@ -1,0 +1,22 @@
+fetch('sorted_combined_data.json')
+    .then(response => response.json())
+    .then(data => {
+        for (let i = 0; i < data.length; i++){
+            let feedItem = data[i]
+            appendPost(feedItem)
+        }
+    })
+
+const feed = document.querySelector(".content-container")
+function appendPost(item) {
+    feed.innerHTML += `<div class="content">
+                            <div><img src="${item.Img_URL}" alt="" class="content-img"></div>
+                            <div class="feed">
+                                <div class="feed-header"><a href=${item.Link}>${item.Title}</a></div>
+                                <div class="feed-meta">
+                                    <div class="date"><p>${item.Timestamp}</p></div>
+                                    <div class="source"><p>${item.Source}</p></div>
+                                </div>
+                            </div>
+                        </div>`
+}
