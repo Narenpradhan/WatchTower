@@ -13,10 +13,10 @@ SPIDER_MODULES = ["Webscraper.spiders"]
 NEWSPIDER_MODULE = "Webscraper.spiders"
 
 
-SCRAPEOPS_API_KEY = '55346e88-0b9a-4fc2-9e44-ade169895965'
-SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
+SCRAPEOPS_API_KEY = '' #add your own scrapeops api-key
+SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = '' #add your own scrapeops end-point
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
-SCRAPEOPS_NUM_RESULTS = 50
+SCRAPEOPS_NUM_RESULTS = 50 #set the number user-agents you need
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "Webscraper (+http://www.yourdomain.com)"
@@ -51,15 +51,14 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 SPIDER_MIDDLEWARES = {
     # "Webscraper.middlewares.WebscraperSpiderMiddleware": 543,
-    # "Webscraper.middlewares.CebrennusMiddleware": 400,
+    # "Webscraper.middlewares.WebscraperMiddleware": 400,
 }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     # "Webscraper.middlewares.WebscraperDownloaderMiddleware": 543,
-    "Webscraper.middlewares.CebrennusMiddleware": 400,
-    # "Webscraper.middlewares.HyptiotesMiddleware": 500,
+    "Webscraper.middlewares.WebscraperMiddleware": 400,
 }
 
 # Enable or disable extensions

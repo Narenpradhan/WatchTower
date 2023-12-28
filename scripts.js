@@ -1,4 +1,4 @@
-fetch('sorted_combined_data.json')
+fetch('combined_data.json')
     .then(response => response.json())
     .then(data => {
         for (let i = 0; i < data.length; i++){

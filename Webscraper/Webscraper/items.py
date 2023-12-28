@@ -6,6 +6,7 @@
 import scrapy
 
 
+#define scrapy items for Cebrennus
 class Cebrennus_articles(scrapy.Item):
     Link = scrapy.Field()
     Img_URL = scrapy.Field()
@@ -15,6 +16,7 @@ class Cebrennus_articles(scrapy.Item):
     Timestamp = scrapy.Field()
 
 
+#define scrapy items for Hyptiotes
 class Hyptiotes_articles(scrapy.Item):
     Link = scrapy.Field()
     Img_URL = scrapy.Field()
@@ -23,6 +25,7 @@ class Hyptiotes_articles(scrapy.Item):
     Timestamp = scrapy.Field()
 
 
+#define scrapy items for Galeodes
 class Galeodes_articles(scrapy.Item):
     Link = scrapy.Field()
     Img_URL = scrapy.Field()
