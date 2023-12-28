@@ -13,6 +13,9 @@ class HyptiotesSpider(scrapy.Spider):
         "DOWNLOADER_MIDDLEWARES": {
             "Webscraper.middlewares.CebrennusMiddleware": 400,
         },
+        "ITEM_PIPELINES" : {
+            "Webscraper.pipelines.HyptiotesPipeline": 400,
+        },
     }
 
     def parse(self, response):
@@ -21,11 +24,11 @@ class HyptiotesSpider(scrapy.Spider):
         for post in posts:
             articles = Hyptiotes_articles()
 
-            articles["Link"] = (post.css(".story-link ::attr(href)").get(),)
-            articles["Img_URL"] = (post.css('.home-img-src ::attr(data-src)').get(),)
-            articles["Title"] = (post.css(".home-title ::text").get(),)
+            articles["Link"] = post.css(".story-link ::attr(href)").get()
+            articles["Img_URL"] = post.css('.home-img-src ::attr(data-src)').get()
+            articles["Title"] = post.css(".home-title ::text").get()
             articles["Source"] = "The Hacker News"
-            articles["Timestamp"] = (post.xpath('//span[@class="h-datetime"]/i/following-sibling::text()').get().strip(),)
+            articles["Timestamp"] = post.xpath('//span[@class="h-datetime"]/i/following-sibling::text()').get().strip()
             yield articles
 
         next_page_url = response.css(".blog-pager-older-link-mobile ::attr(href)").get()

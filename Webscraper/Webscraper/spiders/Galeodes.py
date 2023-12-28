@@ -13,21 +13,27 @@ class GaleodesSpider(scrapy.Spider):
             "Webscraper.middlewares.CebrennusMiddleware": 400,
         },
         "ITEM_PIPELINES" : {
-            "Webscraper.pipelines.GaleodesPipeline": 200,
+            "Webscraper.pipelines.GaleodesPipeline": 300,
         },
     }
 
     def parse(self, response):
         posts = response.css(".summary-item")
 
-        for post in posts:
+        for i,post in enumerate(posts):
             articles = Galeodes_articles()
 
-            scraped_link = "https://www.wired.com" + post.css(".summary-item__hed-link ::attr(href)").get()
-            articles["Link"] = scraped_link
-            articles["Img_URL"] = post.css('.responsive-image__image ::attr(src)').get()
-            articles["Title"] = post.css(".summary-item__hed ::text").get()
-            articles["Source"] = "WIRED"
+            scraped_link = "https://www.wired.com" + post.xpath('//a[contains(@data-recirc-pattern, "summary-item")]/@href')[i].get()
+            img_url = post.css('.responsive-image__image ::attr(src)').get()
+            title = post.css(".summary-item__hed::text").get()
+            if None in [scraped_link,img_url,title]:
+                continue
+            else:
+                articles["Link"] = scraped_link
+                articles["Img_URL"] = img_url
+                articles["Title"] = title
+                articles["Source"] = "WIRED"
+            
 
             # Make a request to get the timestamp
             yield scrapy.Request(scraped_link, callback=self.extract_timestamp, meta={'item': articles.copy()})
@@ -44,6 +50,6 @@ class GaleodesSpider(scrapy.Spider):
         # Extract timestamp and retrieve the item from the meta
         time = response.css("time ::text").get()
         articles = response.meta['item']
-        articles["Timestamp"] = time
+        articles["Timestamp"] = (time,)
         yield articles
 

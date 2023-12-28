@@ -11,6 +11,9 @@ class CebrennusSpider(scrapy.Spider):
 
     custom_settings = {
         "FEED_EXPORT_FIELDS": ["Link", "Img_URL", "Title", "Source", "Timestamp"],
+        "ITEM_PIPELINES" : {
+            "Webscraper.pipelines.CebrennusPipeline": 200,
+        },
     }
 
     def parse(self, response):
@@ -19,12 +22,12 @@ class CebrennusSpider(scrapy.Spider):
         for post in posts:
             articles = Cebrennus_articles()
 
-            articles["Link"] = (post.css("h2 a ::attr(href)").get(),)
-            articles["Img_URL"] = (post.css(".wp-caption img ::attr(src)").get(),)
-            articles["Title"] = (post.css("h2 a ::text").get(),)
+            articles["Link"] = post.css("h2 a ::attr(href)").get()
+            articles["Img_URL"] = post.css('img[decoding="async"] ::attr(src)').get()
+            articles["Title"] = post.css("h2 a ::text").get()
             articles["Source"] = "KrebsonSecurity"
             # articles['Description'] = re.sub(r'<.*?>','',post.css('div p').get()),
-            articles["Timestamp"] = (post.css(".date ::text").get(),)
+            articles["Timestamp"] = post.css(".date ::text").get()
             yield articles
 
         # Page Crawler
