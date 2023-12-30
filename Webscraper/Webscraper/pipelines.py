@@ -24,10 +24,11 @@ class CebrennusPipeline:
         for field in ['Timestamp']:
             month_map = {'Jan': 'January','Feb': 'February','Mar': 'March','Apr': 'April','May': 'May','Jun': 'June','Jul': 'July','Aug': 'August','Sep':'September','Oct': 'October','Nov': 'November','Dec': 'December'}
             date_string = (adapter.get(field))
-            date_string_list = date_string[0].split()
+            date_string_list = date_string.split()
             if date_string_list[0] in month_map.values():
                 final_date = tuple([key for key,value in month_map.items() if value==date_string_list[0]]) + (date_string_list[1],) + (date_string_list[2],)
-                adapter[field] = ' '.join(final_date)
+                adapter[field] = " ".join(final_date)
+                
         return item
 
 

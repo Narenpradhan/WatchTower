@@ -11,7 +11,7 @@ class CebrennusSpider(scrapy.Spider):
     custom_settings = {
         "FEED_EXPORT_FIELDS": ["Link", "Img_URL", "Title", "Source", "Timestamp"],
         "ITEM_PIPELINES" : {
-            "Webscraper.pipelines.CebrennusPipeline": 200,
+            "Webscraper.pipelines.CebrennusPipeline": 300,
         },
     }
 

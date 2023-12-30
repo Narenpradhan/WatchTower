@@ -13,7 +13,7 @@ class GaleodesSpider(scrapy.Spider):
             "Webscraper.middlewares.WebscraperMiddleware": 400,
         },
         "ITEM_PIPELINES" : {
-            "Webscraper.pipelines.GaleodesPipeline": 300,
+            "Webscraper.pipelines.GaleodesPipeline": 500,
         },
     }
 
