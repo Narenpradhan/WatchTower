@@ -14,8 +14,8 @@ function appendPost(item) {
                             <div class="feed">
                                 <div class="feed-header"><a href=${item.Link}>${item.Title}</a></div>
                                 <div class="feed-meta">
-                                    <div class="date"><p>${item.Timestamp}</p></div>
-                                    
+                                    <div><p>${item.Timestamp}</p></div>
+                                    <div><p>${item.Source}</p></div>
                                 </div>
                             </div>
                         </div>`
