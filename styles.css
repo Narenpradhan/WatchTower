@@ -22,9 +22,9 @@ body{
     align-items: start;
     font-family: 'Lora', serif;
     font-weight: 500;
-    font-size: 38px;
+    font-size: 2.375rem;
     color: #2b87ffad;
-    padding: 60px 0px;
+    padding: 3.75rem 0rem;
 }
 
 .head{
@@ -32,10 +32,10 @@ body{
     align-items: center;
     justify-content: center;
     font-family: 'Lora', serif;
-    gap: 20px;
-    font-size: 40px;
+    gap: 1.25rem;
+    font-size: 2.5rem;
     font-weight: 500;
-    padding-bottom: 65px;
+    padding-bottom: 4.0625rem;
     color: #e0e1dd;
 }
 
@@ -43,7 +43,7 @@ body{
     display: flex;
     justify-content: center;
     flex-grow: 1;
-    border: 2px solid #e0e1dd;
+    border: 0.125rem solid #e0e1dd;
 }
 
 .content-container{
@@ -53,29 +53,29 @@ body{
 }
 
 .content{
-    width: 1340px;
+    width: 83.75rem;
     display: flex;
-    padding: 30px 0px;
-    gap: 35px;
-    border-bottom: 2px solid #e0e1dd;
+    padding: 1.875rem 0rem;
+    gap: 2.1875rem;
+    border-bottom: 0.125rem solid #e0e1dd;
 }
 
 .content-img{
     display: flex;
-    width: 300px;
-    height: 200px;
+    width: 18.75rem;
+    height: 12.5rem;
     object-fit: cover;
-    border-radius: 8px;
-    border: 1.5px solid #e0e1dd;
+    border-radius: 0.5rem;
+    border: 0.0938rem solid #e0e1dd;
 }
 
 .feed{
-    width: 1003px;
+    width: 62.6875rem;
     display: flex;
     justify-content: space-between;
     align-items: start;
     flex-direction: column;
-    padding: 20px 0px;
+    padding: 1.25rem 0rem;
 }
 
 .feed-header{
@@ -84,17 +84,80 @@ body{
     align-items: center;
     font-family: 'Hind Madurai', sans-serif;
     font-weight: 500;
-    font-size: 29px;
+    font-size: 1.8125rem;
     color: #e0e1dd;
 }
 
 .feed-meta{
-    width: inherit;
+    width: 62.6875rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-family: 'Hind Madurai', sans-serif;
     font-weight: 500;
-    font-size: 22px;
+    font-size: 1.375rem;
     color: #57a0ffbe;
+}
+
+@media only screen and (max-width:1440px) {
+    html{
+        font-size: 75%;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    html{
+        font-size: 54%;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    html{
+        font-size: 40%;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    html{
+        font-size: 43%;
+    }
+    .main{
+        width: 80vw;
+    }
+    .content{
+        width: 80vw;
+    }
+    .feed{
+        width: 88%;
+    }
+    .feed-meta{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width:375px) {
+    html{
+        font-size: 45%;
+    }
+    .main{
+        width: 70vw;
+    }
+    .content{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .img{
+        display: flex;
+        justify-content: center;
+    }
+    .content-img{
+        width: 85%;
+        height: 100%;
+    }
+    .feed{
+        padding: 0;
+    }
+    .feed-meta{
+        width: 100%;
+    }
 }
