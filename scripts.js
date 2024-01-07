@@ -10,7 +10,7 @@ fetch('combined_data.json')
 const feed = document.querySelector(".content-container")
 function appendPost(item) {
     feed.innerHTML += `<div class="content">
-                            <div class="img"><a href=${item.Link}><img src="${item.Img_URL}" alt="" class="content-img"></div>
+                            <div class="img"><img src="${item.Img_URL}" alt="" class="content-img"></div>
                             <div class="feed">
                                 <div class="feed-header"><a href=${item.Link}>${item.Title}</a></div>
                                 <div class="feed-meta">
