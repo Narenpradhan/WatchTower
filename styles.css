@@ -135,9 +135,6 @@ a:visited{
     html{
         font-size: 54%;
     }
-    .title{
-
-    }
 }
 
 @media only screen and (max-width:768px) {
@@ -152,6 +149,14 @@ a:visited{
     }
     .main{
         width: 80vw;
+    }
+    .title{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+        font-size: 21.5px;
+    }
+    .lighthouse{
+        width: 180px;
     }
     .content{
         width: 80vw;
