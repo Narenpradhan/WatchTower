@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/ika-tarelka.png",
+        "Title": "Meet Ika & Sal: The Bulletproof Hosting Duo from Hell",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 08, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2S47-DyvJs7a6ATP-z8IqLxcciv5M07bt6lIle2FCvjWBzp-suZWCepIUd-HGPw1yOKqCeDK8obGkzOZ_8SZHO5pJ-oVSmuAbzStTTMu1qvThafymmsGrtCVNQ1h7gWv6vRnl4jdJGvivkvGZcZctbp7onmqQAoXksAfP1w3TJimQNW7yyd-QvteMs1Am/s728-rw-ft-e30/sy.jpg",
         "Title": "Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals",
@@ -49,9 +56,9 @@
         "Timestamp": "Jan 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhefvQ2Mnu4ZvTL_3l1WFPXfHuAJ1nC5zu8eq5E2vq0TPEpfMEPyjHDa8Z3dMt0iuMwIw5p69v8_9qv86n0Oap19zOmKdLo8pTWFoG34fLrVmfcaUJmUXt7jhpNM4F1kxPhQvKdnYUZR723IFlDFhAj01xEe9etO95vqBgXp3jEDq11lSZ8uXtAEocxozs/s728-rw-ft-e30/nudge.jpg",
-        "Title": "5 Ways to Reduce SaaS Security Risks",
+        "Link": "https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s728-rw-ft-e30/git.jpg",
+        "Title": "Three Ways To Supercharge Your Software Supply Chain Security",
         "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2024"
     },
@@ -385,13 +392,6 @@
         "Timestamp": "Oct 08, 2023"
     },
     {
-        "Link": "https://krebsonsecurity.com/2023/10/dont-let-zombie-zoom-links-drag-you-down/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/10/workzombie.png",
-        "Title": "Don\u2019t Let Zombie Zoom Links Drag You Down",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 02, 2023"
-    },
-    {
         "Link": "https://www.wired.com/story/china-blacktech-router-hack/",
         "Img_URL": "https://media.wired.com/photos/65208af2bdc89dd54d1ba10d/3:2/w_1280%2Cc_limit/How-to-Access-Computer-Remotely-Gear-GettyImages-1419556680.jpg",
         "Title": "The Easiest Ways to Access Your Computer Remotely",
@@ -413,16 +413,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
@@ -441,16 +441,16 @@
         "Timestamp": "Sep 09, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/trickbot-conti-sanctions-indictments/",
-        "Img_URL": "https://media.wired.com/photos/64fb99290b30a608b5a972a1/3:2/w_1280%2Cc_limit/Your-New-Car-Is-a-Privacy-Nightmare-Security-GettyImages-88622688.jpg",
-        "Title": "Your New Car Is a Privacy Nightmare",
+        "Link": "https://www.wired.com/story/icc-cyberwar-crimes/",
+        "Img_URL": "https://media.wired.com/photos/64fa184b406fe6679c3e7755/3:2/w_1280%2Cc_limit/US-and-UK-Mount-Aggressive-Crackdown-on-Trickbot-and-Conti-Ransomware-Gangs-Security-GettyImages-502794865.jpg",
+        "Title": "US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs",
         "Source": "WIRED",
         "Timestamp": "Sep 07, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/icc-cyberwar-crimes/",
-        "Img_URL": "https://media.wired.com/photos/64fa184b406fe6679c3e7755/3:2/w_1280%2Cc_limit/US-and-UK-Mount-Aggressive-Crackdown-on-Trickbot-and-Conti-Ransomware-Gangs-Security-GettyImages-502794865.jpg",
-        "Title": "US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs",
+        "Link": "https://www.wired.com/story/trickbot-conti-sanctions-indictments/",
+        "Img_URL": "https://media.wired.com/photos/64fb99290b30a608b5a972a1/3:2/w_1280%2Cc_limit/Your-New-Car-Is-a-Privacy-Nightmare-Security-GettyImages-88622688.jpg",
+        "Title": "Your New Car Is a Privacy Nightmare",
         "Source": "WIRED",
         "Timestamp": "Sep 07, 2023"
     }
