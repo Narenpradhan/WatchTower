@@ -33,14 +33,14 @@ a:visited{
     /* font-family: 'Nova Mono', monospace; */
     font-family: 'Space Mono', monospace;
     font-weight: 400;
-    font-size: 43px;
+    font-size: 2.6875rem;
     color: #f29455;
     /* padding: 3.75rem 0rem; */
     /* border: 1px solid red; */
 }
 
 .lighthouse{
-    width: 320px;
+    width: 20rem;
     border-radius: 30%;
     /* border: 1px solid green; */
 }
@@ -134,6 +134,9 @@ a:visited{
 @media only screen and (max-width:1024px) {
     html{
         font-size: 54%;
+    }
+    .title{
+
     }
 }
 
