@@ -77,6 +77,13 @@
         "Timestamp": "Jan 09, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/sec-x-account-compromise/",
+        "Img_URL": "https://media.wired.com/photos/659dbf12156f76cbf3057921/3:2/w_1280%2Cc_limit/Gary-Gensler-sec-GettyImages-1660268020.jpg",
+        "Title": "The SEC\u2019s Official X Account Was \u2018Compromised\u2019 and Used to Post Fake Bitcoin News",
+        "Source": "WIRED",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/ika-tarelka.png",
         "Title": "Meet Ika & Sal: The Bulletproof Hosting Duo from Hell",
@@ -210,13 +217,6 @@
         "Timestamp": "Dec 06, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/23andme-breach-sec-update/",
-        "Img_URL": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/3:2/w_1280%2Cc_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
-        "Title": "The 23andMe Data Breach Keeps Spiraling",
-        "Source": "WIRED",
-        "Timestamp": "Dec 05, 2023"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2023/11/okta-breach-affected-all-customer-support-users/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/10/okta-ss.png",
         "Title": "Okta: Breach Affected All Customer Support Users",
@@ -229,6 +229,13 @@
         "Title": "ID Theft Service Resold Access to USInfoSearch Data",
         "Source": "KrebsonSecurity",
         "Timestamp": "Nov 28, 2023"
+    },
+    {
+        "Link": "https://www.wired.com/story/f1-las-vegas-grand-prix-security/",
+        "Img_URL": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/3:2/w_1280%2Cc_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
+        "Title": "The 23andMe Data Breach Keeps Spiraling",
+        "Source": "WIRED",
+        "Timestamp": "Nov 18, 2023"
     },
     {
         "Link": "https://krebsonsecurity.com/2023/11/alleged-extortioner-of-psychotherapy-patients-faces-trial/",
@@ -439,13 +446,6 @@
         "Title": "China-Linked Hackers Breached a Power Grid\u2014Again",
         "Source": "WIRED",
         "Timestamp": "Sep 09, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/icc-cyberwar-crimes/",
-        "Img_URL": "https://media.wired.com/photos/64fa184b406fe6679c3e7755/3:2/w_1280%2Cc_limit/US-and-UK-Mount-Aggressive-Crackdown-on-Trickbot-and-Conti-Ransomware-Gangs-Security-GettyImages-502794865.jpg",
-        "Title": "US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs",
-        "Source": "WIRED",
-        "Timestamp": "Sep 07, 2023"
     },
     {
         "Link": "https://www.wired.com/story/trickbot-conti-sanctions-indictments/",
