@@ -1,38 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeg7mZG0sx7sSW7zzyVlfIavSINuEDJwrQuJS9HEM637m-LnE7on8FdvG6dSZhPnZjmEJFeXVbNX3IRBQB2H-_155vupfnpK_cGANO218mzoZYm-KUkMPQ_9YpaP3Tf7a89Wj7cbp7ELdc6b2Rm401Vk4aTxUuK_gFacwPGKIDr-evq3k6ZF9FaxrzXaxB/s728-rw-ft-e30/hacking.jpg",
-        "Title": "Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware",
+        "Link": "https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybhQgHoELt-ABBl2HbfFhFI8p2F8zdW6XOwF9tFR3iN5E5-qyBvFra6jRY1CcuwI8L-s8o-p4VkHTUyvjnigxe290T-GTP-rxhOxXCpSQY-t52CBvJZUTLdTZvu4rzXgANn2FZR5NqdW4Y2WEZQZTUHmh7XhXloefglxreFQrMqyZHosJEONtHoNaoCQ/s728-rw-ft-e30/Expanding-Attack-Surface.jpg",
+        "Title": "Getting off the Attack Surface Hamster Wheel: Identity Can Help ",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 09, 2024"
+        "Timestamp": "Jan 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWUlQY9FUa50n7qQxifuT3ioPfXUH7J1_bgemQ44coukuBdrdZ8EFShOxoJhU9U2u_TSkggOZN39xf3i9WFzryv82-EvJW9Ly7q-UfK7sKO3R1UrJdiVL_V43A7M2rnu67YUEmN1F7j79k_hqMOl1WmkkTuURkUGXp45IWS7vY5LZfDyBze7ZuJnhH1asT/s728-rw-ft-e30/ransomware.jpg",
-        "Title": "Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe",
+        "Link": "https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdr8azViPFA6iel_CyerD7s5EgwwCozG0IyAI1J_Yn0vI1pxtroyL3Y0LJgJFktOI5pIgFr67mzMsGfHsLLRCO6304dSFVBHoDjJmWywMTBgZWs8_oMVMIgBWURxq8oqaBN52s3LKJXyn9xTczMOBwHLtFekGfAk2XsLrrxcVNdsdNK66-Zhr6K48SIHw/s728-rw-ft-e30/ransomware.jpg",
+        "Title": "Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 09, 2024"
+        "Timestamp": "Jan 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxEvNvvBo6F5sOIRLKNRwq8hLszexfbgy-ch0Q0hU0HgdRRJigerhqwDC701en5Nvej49ERYiTpQHqPWw6fVOXw8OIi14NyRTTCvSRByL8BZzvzHt-kAgXZ35eUoP9-jU3ghl2ghDwQr_T9adoz0PsvHbnK0LLIqHhqUPDplgWxEY4B7UacQEcjytO7w/s728-rw-ft-e30/saas.jpg",
-        "Title": "Why Public Links Expose Your SaaS Attack Surface",
+        "Link": "https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVijoaXxJ8xivAsYUN3NIznGFX_tz27-7gu0hWJZ7HLhfjEpxPUL5TA8CdVNdk0xerCYXjsUk1YmFruv69N9014_wiEC8jefbM72mgG6GfyTNmJBXml28Z0Q6gSKTccKHwvhdOJyv5bQPWZeiW4VN8gvahGqkcV3GCTHRtfO1DPqzG5mw8F9sePWAc6zdA/s728-rw-ft-e30/location.jpg",
+        "Title": "FTC Bans Outlogic (X-Mode) From Selling Sensitive Location Data",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 09, 2024"
+        "Timestamp": "Jan 10, 2024"
     },
     {
         "Link": "https://thn.news/tmHoSbQ7",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
         "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 09, 2024"
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYQb8ZWgc6SQKqD78wbsfa4RvhTidBdFPP5wdJX6uwlG0xGswgus23_htsQvngCe4DPzg3D8Pt-HykLPbnlsd4bYzqgZ_qjW98X69mxiGrs26KSprLkrt58lkFB9xAAhjC4dUKSchtxZrmAqdqz9nDzlM8pRNblLEzY_AYQdQeA_3zegm9daRsUKiqTSi/s728-rw-ft-e30/ms.png",
+        "Title": "Microsoft's January 2024 Windows Update Patches 48 New Vulnerabilities",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiO3t8VNlpQH2bpw8rVdq5wdX2NuNxrfK_DWU-W5A0Zpone6WW8H9V-RnNkIL-txD0NyHmFsTv090JkMtbKOfujMEvWH-11bKOiRnIbAv7bnFHzgBLhGIwtSSYsXvuoyeLCQnKBWaZK2TbnVBxj9Zlwdvh2RyKrYosp8192AVKf7-tlsEu_9Cll21Lzv_j/s728-rw-ft-e30/cisa-kev.png",
+        "Title": "CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeg7mZG0sx7sSW7zzyVlfIavSINuEDJwrQuJS9HEM637m-LnE7on8FdvG6dSZhPnZjmEJFeXVbNX3IRBQB2H-_155vupfnpK_cGANO218mzoZYm-KUkMPQ_9YpaP3Tf7a89Wj7cbp7ELdc6b2Rm401Vk4aTxUuK_gFacwPGKIDr-evq3k6ZF9FaxrzXaxB/s728-rw-ft-e30/hacking.jpg",
+        "Title": "Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhinDiwgytBALEKFt7CSQlNp5hiSDn28npHNCRbBSiapCf8KWqq3nrnEeM3B4d5H3-Vrp3EYI0WXOcQ62cj4lDqa2urvVMRPQHpDxOyUzTFDgKWFPB4_n8C9aNA7uzxyhZqu9A07g9aWYak4Df5afqdQuMmVSpI-SFvus17-9_T3L8u1_VDQyHlcpmo8FY/s728-rw-ft-e30/entro.jpg",
+        "Title": "Exposed Secrets are Everywhere. Here's How to Tackle Them",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWUlQY9FUa50n7qQxifuT3ioPfXUH7J1_bgemQ44coukuBdrdZ8EFShOxoJhU9U2u_TSkggOZN39xf3i9WFzryv82-EvJW9Ly7q-UfK7sKO3R1UrJdiVL_V43A7M2rnu67YUEmN1F7j79k_hqMOl1WmkkTuURkUGXp45IWS7vY5LZfDyBze7ZuJnhH1asT/s728-rw-ft-e30/ransomware.jpg",
+        "Title": "Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxEvNvvBo6F5sOIRLKNRwq8hLszexfbgy-ch0Q0hU0HgdRRJigerhqwDC701en5Nvej49ERYiTpQHqPWw6fVOXw8OIi14NyRTTCvSRByL8BZzvzHt-kAgXZ35eUoP9-jU3ghl2ghDwQr_T9adoz0PsvHbnK0LLIqHhqUPDplgWxEY4B7UacQEcjytO7w/s728-rw-ft-e30/saas.jpg",
+        "Title": "Why Public Links Expose Your SaaS Attack Surface",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 10, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuJY9zi21mTtUkE2efVTP74qNm-p8Bsk29FfB-EaV3xpFDxaNn97wPjUNf1VsOUMaL2FtV-hGpI2j48-7wVt_7KU-TC2ly6KucEu4CV8T71CPlMKHRVnJG1QM6POA51Ygm-lZ0QlLDoQfrHtmdcCm5W8dgJMz9fkGb0iF1_hn7c5sBcj0-sbOobo4AZZJ/s728-rw-ft-e30/qnap.jpg",
         "Title": "Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 09, 2024"
+        "Timestamp": "Jan 10, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html",
@@ -49,9 +91,9 @@
         "Timestamp": "Jan 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s728-rw-ft-e30/git.jpg",
-        "Title": "Three Ways To Supercharge Your Software Supply Chain Security",
+        "Link": "https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhinDiwgytBALEKFt7CSQlNp5hiSDn28npHNCRbBSiapCf8KWqq3nrnEeM3B4d5H3-Vrp3EYI0WXOcQ62cj4lDqa2urvVMRPQHpDxOyUzTFDgKWFPB4_n8C9aNA7uzxyhZqu9A07g9aWYak4Df5afqdQuMmVSpI-SFvus17-9_T3L8u1_VDQyHlcpmo8FY/s728-rw-ft-e30/entro.jpg",
+        "Title": "Exposed Secrets are Everywhere. Here's How to Tackle Them",
         "Source": "The Hacker News",
         "Timestamp": "Jan 09, 2024"
     },
@@ -59,6 +101,13 @@
         "Link": "https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuHfvpzYPpfiPSVoi5ieJqHbn15erGA4PsUnz6cxjVKk2xKxdOnSLdyU7JgZwrb6o_F-OWnjS6rDSIKcXFYoIVJlf_w03LzGbePFi83TpJjob49W29dnrwh6N5G2Orwl_8vjCYowmKJpuLOC0BzG5nth-bHE-WiIruRkfm_qbI2iiYfuyUrlebepMmV-4/s728-rw-ft-e30/THN-Article1-Feature.png",
         "Title": "Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
+        "Link": "https://thn.news/tmHoSbQ7",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
+        "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 09, 2024"
     },
@@ -77,6 +126,34 @@
         "Timestamp": "Jan 09, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNxchL1yYJQNB9x_Y9bUo8Ny5vpjNe3esRjGSjFD5eJex34j35u6sR6TbkYJR711iFr-MQp-AmCScBAwZPe8oDqOylk9EiGd9I73WcQQ-LI8Y6DGFBTvgXo4N7rohtev4NWjSnspOQBrbRsiiHe9bqDAu1YL9wWYhSxoyAs_mrHTLIhIeF_eP51SgBBMAw/s728-rw-ft-e30/hacked.jpg",
+        "Title": "DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6JZnBjrQLRLb2RiYTStbQH_RpZFpmgmurP0sBbssorD2bEzWGHy0st-xkHPWZxrrBQ4esLtBlXa-tLIBoJ6cKbdIK6x2zBBNPkIrcuMfTK54veVld83vFZ0cTVsqgYXIhFu3K2yD3avyHZ1zb3kZbLDS2nAoH8_Y_ft_3v0V-fF23cjl8Zx5QuLE68bmK/s728-rw-ft-e30/hack.jpg",
+        "Title": "North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XrPTcl6ubHQSq8xub3PHDVlgIZcjGTm0WK8yEPIDhZkITdcY83gop2bXqIFwhvveNm0TBVa9XHqgIXcJ8A_Dg-vkIIYcXEEWtRI3TlMm3up-Dr1kwD6lRGbc3HY8g5tfecO2Tjz1Iova_DNlE_ZhSRVt11j_Oi485LOUi1AsulqZs9Kjp2bnAhVAe3vZ/s728-rw-ft-e30/hacker.jpg",
+        "Title": "Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKt1SEX3HeNywdWzW7B9-QtNM5JlHVXkhfn0taqc8YJVHvDhlTOe7-2W25nxoqvWrEwpWRPH_Z-qbfDU8fy_5xC-qhWNOZkkx3G1UgAwgE1b-VKA7g7iiy1QFcpcqVRFNgSy1WKEoK6hSCLHA1O-VdYkv4d4mfGp7bE1ruJ3nVeMrvb0Z0uJhWE4HlPf8q/s728-rw-ft-e30/apple.jpg",
+        "Title": "Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 09, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/sec-x-account-compromise/",
         "Img_URL": "https://media.wired.com/photos/659dbf12156f76cbf3057921/3:2/w_1280%2Cc_limit/Gary-Gensler-sec-GettyImages-1660268020.jpg",
         "Title": "The SEC\u2019s Official X Account Was \u2018Compromised\u2019 and Used to Post Fake Bitcoin News",
@@ -88,83 +165,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/ika-tarelka.png",
         "Title": "Meet Ika & Sal: The Bulletproof Hosting Duo from Hell",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNxchL1yYJQNB9x_Y9bUo8Ny5vpjNe3esRjGSjFD5eJex34j35u6sR6TbkYJR711iFr-MQp-AmCScBAwZPe8oDqOylk9EiGd9I73WcQQ-LI8Y6DGFBTvgXo4N7rohtev4NWjSnspOQBrbRsiiHe9bqDAu1YL9wWYhSxoyAs_mrHTLIhIeF_eP51SgBBMAw/s728-rw-ft-e30/hacked.jpg",
-        "Title": "DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6JZnBjrQLRLb2RiYTStbQH_RpZFpmgmurP0sBbssorD2bEzWGHy0st-xkHPWZxrrBQ4esLtBlXa-tLIBoJ6cKbdIK6x2zBBNPkIrcuMfTK54veVld83vFZ0cTVsqgYXIhFu3K2yD3avyHZ1zb3kZbLDS2nAoH8_Y_ft_3v0V-fF23cjl8Zx5QuLE68bmK/s728-rw-ft-e30/hack.jpg",
-        "Title": "North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s728-rw-ft-e30/git.jpg",
-        "Title": "Three Ways To Supercharge Your Software Supply Chain Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XrPTcl6ubHQSq8xub3PHDVlgIZcjGTm0WK8yEPIDhZkITdcY83gop2bXqIFwhvveNm0TBVa9XHqgIXcJ8A_Dg-vkIIYcXEEWtRI3TlMm3up-Dr1kwD6lRGbc3HY8g5tfecO2Tjz1Iova_DNlE_ZhSRVt11j_Oi485LOUi1AsulqZs9Kjp2bnAhVAe3vZ/s728-rw-ft-e30/hacker.jpg",
-        "Title": "Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thn.news/tmHoSbQ7",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
-        "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKt1SEX3HeNywdWzW7B9-QtNM5JlHVXkhfn0taqc8YJVHvDhlTOe7-2W25nxoqvWrEwpWRPH_Z-qbfDU8fy_5xC-qhWNOZkkx3G1UgAwgE1b-VKA7g7iiy1QFcpcqVRFNgSy1WKEoK6hSCLHA1O-VdYkv4d4mfGp7bE1ruJ3nVeMrvb0Z0uJhWE4HlPf8q/s728-rw-ft-e30/apple.jpg",
-        "Title": "Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE5vc9SiyQBf8cf9mwADcBAklaBzW53ebVQD-Y08-Ygj4BOnQynsD-EMDXyrUYc_hChIXVRQFr9vVCZSL_0Rwa-PLEvlc2EjVgwg9cJ7HM5PlVcwWUQxPNlDWoORk5KXLV8WFixkPFq2DQ44X6gH8bKv3xryqjgLNl9JFDI-_JXwuazrtCH4LGeYQeP5P_/s728-rw-ft-e30/apple.jpg",
-        "Title": "SpectralBlur: New macOS Backdoor Threat from North Korean Hackers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhinDiwgytBALEKFt7CSQlNp5hiSDn28npHNCRbBSiapCf8KWqq3nrnEeM3B4d5H3-Vrp3EYI0WXOcQ62cj4lDqa2urvVMRPQHpDxOyUzTFDgKWFPB4_n8C9aNA7uzxyhZqu9A07g9aWYak4Df5afqdQuMmVSpI-SFvus17-9_T3L8u1_VDQyHlcpmo8FY/s728-rw-ft-e30/entro.jpg",
-        "Title": "Exposed Secrets are Everywhere. Here's How to Tackle Them",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw9jyRStqXb7i9fTfF0N-Gu3KQRHRC49lqKPrK1yrKoYGmzTDK7uSvIBstiXco9WCSz-T-qNb6J9HQ_6SCIE-j9YoGzidvI7_h6y8kVOeetFf-QtCr77mq4TRSMI8CU-flp8j-8AvO96fsEuM1gb5UcdW0sfcMZH8-IpHz02qQNtiR1DOV5NW7IHvAOjzB/s728-rw-ft-e30/orange.jpg",
-        "Title": "Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqRtSBwVr825Z6GQLmT0fX_kCBRUgR0f7IMBNUKqlDHZb0xYCus1mfOubVceujr_Ah01JOCrNg3VIbw5N4Tj7MQDqtojKGZyfyFoGKY4Xq5XZB8OSHvRjrGCKLm3BuoE2qSfU1e4jyjM8hD4VErEja35TVcQszBWYDv6rQ6HGDY9dCDGmNEwHsw1DCja7J/s728-rw-ft-e30/ivanti.jpg",
-        "Title": "Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaa26z4tIkVRJMXkBFap6Rp4KOva_xea9IVdoEbuNTj4jJk3VJ45XXZY0OWB8kiU_CaCfg7INEAWTKfG-4q8TKUyKdVQtDfTsh5xszI_4dUmME9s89rgQSkRfLCVt5snVvhaLpXWD2bvB06E2qU78nsB1TeYQxqISMfKu7xSoKVtC4XJH5W6CjnIJy-6z/s728-rw-ft-e30/telecom.jpg",
-        "Title": "Russian Hackers Had Covert Access to Ukraine's Telecom Giant for Months",
-        "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2024"
     },
     {
@@ -420,16 +420,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
