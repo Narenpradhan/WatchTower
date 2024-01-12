@@ -29,27 +29,22 @@ a:visited{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* font-family: 'Lora', serif; */
-    /* font-family: 'Nova Mono', monospace; */
     font-family: 'Space Mono', monospace;
     font-weight: 400;
     font-size: 2.6875rem;
     color: #f29455;
     /* padding: 3.75rem 0rem; */
-    /* border: 1px solid red; */
 }
 
 .lighthouse{
     width: 20rem;
     border-radius: 30%;
-    /* border: 1px solid green; */
 }
 
 .head{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* font-family: 'Lora', serif; */
     font-family: 'Courier Prime', monospace;
     gap: 1.25rem;
     font-size: 2.5rem;
@@ -101,7 +96,6 @@ a:visited{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* font-family: 'Hind Madurai', sans-serif; */
     font-family: 'Courier Prime', monospace;
     font-weight: 500;
     font-size: 1.8125rem;
@@ -113,7 +107,6 @@ a:visited{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* font-family: 'Hind Madurai', sans-serif; */
     font-family: 'Courier Prime', monospace;
     font-weight: 500;
     font-size: 1.375rem;
