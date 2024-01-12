@@ -105,9 +105,9 @@
         "Timestamp": "Jan 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhinDiwgytBALEKFt7CSQlNp5hiSDn28npHNCRbBSiapCf8KWqq3nrnEeM3B4d5H3-Vrp3EYI0WXOcQ62cj4lDqa2urvVMRPQHpDxOyUzTFDgKWFPB4_n8C9aNA7uzxyhZqu9A07g9aWYak4Df5afqdQuMmVSpI-SFvus17-9_T3L8u1_VDQyHlcpmo8FY/s728-rw-ft-e30/entro.jpg",
-        "Title": "Exposed Secrets are Everywhere. Here's How to Tackle Them",
+        "Link": "https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuHfvpzYPpfiPSVoi5ieJqHbn15erGA4PsUnz6cxjVKk2xKxdOnSLdyU7JgZwrb6o_F-OWnjS6rDSIKcXFYoIVJlf_w03LzGbePFi83TpJjob49W29dnrwh6N5G2Orwl_8vjCYowmKJpuLOC0BzG5nth-bHE-WiIruRkfm_qbI2iiYfuyUrlebepMmV-4/s728-rw-ft-e30/THN-Article1-Feature.png",
+        "Title": "Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jan 10, 2024"
     },
@@ -427,16 +427,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
