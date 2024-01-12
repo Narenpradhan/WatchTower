@@ -40,6 +40,8 @@ This project leverages Digital Ocean's droplet to automate a web scraping proces
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,bash,html,css,js,git,github,vscode,linux" />
+    <span></span>
+    <img src="./Assets/do.png" width="49">
   </a>
 </p>
 
