@@ -1,85 +1,99 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxUnGsFu7yBvYVmL9tprCtuGSGeE23q7YNTx1EI7AFogirEROSy02c84KcsN3DoI4KFf6sW7HEu6sOZCJiqGdV4LsEoaSsWslAmrTWerS5DSDgCFndPAmbxw1C9AtopZt6e02Ysxj2l21eLQ40O9EcijlsTzh89SCY4stfYfyjyorU5yCDFk89oQsu_UYn/s728-rw-ft-e30/cyberattack.jpg",
+        "Title": "New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXv-4R36508MMf9OLsa2JYdZpSBHBU2FS6gWFcTv0swCr2ivKo4-KVD26h5gootzQBE0Z5-SQVhh15yMcPJiFyWdLO61P3yyHL_gC97Q4ep8Qf4hwMRoPa_VBy91jkRnGWpDaw-migKzwKTRmv5NOVsDWlNJ7GIvt_JYvN7W72NOE06DpyM7TMhoZvdrqp/s728-rw-ft-e30/firewall.jpg",
         "Title": "Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQMicdicoj1jdYQi-Ry9Vbo0pJhhygQ0dP6DV7BdqqCyNSf1c0jZlz7TCc2_ikI1biU5spHYqGuO9ovRsID5r4UYhn1SmcIFSsJJ-2gGWwHTnPDW5ox3XUFV6SCBKkrZCj6duoeOr04iGuw2XzvMrpZhyphenhyphenSffuQb_c1Q8sPmUqRqdJGNkXP-9MGLetnyoY/s728-rw-ft-e30/hacker-arrested.jpg",
         "Title": "29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R-1JUCYVdJiwgoz79kHVtDSEK1YvirfHU-x4UqMRf03GCicT_Vp-dtRw5OtdLuQbXFWVknaWJWoR-XC345-yKI9L0ejvbWk5MRQcss7FsrXXyDM3Ps3SFVZ3liJ_If8gQuuIyN6fqeOqsvxoWx-J3ENwebng1sDPlmy3Eoegi2xu0Boj2whtgDJCwUkA/s728-rw-ft-e30/lock.jpg",
-        "Title": "Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thn.news/tmHoSbQ7",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
         "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R-1JUCYVdJiwgoz79kHVtDSEK1YvirfHU-x4UqMRf03GCicT_Vp-dtRw5OtdLuQbXFWVknaWJWoR-XC345-yKI9L0ejvbWk5MRQcss7FsrXXyDM3Ps3SFVZ3liJ_If8gQuuIyN6fqeOqsvxoWx-J3ENwebng1sDPlmy3Eoegi2xu0Boj2whtgDJCwUkA/s728-rw-ft-e30/lock.jpg",
+        "Title": "Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghP29yd1_w37rL78XRhPMZswe3xO8OIu8wXBFwtBrEQGpjF0d53LPx4PsU-wSY29XPbKZkhMuRCXzV4921aGhV5FUYyhRE1S8nfkX4CQs3LBwIl_iLN_VAncydDW7rE3YkzLjKQYARhXLujxvDAES67S4yKeM-Ca7ye64m-vZnBa8Pq82qr4J35uY9N7MX/s728-rw-ft-e30/ransomware.jpg",
         "Title": "Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/applying-tyson-principle-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6hUPM11E3lCUNhvkp1zEUh7SJYonXEbogu-3mLqfmcNZ3aczB4Tbr0iJ4v9rt8k4jByminnuHyqDEghELvXwUGXu8VBLsLmB6yxPeuAbuNevmTYrYDENaMJVt6hu8l6tfkPNeMvDzZ0K9Q0j1sgOcVMMYwQ6xUolmkteyuDOEUO6K_oQIB9zsYiFx44/s728-rw-ft-e30/kick.jpg",
         "Title": "Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvvqUPLJvFSLuui6StYILlE7Ht5egMijsCX_eIfWARLeDoOYPemy9cRQpkLdjkqVImX9Z5VXNeFqBN0lw7656x6vF5SYnLt-46ZMgNjMXoc7-OP325kPE6duYjThroTt0zKL7ah55rDzEQv17hjKOWVdGST0719dmiLHsjf7b9Ea-_d7itMChsQzRA-BqK/s728-rw-ft-e30/git.jpg",
-        "Title": "Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybhQgHoELt-ABBl2HbfFhFI8p2F8zdW6XOwF9tFR3iN5E5-qyBvFra6jRY1CcuwI8L-s8o-p4VkHTUyvjnigxe290T-GTP-rxhOxXCpSQY-t52CBvJZUTLdTZvu4rzXgANn2FZR5NqdW4Y2WEZQZTUHmh7XhXloefglxreFQrMqyZHosJEONtHoNaoCQ/s728-rw-ft-e30/Expanding-Attack-Surface.jpg",
         "Title": "Getting off the Attack Surface Hamster Wheel: Identity Can Help ",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvvqUPLJvFSLuui6StYILlE7Ht5egMijsCX_eIfWARLeDoOYPemy9cRQpkLdjkqVImX9Z5VXNeFqBN0lw7656x6vF5SYnLt-46ZMgNjMXoc7-OP325kPE6duYjThroTt0zKL7ah55rDzEQv17hjKOWVdGST0719dmiLHsjf7b9Ea-_d7itMChsQzRA-BqK/s728-rw-ft-e30/git.jpg",
+        "Title": "Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/cryptominers-targeting-misconfigured.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBYeR8_nWxQCC2iH4NzJ4UnZxp6PEAM-UjYjyZ0Q_9AMSOTLwIy7qaghP2yAFw0wxylQsiLmRP6TUriZP0JCVsb82IL6JJ9ACQ8wtUdqAkg5DdfkhgQvPze5N0ySMqM4flRxXW9tee3J9vZsZNb43s5ffAX4DLFzXeSpHqeSsxQRrjccw9Uix0CDPFxqn/s728-rw-ft-e30/bitcoin.jpg",
         "Title": "Cryptominers Targeting Misconfigured Apache Hadoop and Flink with Rootkit in New Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/act-now-cisa-flags-active-exploitation.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQsT8AnraQVSJ7qftCGbhk5uGCi9HFQPqOK0wc6s79mX_sCmmjedZgkWcflnskpYnBBKsAY3ILhoCbUDqZT0elsRiYI8fT93vK8aUFrmQrEI7IA1lzqEttZ44B_V6QNQP9WariwLQQ306g71GldtaBnZKQ4YdJJZKWTdnUfae4L5u76Zgb3X-YmoDR3P72/s728-rw-ft-e30/malware.jpg",
         "Title": "Act Now: CISA Flags Active Exploitation of Microsoft SharePoint Vulnerability ",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7H__XyW8sNTKFbx9G5NdjAVhIkSjLI6vtYfdFmFSRuHS8WWszkkWp3wAZUGaGQBxjZ_gNR14U_6s2Ur9K_T16dOI3MuesJ3FiCD62XfUUyUkic4dRZ7h9jwF5Vqoo5Z2ZSgQRkvFn2stjLYNF1hSYKn4Jf52opl9CINiVSi6fdLGuwYrYG-d0ZIbekcd/s728-rw-ft-e30/github.jpg",
         "Title": "Threat Actors Increasingly Abusing GitHub for Malicious Purposes",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2024"
+        "Timestamp": "Jan 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVECu6TXapsPtYN4ovGkUMMDp0Jfpy6S1wj1CHVl_-Cmuj8UnvJ5eobRmt09XhvTjhh_3REulvW3uSeA6ee9MkXeE8_Yfov-3vYTqsYhaGScMgxCnKv_BzegD7dOUokisnZMSI1mGtjrBLV40KjP7jhcPijK1hwqYe6NKj19NK5_R7YqT-1mFkaF9uvBjI/s728-rw-ft-e30/apache.jpg",
         "Title": "New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybhQgHoELt-ABBl2HbfFhFI8p2F8zdW6XOwF9tFR3iN5E5-qyBvFra6jRY1CcuwI8L-s8o-p4VkHTUyvjnigxe290T-GTP-rxhOxXCpSQY-t52CBvJZUTLdTZvu4rzXgANn2FZR5NqdW4Y2WEZQZTUHmh7XhXloefglxreFQrMqyZHosJEONtHoNaoCQ/s728-rw-ft-e30/Expanding-Attack-Surface.jpg",
+        "Title": "Getting off the Attack Surface Hamster Wheel: Identity Can Help ",
         "Source": "The Hacker News",
         "Timestamp": "Jan 11, 2024"
     },
@@ -91,9 +105,9 @@
         "Timestamp": "Jan 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybhQgHoELt-ABBl2HbfFhFI8p2F8zdW6XOwF9tFR3iN5E5-qyBvFra6jRY1CcuwI8L-s8o-p4VkHTUyvjnigxe290T-GTP-rxhOxXCpSQY-t52CBvJZUTLdTZvu4rzXgANn2FZR5NqdW4Y2WEZQZTUHmh7XhXloefglxreFQrMqyZHosJEONtHoNaoCQ/s728-rw-ft-e30/Expanding-Attack-Surface.jpg",
-        "Title": "Getting off the Attack Surface Hamster Wheel: Identity Can Help ",
+        "Link": "https://thn.news/tmHoSbQ7",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
+        "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 11, 2024"
     },
@@ -101,13 +115,6 @@
         "Link": "https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiszDw2wrrk3LOE2-kXczf2SnAMH4FoyeJMPwpTWvBFx0MYqSlzG-RK42JTTXHx119HYyTnZBmObVfax4uqEmCm_yq78-dizaQqlX6ra-7o0L1bjsMP_Tpz2wDts4x37nMYIhpjJK-2U3YPmUiU52zLaTxFT6J3m5ckWnB0QcgN9v7pIut1584BvsGATi3D/s728-rw-ft-e30/ransomware.jpg",
         "Title": "There is a Ransomware Armageddon Coming for Us All",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 11, 2024"
-    },
-    {
-        "Link": "https://thn.news/tmHoSbQ7",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1SatJdU5lCxtCU4uKAN_RkHHOIhndq9-App1q1o8-hGCV_GERuAvwCK7VzeC9v0qwzpF5LAUor8kNHyceiHU82jsrkn7OUdMXM-Qb29BBnh6mhZm8N0OvE6-8NJvdBlSe6LdlZbJXSQA5_8-GgjyRAWp7FqT_scmrnnOcXZ4YVh93gnJjH5O1vcCQLw3y/s728-rw-ft-e30/wing.png",
-        "Title": "How Much Do You Know About the Third-Party Applications Placing You at Risk?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 11, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s728-rw-ft-e30/server-security.jpg",
         "Title": "NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgybhQgHoELt-ABBl2HbfFhFI8p2F8zdW6XOwF9tFR3iN5E5-qyBvFra6jRY1CcuwI8L-s8o-p4VkHTUyvjnigxe290T-GTP-rxhOxXCpSQY-t52CBvJZUTLdTZvu4rzXgANn2FZR5NqdW4Y2WEZQZTUHmh7XhXloefglxreFQrMqyZHosJEONtHoNaoCQ/s728-rw-ft-e30/Expanding-Attack-Surface.jpg",
-        "Title": "Getting off the Attack Surface Hamster Wheel: Identity Can Help ",
         "Source": "The Hacker News",
         "Timestamp": "Jan 11, 2024"
     },
@@ -427,16 +427,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
