@@ -6,6 +6,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Interfaces](#interfaces)
 - [Automation](#automation)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -23,6 +24,9 @@ Link : https://watch-tower-alpha.vercel.app/
 # Interfaces
 ### Desktop
 <img src="./Assets/sample_1.png">
+
+### Phone
+<img src="./Assets/sample_2.png">
 
 <br>
 
