@@ -16,6 +16,14 @@
 
 WatchTower is a specialized platform created to aggregate cybersecurity news by utilizing the Scrapy library in Python, along with additional libraries such as Pandas, Requests, Datetime,etc. for efficient data processing. The platform extracts information from three specified websites, consolidates the data into a unified JSON file, and subsequently utilizes this file to display the curated information on its website.
 
+Link : https://watch-tower-alpha.vercel.app/
+
+<br>
+
+# Interfaces
+### Desktop
+<img src="./Assets/sample_1.png">
+
 <br>
 
 # Automation
