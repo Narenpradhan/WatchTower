@@ -26,7 +26,7 @@ Link : https://watch-tower-alpha.vercel.app/
 <img src="./Assets/sample_1.png">
 
 ### Phone
-<img src="./Assets/sample_2.png" style="width : 400">
+<img src="./Assets/sample_2.png">
 
 <br>
 
