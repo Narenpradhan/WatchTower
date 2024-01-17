@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KfknRXkhx6GcpbEOOkd6ESA59uqQWkvBr3k6xkTpFlwO7dYLsHrEaKOoX3sAXr8-V5HYQ9_wVS_w7YwXEqLOwHMusfrAe7eFA6MUEEadhWo6o9Gij9To71OMem1O9HBZLHF6T2K2b3DWa9Kp19OjBB98lwuVvUorl493oJwKw5Th51hCBUybir6-2WR/s728-rw-ft-e30/pos.jpg",
+        "Title": "PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6Ankt3khZ4epB-REPNGW6606W9Zylb1nsorJmEt-nKyEQX2abKYPlH3XMjnO6fxNQFlj5wR40POmRH_0n-PW3UWoPEyQiyrQ_RDiZYIRofytTnV0SJVhbclv948L4U8_gouSy3ycfCS4Ib-Inf4PxQVXp8_yLGsQ01jNvy3XWkn7hjQ_iotj1eQlpMU/s728-rw-ft-e30/1.png",
+        "Title": "Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BQ3UD4MI8YAITtng54VYiWmPDk4CUFoQGuAJPBWbjTZp2Z5nLEvVC2yvnvZ1M1w5DIFwMC-LmwPYnHXCdCGmjwhZWrl9_9AbNNhH4a3b0wsof4WyMsol9YvR0S66cIqd8kcK7EwrLOZ8vN2dJ9SCq1VvYgcVx3CCp-hupoUwTASXJ0CgQGdZznDdUipr/s728-rw-ft-e30/server.jpg",
         "Title": "Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thn.news/PPuNrQJ4",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
+        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
         "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Jan 17, 2024"
     },
     {
-        "Link": "https://thn.news/PPuNrQJ4",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
-        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
+        "Link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s728-rw-ft-e30/github.jpg",
+        "Title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
         "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s728-rw-ft-e30/github.jpg",
-        "Title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
+        "Link": "https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxEvNvvBo6F5sOIRLKNRwq8hLszexfbgy-ch0Q0hU0HgdRRJigerhqwDC701en5Nvej49ERYiTpQHqPWw6fVOXw8OIi14NyRTTCvSRByL8BZzvzHt-kAgXZ35eUoP9-jU3ghl2ghDwQr_T9adoz0PsvHbnK0LLIqHhqUPDplgWxEY4B7UacQEcjytO7w/s728-rw-ft-e30/saas.jpg",
+        "Title": "Why Public Links Expose Your SaaS Attack Surface",
         "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Jan 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxEvNvvBo6F5sOIRLKNRwq8hLszexfbgy-ch0Q0hU0HgdRRJigerhqwDC701en5Nvej49ERYiTpQHqPWw6fVOXw8OIi14NyRTTCvSRByL8BZzvzHt-kAgXZ35eUoP9-jU3ghl2ghDwQr_T9adoz0PsvHbnK0LLIqHhqUPDplgWxEY4B7UacQEcjytO7w/s728-rw-ft-e30/saas.jpg",
-        "Title": "Why Public Links Expose Your SaaS Attack Surface",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s728-rw-ft-e30/exploit.jpg",
         "Title": "Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now",
@@ -67,26 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4wNUDhEU4mWmmuFItPM_zzToeii72kcuDsfnB9FoGA6MGpwHKTMnKktYDgjlEkPu0yC-807KjZkE-r76FBHye7-9KWVZvWkAXmnloF5plRvGRvwsdnc5aaend4OQs_AVYOHWBpaU4lZWmUFdbCEjsvHHEHVM4-qciIRQSm-wQ82Pyf2UglCIlaGou-M/s728-rw-ft-e30/cookie.jpg",
         "Title": "Case Study: The Cookie Privacy Monster in Big Global Retail",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
+        "Timestamp": "Jan 16, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s728-rw-ft-e30/cyberattack.jpg",
         "Title": "Remcos RAT Spreading Through Adult Games in New Attack Wave",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1boOGqIAoPMJWj_XZYEYDFmFNylMr2pePU6Najnt6UG7GNAr-I7BAO0PtaY35uahollxCvJp_xVTLOJQxWqFAAipTpINFiCyzwO5DPJ3We6iNOsoqCLbuKmShk_qP2lGV5iNIhY_Uf94JQGJgu__mX7-b40Iv8I2NVBn6uKG6_imyb45xnGg4t4JFcKZ/s728-rw-ft-e30/drainer.jpg",
-        "Title": "Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWfTkqNkPkk-yD4GZH0bpHbVtYx1Mxzq4prNt2XRT7acwsqmSzNYLrCPhhWf-JIA4n2wJ7UBHEBOmW54YGLXYR-KSwRRpGlVJXmh-DQfdHA11HzMRq5zw5Vq5FyHLOMHTk2NOgWmp0uM7TBe1X4LSU-C5r9wzTeznzVVFvRE_lyUGj9RANFZ5kpgbYlzxF/s728-rw-ft-e30/malware.jpg",
-        "Title": "Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Jan 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjehFZNZtsOPGcJ9vyat8gCOFxO0G18H39sd7NMVakZy1xwklYHua19OEDLgkJKplq2XCk0LfiNowWpCd1OiwNOHxHCxNqWWl1RZ0FfAt9c67Y83XQaekWq3sCBxiDVkCl6-VyI4jmI9wQP1e3Alo7_uVllxKuh9nqx2QjhfGHtvyZXQA85qAumrORIxOxF/s728-rw-ft-e30/opera-bg.jpg",
-        "Title": "Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows",
+        "Link": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1boOGqIAoPMJWj_XZYEYDFmFNylMr2pePU6Najnt6UG7GNAr-I7BAO0PtaY35uahollxCvJp_xVTLOJQxWqFAAipTpINFiCyzwO5DPJ3We6iNOsoqCLbuKmShk_qP2lGV5iNIhY_Uf94JQGJgu__mX7-b40Iv8I2NVBn6uKG6_imyb45xnGg4t4JFcKZ/s728-rw-ft-e30/drainer.jpg",
+        "Title": "Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thn.news/PPuNrQJ4",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
         "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWfTkqNkPkk-yD4GZH0bpHbVtYx1Mxzq4prNt2XRT7acwsqmSzNYLrCPhhWf-JIA4n2wJ7UBHEBOmW54YGLXYR-KSwRRpGlVJXmh-DQfdHA11HzMRq5zw5Vq5FyHLOMHTk2NOgWmp0uM7TBe1X4LSU-C5r9wzTeznzVVFvRE_lyUGj9RANFZ5kpgbYlzxF/s728-rw-ft-e30/malware.jpg",
+        "Title": "Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjehFZNZtsOPGcJ9vyat8gCOFxO0G18H39sd7NMVakZy1xwklYHua19OEDLgkJKplq2XCk0LfiNowWpCd1OiwNOHxHCxNqWWl1RZ0FfAt9c67Y83XQaekWq3sCBxiDVkCl6-VyI4jmI9wQP1e3Alo7_uVllxKuh9nqx2QjhfGHtvyZXQA85qAumrORIxOxF/s728-rw-ft-e30/opera-bg.jpg",
+        "Title": "Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_mOx6qg9PROCV_akhIUDIXDJyQ7VG5lTfScNLkDuTw6tRXHayvV4kG8xk-DETrH9CjOY6N__sT-mbbq_lPgpuHKRdRr5qDu9CR7NiGDuGwi9tzC55lP2P1cVUEUzMTSkSOpLOMHS-FRVghdeV5vn8lUTjKou4stMoxvEKOGRSTUTN6fiZRK7HySdbVvAC/s728-rw-ft-e30/ddos.jpg",
         "Title": "DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxUnGsFu7yBvYVmL9tprCtuGSGeE23q7YNTx1EI7AFogirEROSy02c84KcsN3DoI4KFf6sW7HEu6sOZCJiqGdV4LsEoaSsWslAmrTWerS5DSDgCFndPAmbxw1C9AtopZt6e02Ysxj2l21eLQ40O9EcijlsTzh89SCY4stfYfyjyorU5yCDFk89oQsu_UYn/s728-rw-ft-e30/cyberattack.jpg",
-        "Title": "New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXv-4R36508MMf9OLsa2JYdZpSBHBU2FS6gWFcTv0swCr2ivKo4-KVD26h5gootzQBE0Z5-SQVhh15yMcPJiFyWdLO61P3yyHL_gC97Q4ep8Qf4hwMRoPa_VBy91jkRnGWpDaw-migKzwKTRmv5NOVsDWlNJ7GIvt_JYvN7W72NOE06DpyM7TMhoZvdrqp/s728-rw-ft-e30/firewall.jpg",
-        "Title": "Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2024"
     },
