@@ -77,6 +77,13 @@
         "Timestamp": "Jan 16, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
+        "Img_URL": "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/3:2/w_1280%2Cc_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg",
+        "Title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
+        "Source": "WIRED",
+        "Timestamp": "Jan 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_mOx6qg9PROCV_akhIUDIXDJyQ7VG5lTfScNLkDuTw6tRXHayvV4kG8xk-DETrH9CjOY6N__sT-mbbq_lPgpuHKRdRr5qDu9CR7NiGDuGwi9tzC55lP2P1cVUEUzMTSkSOpLOMHS-FRVghdeV5vn8lUTjKou4stMoxvEKOGRSTUTN6fiZRK7HySdbVvAC/s728-rw-ft-e30/ddos.jpg",
         "Title": "DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023",
@@ -196,17 +203,17 @@
         "Timestamp": "Dec 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/cybersecurity-industry-fbi-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6557ed60591547359b3c7022/3:2/w_1280%2Cc_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
-        "Title": "Cybersecurity Industry Baffled by FBI\u2019s Lack of Action on Ransomware Gang",
-        "Source": "WIRED",
-        "Timestamp": "Dec 16, 2023"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2023/12/ten-years-later-new-clues-in-the-target-breach/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2014/06/rescator-rr.png",
         "Title": "Ten Years Later, New Clues in the Target Breach",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 14, 2023"
+    },
+    {
+        "Link": "https://www.wired.com/story/microsoft-digital-crime-unit-2023/",
+        "Img_URL": "https://media.wired.com/photos/6557ed60591547359b3c7022/3:2/w_1280%2Cc_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
+        "Title": "Cybersecurity Industry Baffled by FBI\u2019s Lack of Action on Ransomware Gang",
+        "Source": "WIRED",
         "Timestamp": "Dec 14, 2023"
     },
     {
@@ -446,12 +453,5 @@
         "Title": "Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle",
         "Source": "WIRED",
         "Timestamp": "Sep 12, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/your-new-car-privacy-nightmare/",
-        "Img_URL": "https://media.wired.com/photos/64ff9e624791854bc671b769/3:2/w_1280%2Cc_limit/China-Linked-Hackers-Breached-a-Power-Grid%25E2%2580%2594Again-Security-GettyImages-1449552774.jpg",
-        "Title": "China-Linked Hackers Breached a Power Grid\u2014Again",
-        "Source": "WIRED",
-        "Timestamp": "Sep 09, 2023"
     }
 ]
