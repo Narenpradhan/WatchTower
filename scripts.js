@@ -12,7 +12,7 @@ function appendPost(item) {
     feed.innerHTML += `<div class="content">
                             <div class="img"><img src="${item.Img_URL}" alt="" class="content-img"></div>
                             <div class="feed">
-                                <div class="feed-header"><a href=${item.Link}>${item.Title}</a></div>
+                                <div class="feed-header"><a href=${item.Link} target="_blank">${item.Title}</a></div>
                                 <div class="feed-meta">
                                     <div><p>${item.Timestamp}</p></div>
                                     <div><p>${item.Source}</p></div>

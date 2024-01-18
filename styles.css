@@ -1,31 +1,31 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-/* font-family: 'Courier Prime', monospace;
-font-family: 'Nova Mono', monospace;
-font-family: 'Space Mono', monospace; */
-
-body{
+body {
     display: flex;
     justify-content: center;
     background-color: #332842;
 }
-a{
+
+a {
     color: #e0e1dd;
+    text-decoration: none;
 }
-a:visited{
+
+a:visited {
     color: #f29455;
 }
-.main{
+
+.main {
     width: 70vw;
     height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-.title{
+.title {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,15 +33,14 @@ a:visited{
     font-weight: 400;
     font-size: 2.6875rem;
     color: #f29455;
-    /* padding: 3.75rem 0rem; */
 }
 
-.lighthouse{
+.lighthouse {
     width: 20rem;
     border-radius: 30%;
 }
 
-.head{
+.head {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -53,20 +52,20 @@ a:visited{
     color: #e0e1dd;
 }
 
-.line{
+.line {
     display: flex;
     justify-content: center;
     flex-grow: 1;
     border: 0.125rem solid #e0e1dd;
 }
 
-.content-container{
+.content-container {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
-.content{
+.content {
     width: 83.75rem;
     display: flex;
     padding: 1.875rem 0rem;
@@ -74,7 +73,7 @@ a:visited{
     border-bottom: 0.125rem solid #f29455;
 }
 
-.content-img{
+.content-img {
     display: flex;
     width: 18.75rem;
     height: 12.5rem;
@@ -83,7 +82,7 @@ a:visited{
     border: 0.0938rem solid #e0e1dd;
 }
 
-.feed{
+.feed {
     width: 62.6875rem;
     display: flex;
     justify-content: space-between;
@@ -92,7 +91,7 @@ a:visited{
     padding: 1.25rem 0rem;
 }
 
-.feed-header{
+.feed-header {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -102,7 +101,7 @@ a:visited{
     color: #e0e1dd;
 }
 
-.feed-meta{
+.feed-meta {
     width: 62.6875rem;
     display: flex;
     justify-content: space-between;
@@ -113,78 +112,115 @@ a:visited{
     color: #e0e1dd;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 65px 0px;
+    font-family: 'Courier Prime', monospace;
+    font-size: 22px;
+    color: #f29455;
+}
+
+
+
+/* MEDIA QUERIES */
+/* media queries for screen sizes less than 2560px */
 @media only screen and (max-width:2560px) {
-    .feed-meta{
+    .feed-meta {
         width: 99%;
     }
 }
+
+
+/* media queries for screen sizes less than 1440px */
 @media only screen and (max-width:1440px) {
-    html{
+    html {
         font-size: 75%;
     }
 }
 
+
+/* media queries for screen sizes less than 1024px */
 @media only screen and (max-width:1024px) {
-    html{
+    html {
         font-size: 54%;
     }
 }
 
+
+/* media queries for screen sizes less than 768px */
 @media only screen and (max-width:768px) {
-    html{
+    html {
         font-size: 40%;
     }
 }
 
+
+/* media queries for screen sizes less than 425px */
 @media only screen and (max-width:425px) {
-    html{
+    html {
         font-size: 43%;
     }
-    .main{
+
+    .main {
         width: 80vw;
     }
-    .title{
+
+    .title {
         flex-wrap: wrap-reverse;
         justify-content: center;
         font-size: 21.5px;
     }
-    .lighthouse{
+
+    .lighthouse {
         width: 180px;
     }
-    .content{
+
+    .content {
         width: 80vw;
     }
-    .feed{
+
+    .feed {
         width: 88%;
     }
-    .feed-meta{
+
+    .feed-meta {
         width: 90%;
     }
 }
 
+
+/* media queries for screen sizes less than 375px */
 @media only screen and (max-width:375px) {
-    html{
+    html {
         font-size: 45%;
     }
-    .main{
+
+    .main {
         width: 70vw;
     }
-    .content{
+
+    .content {
         justify-content: center;
         flex-wrap: wrap;
     }
-    .img{
+
+    .img {
         display: flex;
         justify-content: center;
     }
-    .content-img{
+
+    .content-img {
         width: 85%;
         height: 100%;
     }
-    .feed{
+
+    .feed {
         padding: 0;
     }
-    .feed-meta{
+
+    .feed-meta {
         width: 100%;
     }
 }

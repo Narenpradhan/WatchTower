@@ -20,13 +20,13 @@ WatchTower is a specialized platform created to aggregate cybersecurity news by 
 Link : https://watch-tower-alpha.vercel.app/
 
 <br>
-
+target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"
 # Interfaces
 ### Desktop
 <img src="./Assets/sample_1.png">
 
 ### Phone
-<img src="./Assets/sample_2.png" style="width : 400">
+<img src="./Assets/sample_2.png">
 
 <br>
 
@@ -57,7 +57,6 @@ This project leverages Digital Ocean's droplet to automate a web scraping proces
   </a>
 </p>
 
-<br>
 
 # Features
 
@@ -66,7 +65,6 @@ This project leverages Digital Ocean's droplet to automate a web scraping proces
 - Aggregation from Three Specified Websites
 - User-Friendly Website Display
 
-<br>
 
 # Future Scope
 - **Extended Data Sources :** Integrate additional cybersecurity news websites or APIs to broaden the scope of information gathered, offering a more comprehensive overview.
@@ -75,7 +73,9 @@ This project leverages Digital Ocean's droplet to automate a web scraping proces
 
 <i>Feel free to provide any feedback, suggestions, and future scope ideas for this project. Your input is highly valued and will contribute to the ongoing improvement and evolution of the project.</i>
 
-<br>
+### Connect with on :
+<img src="https://skillicons.dev/icons?i=linkedin">
+
 
 # License
 
