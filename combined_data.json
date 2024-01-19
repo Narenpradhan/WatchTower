@@ -1,86 +1,121 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixueqc7SQk3IKmUISVRb99BEtj7nwyQZAdt_PIlxcPryFppYulmXmrCj-WJG6YFHzv4BPw07H4Fj0Xbl8MWg0I6ba3xdwpDnEBoIq1hWTfTBD0u1cg8O43kljoL69_vVN5JdCSG1AuQGy4VwNxJVBNwqhLMmqj-Nli3fWz4A-IpaiGEvAsqK7C2AyJje4_/s728-rw-ft-e30/coin.jpg",
-        "Title": "New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic",
+        "Link": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88lQoFbJffNmbGEMZJ4k8REX0KCp3LJTxuGtStjU3G3nkrPNT8HHqDvOVGTZZuQ4xfuZVzXyGPTyoY3zEUAyH5nHAPg3JpYIIIOCp2BOkShsUBeBVh-3AIcfnxV2tJPLJgxlgUtG6VqaW1SqX4SNm75jnZ0FV9HBjnKyUL9gA43W6b77tvZedM2lclNQ/s728-rw-ft-e30/data-loss.jpg",
+        "Title": "Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s728-rw-ft-e30/phishing.jpg",
-        "Title": "Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware",
+        "Link": "https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSrxDEHS81r74q90arWznYG0eZEEYcpVMu9XSlHX5pXeYQYk5rNPnsNa518kmElEq-nBs6x8edY45lGFGqju-xCBUzGJXBRoYxAQhVpPUtJ4DXlPV1WrUMqeotH5SICM6ns5kwsg68Q4cRONnACI5xPBxtN34VVYT6NEeryzP2oM1EqKbLGeueX07l4Kv/s728-rw-ft-e30/trojan.jpg",
+        "Title": "Npm Trojan Bypasses UAC, Installs AnyDesk with \"Oscompatible\" Package",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s728-rw-ft-e30/ml-ai.jpg",
-        "Title": "TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks",
+        "Link": "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmgNl8D4UY2_PIkcp5S3IhL1Q1iunwF7YBifCoD2cOIEmX4FeUEx0CJq9gZytMnYPMACJPBLAtETh1uGNHMmCCox3Dwlv2O-GagqyzoY-mWGHDBWEGx-wE_TMyJp0mr3KPIS4jIPff2X3TZ_6L9cIJTs-BgEJFlWZnutJIJHeFBdZ-QMTpVVUwhAl6MLm/s728-rw-ft-e30/cisa.jpg",
+        "Title": "U.S. Cybersecurity Agency Warns of Actively Exploited Ivanti EPMM Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
         "Link": "https://thn.news/PPuNrQJ4",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
         "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s728-rw-ft-e30/password.jpg",
-        "Title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
+        "Link": "https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixueqc7SQk3IKmUISVRb99BEtj7nwyQZAdt_PIlxcPryFppYulmXmrCj-WJG6YFHzv4BPw07H4Fj0Xbl8MWg0I6ba3xdwpDnEBoIq1hWTfTBD0u1cg8O43kljoL69_vVN5JdCSG1AuQGy4VwNxJVBNwqhLMmqj-Nli3fWz4A-IpaiGEvAsqK7C2AyJje4_/s728-rw-ft-e30/coin.jpg",
+        "Title": "New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s728-rw-ft-e30/pc.jpg",
-        "Title": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft",
+        "Link": "https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s728-rw-ft-e30/phishing.jpg",
+        "Title": "Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s728-rw-ft-e30/cyberattack.jpg",
-        "Title": "Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts",
+        "Link": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s728-rw-ft-e30/ml-ai.jpg",
+        "Title": "TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB15fneETiN_LK8jUauv-vpT-gBhlK6BDWmyN10rFRK0E9OFf1FL1P5nwjkIo28RXxBVsGKbqeBS5FKG8MXNVtvI8r6bF4aa4U0Wog4XRDWGcNKSlpMkEKfkUjZu15hv1lYnFooL-YusK9RUxVLByqkSLktWCUINYKoIbmB3W9fpOwrCQBdvyymnWA7w8/s728-rw-ft-e30/cyberint.jpg",
         "Title": "3 Ransomware Group Newcomers to Watch in 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KfknRXkhx6GcpbEOOkd6ESA59uqQWkvBr3k6xkTpFlwO7dYLsHrEaKOoX3sAXr8-V5HYQ9_wVS_w7YwXEqLOwHMusfrAe7eFA6MUEEadhWo6o9Gij9To71OMem1O9HBZLHF6T2K2b3DWa9Kp19OjBB98lwuVvUorl493oJwKw5Th51hCBUybir6-2WR/s728-rw-ft-e30/pos.jpg",
-        "Title": "PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions",
+        "Link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s728-rw-ft-e30/password.jpg",
+        "Title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6Ankt3khZ4epB-REPNGW6606W9Zylb1nsorJmEt-nKyEQX2abKYPlH3XMjnO6fxNQFlj5wR40POmRH_0n-PW3UWoPEyQiyrQ_RDiZYIRofytTnV0SJVhbclv948L4U8_gouSy3ycfCS4Ib-Inf4PxQVXp8_yLGsQ01jNvy3XWkn7hjQ_iotj1eQlpMU/s728-rw-ft-e30/1.png",
-        "Title": "This Free Discovery Tool Finds and Mitigates AI-SaaS Risks",
+        "Link": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s728-rw-ft-e30/pc.jpg",
+        "Title": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BQ3UD4MI8YAITtng54VYiWmPDk4CUFoQGuAJPBWbjTZp2Z5nLEvVC2yvnvZ1M1w5DIFwMC-LmwPYnHXCdCGmjwhZWrl9_9AbNNhH4a3b0wsof4WyMsol9YvR0S66cIqd8kcK7EwrLOZ8vN2dJ9SCq1VvYgcVx3CCp-hupoUwTASXJ0CgQGdZznDdUipr/s728-rw-ft-e30/server.jpg",
-        "Title": "Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials",
+        "Link": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s728-rw-ft-e30/cyberattack.jpg",
+        "Title": "Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
+        "Timestamp": "Jan 19, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/e-crime-rapper-punchmade-dev-debuts-card-shop/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
         "Title": "E-Crime Rapper \u2018Punchmade Dev\u2019 Debuts Card Shop",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KfknRXkhx6GcpbEOOkd6ESA59uqQWkvBr3k6xkTpFlwO7dYLsHrEaKOoX3sAXr8-V5HYQ9_wVS_w7YwXEqLOwHMusfrAe7eFA6MUEEadhWo6o9Gij9To71OMem1O9HBZLHF6T2K2b3DWa9Kp19OjBB98lwuVvUorl493oJwKw5Th51hCBUybir6-2WR/s728-rw-ft-e30/pos.jpg",
+        "Title": "PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6Ankt3khZ4epB-REPNGW6606W9Zylb1nsorJmEt-nKyEQX2abKYPlH3XMjnO6fxNQFlj5wR40POmRH_0n-PW3UWoPEyQiyrQ_RDiZYIRofytTnV0SJVhbclv948L4U8_gouSy3ycfCS4Ib-Inf4PxQVXp8_yLGsQ01jNvy3XWkn7hjQ_iotj1eQlpMU/s728-rw-ft-e30/1.png",
+        "Title": "This Free Discovery Tool Finds and Mitigates AI-SaaS Risks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB15fneETiN_LK8jUauv-vpT-gBhlK6BDWmyN10rFRK0E9OFf1FL1P5nwjkIo28RXxBVsGKbqeBS5FKG8MXNVtvI8r6bF4aa4U0Wog4XRDWGcNKSlpMkEKfkUjZu15hv1lYnFooL-YusK9RUxVLByqkSLktWCUINYKoIbmB3W9fpOwrCQBdvyymnWA7w8/s728-rw-ft-e30/cyberint.jpg",
+        "Title": "3 Ransomware Group Newcomers to Watch in 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BQ3UD4MI8YAITtng54VYiWmPDk4CUFoQGuAJPBWbjTZp2Z5nLEvVC2yvnvZ1M1w5DIFwMC-LmwPYnHXCdCGmjwhZWrl9_9AbNNhH4a3b0wsof4WyMsol9YvR0S66cIqd8kcK7EwrLOZ8vN2dJ9SCq1VvYgcVx3CCp-hupoUwTASXJ0CgQGdZznDdUipr/s728-rw-ft-e30/server.jpg",
+        "Title": "Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://thn.news/PPuNrQJ4",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
+        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
+        "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
     {
@@ -98,23 +133,9 @@
         "Timestamp": "Jan 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB15fneETiN_LK8jUauv-vpT-gBhlK6BDWmyN10rFRK0E9OFf1FL1P5nwjkIo28RXxBVsGKbqeBS5FKG8MXNVtvI8r6bF4aa4U0Wog4XRDWGcNKSlpMkEKfkUjZu15hv1lYnFooL-YusK9RUxVLByqkSLktWCUINYKoIbmB3W9fpOwrCQBdvyymnWA7w8/s728-rw-ft-e30/cyberint.jpg",
-        "Title": "3 Ransomware Group Newcomers to Watch in 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s728-rw-ft-e30/github.jpg",
         "Title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
-        "Link": "https://thn.news/PPuNrQJ4",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
-        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
         "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
@@ -136,27 +157,6 @@
         "Link": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s728-rw-ft-e30/exploit.jpg",
         "Title": "Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4wNUDhEU4mWmmuFItPM_zzToeii72kcuDsfnB9FoGA6MGpwHKTMnKktYDgjlEkPu0yC-807KjZkE-r76FBHye7-9KWVZvWkAXmnloF5plRvGRvwsdnc5aaend4OQs_AVYOHWBpaU4lZWmUFdbCEjsvHHEHVM4-qciIRQSm-wQ82Pyf2UglCIlaGou-M/s728-rw-ft-e30/cookie.jpg",
-        "Title": "Case Study: The Cookie Privacy Monster in Big Global Retail",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s728-rw-ft-e30/cyberattack.jpg",
-        "Title": "Remcos RAT Spreading Through Adult Games in New Attack Wave",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1boOGqIAoPMJWj_XZYEYDFmFNylMr2pePU6Najnt6UG7GNAr-I7BAO0PtaY35uahollxCvJp_xVTLOJQxWqFAAipTpINFiCyzwO5DPJ3We6iNOsoqCLbuKmShk_qP2lGV5iNIhY_Uf94JQGJgu__mX7-b40Iv8I2NVBn6uKG6_imyb45xnGg4t4JFcKZ/s728-rw-ft-e30/drainer.jpg",
-        "Title": "Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims",
         "Source": "The Hacker News",
         "Timestamp": "Jan 17, 2024"
     },
@@ -434,16 +434,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
