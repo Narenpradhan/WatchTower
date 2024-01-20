@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae4BKSHIBZAWnWe1xne2EolHLttrw6DhyKijIlaeT133JWl2u7McVSO1la1WgD09rxrOVR8tk13-yaaSQkrkrEpTZDZmAWInsAX9kI2AF97KM5kYy6htBD_XY6guBKxuRoiY-2J9FYyFbb-X6NJb_32Il1-VwYjuZof4PuBWEvDTzhxXEXe5-7T9hn1aO/s728-rw-ft-e30/hacking-chinese-iron-tiger-apt.png",
+        "Title": "Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYpVGKV2DaxQbv7Ry0cnA3mKN35Ri4xZ5wGkp5CpGjfElWgL9TMrZOdisJKxFo6BG863794Ufi8BkijFQODwPr5Z044e4mcmryBM1x7bSnxomsqxW0NlHXwu3JDl-oloZmoyNw64JNE71N94N2hpgNb05qo2rWkbIzqUoA30kXr_qtgKZKwliiSMawYqR/s728-rw-ft-e30/cisa.jpg",
+        "Title": "CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLMqF6nrcCMrDYYm3qNgrl4HTBPJ15mWMoHdDmQ8W0gyGhpFqwW1yhKiZ3ZyGVVJnU_RZfD900KFeOW0MOcfNNqaw_r7-J74dzdOJdup38j-kSNOzRQn6pv6kwmsJO-CnxaI3a4Bb8hmnAQkraTOTNgFZlYbnMdZ2GSSZpUwrgRssmSFsSkimIe12aVdi/s728-rw-ft-e30/ms.jpg",
         "Title": "Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 20, 2024"
+    },
+    {
+        "Link": "https://thn.news/PPuNrQJ4",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
+        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
         "Source": "The Hacker News",
         "Timestamp": "Jan 20, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Jan 20, 2024"
     },
     {
-        "Link": "https://thn.news/PPuNrQJ4",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
-        "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
+        "Link": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88lQoFbJffNmbGEMZJ4k8REX0KCp3LJTxuGtStjU3G3nkrPNT8HHqDvOVGTZZuQ4xfuZVzXyGPTyoY3zEUAyH5nHAPg3JpYIIIOCp2BOkShsUBeBVh-3AIcfnxV2tJPLJgxlgUtG6VqaW1SqX4SNm75jnZ0FV9HBjnKyUL9gA43W6b77tvZedM2lclNQ/s728-rw-ft-e30/data-loss.jpg",
+        "Title": "Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators",
         "Source": "The Hacker News",
         "Timestamp": "Jan 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88lQoFbJffNmbGEMZJ4k8REX0KCp3LJTxuGtStjU3G3nkrPNT8HHqDvOVGTZZuQ4xfuZVzXyGPTyoY3zEUAyH5nHAPg3JpYIIIOCp2BOkShsUBeBVh-3AIcfnxV2tJPLJgxlgUtG6VqaW1SqX4SNm75jnZ0FV9HBjnKyUL9gA43W6b77tvZedM2lclNQ/s728-rw-ft-e30/data-loss.jpg",
-        "Title": "Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators",
+        "Link": "https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB15fneETiN_LK8jUauv-vpT-gBhlK6BDWmyN10rFRK0E9OFf1FL1P5nwjkIo28RXxBVsGKbqeBS5FKG8MXNVtvI8r6bF4aa4U0Wog4XRDWGcNKSlpMkEKfkUjZu15hv1lYnFooL-YusK9RUxVLByqkSLktWCUINYKoIbmB3W9fpOwrCQBdvyymnWA7w8/s728-rw-ft-e30/cyberint.jpg",
+        "Title": "3 Ransomware Group Newcomers to Watch in 2024",
         "Source": "The Hacker News",
         "Timestamp": "Jan 20, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Jan 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB15fneETiN_LK8jUauv-vpT-gBhlK6BDWmyN10rFRK0E9OFf1FL1P5nwjkIo28RXxBVsGKbqeBS5FKG8MXNVtvI8r6bF4aa4U0Wog4XRDWGcNKSlpMkEKfkUjZu15hv1lYnFooL-YusK9RUxVLByqkSLktWCUINYKoIbmB3W9fpOwrCQBdvyymnWA7w8/s728-rw-ft-e30/cyberint.jpg",
-        "Title": "3 Ransomware Group Newcomers to Watch in 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 20, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixueqc7SQk3IKmUISVRb99BEtj7nwyQZAdt_PIlxcPryFppYulmXmrCj-WJG6YFHzv4BPw07H4Fj0Xbl8MWg0I6ba3xdwpDnEBoIq1hWTfTBD0u1cg8O43kljoL69_vVN5JdCSG1AuQGy4VwNxJVBNwqhLMmqj-Nli3fWz4A-IpaiGEvAsqK7C2AyJje4_/s728-rw-ft-e30/coin.jpg",
         "Title": "New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic",
@@ -67,26 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s728-rw-ft-e30/phishing.jpg",
         "Title": "Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 20, 2024"
+        "Timestamp": "Jan 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s728-rw-ft-e30/ml-ai.jpg",
         "Title": "TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s728-rw-ft-e30/password.jpg",
-        "Title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s728-rw-ft-e30/pc.jpg",
-        "Title": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft",
         "Source": "The Hacker News",
         "Timestamp": "Jan 18, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Jan 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s728-rw-ft-e30/cyberattack.jpg",
-        "Title": "Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts",
+        "Link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s728-rw-ft-e30/password.jpg",
+        "Title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
         "Source": "The Hacker News",
         "Timestamp": "Jan 18, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thn.news/PPuNrQJ4",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8jvl0Z1IvWh9U8-7JLx5wGtM-ry_gno0Ei-DOwqnIipdPk9fiBttnJawg3FlsKxmWQq-bh4lnfin_wueIwpMyvAK7Y8gTKEjFpS2yno-Ek8S81G0gEGvGCE261b7SNxgFd6tZSGwfUGIEVvVzGt4LFpzIuqkAZBVsw8xmpxMf2nPr5oCiW91stQiUlZz/s728-rw-ft-e30/SecurityBlindSpots.png",
         "Title": "eBook: Overcoming the Security Blind Spots of Service Accounts",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s728-rw-ft-e30/pc.jpg",
+        "Title": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s728-rw-ft-e30/cyberattack.jpg",
+        "Title": "Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts",
         "Source": "The Hacker News",
         "Timestamp": "Jan 18, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SZz7sJKDe9nvdxUZi7YQt8wV8TRGn3YhkLaROjHQduwQjguGYlDhBtnvI2ggWQpt3gi09CpTxKj6pKThWUwCGVIZW6uOUsN7NNX56l-MpNaFPmEGQ8zN6WLWONG6zAxRWLnpcJco147QAMx1ZDeF0J9bSQi8JadBEquKZkxVR6-zUWXxB6eLgYzUiu0/s728-rw-ft-e30/webinar.jpg",
         "Title": "Webinar: The Art of Privilege Escalation - How Hackers Become Admins",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQr0oRdG6tudqkU7L0TC-JcAZkHO7V9UfVUTT8DuuwGFjgGVG-cSWk71495m8iC2sg-CR8z1RCYroTNH9B3p-2Xpus-6oZ1LDc0tMvGN-nI-NdN53437ek5Xhj5sRjIyZwPBiL_pPWbvpV9dXVrYaKiKYjw4FiDfpUk-G2Dca5E-iPZQbAspdN5lj6b82/s728-rw-ft-e30/iphone-hacking.jpg",
-        "Title": "New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s728-rw-ft-e30/github.jpg",
-        "Title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
         "Source": "The Hacker News",
         "Timestamp": "Jan 18, 2024"
     },
