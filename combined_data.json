@@ -77,6 +77,13 @@
         "Timestamp": "Jan 20, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2015/11/triangulationfraud.png",
+        "Title": "Canadian Man Stuck in Triangle of E-Commerce Fraud",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s728-rw-ft-e30/phishing.jpg",
         "Title": "Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware",
@@ -259,13 +266,6 @@
         "Timestamp": "Nov 28, 2023"
     },
     {
-        "Link": "https://krebsonsecurity.com/2023/11/id-theft-service-resold-access-to-usinfosearch-data/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/11/usislookups.png",
-        "Title": "ID Theft Service Resold Access to USInfoSearch Data",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 28, 2023"
-    },
-    {
         "Link": "https://www.wired.com/story/f1-las-vegas-grand-prix-security/",
         "Img_URL": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/3:2/w_1280%2Cc_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
         "Title": "The 23andMe Data Breach Keeps Spiraling",
@@ -434,16 +434,16 @@
         "Timestamp": "Sep 19, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
-        "Title": "You Need to Update Your Browser, Like, Yesterday",
+        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
+        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+        "Link": "https://www.wired.com/story/mgm-ceasars-hack-ransomware/",
+        "Img_URL": "https://media.wired.com/photos/6504b4cde20c22364ce6ba25/3:2/w_1280%2Cc_limit/You-Need-to-Update-Your-Browser%2C-Like%2C-Yesterday-Security-GettyImages-1312314798.jpg",
+        "Title": "You Need to Update Your Browser, Like, Yesterday",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2023"
     },
