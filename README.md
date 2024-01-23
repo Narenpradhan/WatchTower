@@ -20,8 +20,9 @@ WatchTower is a specialized platform created to aggregate cybersecurity news by 
 Link : https://watch-tower-alpha.vercel.app/
 
 <br>
-target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"target="_blank"
+
 # Interfaces
+
 ### Desktop
 <img src="./Assets/sample_1.png">
 
