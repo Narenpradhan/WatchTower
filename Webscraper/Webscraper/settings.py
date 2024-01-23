@@ -7,14 +7,16 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+from config import API_KEY, USER_AGENT_ENDPOINT
+
 BOT_NAME = "Webscraper"
 
 SPIDER_MODULES = ["Webscraper.spiders"]
 NEWSPIDER_MODULE = "Webscraper.spiders"
 
 
-SCRAPEOPS_API_KEY = '55346e88-0b9a-4fc2-9e44-ade169895965' #add your own scrapeops api-key
-SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents' #add your own scrapeops end-point
+SCRAPEOPS_API_KEY = API_KEY #add your own scrapeops api-key
+SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = USER_AGENT_ENDPOINT #add your own scrapeops end-point
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50 #set the number user-agents you need
 
