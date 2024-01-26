@@ -20,6 +20,10 @@ SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = USER_AGENT_ENDPOINT #add your own scrapeops
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50 #set the number user-agents you need
 
+print(SCRAPEOPS_API_KEY)
+print(SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT)
+
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "Webscraper (+http://www.yourdomain.com)"
 
