@@ -6,7 +6,8 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
+import sys
+sys.path.append("root/Project/WatchTower/Webscraper/Webscraper/")
 from config import API_KEY, USER_AGENT_ENDPOINT
 
 BOT_NAME = "Webscraper"
