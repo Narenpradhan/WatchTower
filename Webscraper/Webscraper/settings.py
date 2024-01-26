@@ -6,11 +6,9 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+
 import sys
-sys.path.append("C:\\Users\\Naren Pradhan\\Desktop\\Python\\WatchTower\\Webscraper\\Config")
-# sys.path.append("root/Project/WatchTower/Webscraper/Webscraper/")
-# import importlib
-# importlib.reload(config)
+sys.path.append("root/Project/WatchTower/Webscraper/Config/")
 
 import config
 
@@ -24,9 +22,6 @@ SCRAPEOPS_API_KEY = config.API_KEY #add your own scrapeops api-key
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = config.USER_AGENT_ENDPOINT #add your own scrapeops end-point
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50 #set the number user-agents you need
-
-print(SCRAPEOPS_API_KEY)
-print(SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT)
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
