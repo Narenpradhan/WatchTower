@@ -7,8 +7,12 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 import sys
-sys.path.append("root/Project/WatchTower/Webscraper/Webscraper/")
-from config import API_KEY, USER_AGENT_ENDPOINT
+sys.path.append("C:\\Users\\Naren Pradhan\\Desktop\\Python\\WatchTower\\Webscraper\\Config")
+# sys.path.append("root/Project/WatchTower/Webscraper/Webscraper/")
+# import importlib
+# importlib.reload(config)
+
+import config
 
 BOT_NAME = "Webscraper"
 
@@ -16,8 +20,8 @@ SPIDER_MODULES = ["Webscraper.spiders"]
 NEWSPIDER_MODULE = "Webscraper.spiders"
 
 
-SCRAPEOPS_API_KEY = API_KEY #add your own scrapeops api-key
-SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = USER_AGENT_ENDPOINT #add your own scrapeops end-point
+SCRAPEOPS_API_KEY = config.API_KEY #add your own scrapeops api-key
+SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = config.USER_AGENT_ENDPOINT #add your own scrapeops end-point
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50 #set the number user-agents you need
 

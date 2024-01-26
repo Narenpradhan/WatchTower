@@ -1,157 +1,171 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehTKDTSAFodRERDdEgDGO_4t8waXDE7IbZmA_7SmHaLcnkMv0B6Iwse8khEmUgqoG9RFSy3KrVpAoFWcv77dJBfLnAvUXg-YHL8oTcfsJPNI-Ioyx8noGjavHGSjjJQ8xM_M8tQ8_DTIXOKDfIltixi9yOWp2fQ0TYmTODUZXVlhtmRQf1w0tGrFVu6VX/s728-rw-ft-e30/ddos-attacks.jpg",
-        "Title": "From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
+        "Link": "https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/freecadad.png",
+        "Title": "Using Google Search to Find Software Can Be Risky",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnXMTiFlPVdGvRPTRsbAXxoK0QOp8AWfrB1-LzEY60-yXLz3UhJcCm5XlXKAnnCZ2TrToXzYsq-w__3lRNfjXB0znUSL6pXtBzzFFaKto9O_wzGQMCwGEnWADONGQUk2XhrWU7zwbahd5xABbuj2fNPF9Lg1lFPrAjMflB1u13JfVFPgcywgssRk23RfLO/s728-rw-ft-e30/cybercrime.jpg",
-        "Title": "BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time",
+        "Link": "https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s728-rw-ft-e30/server.jpg",
+        "Title": "SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s728-rw-ft-e30/jira.jpg",
-        "Title": "~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation",
+        "Link": "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mAoYvb8V-BAIYM6nO-6ECjcs8NUhBKVCm4ciWnMVljxH6OVwN896v8CC7NAb8EX7RSgIXzJ1iZe4Yha58bGIskG7XNS-oSnkluse78KKnMgL4WRphLqI4yPpf3T_cE6ER_4ero6Ir7vlVgEcpckKnrYq0Z2_MVymhrWZe8Yovr7OgmrQsCrwZl0e3p-O/s728-rw-ft-e30/jek.jpg",
+        "Title": "Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thn.news/xyOeefr3",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0x0msnZrtXj6KB5xuLR7rCsFxf9IEFiESAk5hVI0zX0LyYZoCmVpgfgbWyGThTFkBFyMaOA-CTXjSQaHxyhGU1LXbrT0mVeMd4n1_hrDq5vW2KAjb5086zTwaQQ8WakDptI5ZSDcjCuoJ7-ZdH12S0qh7GdrhtcZnWsVBraEiEJ5dKxTanhnbHXzhWlSy/s728-rw-ft-e30/wing.png",
-        "Title": "What Are Your Employees Exposing You to Through T&C Acceptance?",
+        "Link": "https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF1UIPCCJFlmDADlZrbsy9fr3rbn19Wilni0CMjdS3mhJmMgIwxGT-9DqN8tXd-3LvaH-xZ8efnThBWTh4OmXfBrhYIZAQCMHBUejrsiOh0YAuT2FpcEaEkWvB1F4lHvDk-D368xxgc6lliU4nR5EkBE2A_d2Gn0rbmbSo_Sds_yDoZS2IwnBG5cibxfDA/s728-rw-ft-e30/blob.jpg",
+        "Title": "LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii8xICfswm3_OdnrjfO9OLcUNwfw6JX2kwGHZ-R_dfwhvK8pTvtfARuSyuw2qk1-Ptj11HX2sMWEfFXnHBU6B9FMDhF8ZXuezX5SLvxeCNir2UsLQ7nufTjf31miSkibUGmmwLCQCE_f-m00Hbw3ef7mtkcts3LLPnpV9v_12Cf9Da-UjJ66CaJYuM922G/s728-rw-ft-e30/apple.jpg",
-        "Title": "Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_-khbTskZznFlrUbKt-GdR2eE8rABDnahJ6kGJcACFE_sIpXWDUn1FJNP1PqXeflvwoAK-L_2lPcTWg7ZfOmUiEwGuxgknLFllBv-aJPP7OWxTqWUsFD4sEZIiPnWcY-V6CsjGC9m1xApXaIJxu_rIZ6TS5TdzABfG62zuk7bKrg_w-5eKmFeKnLnLhHN/s728-rw-ft-e30/nk.jpg",
-        "Title": "North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOt5PQiOdtvv_t7SI-qFb3OUQtpoi7Ze6Jz14i_g5foQEtOEOilYCYf8rj-LYacAuQlcpxqkrMSEEVVzOxiTlk8jsTirVvESPMwbVr0hZnau_Ojcp5NFRAGjMoPsSsfKOpoDA2TjRhDFaV7oIXjYGMbiKIChFtsGKc65_U2E3LsnfzpsGc_yi7Dx0pcLz/s728-rw-ft-e30/app-code.jpg",
-        "Title": "MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6Ankt3khZ4epB-REPNGW6606W9Zylb1nsorJmEt-nKyEQX2abKYPlH3XMjnO6fxNQFlj5wR40POmRH_0n-PW3UWoPEyQiyrQ_RDiZYIRofytTnV0SJVhbclv948L4U8_gouSy3ycfCS4Ib-Inf4PxQVXp8_yLGsQ01jNvy3XWkn7hjQ_iotj1eQlpMU/s728-rw-ft-e30/1.png",
-        "Title": "This Free Discovery Tool Finds and Mitigates AI-SaaS Risks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/ns-stealer-uses-discord-bots-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCpcZqf3LatNfJgDINya84ojnh5JPe6VlT6lKlfXb2aFmg1lGh_HTeT1wV9xvDHTVnWgo9_hF29TGdLZ1qvrFlBForGjor45xhJWs7nFwhPdwEpsImFGHxCdypduWVINXgxW5WPkxrPnwyhfoZtzQ2W00tDoTPtV8AEa3kh_V2HJFihVm76YS9q07Vy7jC/s728-rw-ft-e30/browser.jpg",
-        "Title": "NS-STEALER Uses Discord Bots to Exfiltrate Your Secrets from Popular Browsers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/52-of-serious-vulnerabilities-we-find.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhDe3Qys-E3gJIW3MId4538XSaIW5bKKL309ZrOcrtgyC2CcASKBNV0kXYYVJKdR-g_NrDXmUBi5IYgqz1zJrRwyx206LbGuvpNOd9cYj3LJF8LCzfKQghs7hYJVhsi9JwNeojRdIwAbFhLuTWu4gf7zKkpukpMlnNnLvdW_hVIbAqux6VNMoSQ0lJ5IM/s728-rw-ft-e30/windows.jpg",
-        "Title": "52% of Serious Vulnerabilities We Find are Related to Windows 10",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/ftc-bans-inmarket-for-selling-precise.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtuIFG6TWKAUIUVCALzj8140e5dWMPoFtYloUGAr-SKKwfl0Cyp_iSjyuxbGqjN7n8h4Av8py68NEqjMPLTh9ppQrUwcYgAS0pcbnfJn7CCzqrgUJHjjnPdQTJCOz6lYYojfY_0gv1I6onPw5f0cYUw5p5D_2RZ-oILZNQ1y9LEqp56dnSuRVzS5IPTuc/s728-rw-ft-e30/IMG-20240122-WA0001.jpg",
-        "Title": "FTC Bans InMarket for Selling Precise User Location Without Consent",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-_h0-lBAtctWY3cUcnEfl1kUAOqyVdEjYyQB_mGFwLnr8L23UtGrafSYPm1IUyat1A0nuNHviEVA1H4lepPHUEj6aOPmUu3foyGc-PBhp1lF9tO0g7qM9n6xTwZieSFA5lQyNrVXMI0NKt5ERq0efBvy8Eq28v4hvwEP0azfUHey-Kckxt-uCixmssVD/s728-rw-ft-e30/cyber-attack-bank-malware.png",
-        "Title": "Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae4BKSHIBZAWnWe1xne2EolHLttrw6DhyKijIlaeT133JWl2u7McVSO1la1WgD09rxrOVR8tk13-yaaSQkrkrEpTZDZmAWInsAX9kI2AF97KM5kYy6htBD_XY6guBKxuRoiY-2J9FYyFbb-X6NJb_32Il1-VwYjuZof4PuBWEvDTzhxXEXe5-7T9hn1aO/s728-rw-ft-e30/hacking-chinese-iron-tiger-apt.png",
-        "Title": "Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP6Ankt3khZ4epB-REPNGW6606W9Zylb1nsorJmEt-nKyEQX2abKYPlH3XMjnO6fxNQFlj5wR40POmRH_0n-PW3UWoPEyQiyrQ_RDiZYIRofytTnV0SJVhbclv948L4U8_gouSy3ycfCS4Ib-Inf4PxQVXp8_yLGsQ01jNvy3XWkn7hjQ_iotj1eQlpMU/s728-rw-ft-e30/1.png",
-        "Title": "This Free Discovery Tool Finds and Mitigates AI-SaaS Risks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYpVGKV2DaxQbv7Ry0cnA3mKN35Ri4xZ5wGkp5CpGjfElWgL9TMrZOdisJKxFo6BG863794Ufi8BkijFQODwPr5Z044e4mcmryBM1x7bSnxomsqxW0NlHXwu3JDl-oloZmoyNw64JNE71N94N2hpgNb05qo2rWkbIzqUoA30kXr_qtgKZKwliiSMawYqR/s728-rw-ft-e30/cisa.jpg",
-        "Title": "CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
         "Link": "https://thn.news/xyOeefr3",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0x0msnZrtXj6KB5xuLR7rCsFxf9IEFiESAk5hVI0zX0LyYZoCmVpgfgbWyGThTFkBFyMaOA-CTXjSQaHxyhGU1LXbrT0mVeMd4n1_hrDq5vW2KAjb5086zTwaQQ8WakDptI5ZSDcjCuoJ7-ZdH12S0qh7GdrhtcZnWsVBraEiEJ5dKxTanhnbHXzhWlSy/s728-rw-ft-e30/wing.png",
         "Title": "What Are Your Employees Exposing You to Through T&C Acceptance?",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLMqF6nrcCMrDYYm3qNgrl4HTBPJ15mWMoHdDmQ8W0gyGhpFqwW1yhKiZ3ZyGVVJnU_RZfD900KFeOW0MOcfNNqaw_r7-J74dzdOJdup38j-kSNOzRQn6pv6kwmsJO-CnxaI3a4Bb8hmnAQkraTOTNgFZlYbnMdZ2GSSZpUwrgRssmSFsSkimIe12aVdi/s728-rw-ft-e30/ms.jpg",
-        "Title": "Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack",
+        "Link": "https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL3QovNajcQrQnMBQNnuG1kiQOVlFGY4efODaxM02uhL60dOZ_-vWB7Xr0hPNl21jg0qUX1Wka0YrVzecUaOXJ53kRmurl6zdLzmCe8J7QPVpczchw_1pihrQgQgg23KG4JlGEHzWuU25CUNJXwXWmliMa_3PdgCUBo81rv_7-UOSeSxXA73Uzg95fL18/s728-rw-ft-e30/HEADER.png",
+        "Title": "Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJs1GQSYdjr1uz3xWEg8ikLLSWOhWZD7AftTYT6nUueOVujUQvSpsISg6RDwNjdqiqCogRjNuD4jfBCcKX4ZhlbOvAEzzXrX-YPLMGu2erKAnixFtUjPdWVbgPpRBL4u9gZUV5BH1_2N10DJjJ8tgG2ERY-npwClpNlHsWhZtkVvz6Klf5Hxmu92HF4VE/s728-rw-ft-e30/hook.jpg",
-        "Title": "Invoice Phishing Alert: TA866 Deploys WasabiSeed & Screenshotter Malware",
+        "Link": "https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2gSozyeQ7VXwEOnJ_EDfq-4IP8AwFb44Ii1tykI1ms-C_rkapIMffWI0ChZ2Nu9AxI6lqSX4kiIGpqFrHaydC88Nc1iRkLNGZqrQtx7G3Mz_gb7joEz_qraNM0vi6caz3Ol2pWJy9cyY4Q6nbCQ-_XobAj8KAvXCtx7tMpR3QSsyuYFVFcAqn0GhesUpY/s728-rw-ft-e30/stub.jpg",
+        "Title": "China-backed Hackers Hijack Software Updates to Implant \"NSPX30\" Spyware",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkXkxdNRtZNXp1DS_Pw9yRSuqpnezbrllMujBHo37CikXiRJDNZ1FE21nwY7o1Hj5efS0ptblGP98cgYQqUF30m5Y31nO6YqPFrlPF3cAu3wwDpRyPoEgcuwUzc8ZWQKkcpw1oOI_OFnkT4CeEr0U7gVUhSgirCWKsxpjBebK3UTfPHjj6hrNTyNtIE3m/s728-rw-ft-e30/macos.jpg",
-        "Title": "Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software",
+        "Link": "https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLqh4bEZiUAZP2idUu8hK0C56uyVgXQ-cUNppAKK9n_hjFps_jbyeqyRbabyxXFMNuYJREcvCkpMdXYFodudZ3eGPGrj6-854t5NO2oWJ96noeUcVWWiPbAOLzTdyH-Qt1g37DkdjDI4wP3-H9wqU5auBd7qKV05t49HZjMuO0WgwJInigJn5DKax5RPxl/s728-rw-ft-e30/malware.jpg",
+        "Title": "New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88lQoFbJffNmbGEMZJ4k8REX0KCp3LJTxuGtStjU3G3nkrPNT8HHqDvOVGTZZuQ4xfuZVzXyGPTyoY3zEUAyH5nHAPg3JpYIIIOCp2BOkShsUBeBVh-3AIcfnxV2tJPLJgxlgUtG6VqaW1SqX4SNm75jnZ0FV9HBjnKyUL9gA43W6b77tvZedM2lclNQ/s728-rw-ft-e30/data-loss.jpg",
         "Title": "Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSrxDEHS81r74q90arWznYG0eZEEYcpVMu9XSlHX5pXeYQYk5rNPnsNa518kmElEq-nBs6x8edY45lGFGqju-xCBUzGJXBRoYxAQhVpPUtJ4DXlPV1WrUMqeotH5SICM6ns5kwsg68Q4cRONnACI5xPBxtN34VVYT6NEeryzP2oM1EqKbLGeueX07l4Kv/s728-rw-ft-e30/trojan.jpg",
-        "Title": "Npm Trojan Bypasses UAC, Installs AnyDesk with \"Oscompatible\" Package",
+        "Link": "https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_gZgV6KXksqWpViKGP6OJRUToIkFsIDw3aYMwL7OBiNJ7IH9NZLIFxaar8EeoJy9BfqLttRD1UfwWGY53rkgp7tmcEt7PrbvL86fn165_8HDqrn0NJ_N29wTLiJVpN7y_1YTkzlvc7bR09-Ra8wu-Wp91oWGBZd5JW6aq4bNi98-zyVBYWkZ_D52Rnri4/s728-rw-ft-e30/russian-hacker.jpg",
+        "Title": "Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmgNl8D4UY2_PIkcp5S3IhL1Q1iunwF7YBifCoD2cOIEmX4FeUEx0CJq9gZytMnYPMACJPBLAtETh1uGNHMmCCox3Dwlv2O-GagqyzoY-mWGHDBWEGx-wE_TMyJp0mr3KPIS4jIPff2X3TZ_6L9cIJTs-BgEJFlWZnutJIJHeFBdZ-QMTpVVUwhAl6MLm/s728-rw-ft-e30/cisa.jpg",
-        "Title": "U.S. Cybersecurity Agency Warns of Actively Exploited Ivanti EPMM Vulnerability",
+        "Link": "https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnG5IzvDhuY7SXUvUcDtcfA_Oz_V99slLquNdJcywDaYkgi6j4lYs7v8f3vitPy-mY53GQmh9BM_pigT4554QL2CcH8FBzl5-8w1ZvK-Qex3L_aR_fzHXzZWkseD3BX7gK9bQV-sgi2kgBtjpZiOPCWHu6N4237MZTBWwDgiUEZ0hAxs7bIdl-bQQQXV2/s728-rw-ft-e30/google.jpg",
+        "Title": "Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2024"
+        "Timestamp": "Jan 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/s728-rw-ft-e30/nudge.jpg",
+        "Title": "What is Nudge Security and How Does it Work?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWZbgJKJkgAJZP2_bZlskU0hP94SEX6Yy-8UKAsAyCpe0JRh72VJkSBhaSarWM1ByXc_XuLLsPSboGDnkDHzqaIDJIOGGqhoeQRIzquU9y9_jEgd6_vJ8bD186_6bQnB-CTw91P130cqaiMlVFE4AxhUlCOiEcQFLUNwJ1NiDMk5oAlAlTFBH0ATeHD2Hs/s728-rw-ft-e30/ransomware.jpg",
+        "Title": "Kasseika Ransomware Using BYOVD Trick to Disarm Security Pre-Encryption",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
+        "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88lQoFbJffNmbGEMZJ4k8REX0KCp3LJTxuGtStjU3G3nkrPNT8HHqDvOVGTZZuQ4xfuZVzXyGPTyoY3zEUAyH5nHAPg3JpYIIIOCp2BOkShsUBeBVh-3AIcfnxV2tJPLJgxlgUtG6VqaW1SqX4SNm75jnZ0FV9HBjnKyUL9gA43W6b77tvZedM2lclNQ/s728-rw-ft-e30/data-loss.jpg",
+        "Title": "Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCtTL4OfEm_W7sFm6dTjo3H4kekLXYN1FPoW0wgXnCcEicgLx8IEKwiwFkdI0fHr-vzwKj6Pcv_hNDwU1QoMBZ9FS8fHx-l747pLplJkn3hmpYsjjfK11HHTns_IXb7m0i3pEWcjnfR5qMaxJq7svcQNB9bI8aC_i_gOW6k12cjVrJWNCXu29HoI3FjXar/s728-rw-ft-e30/russian.jpg",
+        "Title": "U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thn.news/xyOeefr3",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0x0msnZrtXj6KB5xuLR7rCsFxf9IEFiESAk5hVI0zX0LyYZoCmVpgfgbWyGThTFkBFyMaOA-CTXjSQaHxyhGU1LXbrT0mVeMd4n1_hrDq5vW2KAjb5086zTwaQQ8WakDptI5ZSDcjCuoJ7-ZdH12S0qh7GdrhtcZnWsVBraEiEJ5dKxTanhnbHXzhWlSy/s728-rw-ft-e30/wing.png",
+        "Title": "What Are Your Employees Exposing You to Through T&C Acceptance?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgF7QdFc-3uBWmZRklL-QNNCojhsOnPnaYJBqB0Kx8CFNte09Ogzs1sgdZBz5Kb7JPZ-IYNI1clCeG3p1zWtgPN3GQMnyurFq9S8QvS5-ZtYzvvjk8rkMpEsmPoXgYicoC8dA8da6k9KskK5fPvPJdfVAWfNnlsq5tlkCHKIpcT2W4e7MntvMf-0LJj5E/s728-rw-ft-e30/forta.jpg",
+        "Title": "Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiex3NCiGCTiRUF4n4vncO2jTMjEiqvFbQnbjDJCeSeYEPps6mc3jk601jUS5j8X-A0usnLsO5tTTKR9Bhf9vPZcn-684Kop8wjgYIS3GHvdqNN5fQBiipblMSncrIyStZXcg3h3jcSG_M_aQqqwLdEHzVDg5a-wMOHofVuYDF26OLCM0d_eu9qBmj8VlF0/s728-rw-ft-e30/main.jpg",
+        "Title": "VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZEU_OZCWS9Z7o_efno7pYukCHEq_OJx8BP5OkyY0CP1H-x2ZVBdPp3R18BUOMVKNwuSiVJYHUgzbZtKTBVX4-dCxzYWMAW8tlfcTxKz896uxqAA96YndFEko8manNa73s89Rf738yTBBys4i8aykrEJg8Mk5662Bo-BWsJGtJN2rnluQqHTkXdw4n_-R/s728-rw-ft-e30/ssh.jpg",
+        "Title": "Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYWoV1FgwGyNfx8eL0pQI5u9lGLnQM2NWnA5Q9YcuipJwnYn2sb9-AqUR7vkGWkkbgwlksmfmeX2Tyjqhi8_vElP1xFzCkDkH1aZPj9vUIC_UR5bujhl863DFHlOFLuMNlhrYrgiCRqXfVFNu1qVJEF40TDGfJHiyuqM3xA26gUH6q_BLDwKIpSUCBqR3O/s728-rw-ft-e30/macos.jpg",
+        "Title": "\"Activator\" Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehTKDTSAFodRERDdEgDGO_4t8waXDE7IbZmA_7SmHaLcnkMv0B6Iwse8khEmUgqoG9RFSy3KrVpAoFWcv77dJBfLnAvUXg-YHL8oTcfsJPNI-Ioyx8noGjavHGSjjJQ8xM_M8tQ8_DTIXOKDfIltixi9yOWp2fQ0TYmTODUZXVlhtmRQf1w0tGrFVu6VX/s728-rw-ft-e30/ddos-attacks.jpg",
+        "Title": "From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnXMTiFlPVdGvRPTRsbAXxoK0QOp8AWfrB1-LzEY60-yXLz3UhJcCm5XlXKAnnCZ2TrToXzYsq-w__3lRNfjXB0znUSL6pXtBzzFFaKto9O_wzGQMCwGEnWADONGQUk2XhrWU7zwbahd5xABbuj2fNPF9Lg1lFPrAjMflB1u13JfVFPgcywgssRk23RfLO/s728-rw-ft-e30/cybercrime.jpg",
+        "Title": "BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 24, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/nso-group-lobbying-israel-hamas-war/",
+        "Img_URL": "https://media.wired.com/photos/65af08b39f8554eba9b09245/3:2/w_1280%2Cc_limit/NSO-Group%25E2%2580%2599s-attempts-to-revamp-its-tarnished-image-with-transparency-report-are-falling-flat-Security-2G8BKMW.jpg",
+        "Title": "Notorious Spyware Maker NSO Group Is Quietly Plotting a Comeback",
+        "Source": "WIRED",
+        "Timestamp": "Jan 24, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/",
@@ -182,11 +196,11 @@
         "Timestamp": "Jan 17, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
+        "Link": "https://www.wired.com/story/us-school-shooter-emergency-plans-leak/",
         "Img_URL": "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/3:2/w_1280%2Cc_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg",
         "Title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
         "Source": "WIRED",
-        "Timestamp": "Jan 16, 2024"
+        "Timestamp": "Jan 11, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/",
@@ -392,13 +406,6 @@
         "Timestamp": "Oct 20, 2023"
     },
     {
-        "Link": "https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/10/fakechromeupdate.png",
-        "Title": "The Fake Browser Update Scam Gets a Makeover",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 18, 2023"
-    },
-    {
         "Link": "https://www.wired.com/story/us-congress-spyware/",
         "Img_URL": "https://media.wired.com/photos/65370e2cec27098bc7d13884/3:2/w_1280%2Cc_limit/They-Cracked-a-Locked-$200-Million-Bitcoin-Thumb-Drive-Social.jpg",
         "Title": "They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird",
@@ -446,12 +453,5 @@
         "Title": "The Shocking Data on Kia and Hyundai Thefts in the US",
         "Source": "WIRED",
         "Timestamp": "Sep 19, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/libwebp-flaw-browser-updates/",
-        "Img_URL": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/3:2/w_1280%2Cc_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
-        "Title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
-        "Source": "WIRED",
-        "Timestamp": "Sep 16, 2023"
     }
 ]
