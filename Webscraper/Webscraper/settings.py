@@ -8,7 +8,7 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 import sys
-sys.path.append("root/Project/WatchTower/Webscraper/Config/")
+sys.path.append("root/Project/WatchTower/Webscraper/Config")
 
 import config
 
