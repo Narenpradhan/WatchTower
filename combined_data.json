@@ -77,11 +77,11 @@
         "Timestamp": "Jan 27, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/ermagerd.png",
-        "Title": "Who is Alleged Medibank Hacker Aleksandr Ermakov?",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jan 26, 2024"
+        "Link": "https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/",
+        "Img_URL": "https://media.wired.com/photos/65b3e5613d0c5372a6d08a4f/3:2/w_1280%2Cc_limit/23andMe-Security-Roundup-GettyImages-1230824674.jpg",
+        "Title": "23andMe Failed to Detect Account Intrusions for Months",
+        "Source": "WIRED",
+        "Timestamp": "Jan 27, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/",
@@ -182,13 +182,6 @@
         "Timestamp": "Jan 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/65aaee5f01ea01925b954b33/3:2/w_1280%2Cc_limit/US-Government-Urges-Patching-of-Ivanti-VPN-Vulnerabilities-Under-Active-Exploitation-Alamy-WAWPXD.jpg",
-        "Title": "US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked",
-        "Source": "WIRED",
-        "Timestamp": "Jan 20, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2015/11/triangulationfraud.png",
         "Title": "Canadian Man Stuck in Triangle of E-Commerce Fraud",
@@ -201,6 +194,13 @@
         "Title": "E-Crime Rapper \u2018Punchmade Dev\u2019 Debuts Card Shop",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 17, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
+        "Img_URL": "https://media.wired.com/photos/65aaee5f01ea01925b954b33/3:2/w_1280%2Cc_limit/US-Government-Urges-Patching-of-Ivanti-VPN-Vulnerabilities-Under-Active-Exploitation-Alamy-WAWPXD.jpg",
+        "Title": "US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked",
+        "Source": "WIRED",
+        "Timestamp": "Jan 16, 2024"
     },
     {
         "Link": "https://www.wired.com/story/us-school-shooter-emergency-plans-leak/",
@@ -271,6 +271,13 @@
         "Title": "Microsoft Patch Tuesday, December 2023 Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Dec 12, 2023"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2018/02/whois.png",
+        "Title": "ICANN Launches Service to Help With WHOIS Lookups",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 06, 2023"
     },
     {
         "Link": "https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/",
@@ -446,12 +453,5 @@
         "Title": "Chinese Hackers Are Hiding in Routers in the US and Japan",
         "Source": "WIRED",
         "Timestamp": "Sep 23, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/china-usb-sogu-malware/",
-        "Img_URL": "https://media.wired.com/photos/650e1db96c0207e6c416d223/3:2/w_1280%2Cc_limit/The-Shocking-Data-on-Kia-and-Hyundai-Thefts-in-the-US-Security-GettyImages-1254020637.jpg",
-        "Title": "The Shocking Data on Kia and Hyundai Thefts in the US",
-        "Source": "WIRED",
-        "Timestamp": "Sep 19, 2023"
     }
 ]
