@@ -1,80 +1,164 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouTWcvRqALHBfV8SMGEO6ot1L4gKKe2xub5e8CK1u6H6Qan4VXZ9UZi41qL3DKozw98s7p4NoVyEkOt8B2fm6cZq5MBqvrIxla8FEXrsNIYNVqXGkpRqO_-0o2Y5tDjsqd9kXTaChKFaXpLnkpxIfiRZE0-z_r7-2Wz6VrrSHplMN-jhHDsV-s89tq9Y/s728-rw-ft-e30/THN-Article2-Feature.png",
+        "Title": "Top Security Posture Vulnerabilities Revealed",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/italian-data-protection-watchdog.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGYjHTNcHoAo9N7uYQadyUvp9gPVTyFCoD5SoG9KogZ5X8dWLBQvlviDhlgihJcZClSt5srFGwb49IYf4Rq7oLpOki4YpeFo6EfCsAq20DCK8yj_Vgp2g4t2kvXw9EecCGO4ICMkTNRkxMhVsVxqtNvoci03C5h3NaF77cQNBz3PXdql7wbP7MloRq0pK/s728-rw-ft-e30/ai.jpg",
+        "Title": "Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtmCNEVL3AqbYCgPvhQmmOhHoTH96Xni-rRGSM9O-5Ahml9HomLGCL80rjuepRiKUm-ndRP_HQE5qmptz5VNZKguljsVA46cQnAfWxpu-jfdOz7h9FzmeirnMO7AqbqeUY90Bu7j70YUnad5BVV7vF3v6TY13MJQo7ckMVAZzILSmOotf29HXsCl1FbxS/s728-rw-ft-e30/zscaler.jpg",
+        "Title": " New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehacker.news/saas-security-lessons",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
+        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMndMaQpB6ia7l0VF9CRDSFfZAKUHZ4MzSmCUfmM3XGXgPZhAjfl19HFUr9lWQFn3_i4LuyIt5gFcugMFSGPvA55DhY8gZzpn-aCvnRRQibK2fIDPtRVcEcVjNYVrf0_6mLyGFxiqBNyZHsRvmb_DzdUjAgOqpqINgRSOhc24YsKSoqOZgWaueB0VHNaR8/s728-rw-ft-e30/juneos.jpg",
+        "Title": "Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/researchers-uncover-outlook.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaAwGHVSdV-m12qlT7vYlKCbgTZRwRq88quncPc0sCxvM1aolZhR0LuiafPFm0nWVwn1lKpDy8y5mRx1_qvHGuXksJk0y1bBsJETPDoZJTsp_fOJjugPr5fMjQJ-uZh0qcBPqSDiFb6i3xcvBJ0xI5REyDZeC8pqQSTWqz4DomYPobsgodyAPdn4kTeVj/s728-rw-ft-e30/outlook.jpg",
         "Title": "Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
-        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0GkFWdP6oURDVoJ-OzHta-qetGC1L3DDwmiqdYS94J4wIecKCiT6UjRcznKgTLGrGtLk_OvagYcCceEp-CXlqJ-PON5uzz1Q1W2VhivhkerR2gGZyLXvgq2PBaoYZuyHaSIOGVdy788bF3Y-ilpx-cCTTpn0RvsRU7k-F6CXFPo6HdjukE00eGnTUHcE/s728-rw-ft-e30/blackberry.jpg",
-        "Title": "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thn.news/xyOeefr3",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0x0msnZrtXj6KB5xuLR7rCsFxf9IEFiESAk5hVI0zX0LyYZoCmVpgfgbWyGThTFkBFyMaOA-CTXjSQaHxyhGU1LXbrT0mVeMd4n1_hrDq5vW2KAjb5086zTwaQQ8WakDptI5ZSDcjCuoJ7-ZdH12S0qh7GdrhtcZnWsVBraEiEJ5dKxTanhnbHXzhWlSy/s728-rw-ft-e30/wing.png",
-        "Title": "What Are Your Employees Exposing You to Through T&C Acceptance?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXV0hiWllbUQjyevUEqOOmcXl5PgfHAe5Lwn6eef8Qwh99yaSX5-CygjA3mF620KollFyFgqpOYVjswyEwmFSwCx6ySBukphjnEcSde7BVfLf27iHWxIpdm9Gp3jjX8H6c34akKro0lpHFO5DY0k1GNI1pd6NCqN1mCCX1YYwB431bQ2mm__vO48hORT8Z/s728-rw-ft-e30/ransomware.png",
-        "Title": " Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkKFFMgG2PGNDl0dFHmowr7dm4AKlaHngMSmkHNI9tbtvpp0z0ZZoMb2aJ14s4qOipADG0-CsrqEYk9uXDuWy1gfSOx3daNrpttm36rBG13MSDCX0WImaiGK5fJGRFIzhY_EhXWiHFctJzcja37Jhgi5s030pAihSdDVSOeai8gQxuWSTymW8wMh47P1a/s728-rw-ft-e30/nsa.jpg",
-        "Title": "NSA Admits Secretly Buying Your Internet Browsing Data without Warrants",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitV4COC25Au_QgtBy1by6T6w8gwXbQlOZ9U72LHRXVhBdNz0gLwzVJDpw5ziXB-HoKIT8HagGvSKY53xMQODHlrCs4APfz1GwU5E6BjIcc3F-XXpw1Cq89c_-AeS7rpy48I2hzEEMfn5MjADaoJPS2tzQzdebBU8qpSGEyJK13V4yzny7W4e-eWwX3zKpy/s728-rw-ft-e30/python.jpg",
-        "Title": "Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
+        "Timestamp": "Jan 30, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
         "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxELNIWz-VcBSjqCvCs_lDQkLGouTLNR5b4ZbwzDmgZVMf1VzcvYCHPBAmdynoNL6D9ZOqOCjWdvBnUP3iLTUA1_ca_p4iWyG0v4Lq32H6yVkM_7UtXaLnWuUYyUnCXM9Za9I8-Y46yifd9kr8ba-11wsNpM0FLueTdcvkNNNZCqwjRglnuocWGEARtfa/s728-rw-ft-e30/blackberry.jpg",
+        "Title": "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXV0hiWllbUQjyevUEqOOmcXl5PgfHAe5Lwn6eef8Qwh99yaSX5-CygjA3mF620KollFyFgqpOYVjswyEwmFSwCx6ySBukphjnEcSde7BVfLf27iHWxIpdm9Gp3jjX8H6c34akKro0lpHFO5DY0k1GNI1pd6NCqN1mCCX1YYwB431bQ2mm__vO48hORT8Z/s728-rw-ft-e30/ransomware.png",
+        "Title": " Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkKFFMgG2PGNDl0dFHmowr7dm4AKlaHngMSmkHNI9tbtvpp0z0ZZoMb2aJ14s4qOipADG0-CsrqEYk9uXDuWy1gfSOx3daNrpttm36rBG13MSDCX0WImaiGK5fJGRFIzhY_EhXWiHFctJzcja37Jhgi5s030pAihSdDVSOeai8gQxuWSTymW8wMh47P1a/s728-rw-ft-e30/nsa.jpg",
+        "Title": "NSA Admits Secretly Buying Your Internet Browsing Data without Warrants",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitV4COC25Au_QgtBy1by6T6w8gwXbQlOZ9U72LHRXVhBdNz0gLwzVJDpw5ziXB-HoKIT8HagGvSKY53xMQODHlrCs4APfz1GwU5E6BjIcc3F-XXpw1Cq89c_-AeS7rpy48I2hzEEMfn5MjADaoJPS2tzQzdebBU8qpSGEyJK13V4yzny7W4e-eWwX3zKpy/s728-rw-ft-e30/python.jpg",
+        "Title": "Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioiQ98hs7UvI1_4fem8UDqDZOgvDM8b5egbsVtn1icEz2xM8XgySi5rvL6CwdECchxRU2h9zDbyDoUt-xmFJKd8apBxW9YKtXvaYQNh3nvX37YYaxNl-1XbKgRoXzk-iDo8G0a9HP0wths2XDjMvYBU-odYJtTye3ls3_olLtyOUUrxtDzpimrWIpeX2I3/s728-rw-ft-e30/bank.jpg",
         "Title": "AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
+        "Timestamp": "Jan 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6nBoRUClUi4COpoEzCtMkYthpHyCefO1_tF9cJGLM174u-WObvqZ5SbTlmB0kst-J797hITm4pRCUpTF1cAkAj1AD71v30pKWhP-BUQAPFFMFi8tM283c9EGHnbmVohu2X5ypyBTxEwO7W6uQ-cPPJSA21mIHh7TTBaWQZDDk7nh_Pf00H2e-mGXUqo/s728-rw-ft-e30/cyber.jpg",
         "Title": "Perfecting the Defense-in-Depth Strategy with Automation",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
+        "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF20uF4EvmYgtMs1nDD6pmkalz2PH690uP_UupMxFLHKpjr3sD0pedChW8QOPpTEOmRdV667jslC3JhIvE1wt3apefw_qiBhnL1vzyTGm5QUxBlu_m9VF6O38BikhjNcWyS-IeNtXkpfmmJnU9XWqWL4sN9pDAuQXbM6UYOL3r2yO3jM5S94Dy2W_dw0Ue/s728-rw-ft-e30/malware.jpg",
         "Title": "Malicious Ads on Google Target Chinese Users with Fake Messaging Apps",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehacker.news/saas-security-lessons",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
+        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uUJVERhnBCwZ8ZmKWX4dR3AMN-7rMXrA5O-2R-XTICsiMsUM1sZYbRhJIUzE-kSHOjC2SRmDe31V9FtyzPnzLlMoIBt2guPhyphenhyphen9GVgIAomhLt7EJS-VWJAea_M24JjjURYA7AOp6qO_9QfXf31Fon-uadyiVkCI-ahd06EVeSi0myJFZH-17bS-bAqDx6/s728-rw-ft-e30/russian-hackers.jpg",
+        "Title": "Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlrFliFMEw0-_EDQm5KiymqbuFbq28si6l6wbr3m1FRiqYikCwT1eAX2PNQ27T960FZEl_IgcO8Txq9oQ6E8bD8ohy2ntoxpRIVAP5mpWWrPwFqr2-32bWtLQlgbEf-iFsoGV_9grQcbR1-trF0CICjzOf01ty08Lw2H41sDfrODqkDEzGrR94-4SMymn/s728-rw-ft-e30/hacker.jpg",
+        "Title": "Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s728-rw-ft-e30/cisco.jpg",
+        "Title": "Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s728-rw-ft-e30/server.jpg",
+        "Title": "SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mAoYvb8V-BAIYM6nO-6ECjcs8NUhBKVCm4ciWnMVljxH6OVwN896v8CC7NAb8EX7RSgIXzJ1iZe4Yha58bGIskG7XNS-oSnkluse78KKnMgL4WRphLqI4yPpf3T_cE6ER_4ero6Ir7vlVgEcpckKnrYq0Z2_MVymhrWZe8Yovr7OgmrQsCrwZl0e3p-O/s728-rw-ft-e30/jek.jpg",
+        "Title": "Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF1UIPCCJFlmDADlZrbsy9fr3rbn19Wilni0CMjdS3mhJmMgIwxGT-9DqN8tXd-3LvaH-xZ8efnThBWTh4OmXfBrhYIZAQCMHBUejrsiOh0YAuT2FpcEaEkWvB1F4lHvDk-D368xxgc6lliU4nR5EkBE2A_d2Gn0rbmbSo_Sds_yDoZS2IwnBG5cibxfDA/s728-rw-ft-e30/blob.jpg",
+        "Title": "LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL3QovNajcQrQnMBQNnuG1kiQOVlFGY4efODaxM02uhL60dOZ_-vWB7Xr0hPNl21jg0qUX1Wka0YrVzecUaOXJ53kRmurl6zdLzmCe8J7QPVpczchw_1pihrQgQgg23KG4JlGEHzWuU25CUNJXwXWmliMa_3PdgCUBo81rv_7-UOSeSxXA73Uzg95fL18/s728-rw-ft-e30/HEADER.png",
+        "Title": "Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2024"
     },
     {
         "Link": "https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/",
@@ -88,83 +172,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/ermagerd.png",
         "Title": "Who is Alleged Medibank Hacker Aleksandr Ermakov?",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uUJVERhnBCwZ8ZmKWX4dR3AMN-7rMXrA5O-2R-XTICsiMsUM1sZYbRhJIUzE-kSHOjC2SRmDe31V9FtyzPnzLlMoIBt2guPhyphenhyphen9GVgIAomhLt7EJS-VWJAea_M24JjjURYA7AOp6qO_9QfXf31Fon-uadyiVkCI-ahd06EVeSi0myJFZH-17bS-bAqDx6/s728-rw-ft-e30/russian-hackers.jpg",
-        "Title": "Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlrFliFMEw0-_EDQm5KiymqbuFbq28si6l6wbr3m1FRiqYikCwT1eAX2PNQ27T960FZEl_IgcO8Txq9oQ6E8bD8ohy2ntoxpRIVAP5mpWWrPwFqr2-32bWtLQlgbEf-iFsoGV_9grQcbR1-trF0CICjzOf01ty08Lw2H41sDfrODqkDEzGrR94-4SMymn/s728-rw-ft-e30/hacker.jpg",
-        "Title": "Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
-        "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s728-rw-ft-e30/cisco.jpg",
-        "Title": "Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thn.news/xyOeefr3",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0x0msnZrtXj6KB5xuLR7rCsFxf9IEFiESAk5hVI0zX0LyYZoCmVpgfgbWyGThTFkBFyMaOA-CTXjSQaHxyhGU1LXbrT0mVeMd4n1_hrDq5vW2KAjb5086zTwaQQ8WakDptI5ZSDcjCuoJ7-ZdH12S0qh7GdrhtcZnWsVBraEiEJ5dKxTanhnbHXzhWlSy/s728-rw-ft-e30/wing.png",
-        "Title": "What Are Your Employees Exposing You to Through T&C Acceptance?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s728-rw-ft-e30/server.jpg",
-        "Title": "SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mAoYvb8V-BAIYM6nO-6ECjcs8NUhBKVCm4ciWnMVljxH6OVwN896v8CC7NAb8EX7RSgIXzJ1iZe4Yha58bGIskG7XNS-oSnkluse78KKnMgL4WRphLqI4yPpf3T_cE6ER_4ero6Ir7vlVgEcpckKnrYq0Z2_MVymhrWZe8Yovr7OgmrQsCrwZl0e3p-O/s728-rw-ft-e30/jek.jpg",
-        "Title": "Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF1UIPCCJFlmDADlZrbsy9fr3rbn19Wilni0CMjdS3mhJmMgIwxGT-9DqN8tXd-3LvaH-xZ8efnThBWTh4OmXfBrhYIZAQCMHBUejrsiOh0YAuT2FpcEaEkWvB1F4lHvDk-D368xxgc6lliU4nR5EkBE2A_d2Gn0rbmbSo_Sds_yDoZS2IwnBG5cibxfDA/s728-rw-ft-e30/blob.jpg",
-        "Title": "LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL3QovNajcQrQnMBQNnuG1kiQOVlFGY4efODaxM02uhL60dOZ_-vWB7Xr0hPNl21jg0qUX1Wka0YrVzecUaOXJ53kRmurl6zdLzmCe8J7QPVpczchw_1pihrQgQgg23KG4JlGEHzWuU25CUNJXwXWmliMa_3PdgCUBo81rv_7-UOSeSxXA73Uzg95fL18/s728-rw-ft-e30/HEADER.png",
-        "Title": "Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2gSozyeQ7VXwEOnJ_EDfq-4IP8AwFb44Ii1tykI1ms-C_rkapIMffWI0ChZ2Nu9AxI6lqSX4kiIGpqFrHaydC88Nc1iRkLNGZqrQtx7G3Mz_gb7joEz_qraNM0vi6caz3Ol2pWJy9cyY4Q6nbCQ-_XobAj8KAvXCtx7tMpR3QSsyuYFVFcAqn0GhesUpY/s728-rw-ft-e30/stub.jpg",
-        "Title": "China-backed Hackers Hijack Software Updates to Implant \"NSPX30\" Spyware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLqh4bEZiUAZP2idUu8hK0C56uyVgXQ-cUNppAKK9n_hjFps_jbyeqyRbabyxXFMNuYJREcvCkpMdXYFodudZ3eGPGrj6-854t5NO2oWJ96noeUcVWWiPbAOLzTdyH-Qt1g37DkdjDI4wP3-H9wqU5auBd7qKV05t49HZjMuO0WgwJInigJn5DKax5RPxl/s728-rw-ft-e30/malware.jpg",
-        "Title": "New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits",
-        "Source": "The Hacker News",
         "Timestamp": "Jan 26, 2024"
     },
     {
