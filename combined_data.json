@@ -1,5 +1,26 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHYGhmkRf1ylIsGmlmUDYt71mx6IqQjXxQihICcFMIhiXkaFgXXxs1i5k-xuQlJAWrJFe6n9F3kReUKeuQ8VQUEmVUOhBXWAkxUZ3gMuev6d2QEyptNs6K14780z5x3meZ61tvAL83mUUNfeVQq3J0xgi5RjJqbwRhityWntneRzlf39eRnlkMxefyhd/s728-rw-ft-e30/brazil.jpg",
+        "Title": "Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtNJeC5Q5QEq9d5OIQ01Nx0ppKnenB3G29jeTvP9yglAnz9nNlki47ZuBgzBJHufEgrqfm1rY3YuCBHCJh9Ck27M4Auj_4UZKtNKdflcP1PKiAO1dpO9SWATwo9_K2BmDDb8qFtsFxljT2pe2ZyicVmlBEus0nggHdvhbh_pevG9TNhvuysaaQ4egKftg0/s728-rw-ft-e30/gitlab.jpg",
+        "Title": "URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehacker.news/saas-security-lessons",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
+        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk-F8L49O-FqoT8x-Bl1anNkIKYo6hiw12xNH1hWZjzjSaM3WO6wH4L5slBsyyKx5EUXQBRh6yzPiplfR7_YpkEXFo-uwMHNVPJcTN_9jOIJwDhjjRJ1mNXd2FYnHmu2HjEVsChncEh1uFDAXt19F0Ao9KHJ4PwnAarqSDa4X0GU6ToTLoEXz83b4DLS1O/s728-rw-ft-e30/chinese.jpg",
         "Title": "China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz",
@@ -21,16 +42,16 @@
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://thehacker.news/saas-security-lessons",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
-        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
+        "Link": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtmCNEVL3AqbYCgPvhQmmOhHoTH96Xni-rRGSM9O-5Ahml9HomLGCL80rjuepRiKUm-ndRP_HQE5qmptz5VNZKguljsVA46cQnAfWxpu-jfdOz7h9FzmeirnMO7AqbqeUY90Bu7j70YUnad5BVV7vF3v6TY13MJQo7ckMVAZzILSmOotf29HXsCl1FbxS/s728-rw-ft-e30/zscaler.jpg",
+        "Title": " New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtmCNEVL3AqbYCgPvhQmmOhHoTH96Xni-rRGSM9O-5Ahml9HomLGCL80rjuepRiKUm-ndRP_HQE5qmptz5VNZKguljsVA46cQnAfWxpu-jfdOz7h9FzmeirnMO7AqbqeUY90Bu7j70YUnad5BVV7vF3v6TY13MJQo7ckMVAZzILSmOotf29HXsCl1FbxS/s728-rw-ft-e30/zscaler.jpg",
-        "Title": " New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility",
+        "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
+        "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
@@ -45,13 +66,6 @@
         "Link": "https://thehackernews.com/2024/01/researchers-uncover-outlook.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaAwGHVSdV-m12qlT7vYlKCbgTZRwRq88quncPc0sCxvM1aolZhR0LuiafPFm0nWVwn1lKpDy8y5mRx1_qvHGuXksJk0y1bBsJETPDoZJTsp_fOJjugPr5fMjQJ-uZh0qcBPqSDiFb6i3xcvBJ0xI5REyDZeC8pqQSTWqz4DomYPobsgodyAPdn4kTeVj/s728-rw-ft-e30/outlook.jpg",
         "Title": "Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
-        "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
@@ -91,6 +105,13 @@
         "Timestamp": "Jan 29, 2024"
     },
     {
+        "Link": "https://thehacker.news/saas-security-lessons",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
+        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 29, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIzuH1WxwXuAPjBrPiyBJQaPbdzXYL9fpqRdxDWkv2vfqlsJztBvOcn6HW_q_27fsQ9sEds13Bi2fKdh2UTq5FnW7cELxO2oh_gbaEZ0jO3Ssjo8FqNdcEWpJBKrCh0mM5ENcVcmfdFE8QAgj_d1FohQZy03VcVjGTYqQK6nTbdeesbSxNXqYfPLYnwE/s728-rw-ft-e30/my.jpg",
         "Title": "The Unknown Risks of The Software Supply Chain: A Deep-Dive",
@@ -101,13 +122,6 @@
         "Link": "https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6nBoRUClUi4COpoEzCtMkYthpHyCefO1_tF9cJGLM174u-WObvqZ5SbTlmB0kst-J797hITm4pRCUpTF1cAkAj1AD71v30pKWhP-BUQAPFFMFi8tM283c9EGHnbmVohu2X5ypyBTxEwO7W6uQ-cPPJSA21mIHh7TTBaWQZDDk7nh_Pf00H2e-mGXUqo/s728-rw-ft-e30/cyber.jpg",
         "Title": "Perfecting the Defense-in-Depth Strategy with Automation",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 29, 2024"
-    },
-    {
-        "Link": "https://thehacker.news/saas-security-lessons",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguPl1rTExVblcdue4x7MyGrkmhyqwyUFRjb0merdSP-mJ5utC-VP1c5hIcYPuOSYunjYh7dhAhYLfZmaAIYS3ojTnIdBQMjU9kVLo-GiKS6PZ6Wvbz96alu7fLFLqhnOZuVdBkSru4196-Xh8f07DkpPHxk4Y2RG43_FHQdm6oaM070dVoKCYjHJh-tuY/s728-rw-ft-e30/wing2.jpg",
-        "Title": "493 Companies Share Their SaaS Security Battles \u2013 Get Insights in this Webinar",
         "Source": "The Hacker News",
         "Timestamp": "Jan 29, 2024"
     },
@@ -157,6 +171,20 @@
         "Link": "https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF1UIPCCJFlmDADlZrbsy9fr3rbn19Wilni0CMjdS3mhJmMgIwxGT-9DqN8tXd-3LvaH-xZ8efnThBWTh4OmXfBrhYIZAQCMHBUejrsiOh0YAuT2FpcEaEkWvB1F4lHvDk-D368xxgc6lliU4nR5EkBE2A_d2Gn0rbmbSo_Sds_yDoZS2IwnBG5cibxfDA/s728-rw-ft-e30/blob.jpg",
         "Title": "LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL3QovNajcQrQnMBQNnuG1kiQOVlFGY4efODaxM02uhL60dOZ_-vWB7Xr0hPNl21jg0qUX1Wka0YrVzecUaOXJ53kRmurl6zdLzmCe8J7QPVpczchw_1pihrQgQgg23KG4JlGEHzWuU25CUNJXwXWmliMa_3PdgCUBo81rv_7-UOSeSxXA73Uzg95fL18/s728-rw-ft-e30/HEADER.png",
+        "Title": "Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2gSozyeQ7VXwEOnJ_EDfq-4IP8AwFb44Ii1tykI1ms-C_rkapIMffWI0ChZ2Nu9AxI6lqSX4kiIGpqFrHaydC88Nc1iRkLNGZqrQtx7G3Mz_gb7joEz_qraNM0vi6caz3Ol2pWJy9cyY4Q6nbCQ-_XobAj8KAvXCtx7tMpR3QSsyuYFVFcAqn0GhesUpY/s728-rw-ft-e30/stub.jpg",
+        "Title": "China-backed Hackers Hijack Software Updates to Implant \"NSPX30\" Spyware",
         "Source": "The Hacker News",
         "Timestamp": "Jan 29, 2024"
     },
