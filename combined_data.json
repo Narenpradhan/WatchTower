@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s728-rw-ft-e30/Linux.jpg",
+        "Title": "RunC Flaws Enable Container Escapes, Granting Attackers Host Access",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 31, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s728-rw-ft-e30/ivanti.jpg",
         "Title": "Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation",
@@ -14,16 +21,16 @@
         "Timestamp": "Jan 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hl-OCnCJaHUR5FUnuA21h-wkKQWZGHuOE1Zz4toCAO4zEmr_nI-ut26GJOkJxbCHxEiShGmFjwsrWENUuHZJxmsPRj93fDjJ4kcBo2tysLeWUMsJZClrF5NBvyOJXjL8nd48kSmRhzcRyf5q5ebUTlLo1OoECgqF98MESi3FsevN4TqVTXUlWbfu6YI/s728-rw-ft-e30/cyber.jpg",
-        "Title": "The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules",
+        "Link": "https://thn.news/77SGWWzI",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
+        "Title": "Are Your Web Applications Safe from Malware?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 31, 2024"
     },
     {
-        "Link": "https://thn.news/77SGWWzI",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
-        "Title": "Are Your Web Applications Safe from Malware?",
+        "Link": "https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hl-OCnCJaHUR5FUnuA21h-wkKQWZGHuOE1Zz4toCAO4zEmr_nI-ut26GJOkJxbCHxEiShGmFjwsrWENUuHZJxmsPRj93fDjJ4kcBo2tysLeWUMsJZClrF5NBvyOJXjL8nd48kSmRhzcRyf5q5ebUTlLo1OoECgqF98MESi3FsevN4TqVTXUlWbfu6YI/s728-rw-ft-e30/cyber.jpg",
+        "Title": "The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules",
         "Source": "The Hacker News",
         "Timestamp": "Jan 31, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Jan 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPndGyYFB6MIt0TLMf4_ftQZ1ew2cshnUsTPif9GN9zq9yxGCMg21VWEeoHuyD2k5IxDdB6n1msUeLVT3JJLMWPGTVr_osaobBK83UGqKO5ooqVmkVp3eEL04Ebax-HtulunBZkdR7y8nFFHYDW7t2v4QpZpScfHkHQtsnQyibOcCUv9d2Us_Mf4hyphenhyphengFIy/s728-rw-ft-e30/Linux.jpg",
-        "Title": "New Glibc Flaw Grants Attackers Root Access on Major Linux Distros",
+        "Link": "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/s728-rw-ft-e30/nudge.jpg",
+        "Title": "What is Nudge Security and How Does it Work?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/s728-rw-ft-e30/nudge.jpg",
-        "Title": "What is Nudge Security and How Does it Work?",
+        "Link": "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPndGyYFB6MIt0TLMf4_ftQZ1ew2cshnUsTPif9GN9zq9yxGCMg21VWEeoHuyD2k5IxDdB6n1msUeLVT3JJLMWPGTVr_osaobBK83UGqKO5ooqVmkVp3eEL04Ebax-HtulunBZkdR7y8nFFHYDW7t2v4QpZpScfHkHQtsnQyibOcCUv9d2Us_Mf4hyphenhyphengFIy/s728-rw-ft-e30/Linux.jpg",
+        "Title": "New Glibc Flaw Grants Attackers Root Access on Major Linux Distros",
         "Source": "The Hacker News",
         "Timestamp": "Jan 31, 2024"
     },
@@ -77,13 +84,6 @@
         "Timestamp": "Jan 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouTWcvRqALHBfV8SMGEO6ot1L4gKKe2xub5e8CK1u6H6Qan4VXZ9UZi41qL3DKozw98s7p4NoVyEkOt8B2fm6cZq5MBqvrIxla8FEXrsNIYNVqXGkpRqO_-0o2Y5tDjsqd9kXTaChKFaXpLnkpxIfiRZE0-z_r7-2Wz6VrrSHplMN-jhHDsV-s89tq9Y/s728-rw-ft-e30/THN-Article2-Feature.png",
-        "Title": "Top Security Posture Vulnerabilities Revealed",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 31, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/0ktopus-attacks-1.png",
         "Title": "Fla. Man Charged in SIM-Swapping Spree is Key Suspect in Hacker Groups Oktapus, Scattered Spider",
@@ -91,16 +91,16 @@
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/italian-data-protection-watchdog.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGYjHTNcHoAo9N7uYQadyUvp9gPVTyFCoD5SoG9KogZ5X8dWLBQvlviDhlgihJcZClSt5srFGwb49IYf4Rq7oLpOki4YpeFo6EfCsAq20DCK8yj_Vgp2g4t2kvXw9EecCGO4ICMkTNRkxMhVsVxqtNvoci03C5h3NaF77cQNBz3PXdql7wbP7MloRq0pK/s728-rw-ft-e30/ai.jpg",
-        "Title": "Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations",
+        "Link": "https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouTWcvRqALHBfV8SMGEO6ot1L4gKKe2xub5e8CK1u6H6Qan4VXZ9UZi41qL3DKozw98s7p4NoVyEkOt8B2fm6cZq5MBqvrIxla8FEXrsNIYNVqXGkpRqO_-0o2Y5tDjsqd9kXTaChKFaXpLnkpxIfiRZE0-z_r7-2Wz6VrrSHplMN-jhHDsV-s89tq9Y/s728-rw-ft-e30/THN-Article2-Feature.png",
+        "Title": "Top Security Posture Vulnerabilities Revealed",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtmCNEVL3AqbYCgPvhQmmOhHoTH96Xni-rRGSM9O-5Ahml9HomLGCL80rjuepRiKUm-ndRP_HQE5qmptz5VNZKguljsVA46cQnAfWxpu-jfdOz7h9FzmeirnMO7AqbqeUY90Bu7j70YUnad5BVV7vF3v6TY13MJQo7ckMVAZzILSmOotf29HXsCl1FbxS/s728-rw-ft-e30/zscaler.jpg",
-        "Title": " New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility",
+        "Link": "https://thehackernews.com/2024/01/italian-data-protection-watchdog.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGYjHTNcHoAo9N7uYQadyUvp9gPVTyFCoD5SoG9KogZ5X8dWLBQvlviDhlgihJcZClSt5srFGwb49IYf4Rq7oLpOki4YpeFo6EfCsAq20DCK8yj_Vgp2g4t2kvXw9EecCGO4ICMkTNRkxMhVsVxqtNvoci03C5h3NaF77cQNBz3PXdql7wbP7MloRq0pK/s728-rw-ft-e30/ai.jpg",
+        "Title": "Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMndMaQpB6ia7l0VF9CRDSFfZAKUHZ4MzSmCUfmM3XGXgPZhAjfl19HFUr9lWQFn3_i4LuyIt5gFcugMFSGPvA55DhY8gZzpn-aCvnRRQibK2fIDPtRVcEcVjNYVrf0_6mLyGFxiqBNyZHsRvmb_DzdUjAgOqpqINgRSOhc24YsKSoqOZgWaueB0VHNaR8/s728-rw-ft-e30/juneos.jpg",
-        "Title": "Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws",
+        "Link": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtmCNEVL3AqbYCgPvhQmmOhHoTH96Xni-rRGSM9O-5Ahml9HomLGCL80rjuepRiKUm-ndRP_HQE5qmptz5VNZKguljsVA46cQnAfWxpu-jfdOz7h9FzmeirnMO7AqbqeUY90Bu7j70YUnad5BVV7vF3v6TY13MJQo7ckMVAZzILSmOotf29HXsCl1FbxS/s728-rw-ft-e30/zscaler.jpg",
+        "Title": " New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
@@ -122,6 +122,13 @@
         "Link": "https://thn.news/77SGWWzI",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
         "Title": "Are Your Web Applications Safe from Malware?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMndMaQpB6ia7l0VF9CRDSFfZAKUHZ4MzSmCUfmM3XGXgPZhAjfl19HFUr9lWQFn3_i4LuyIt5gFcugMFSGPvA55DhY8gZzpn-aCvnRRQibK2fIDPtRVcEcVjNYVrf0_6mLyGFxiqBNyZHsRvmb_DzdUjAgOqpqINgRSOhc24YsKSoqOZgWaueB0VHNaR8/s728-rw-ft-e30/juneos.jpg",
+        "Title": "Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
@@ -164,13 +171,6 @@
         "Link": "https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitV4COC25Au_QgtBy1by6T6w8gwXbQlOZ9U72LHRXVhBdNz0gLwzVJDpw5ziXB-HoKIT8HagGvSKY53xMQODHlrCs4APfz1GwU5E6BjIcc3F-XXpw1Cq89c_-AeS7rpy48I2hzEEMfn5MjADaoJPS2tzQzdebBU8qpSGEyJK13V4yzny7W4e-eWwX3zKpy/s728-rw-ft-e30/python.jpg",
         "Title": "Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioiQ98hs7UvI1_4fem8UDqDZOgvDM8b5egbsVtn1icEz2xM8XgySi5rvL6CwdECchxRU2h9zDbyDoUt-xmFJKd8apBxW9YKtXvaYQNh3nvX37YYaxNl-1XbKgRoXzk-iDo8G0a9HP0wths2XDjMvYBU-odYJtTye3ls3_olLtyOUUrxtDzpimrWIpeX2I3/s728-rw-ft-e30/bank.jpg",
-        "Title": "AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2024"
     },
