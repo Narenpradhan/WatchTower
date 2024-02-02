@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxA0Md3JY1x-UqA2Ne5Q-ZXcKu4EaQQ-ebhU7N8jmHz7SDZkpCb9GQs_cpcXf-oFXH3g5xoPHWlbFlYehSeByU-OyLkVVP9UGuTHmb8G6ltZDVKOFoHmfhhIvK5E9HqVSftVuPlc6ILjXVU_L6_bEfdKjbI1IJtyCkB4qXVIWfDTY9b2XQsRertitbi3hm/s728-rw-ft-e30/russian-hacker.jpg",
+        "Title": "Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 02, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-19sEoZNiyWA3M0I-Rq4SmOKi6Y01UkceC8fN-fodP5XSqAJQ1y07ihd1Re0bA8MJ4xTG3jKkk1NxcYCd7gyWKgOlF6pVFyVwgfP9-C2OFyAiesQy_1qpbvTCR4RB775ciI_HbRzC15GVTOeGQkfzQb6r5sGEzapfei7SwG6x6YTiE95WKCO76Y5rXIaf/s728-rw-ft-e30/ua.jpg",
+        "Title": "DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 02, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOwxGYvge0fDTfFHdY1V6LmuNEqoAF1KNJjDSY4oWYfk36S3qeZHbZXJfJoccrHhItwj7n8L7KsRQe0qw-wD-0oM_KuPdom5i7GegbDK82sCbs_fLjtSEHrLWTYPYdqtGeDD1o34gBhC_6m1o0jDGkCr1se10Z0hyphenhyphenrfI5gjk1svwVYqm0E_GUm41wXxPzr/s728-rw-ft-e30/cia.jpg",
         "Title": "Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 02, 2024"
+    },
+    {
+        "Link": "https://thn.news/77SGWWzI",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
+        "Title": "Are Your Web Applications Safe from Malware?",
         "Source": "The Hacker News",
         "Timestamp": "Feb 02, 2024"
     },
@@ -21,9 +42,9 @@
         "Timestamp": "Feb 02, 2024"
     },
     {
-        "Link": "https://thn.news/77SGWWzI",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
-        "Title": "Are Your Web Applications Safe from Malware?",
+        "Link": "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxELNIWz-VcBSjqCvCs_lDQkLGouTLNR5b4ZbwzDmgZVMf1VzcvYCHPBAmdynoNL6D9ZOqOCjWdvBnUP3iLTUA1_ca_p4iWyG0v4Lq32H6yVkM_7UtXaLnWuUYyUnCXM9Za9I8-Y46yifd9kr8ba-11wsNpM0FLueTdcvkNNNZCqwjRglnuocWGEARtfa/s728-rw-ft-e30/blackberry.jpg",
+        "Title": "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats",
         "Source": "The Hacker News",
         "Timestamp": "Feb 02, 2024"
     },
@@ -38,13 +59,6 @@
         "Link": "https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPr81DASLMYFC5az8KlOL0TnT171kAV2s_Cfve7t5W3bb9FzzB9MDTru7ykbpM3uelGLtlCKkkhdR1oNiYpNRK-g-YpN7OLKZ_z5bOijTHda9do0YT7U80AOhC3bbqgCT_yFmi88-qIE4_LulCP0m7x2aW4OWl0LTipYEkbsupnKSjA8cLcIiQjZNbrvI/s728-rw-ft-e30/botnet.jpg",
         "Title": "FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 02, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxELNIWz-VcBSjqCvCs_lDQkLGouTLNR5b4ZbwzDmgZVMf1VzcvYCHPBAmdynoNL6D9ZOqOCjWdvBnUP3iLTUA1_ca_p4iWyG0v4Lq32H6yVkM_7UtXaLnWuUYyUnCXM9Za9I8-Y46yifd9kr8ba-11wsNpM0FLueTdcvkNNNZCqwjRglnuocWGEARtfa/s728-rw-ft-e30/blackberry.jpg",
-        "Title": "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats",
         "Source": "The Hacker News",
         "Timestamp": "Feb 02, 2024"
     },
@@ -70,20 +84,6 @@
         "Timestamp": "Feb 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9GbwqjDI5ZHX2j9lm2Xr5CgUyVZko1iMoPIVROeVA1Hc2yktaoaqfiSvz8PaJDny0IbW0qbeAVx5A_7shsNZSDEi49FD3_-PaAnrKK4IReOLgG6xAug9YljAFwnj7w8e6mDMeR06BQLNicQflCQa9yoM93_uncynrbjU9Rt8h2PKUoxjfDhCxsAmt11y/s728-rw-ft-e30/redis.jpg",
-        "Title": "HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 02, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nrJbRs2yw5uK7rbvIOCEVk4D5JJlXr3nyA4nOVPGuibJqWzHnAG3zplhYpU896J5vbWkNkI_t_0x9zbRbaskQgAL05npMW8mpY7m5oWzjyKK966DSWjVsybc0ECoU4x9CfEqAlUHiHIXOmVW7zfk-_eT9w1sKEsISeBkqkVsLx7nhBPa-76w6Q6LJuGH/s728-rw-ft-e30/malware.jpg",
-        "Title": "Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 02, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/02/arrests-in-400m-sim-swap-tied-to-heist-at-ftx/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/elliptic-ftx.png",
         "Title": "Arrests in $400M SIM-Swap Tied to Heist at FTX?",
@@ -91,16 +91,16 @@
         "Timestamp": "Feb 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7NNaZN87IDYB7MQZS40FteKIFQ6VCWdVn9gRhiReCEV1kY0PTR_RwO39i8k8K-6sk19rrq7HQp6qCRpnZStl8C3EP8gIFGQNX3WIT2vsGF5u7GocvQOPuYKevGoPjon3Gz1UW2LWnCeRz7l9H7Ge3hqRLaD3e8ZxxTOYNXtjVFO0aBCpb1UVCFTQL9cak/s728-rw-ft-e30/apple.jpg",
-        "Title": "CISA Warns of Active Exploitation Apple iOS and macOS Vulnerability",
+        "Link": "https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9GbwqjDI5ZHX2j9lm2Xr5CgUyVZko1iMoPIVROeVA1Hc2yktaoaqfiSvz8PaJDny0IbW0qbeAVx5A_7shsNZSDEi49FD3_-PaAnrKK4IReOLgG6xAug9YljAFwnj7w8e6mDMeR06BQLNicQflCQa9yoM93_uncynrbjU9Rt8h2PKUoxjfDhCxsAmt11y/s728-rw-ft-e30/redis.jpg",
+        "Title": "HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s728-rw-ft-e30/Linux.jpg",
-        "Title": "RunC Flaws Enable Container Escapes, Granting Attackers Host Access",
+        "Link": "https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nrJbRs2yw5uK7rbvIOCEVk4D5JJlXr3nyA4nOVPGuibJqWzHnAG3zplhYpU896J5vbWkNkI_t_0x9zbRbaskQgAL05npMW8mpY7m5oWzjyKK966DSWjVsybc0ECoU4x9CfEqAlUHiHIXOmVW7zfk-_eT9w1sKEsISeBkqkVsLx7nhBPa-76w6Q6LJuGH/s728-rw-ft-e30/malware.jpg",
+        "Title": "Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Feb 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s728-rw-ft-e30/ivanti.jpg",
-        "Title": "Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation",
+        "Link": "https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7NNaZN87IDYB7MQZS40FteKIFQ6VCWdVn9gRhiReCEV1kY0PTR_RwO39i8k8K-6sk19rrq7HQp6qCRpnZStl8C3EP8gIFGQNX3WIT2vsGF5u7GocvQOPuYKevGoPjon3Gz1UW2LWnCeRz7l9H7Ge3hqRLaD3e8ZxxTOYNXtjVFO0aBCpb1UVCFTQL9cak/s728-rw-ft-e30/apple.jpg",
+        "Title": "CISA Warns of Active Exploitation Apple iOS and macOS Vulnerability",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2024"
     },
@@ -122,6 +122,20 @@
         "Link": "https://thn.news/77SGWWzI",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
         "Title": "Are Your Web Applications Safe from Malware?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s728-rw-ft-e30/Linux.jpg",
+        "Title": "RunC Flaws Enable Container Escapes, Granting Attackers Host Access",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s728-rw-ft-e30/ivanti.jpg",
+        "Title": "Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2024"
     },
@@ -157,20 +171,6 @@
         "Link": "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPndGyYFB6MIt0TLMf4_ftQZ1ew2cshnUsTPif9GN9zq9yxGCMg21VWEeoHuyD2k5IxDdB6n1msUeLVT3JJLMWPGTVr_osaobBK83UGqKO5ooqVmkVp3eEL04Ebax-HtulunBZkdR7y8nFFHYDW7t2v4QpZpScfHkHQtsnQyibOcCUv9d2Us_Mf4hyphenhyphengFIy/s728-rw-ft-e30/Linux.jpg",
         "Title": "New Glibc Flaw Grants Attackers Root Access on Major Linux Distros",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dHYGhmkRf1ylIsGmlmUDYt71mx6IqQjXxQihICcFMIhiXkaFgXXxs1i5k-xuQlJAWrJFe6n9F3kReUKeuQ8VQUEmVUOhBXWAkxUZ3gMuev6d2QEyptNs6K14780z5x3meZ61tvAL83mUUNfeVQq3J0xgi5RjJqbwRhityWntneRzlf39eRnlkMxefyhd/s728-rw-ft-e30/brazil.jpg",
-        "Title": "Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtNJeC5Q5QEq9d5OIQ01Nx0ppKnenB3G29jeTvP9yglAnz9nNlki47ZuBgzBJHufEgrqfm1rY3YuCBHCJh9Ck27M4Auj_4UZKtNKdflcP1PKiAO1dpO9SWATwo9_K2BmDDb8qFtsFxljT2pe2ZyicVmlBEus0nggHdvhbh_pevG9TNhvuysaaQ4egKftg0/s728-rw-ft-e30/gitlab.jpg",
-        "Title": "URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2024"
     },
