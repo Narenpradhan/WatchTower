@@ -1,57 +1,85 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgadxLa3hdliqOEcy-MNpSHhAA8rr0xcYjsy7knyOvbuDhSn9mWWOnnM3eAnJ7b250Qt19sCP7upZ9Bjcz2Eb1YOEH6coGpNjXPJdBFzAmFJfjxWsv3gV5RmWT-Yr8H33n427f5Z1nbhMWD0_JA8vztwU19fdzy_KiDPJ9F_OPFMc1T0uWlKv8eVV6v_kdd/s728-rw-ft-e30/hacker.jpg",
-        "Title": "Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials",
+        "Link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s728-rw-ft-e30/vciso.jpg",
+        "Title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UpJj4RRDmHSfQzbGIpYCWuZ6FRnJvwUL3G9A6zcxOdMDJdpsg4oVnky4N43rRuB2syS7LAFlS3UYVBfwIouy5BHNLj0UtL-3nQXVRW-4PvsBGqCbqBqvHMIotadY_7X5AgAKfWDk8vhpvYi6-QBoIxVDI7wb4gs7D5HdLE1aSRlxD27_vSZlVKwrt1Ub/s728-rw-ft-e30/cloud.jpg",
-        "Title": "Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services",
+        "Link": "https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfBuU-9-yh7kKy_yPLzsUSX0JRlPPLIw0C5I0egmfv2dU64CqzzMx6hP7r-cimJ9UXrnQpB_sk53O7Of5JFSG4DbUjxVwaO9221IbNWxsJOenvlin_31CvvU_P5qcoWUMRqrpCJjJDx5ytZmCxj5Iptmuom7_yHAQODGLCnsCwyV8m7s1J9cqVrJUEUj9P/s728-rw-ft-e30/spyware.jpg",
+        "Title": "Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tLCrT1SgJZwkMIUpyJEu5k5YNNVuq4KNitz12Ngg0xPQ1hWW0Nvt4JLWghjCqz0wybYUmyYJSvWR3HWDnBgRQpvi6KtpDCcgjJB17ht1Pt8uO5-5Olqk33iHdURz0-22vY4Hgq4Dn5c8Tb8sE0efLtNN79sFGlfuQXtoG2CDJJwsYoH-hwZqFCD80Rk/s728-rw-ft-e30/as.jpg",
-        "Title": "How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM",
+        "Link": "https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4y15sfKep4P_b9FpOWRGjmh8hiVnHZwLD-1BrGuaKL8v7_all-LKAKmhkBd5C01w-hH8k1FGYAW7uKWAndErAMDmhOvzAS0AbOyjsOAKf1WQ2GGTkgFKT3NcHXdHC32KFwQ5gMPB2VhScW_5fe0bXlzpBp1Z0dln4Ooa5tARoaM5zgy0CUYVCcj2Lt3nl/s728-rw-ft-e30/cyber.jpg",
+        "Title": "Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
     },
     {
         "Link": "https://thn.news/security-self-assessment-armorpoint",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-ft-e30/ar.PNG",
         "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s728-rw-ft-e30/tc.jpg",
+        "Title": "Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgadxLa3hdliqOEcy-MNpSHhAA8rr0xcYjsy7knyOvbuDhSn9mWWOnnM3eAnJ7b250Qt19sCP7upZ9Bjcz2Eb1YOEH6coGpNjXPJdBFzAmFJfjxWsv3gV5RmWT-Yr8H33n427f5Z1nbhMWD0_JA8vztwU19fdzy_KiDPJ9F_OPFMc1T0uWlKv8eVV6v_kdd/s728-rw-ft-e30/hacker.jpg",
+        "Title": "Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UpJj4RRDmHSfQzbGIpYCWuZ6FRnJvwUL3G9A6zcxOdMDJdpsg4oVnky4N43rRuB2syS7LAFlS3UYVBfwIouy5BHNLj0UtL-3nQXVRW-4PvsBGqCbqBqvHMIotadY_7X5AgAKfWDk8vhpvYi6-QBoIxVDI7wb4gs7D5HdLE1aSRlxD27_vSZlVKwrt1Ub/s728-rw-ft-e30/cloud.jpg",
+        "Title": "Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 07, 2024"
+    },
+    {
+        "Link": "https://thn.news/I6XWJcQj",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
+        "Title": "Are Your Web Applications Safe from Malware?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tLCrT1SgJZwkMIUpyJEu5k5YNNVuq4KNitz12Ngg0xPQ1hWW0Nvt4JLWghjCqz0wybYUmyYJSvWR3HWDnBgRQpvi6KtpDCcgjJB17ht1Pt8uO5-5Olqk33iHdURz0-22vY4Hgq4Dn5c8Tb8sE0efLtNN79sFGlfuQXtoG2CDJJwsYoH-hwZqFCD80Rk/s728-rw-ft-e30/as.jpg",
+        "Title": "How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KvfL2k4ylNL_dMnNHOPfB5ZUwTUVtuLUSIrWRaRiLboah9STBvKVwKYhc6XKuQLXyK1krVr-kuXVNjEYCLQk2kILqshUvwZMBeYizNVhKmD7kY9Ana4ZPi3ZlXWvDj_FHSMbmpPc7M686Ju06duWIfG5Cp_GZK07TMb3hWxsgX_mQ1iT8zuccj1Y1EaY/s728-rw-ft-e30/hacking.jpg",
         "Title": "Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraNohdN4U1PcWdmQxmLb8RwVWHndGdf7wvL0CbP0NdPXeN1oLuq-MHmHzkliX2zHzHofzBbno3NHBJWVe2zbvvwZI4FGGTZ5UWaCLNfvVV9CltXs5OHyxbvoDUVQKEDqWjLk6cl24zJTFqhY-JWE4DeapkEK_iA8Tii-xSUWwy1tzYwetOqGR67SE55LT/s728-rw-ft-e30/lock.jpg",
         "Title": "Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
+        "Timestamp": "Feb 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCKjD8ZzJMCNKcRW3Hgr_i0ck7GejIKH0B8l4eFtiyT3HmVPeoxjJD2XAfIrTsUiS9NhUfS6wCjcexQEqloalCDMHrr8N4-aNctrQ_Q3dGwWJw8KjEc_u2PZIpqdHh4D5_cWxznlPO9qXxGkKuWvJ4pZDH6-Bc7efsiWOrxd2owZ-Ue_jsKzPOOK19FTsX/s728-rw-ft-e30/spyware.jpg",
         "Title": "U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 06, 2024"
-    },
-    {
-        "Link": "https://thn.news/I6XWJcQj",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
-        "Title": "Are Your Web Applications Safe from Malware?",
         "Source": "The Hacker News",
         "Timestamp": "Feb 06, 2024"
     },
@@ -70,6 +98,20 @@
         "Timestamp": "Feb 06, 2024"
     },
     {
+        "Link": "https://thn.news/security-self-assessment-armorpoint",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-ft-e30/ar.PNG",
+        "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 06, 2024"
+    },
+    {
+        "Link": "https://thn.news/I6XWJcQj",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
+        "Title": "Are Your Web Applications Safe from Malware?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 06, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtio1q-CLJas94ATMozGjvVW6-Y9RrvUZxF0d-qv1vB87eCUuz0HfhcyZHRlHPw7PGaSHO-U5Vrzv-Yq9jjAvTZKh6xqOWWfWRpAVFtNp9PTF8AuCM_22fMVos5Peb3c4uhkLnO8JWCb6hGmw8whGhv0UREA0k3dHkGO_MxCvJGMMJ0xqb_mi-PCn5ym3v/s728-rw-ft-e30/app.jpg",
         "Title": "Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware",
@@ -81,77 +123,35 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t434xOc076hRhbvGCvAM8ncS3FhQFect76bc8dd5mNxn6mgnT4Gl-yTtWfCRJ25avAPyKxLIWCZsL4nPVDRp_jnfNV8eNBVpRxEbOY53skD2dpp5-7pjgJ4ABCKU60t0aNq781bhIcDfRD2i2qfbd2lQEcBj_ZRrKKNJsaZ3GZXDjkgn8_UXMgZaiVI/s2000/xdr.jpg",
         "Title": "Hands-On Review: SASE-based XDR from Cato Networks",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
+        "Timestamp": "Feb 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVQbUkPVd24ktiaDDrIwwVOgcfzzxWLkumQnJIL5OxgFaEQRGi8qmsot4n3ymqrbmjp32fvqFBmRxBsUC-Dzzy0VpKE5alIinBFQhhotAzwzV7leNdu_J2OfOiA2tv44CIXiwVP_tY7u1RcJBPhGLQx6rdM9N8-ZljdY-TAPzsPouCX9so6VHRek7g2ZYy/s728-rw-ft-e30/spyware.jpg",
         "Title": "Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
+        "Timestamp": "Feb 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXSXjMhAgy508SEuJJTyP5xBulZxtzjUwcIbPctHBge1EbXQZqaQDSbqFGnmJaP0qio5HMFMxrarOAu2p7OjcMc39LV7xNGUSB1P5aTA6eYOPfaxsl8_AQNqQ5-0NHE2e7lq7gs0m21NvXH5CSceR1jY98qeXI94ukURZxiVnvOXg6d5SGr44dX2seo6f8/s728-rw-ft-e30/banking.jpg",
         "Title": "New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thn.news/security-self-assessment-armorpoint",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-ft-e30/ar.PNG",
-        "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thn.news/I6XWJcQj",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEEfhpMkm-KOVtxnhb6h5y9EmDfVOd9QJuLe8XDwq9ILnm-9XgyMLbN2fkySELv5PBdWBsFnNOPGvz4bWEqirXbqu59TpxlvZXYQDUTkHpPTgK53tKU6Fb3hJR5H9km7ffnnkwgp5fIPzin6BgBkJowG0HZcAiURH0dbwWDU7jVLWY9EhA_E_VJUfQzXk6/s728-rw-ft-e30/OPS.png",
-        "Title": "Are Your Web Applications Safe from Malware?",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
+        "Timestamp": "Feb 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6oLVWbaiMc4E45pKEGpXyNtyjE9ykR4s794BaRjYrUqvtZEDDbiYTNNZWHWvG39RJcbzkLov8-BsNnCMjrzyatdTJyqZWcH0h-WNaIoALweoO8Pbg0xrOBBtlbCtQQWiCyEe5w1qdwN0R-994Pwvymd1L556tniJB33uDKca3vKjgMvYVZSFunBFiqA7d/s728-rw-ft-e30/cyberattack.jpg",
         "Title": "U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
+        "Timestamp": "Feb 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg28r9uXfwuvVprDCNFUhSS42d1e0quf3e3gmcsQyVwXu8G1hmZHE7185AKkIufK4r_2KeG3EDKEJjggkMkc2mRTflbKVEAvYUjSchMTs9eQFB38wpcFS6SqcaL1b_q1BD-CWodTFhpnxiFnFlkTIlKG-QCI99Yyd9T3wvENckuQgYF6GsCL0Xb1ipBs_9C/s728-rw-ft-e30/social.jpg",
         "Title": "Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSP_cC8pTNgXXmy-qgjs-DLkhxgJ7PwkU9SJOWosxi-Cl7nlWCnnKST2fIGZTL1mPm3EXVC-ERu6xCrOTKgVe9S2mhxxjQkX4_zPFZBmh8aTAZt8iZ1IegsJ9kRl7yOEelVkYciFS_unyRONoypr7c_SwnxXtIdZG6v0J3VykPysfDSlI5rISG0_WfLQKO/s728-rw-ft-e30/anydesk.jpg",
-        "Title": "AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxA0Md3JY1x-UqA2Ne5Q-ZXcKu4EaQQ-ebhU7N8jmHz7SDZkpCb9GQs_cpcXf-oFXH3g5xoPHWlbFlYehSeByU-OyLkVVP9UGuTHmb8G6ltZDVKOFoHmfhhIvK5E9HqVSftVuPlc6ILjXVU_L6_bEfdKjbI1IJtyCkB4qXVIWfDTY9b2XQsRertitbi3hm/s728-rw-ft-e30/russian-hacker.jpg",
-        "Title": "Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-19sEoZNiyWA3M0I-Rq4SmOKi6Y01UkceC8fN-fodP5XSqAJQ1y07ihd1Re0bA8MJ4xTG3jKkk1NxcYCd7gyWKgOlF6pVFyVwgfP9-C2OFyAiesQy_1qpbvTCR4RB775ciI_HbRzC15GVTOeGQkfzQb6r5sGEzapfei7SwG6x6YTiE95WKCO76Y5rXIaf/s728-rw-ft-e30/ua.jpg",
-        "Title": "DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOwxGYvge0fDTfFHdY1V6LmuNEqoAF1KNJjDSY4oWYfk36S3qeZHbZXJfJoccrHhItwj7n8L7KsRQe0qw-wD-0oM_KuPdom5i7GegbDK82sCbs_fLjtSEHrLWTYPYdqtGeDD1o34gBhC_6m1o0jDGkCr1se10Z0hyphenhyphenrfI5gjk1svwVYqm0E_GUm41wXxPzr/s728-rw-ft-e30/cia.jpg",
-        "Title": "Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 05, 2024"
+        "Timestamp": "Feb 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/arrests-in-400m-sim-swap-tied-to-heist-at-ftx/",
