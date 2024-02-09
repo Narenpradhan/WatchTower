@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja5AlujvTKd5ZTOI0NwjKfrJXCKMOQNII665vxjlUOKbrZImzlaFRh48avgqIksNsv4hb51H8jpar6degm-o20QyH8aB4xB3zEGGiz4o7BJFq8fqiEqHaI-fZPgQVKw8SEO_pdOUdGqCUoLzhNAt5rmR70t_tQV0wvNiC4HcobKCCnI2DEmI0L77_ktMLW/s728-rw-e30/hacker.jpg",
+        "Title": "Raspberry Robin Malware Upgrades with Discord Spread and New Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzeYW2YOCXsXrKbl-SbJF0bg4U0835JS7JDJsxiv6EjMHjOX2s5Vw5qrX1Kb1tD2amym3jqFPCQcac8gctiZ3tIgvydNLZEF0cB3VsupQnkKUaBEplA6T_AWGy_ltPRn02MJG-NHHDzfFzFkXCgJQOXKoTsBOcdjnSf5WjeCOXts0BSLId5PFn5lQFCO3N/s728-rw-e30/android.jpg",
+        "Title": "MoqHao Android Malware Evolves with Auto-Execution Capability",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 09, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1200/featured_image.png",
         "Title": "Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 09, 2024"
+    },
+    {
+        "Link": "https://thn.news/security-self-assessment-armorpoint",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-e30/ar.PNG",
+        "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
         "Source": "The Hacker News",
         "Timestamp": "Feb 09, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Feb 09, 2024"
     },
     {
-        "Link": "https://thn.news/security-self-assessment-armorpoint",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-e30/ar.PNG",
-        "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
+        "Link": "https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgAr_6taKJr1ChwFv1PX7_A3FOwSTzIrpkxNdijxxvvjf2O37-CXT06g5XR-Ben5y11niAVtDITD5MpVkhilCQiFLYFVNfYKQqk8M89eKDYxfSVGLSCi-1AE8RXVTWSLkt2csmevglNvYYgGfhzaHRUmba3BVDn0G4m069d_xHPaba6mP02dkB1GoJyk/s728-rw-e30/wazuh.jpg",
+        "Title": "Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity",
         "Source": "The Hacker News",
         "Timestamp": "Feb 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgAr_6taKJr1ChwFv1PX7_A3FOwSTzIrpkxNdijxxvvjf2O37-CXT06g5XR-Ben5y11niAVtDITD5MpVkhilCQiFLYFVNfYKQqk8M89eKDYxfSVGLSCi-1AE8RXVTWSLkt2csmevglNvYYgGfhzaHRUmba3BVDn0G4m069d_xHPaba6mP02dkB1GoJyk/s728-rw-e30/wazuh.jpg",
-        "Title": "Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity",
+        "Link": "https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t434xOc076hRhbvGCvAM8ncS3FhQFect76bc8dd5mNxn6mgnT4Gl-yTtWfCRJ25avAPyKxLIWCZsL4nPVDRp_jnfNV8eNBVpRxEbOY53skD2dpp5-7pjgJ4ABCKU60t0aNq781bhIcDfRD2i2qfbd2lQEcBj_ZRrKKNJsaZ3GZXDjkgn8_UXMgZaiVI/s2000/xdr.jpg",
+        "Title": "Hands-On Review: SASE-based XDR from Cato Networks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 09, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Feb 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t434xOc076hRhbvGCvAM8ncS3FhQFect76bc8dd5mNxn6mgnT4Gl-yTtWfCRJ25avAPyKxLIWCZsL4nPVDRp_jnfNV8eNBVpRxEbOY53skD2dpp5-7pjgJ4ABCKU60t0aNq781bhIcDfRD2i2qfbd2lQEcBj_ZRrKKNJsaZ3GZXDjkgn8_UXMgZaiVI/s2000/xdr.jpg",
-        "Title": "Hands-On Review: SASE-based XDR from Cato Networks",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 09, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FKfzSfddYQOjRjuXe9S7Ll3AxDEr42oYx9ZL9HK_IrqTtbaRvWGk1N3QisM_lRJNsDJpQTwko8WScLB-BQdp_UoY9Iv8fBBgvoXnNEgRCVcs7IRrYjJZQwzcqFOhuHLBhDIMYXlnA25g_7MSz_9iDf0GMybhJGfSplvgFGRMokYxNfc9KLJISAW-Hr9h/s728-rw-e30/cisa.jpg",
         "Title": "Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade",
@@ -67,26 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsJ2A4vQItI-dlUOITUD4i6AdqziFQ174S0WEJbcHfMUYUMv_9eGfSj_ccf5jA_C38Gkdo_nRK94-R2M4E8_iem0UcbrrLu_wKFB64go0Q4JXILVPWBhdM55mMtcqG1_b1i8Q-Ad-Ax-lqUl56b96lhuRpxZwCXqB4Is0_ej-_0lboDq-T2MZOHtWeL4/s728-rw-e30/blog.jpg",
         "Title": "Unified Identity \u2013 look for the meaning behind the hype! ",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 09, 2024"
+        "Timestamp": "Feb 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEM4tm_r9jLZ2WObJGCzKhUTJGe_W1C9aFroX2mncGBIH4-TK5SD4bfsREz1uChkLi0ddTWhe3pGPUM6SCWVZ5MG1txyaMHbHnUxTAylkvF1rwe9Jv4ehS6NMrNB3Rz4nLbwjeJGHdcOL2FKx4RkKZOEqj2djFLeY1jr3m9HuNRivpdu-hMHZMbGu6xLJF/s728-rw-e30/malware.jpg",
         "Title": "HijackLoader Evolves: Researchers Decode the Latest Evasion Methods",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 09, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivlSU44YcsCJIOu5qx2JsH9hnMtM6RQv7yQ2oltYCUxAn4YPkQwrKZj2sTgvkU9lt-aKfIRz94_CaSpou5u_rMFjfqhayFbaoggBrHlWhd8AA6HaLSPwyamUwyLnRq-GXN759NirhfzzxjidcFou2KP0kkEuo9l1UP0cEGdL0LkImW9kvYjqfR7iQdMPAu/s728-rw-e30/app.jpg",
-        "Title": "Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jYuzTU3NOkKStwMpIM3Ui91S5eyuH7eYsbCh2JWLfIjB91LXpP2VNUVJEx0z9k7vyDFIYurHLa0_0Q0n1x802k16OP1mEonUPa2gUBdj5Sl84C0dSf2oG4uWwrwYgss8pGsaIgdM4P9Qim4AbyEP4YPxIPQzb8KXLkrjdiw_EKj0LFBgYWebSrtmw6To/s728-rw-e30/hacker.jpg",
-        "Title": "Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea",
         "Source": "The Hacker News",
         "Timestamp": "Feb 08, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Feb 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigD56PdvPC532R3jz9sjOnLllJDpXD4ykm43O-oUj0-iVdD8X35N6l9oOEUlUfxWajkFAf5Am5H41mbTlx1-XGo1s0SCbIIFE3Zu1IXGjtohbK3nD3S3qEQXoUg35O9XtL7y-F93unoivrrJLyVdLraPaFVgud-1FRv8eq1A8QLB5rHSUxucfxNSgXpcp-/s728-rw-e30/patch.jpg",
-        "Title": "Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products",
+        "Link": "https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivlSU44YcsCJIOu5qx2JsH9hnMtM6RQv7yQ2oltYCUxAn4YPkQwrKZj2sTgvkU9lt-aKfIRz94_CaSpou5u_rMFjfqhayFbaoggBrHlWhd8AA6HaLSPwyamUwyLnRq-GXN759NirhfzzxjidcFou2KP0kkEuo9l1UP0cEGdL0LkImW9kvYjqfR7iQdMPAu/s728-rw-e30/app.jpg",
+        "Title": "Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore",
         "Source": "The Hacker News",
         "Timestamp": "Feb 08, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thn.news/security-self-assessment-armorpoint",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUdq0xDH7WZSZ6OSNbbguUMoKvfwXifhRxPnkNfua42IxLqxui9U4Zwmmy0MEgvXmStbk1uXtwZWjRmzalae3igRkzhj6LxFQF7a-QHT6gSa7rfE1B6fBQW_KxHu08UJ3peaDtt8tGWfOvggpnzyWadXXliTobAcCoq99OpgSH04AwJZBc2uLj2AMsJ2U/s728-rw-e30/ar.PNG",
         "Title": "Assess Your Security Maturity Across 9 Critical Cybersecurity Program Controls",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jYuzTU3NOkKStwMpIM3Ui91S5eyuH7eYsbCh2JWLfIjB91LXpP2VNUVJEx0z9k7vyDFIYurHLa0_0Q0n1x802k16OP1mEonUPa2gUBdj5Sl84C0dSf2oG4uWwrwYgss8pGsaIgdM4P9Qim4AbyEP4YPxIPQzb8KXLkrjdiw_EKj0LFBgYWebSrtmw6To/s728-rw-e30/hacker.jpg",
+        "Title": "Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigD56PdvPC532R3jz9sjOnLllJDpXD4ykm43O-oUj0-iVdD8X35N6l9oOEUlUfxWajkFAf5Am5H41mbTlx1-XGo1s0SCbIIFE3Zu1IXGjtohbK3nD3S3qEQXoUg35O9XtL7y-F93unoivrrJLyVdLraPaFVgud-1FRv8eq1A8QLB5rHSUxucfxNSgXpcp-/s728-rw-e30/patch.jpg",
+        "Title": "Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products",
         "Source": "The Hacker News",
         "Timestamp": "Feb 08, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfBuU-9-yh7kKy_yPLzsUSX0JRlPPLIw0C5I0egmfv2dU64CqzzMx6hP7r-cimJ9UXrnQpB_sk53O7Of5JFSG4DbUjxVwaO9221IbNWxsJOenvlin_31CvvU_P5qcoWUMRqrpCJjJDx5ytZmCxj5Iptmuom7_yHAQODGLCnsCwyV8m7s1J9cqVrJUEUj9P/s728-rw-e30/spyware.jpg",
         "Title": "Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4y15sfKep4P_b9FpOWRGjmh8hiVnHZwLD-1BrGuaKL8v7_all-LKAKmhkBd5C01w-hH8k1FGYAW7uKWAndErAMDmhOvzAS0AbOyjsOAKf1WQ2GGTkgFKT3NcHXdHC32KFwQ5gMPB2VhScW_5fe0bXlzpBp1Z0dln4Ooa5tARoaM5zgy0CUYVCcj2Lt3nl/s728-rw-e30/cyber.jpg",
-        "Title": "Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s728-rw-e30/tc.jpg",
-        "Title": "Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now",
         "Source": "The Hacker News",
         "Timestamp": "Feb 08, 2024"
     },
@@ -257,6 +257,13 @@
         "Title": "Meet Ika & Sal: The Bulletproof Hosting Duo from Hell",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 08, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/fourteen.png",
+        "Title": "Happy 14th Birthday, KrebsOnSecurity!",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 29, 2023"
     },
     {
         "Link": "https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/",
@@ -376,13 +383,6 @@
         "Title": "The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure",
         "Source": "WIRED",
         "Timestamp": "Nov 09, 2023"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/01/wbrkb.jpg",
-        "Title": "Who\u2019s Behind the SWAT USA Reshipping Service?",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 06, 2023"
     },
     {
         "Link": "https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/",
