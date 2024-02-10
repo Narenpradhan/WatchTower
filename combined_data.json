@@ -266,13 +266,6 @@
         "Timestamp": "Dec 29, 2023"
     },
     {
-        "Link": "https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/fourteen.png",
-        "Title": "Happy 14th Birthday, KrebsOnSecurity!",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 29, 2023"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2023/12/blackcat-ransomware-raises-ante-after-fbi-disruption/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/blackcatseizure-santaversion.png",
         "Title": "BlackCat Ransomware Raises Ante After FBI Disruption",
@@ -383,6 +376,13 @@
         "Title": "The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure",
         "Source": "WIRED",
         "Timestamp": "Nov 09, 2023"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/01/wbrkb.jpg",
+        "Title": "Who\u2019s Behind the SWAT USA Reshipping Service?",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 06, 2023"
     },
     {
         "Link": "https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/",
