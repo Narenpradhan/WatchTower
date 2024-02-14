@@ -1,44 +1,93 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8jbbC8uG_yDCMb48V7p7Zsa7ihnET2dR6U-0vMJEz2zeZU4BGpFZN2QS_koBi-dbggx0z4wjGsgD9b0fELDAF52KYPmIAzg-ZBDfPn3WHWrjr4wQ-yZbur8WzEpV2ZHHKXFospLl8M1F7RlPJLfAAEWnp2RapqaAV0fD54Ps8hEZpg86Jmk6fUQDeeFw/s728-rw-e30/bootkit.jpg",
-        "Title": "Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit",
+        "Link": "https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx4QKevKZFQLVUGvLs4oLOEUluipr17_GiXkXcSyA_8ebkGqvF-Cg5hriW7oJ8RVU1G0YvEz0IkqaDsE0bl5c2pyvDEaowLT4mWnxUuZd6-z7mM2M-SGMvhiepAjxunERZ3AndKpTQno5YnYj3YNdLjBMorrtM9Agxx9uPtDwLJDubWzLOOOU2LJZFsYM/s728-rw-e30/cyber.jpg",
+        "Title": "Cybersecurity Tactics FinServ Institutions Can Bank On in 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEGlDqZcgeRAmew-8bJBWceZgjM__D8GkR8A3YU2ofJoXTPq5hbv38DDwbD2YmpASWS7PnP8U9rE6QXh-LEJ1E66i4Seia0EAt0yuX-5Zq1nx36kOQ1nZqmk1yBLa69CaPvGuTECesDG6ZMTbOb1wp6dymCNIPbEgq50WJU0JbcsMyMpC653dpH8wxdwBF/s728-rw-e30/malware.jpg",
-        "Title": "PikaBot Resurfaces with Streamlined Code and Deceptive Tactics",
+        "Link": "https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKb5D0aePx3uUL8DmuyLOreV5jZggdbpx197Itr2vQrvdVznDjieX7QTHDcOzLYdwAbjAVxXpOl5nty3ZSJRFWzSzVOJFTM1QNyGjm3sGa81UPhD1y-pI1zIPKOOv6IkXtqHMVH4KSslSdDQk3qJ7n5ma_x7co7dMnXZMBBwev_3OFGVJiwq1QGpuuBwcr/s728-rw-e30/malware.jpg",
+        "Title": "Bumblebee Malware Returns with New Tricks, Targeting U.S. Businesses",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqYKOAdNfwL632n-9byG5yLxudYBc9BEjMvTPDXzSFQMTGblQSo6qdcvlIFJv1lpqazlu7z7in8Ms77HKTHo7VvnrlR5K6et7pimyLTECvnbMeAMV05w0QUahWpXMGWWItvfHK2lw0meTwgJI9UCv_G52xKRBaF6SoE-8r0MBdIH5pW1g4_EVSq06nk6g/s728-rw-e30/cloudflare.jpg",
-        "Title": "Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know",
+        "Link": "https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDxsWZtMUgmZz5rKH-NbrAkA6dv3NZaDoBd4puHxMXvXQc5SA3BAdPzOWcaWaQwHzKHvlE06MBejybwscxmbgqCSedwNfgZHIeo6TGB1cVTRlCzhicYxuuEa8zFhX4vWsEs2odbiRb9_RamAFOW0YExxQfi7rVH2OYlT0rGlKEWeub8wgOe4knCQ4-vG6t/s728-rw-e30/trading.jpg",
+        "Title": "DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 14, 2024"
     },
     {
         "Link": "https://thn.news/2024-saas-security-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyqhWZMGYpF5i1XMZAwGkU4NNNWDJqDBKwmiFO-tP3ZRUn9EhnYl46_ukYUV-m6FbAOB5YneWyL9Te04v2d13y18b_y2gLQ0IaQghnj8e1m_aUNFhH1jaLOCcS7UZSNk6RGCxhwsbHPkZjnVHAxFRQHPusd-MI5Z7sx2GZFx2JuIvQSw1H0lYhNZg4DHW/s728-rw-e30/wing.jpg",
         "Title": "Four Out of Five Organizations Have Employees Using Breached Applications",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSOjy8ALi5qK8SS-yjHbH9-oriAJ-0e1l5UR72MaZyajeG7GUeDyu87nbGnaoTDN3HjbUTOT9T7xczfB_ZSMl27KIRDRtAuh3sRvfrFDp_4AOHJ8Bh8BEKlekPE5FOD_uW6l_CKcVAVjiP_0GndmBCYYqqAJ7GDBjIyPJnGnZcbU_UPS4aCdOkaRK6j85/s728-rw-e30/ms.jpg",
+        "Title": "Microsoft Rolls Out Patches for 73 Flaws, Including 2 Windows Zero-Days",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8jbbC8uG_yDCMb48V7p7Zsa7ihnET2dR6U-0vMJEz2zeZU4BGpFZN2QS_koBi-dbggx0z4wjGsgD9b0fELDAF52KYPmIAzg-ZBDfPn3WHWrjr4wQ-yZbur8WzEpV2ZHHKXFospLl8M1F7RlPJLfAAEWnp2RapqaAV0fD54Ps8hEZpg86Jmk6fUQDeeFw/s728-rw-e30/bootkit.jpg",
+        "Title": "Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEGlDqZcgeRAmew-8bJBWceZgjM__D8GkR8A3YU2ofJoXTPq5hbv38DDwbD2YmpASWS7PnP8U9rE6QXh-LEJ1E66i4Seia0EAt0yuX-5Zq1nx36kOQ1nZqmk1yBLa69CaPvGuTECesDG6ZMTbOb1wp6dymCNIPbEgq50WJU0JbcsMyMpC653dpH8wxdwBF/s728-rw-e30/malware.jpg",
+        "Title": "PikaBot Resurfaces with Streamlined Code and Deceptive Tactics",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s728-rw-e30/vciso.jpg",
+        "Title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqYKOAdNfwL632n-9byG5yLxudYBc9BEjMvTPDXzSFQMTGblQSo6qdcvlIFJv1lpqazlu7z7in8Ms77HKTHo7VvnrlR5K6et7pimyLTECvnbMeAMV05w0QUahWpXMGWWItvfHK2lw0meTwgJI9UCv_G52xKRBaF6SoE-8r0MBdIH5pW1g4_EVSq06nk6g/s728-rw-e30/cloudflare.jpg",
+        "Title": "Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKwbubA33YjqagkIUAHniBBWyS0C_ikzPePxRUWzlDIDBC6EkoZgbbwcymh7bPScsLqn_SDnytHygd8OcV6AbEj8pRBhP4DEhGBuCpMMXPM8C2ddum7tW_9ZjwhRVAGPGbuBf8P4rmbYfkfj7qwnEQpg9tD-Iil_pHdPEYhiqqF0Bo4sPvP8oVi-5TpRRv/s728-rw-e30/backdoor.jpg",
         "Title": "Ivanti Vulnerability Exploited to Install 'DSLog' Backdoor on 670+ IT Infrastructures",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 14, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiLarWGymcFRzMRU-YJRZH-DY48VLkLQv3vwvwqMG5dBhTG4Uq5iJlndUAvsnOKbGl4wa7ZSF7SiuAjgj59q_E6PMlECCraZvaBB03OpQPFIhQYzC8O-CLgK4vrdbFjixz5AeWOeTviTJRtAo2_JeP3lucVHN0VA2sg0TaOgx4wi_YniFwevStGA1pAjxb/s728-rw-e30/roundcube.jpg",
         "Title": "Alert: CISA Warns of Active 'Roundcube' Email Attacks - Patch Now",
         "Source": "The Hacker News",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
+        "Img_URL": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/3:2/w_1280%2Cc_limit/security_ai_girlfriends_privacy_data.jpg",
+        "Title": "\u2018AI Girlfriends\u2019 Are a Privacy Nightmare",
+        "Source": "WIRED",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/02/fat-patch-tuesday-february-2024-edition/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
+        "Title": "Fat Patch Tuesday, February 2024 Edition",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Feb 13, 2024"
     },
     {
@@ -46,35 +95,42 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQvKycBvhYLe6HuK8U27v50iiqVM96dNvP1P9yg-1Xaoz6ot1QrIvgqRLtXwZU-QJtPjZiMRAGAG_dCijSWXHLd5JoM7pOzV1Yja4Su-3bLLcpqUpCQlATHQK4eAhytMKek9As8VYQy8ZO28Y4CQCj5sp5QXlWEO8p49_ExCkZQrW-7Od34OcxNmtASQq/s728-rw-e30/ransomware.jpg",
         "Title": "Rhysida Ransomware Cracked, Free Decryption Tool Released",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s728-rw-e30/vciso.jpg",
-        "Title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxRK4tPI2hLcsecH1IbrZGpxEBUkSps390MM2wP2PHqm9Q6TLwDgUAU_uGTvAhufbGPtPKrMNnIElu8SAhr5ol_q4XvNDJKLDaIFk96ARir92PcWc6jeMQs1gqlod0lVIjyjZos_yYcxS1ycPEQNvbrnNMQ561FA45cYcBoKbTRaEYsfv_2YY71IlflsA/s728-rw-e30/hackers.jpg",
         "Title": "4 Ways Hackers use Social Engineering to Bypass MFA",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s728-rw-e30/vciso.jpg",
+        "Title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/cisa-and-openssf-release-framework-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivCxDiaARNbL_L8FQclCSGrAHqr-2DJug87B8YcEmldOx4UzWkUrqhqOr80FoTemo7j1t1_-RJZ1JrFBPdZwQM39LTFiAcnFGZKb1VV_ytXVaiQVBHgvna1ZiOM3jrzs9Cob7JOTM4SqmT8zAVsEHUSG6VXvvhdajtfBFJb-uMytxrCxHl4K-6TsuNY0I/s728-rw-e30/cisa.jpg",
         "Title": "CISA and OpenSSF Release Framework for Package Repository Security",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 12, 2024"
+    },
+    {
+        "Link": "https://thn.news/2024-saas-security-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyqhWZMGYpF5i1XMZAwGkU4NNNWDJqDBKwmiFO-tP3ZRUn9EhnYl46_ukYUV-m6FbAOB5YneWyL9Te04v2d13y18b_y2gLQ0IaQghnj8e1m_aUNFhH1jaLOCcS7UZSNk6RGCxhwsbHPkZjnVHAxFRQHPusd-MI5Z7sx2GZFx2JuIvQSw1H0lYhNZg4DHW/s728-rw-e30/wing.jpg",
+        "Title": "Four Out of Five Organizations Have Employees Using Breached Applications",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/why-are-compromised-identities.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2WSwZk5dsXN4T1vBqab5c9yHRw1GzmDyK9e7CvxOvvLD6AbUolGHoWoITdPghnQtju4YYBXn3yTVes0zUJWgu7oJ_scastCzcCv4_5YrC0BL1wB4eIgPFnKDgab7t-cMgEHYjESMOy7f1_vMoBB5jiIxuLYbhtCr65HyiGZRQnR06teo1C7QZbv0b9o/s728-rw-e30/lock.jpg",
         "Title": "Why Are Compromised Identities the Nightmare to IR Speed and Efficiency?",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 13, 2024"
+        "Timestamp": "Feb 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html",
@@ -91,23 +147,9 @@
         "Timestamp": "Feb 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s728-rw-e30/vciso.jpg",
-        "Title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXEKTnOYM_YsJ_LE6GkDNuae-rQXTZcnr-j9S1TYcdN7g_JfV0mFkPbieFs4U1JhhKJdd4031VjX2K3lqlTpKYW_ff32eV9jNUWYF6qmaEEmEi4AHXXGvdsAg-UUvcUO8Q810V-NbyuC7QN0UyJjgS6usBJTlYZd2QGUF044auS0zPahujlIlHtmGBWU9/s728-rw-e30/warzone.jpg",
         "Title": "U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
-        "Link": "https://thn.news/2024-saas-security-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyqhWZMGYpF5i1XMZAwGkU4NNNWDJqDBKwmiFO-tP3ZRUn9EhnYl46_ukYUV-m6FbAOB5YneWyL9Te04v2d13y18b_y2gLQ0IaQghnj8e1m_aUNFhH1jaLOCcS7UZSNk6RGCxhwsbHPkZjnVHAxFRQHPusd-MI5Z7sx2GZFx2JuIvQSw1H0lYhNZg4DHW/s728-rw-e30/wing.jpg",
-        "Title": "Four Out of Five Organizations Have Employees Using Breached Applications",
         "Source": "The Hacker News",
         "Timestamp": "Feb 12, 2024"
     },
@@ -122,34 +164,6 @@
         "Link": "https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja5AlujvTKd5ZTOI0NwjKfrJXCKMOQNII665vxjlUOKbrZImzlaFRh48avgqIksNsv4hb51H8jpar6degm-o20QyH8aB4xB3zEGGiz4o7BJFq8fqiEqHaI-fZPgQVKw8SEO_pdOUdGqCUoLzhNAt5rmR70t_tQV0wvNiC4HcobKCCnI2DEmI0L77_ktMLW/s728-rw-e30/hacker.jpg",
         "Title": "Raspberry Robin Malware Upgrades with Discord Spread and New Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzeYW2YOCXsXrKbl-SbJF0bg4U0835JS7JDJsxiv6EjMHjOX2s5Vw5qrX1Kb1tD2amym3jqFPCQcac8gctiZ3tIgvydNLZEF0cB3VsupQnkKUaBEplA6T_AWGy_ltPRn02MJG-NHHDzfFzFkXCgJQOXKoTsBOcdjnSf5WjeCOXts0BSLId5PFn5lQFCO3N/s728-rw-e30/android.jpg",
-        "Title": "MoqHao Android Malware Evolves with Auto-Execution Capability",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1200/featured_image.png",
-        "Title": "Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9u55BjQ6lRRnM0uP5v0jDZXcB6895DkmCgsHrTXK_WgUgzm7ROXmSlcO7cAC5NMXyjz_RUIG_-oyIr0xBfIn0lkqvT2G2WZIabGwFJT7r323FOocpFK1CLfBmcxO9Wab1XWGFjxR6x2XUztVhuhq1qnMvh0M5hEiaih3O-oIa2ovf5xuJJB4nzwv4rM6q/s728-rw-e30/banking.jpg",
-        "Title": "New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s728-rw-e30/Fortinet.jpg",
-        "Title": "Fortinet Warns of Critical FortiOS SSL VPN Flaw Likely Under Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Feb 12, 2024"
     },
@@ -210,11 +224,11 @@
         "Timestamp": "Jan 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/",
+        "Link": "https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/65aad21f57e55f902415ff71/3:2/w_1280%2Cc_limit/quanta-lede-SecrerDatabase-byAllisonLi-Lede-scaled.jpg",
         "Title": "Cryptographers Are Getting Closer to Enabling Fully Private Internet Searches",
         "Source": "WIRED",
-        "Timestamp": "Jan 21, 2024"
+        "Timestamp": "Jan 20, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/",
@@ -364,13 +378,6 @@
         "Timestamp": "Nov 14, 2023"
     },
     {
-        "Link": "https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/11/exp-forgot.png",
-        "Title": "It\u2019s Still Easy for Anyone to Become You at Experian",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 11, 2023"
-    },
-    {
         "Link": "https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/",
         "Img_URL": "https://media.wired.com/photos/6554f718afb528bcc13dd1c1/3:2/w_1280%2Cc_limit/Google's-New-Titan-Security-Keys-Are-Another-Piece-in-the-Password-Killing-Puzzle-Security.jpg",
         "Title": "Google\u2019s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle",
@@ -446,12 +453,5 @@
         "Title": "The Easiest Ways to Access Your Computer Remotely",
         "Source": "WIRED",
         "Timestamp": "Sep 30, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/651764a084712a7a4a0cd666/3:2/w_1280%2Cc_limit/Router-Hacking-Security-Roundup-Security-480550635.jpg",
-        "Title": "Chinese Hackers Are Hiding in Routers in the US and Japan",
-        "Source": "WIRED",
-        "Timestamp": "Sep 23, 2023"
     }
 ]
