@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCm2bsM-Qx_6aBmc99YgP7KCjGCZV5XMYW8RVMsVzIcO29d9dXbAwcqpYNrXhI3_MVG-cA9yDr7ja6J8s-yhhKQh1cVLq3McwzCcJzVOJDsaNFju1w1Yrx_46F1Dw_RhEBOhXOFJsnC7WogQdAPFt4gvBIKWE1aUnuAj5AD_1mPc6E6Kp-KFcB30HGzqb/s728-rw-e365/spyware.jpg",
+        "Title": "Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii1ckRMYOfKko9MuRs3D8SJSJmxeK_lggSExCVhp3hYbNQKFJ0gqESTp6n5bs6jo3pAYHYL9AoknLSDwDe6W5JVM6D0tOMDg1AMgyHbpWaB9IhgO-gz7b1PwL3O0SiG9bfg3cuFHombLc9LmfX9FDLiITiHgsWvM6_tHCJyx9K2gJDV4jPR8vUx2g-m-A/s728-rw-e365/THN-Visual.png",
         "Title": "How to Achieve the Best Risk-Based Alerting (Bye-Bye SIEM)",
@@ -14,16 +21,16 @@
         "Timestamp": "Feb 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s728-rw-e365/cyberattack.jpg",
-        "Title": "Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws",
+        "Link": "https://thehackernews.uk/state-of-ai-cloud-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHSJOm3k4XE_qoOLA7DlGEmh7w9RrGRknaRhHju_ANvTjqGtrg2nuERFqEEqHmxop1EiwspuvnI3vH8zwf_aNvR5GXvlvqMmNkqnrC4z-gawCjbuqeEywxpIgkT-p4IpMd0P56NxObSKkXHWzrGfz_nZh1X8cKP2QfklgGsyffzyRhkYCpj1oQB2rzbL23/s728-rw-e365/AI-Report.png",
+        "Title": "The Critical State of AI in the Cloud",
         "Source": "The Hacker News",
         "Timestamp": "Feb 19, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/state-of-ai-cloud-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHSJOm3k4XE_qoOLA7DlGEmh7w9RrGRknaRhHju_ANvTjqGtrg2nuERFqEEqHmxop1EiwspuvnI3vH8zwf_aNvR5GXvlvqMmNkqnrC4z-gawCjbuqeEywxpIgkT-p4IpMd0P56NxObSKkXHWzrGfz_nZh1X8cKP2QfklgGsyffzyRhkYCpj1oQB2rzbL23/s728-rw-e365/AI-Report.png",
-        "Title": "The Critical State of AI in the Cloud",
+        "Link": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s728-rw-e365/cyberattack.jpg",
+        "Title": "Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Feb 19, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Feb 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGi83EXCmiqbUBTEZAeWMznukfI5HiGQlzXyx-AF_DvmexXI64PcZTKwCplJtPIO5MlYXKC7tNL1Bx6O4nIjmIx-k8pD4w9SjkWFK-F-4WPnS0aG6WaNshKBWAoKjgn-wrYarqISlbamkvmmxAmbM-6MndkfSY3Jn-vq1wLLAqFIQ560I8_MQclM9i5o4t/s728-rw-e365/cybersecurity.jpg",
-        "Title": "How Businesses Can Safeguard Their Communication Channels Against Hackers",
+        "Link": "https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1200/featured_image.png",
+        "Title": "Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA",
         "Source": "The Hacker News",
         "Timestamp": "Feb 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1200/featured_image.png",
-        "Title": "Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA",
+        "Link": "https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGi83EXCmiqbUBTEZAeWMznukfI5HiGQlzXyx-AF_DvmexXI64PcZTKwCplJtPIO5MlYXKC7tNL1Bx6O4nIjmIx-k8pD4w9SjkWFK-F-4WPnS0aG6WaNshKBWAoKjgn-wrYarqISlbamkvmmxAmbM-6MndkfSY3Jn-vq1wLLAqFIQ560I8_MQclM9i5o4t/s728-rw-e365/cybersecurity.jpg",
+        "Title": "How Businesses Can Safeguard Their Communication Channels Against Hackers",
         "Source": "The Hacker News",
         "Timestamp": "Feb 19, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsylQV-v4Puy4OHUSxWRQmAkvsQqmpB5oLn6AjFyeE-vs7ukdX7NCYsMxbws7IJi-iosKChhfgjjQpiFVBhQjsRcjEi7BwyZW582Xo9ojQ1LEC-CMNzhVPkOJuC-P_IB8lFaT27B2aJUKL9MKCdNZww0GI1ArlnotYv4i4W1akPjtAw2ZEi9-9l0gctTCy/s728-rw-e365/macos.jpg",
         "Title": "RustDoor macOS Backdoor Targets Cryptocurrency Firms with Fake Job Offers",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 19, 2024"
+        "Timestamp": "Feb 16, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg76mD5kT1ooIXyg5h6DGg4ut1VuTRoAOso6KXne4BUFV60GTsh4WW-h6PFM-5nDFl1L6-r4kK6qMFa4Kl1NBGjOrrEVDEDZ2o8T2l9VEqIMhFWaEFH-JIsUSH5WUzXdYaLJpJ2X3ohY9m1FCLGj7oEfvSRPW-FmlCFlqROJHeIjsgLvazyz06xcxLmrjI/s728-rw-e365/main.jpg",
         "Title": "Why We Must Democratize Cybersecurity",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim77xbXmGAd0HChhj1ys1w6aha_gFXwFkuruF01q5wqgBjowYIOP3V2X-8p4tM-q77fS0u8_P616fZLYuKsezgBDfxg9uVVztMNaqQ6xmFoh0xZOBV4KQhDqVj8o55bYTJV89Y3GI5xMsW2HKccFSZvjqT026kxl35clD9gkSZJopfdkWoNr-5Pb4BONOg/s728-rw-e365/sms.jpg",
-        "Title": "Malicious 'SNS Sender' Script Abuses AWS for Bulk Smishing Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 16, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Feb 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/us-state-government-network-breached.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjz-SCds6mCTpcF1Ik0GaHWbJ3mVGwXWmkZpK0kSFSxG_ccYf3IvMW8Udkg5KTssf5Z1492olF8GTcHlN4IKIeL7Fat-4rpVJX9wAHgo5vLhTdZzxPlQ47VCHfb_nCj_eZt-z6e0Bz4SoBFBHyX2P3wK50HvsWcG-U268VAj2XBXIqBVP7WhaYN16ThFK/s728-rw-e365/cisa.jpg",
-        "Title": "U.S. State Government Network Breached via Former Employee's Account",
+        "Link": "https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim77xbXmGAd0HChhj1ys1w6aha_gFXwFkuruF01q5wqgBjowYIOP3V2X-8p4tM-q77fS0u8_P616fZLYuKsezgBDfxg9uVVztMNaqQ6xmFoh0xZOBV4KQhDqVj8o55bYTJV89Y3GI5xMsW2HKccFSZvjqT026kxl35clD9gkSZJopfdkWoNr-5Pb4BONOg/s728-rw-e365/sms.jpg",
+        "Title": "Malicious 'SNS Sender' Script Abuses AWS for Bulk Smishing Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 16, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/state-of-ai-cloud-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHSJOm3k4XE_qoOLA7DlGEmh7w9RrGRknaRhHju_ANvTjqGtrg2nuERFqEEqHmxop1EiwspuvnI3vH8zwf_aNvR5GXvlvqMmNkqnrC4z-gawCjbuqeEywxpIgkT-p4IpMd0P56NxObSKkXHWzrGfz_nZh1X8cKP2QfklgGsyffzyRhkYCpj1oQB2rzbL23/s728-rw-e365/AI-Report.png",
         "Title": "The Critical State of AI in the Cloud",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/us-state-government-network-breached.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjjz-SCds6mCTpcF1Ik0GaHWbJ3mVGwXWmkZpK0kSFSxG_ccYf3IvMW8Udkg5KTssf5Z1492olF8GTcHlN4IKIeL7Fat-4rpVJX9wAHgo5vLhTdZzxPlQ47VCHfb_nCj_eZt-z6e0Bz4SoBFBHyX2P3wK50HvsWcG-U268VAj2XBXIqBVP7WhaYN16ThFK/s728-rw-e365/cisa.jpg",
+        "Title": "U.S. State Government Network Breached via Former Employee's Account",
         "Source": "The Hacker News",
         "Timestamp": "Feb 16, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb6kXWdLKWvVuVI9cpmRB78A6VPfXutnk4bsZZEM9aVLd9ANhHCvTytNlk9A75hIWG1QY_iC2wCY5BkZtqvdEFi8G7V0SabknW6A8koDnVIqWr8iOR7TAktp4o4C8F1gGXN0q1IRAxjarcPVCd0BX9FP6LO5gIJztRR1eWtcjZ_1bRNjSp4YbBWGe0Yl2t/s728-rw-e365/deepfake.jpg",
         "Title": "Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv5SAH03ByPHtsexLk3p7YU4tQnOqLoEP6Kt217_WiK3fZE9cngB9OXfZB1HZhQz7ag8gm4VNWCQusKxkgv-cJg0PSw2O67OC0qH3pDqq5kscsH6UcovYK60F0KustYk8Y0jga8fkyMgWtftwJJYCGVu4tSzBilZiSVvXZz1OT6nxgjYoLLc8w2a_-EqFr/s728-rw-e365/email-hacking.jpg",
-        "Title": "Critical Exchange Server Flaw (CVE-2024-21410) Under Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Feb 16, 2024"
     },
