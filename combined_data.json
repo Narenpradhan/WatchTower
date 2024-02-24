@@ -77,6 +77,13 @@
         "Timestamp": "Feb 24, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/isoon-china-hack-for-hire-leak/",
+        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
+        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Feb 24, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png",
         "Title": "New Leak Shows Business Side of China\u2019s APT Menace",
@@ -224,13 +231,6 @@
         "Timestamp": "Jan 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/",
-        "Img_URL": "https://media.wired.com/photos/65b3e5613d0c5372a6d08a4f/3:2/w_1280%2Cc_limit/23andMe-Security-Roundup-GettyImages-1230824674.jpg",
-        "Title": "23andMe Failed to Detect Account Intrusions for Months",
-        "Source": "WIRED",
-        "Timestamp": "Jan 27, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/ermagerd.png",
         "Title": "Who is Alleged Medibank Hacker Aleksandr Ermakov?",
@@ -243,6 +243,13 @@
         "Title": "Using Google Search to Find Software Can Be Risky",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 25, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/nso-group-lobbying-israel-hamas-war/",
+        "Img_URL": "https://media.wired.com/photos/65b3e5613d0c5372a6d08a4f/3:2/w_1280%2Cc_limit/23andMe-Security-Roundup-GettyImages-1230824674.jpg",
+        "Title": "23andMe Failed to Detect Account Intrusions for Months",
+        "Source": "WIRED",
+        "Timestamp": "Jan 24, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/",
@@ -446,12 +453,5 @@
         "Title": "A New Protocol Vulnerability Will Haunt the Web for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 09, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/easiest-ways-access-computer-remotely/",
-        "Img_URL": "https://media.wired.com/photos/65203361f9c5320e83248c07/3:2/w_1280%2Cc_limit/Amid-Bankruptcy%2C-How-FTX-Scrambled-To-Save-$1-Billion-From-Thieves-Security-Alamy-2HFBNJT.jpg",
-        "Title": "Inside FTX\u2019s All-Night Race to Stop a $1 Billion Crypto Heist",
-        "Source": "WIRED",
-        "Timestamp": "Oct 08, 2023"
     }
 ]
