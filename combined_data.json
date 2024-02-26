@@ -1,80 +1,80 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/02/north-korean-hackers-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGDhsaqhIBMhDmbJF0ehMy20bTF4bE4Q8fkntLnZLex9LMVq0o6jq6ARh0ScNZzJduGGgiE0rz6q1d4bC3bphTAnfFdc3m8L8cumNW3uAujHk5ph251gwbRyaf08j8Quaf6QG-EmXzlldY7c2QCjjwCY-v2KGBKCzuUHB1RnY0nQMXn0lu3XRY72RBj0/s728-rw-e365/software.jpg",
+        "Title": "North Korean Hackers Targeting Developers with Malicious npm Packages",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
+        "Title": "Three Tips to Protect Your Secrets from AI Accidents",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmzNYuEjF0LCryXuALF9uTLywG0rWuh3O0t2vd1t6Sp7DBuUBcGOF6foSfvRfTHOQTBjZURkvfYc-ZRSJw7tQOTsEKDSpYEmpCxl7JZyHB6e4szac1DKApxMFFg4ipCkPSFZ39UZO880Q4CHtjV2uwOhpi10PVjiiUfv3-KLlXMi-o0XxB0tjOLUcT6Kl/s728-rw-e365/cyber.jpg",
+        "Title": "Banking Trojans Target Latin America and Europe Through Google Cloud Run",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/third-party-risk-management",
+        "Img_URL": "https://thehackernews.com/images/-guGr7KVb5CQ/ZdxkNvINghI/AAAAAAAA7zI/4zJl46CuXjIEJI0AuKoJuAgbJdVzTy-TACNcBGAsYHQ/s728-rw-e365/wing.jpg",
+        "Title": "Are You Vulnerable to Third-Party Breaches Through Interconnected SaaS Apps?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4tXDeSd9wtd0IkQGa2sECge3cv83iF2b3N3IfPyl7BHgcxRZEp8p9UMqzkmqKW6bPkyge03nhBnHCZ5Es21UfxZLd8XWCTmoJZjKPy7Y4isAZLFj8DEhJ-SAqfii04_9oSYVTF77Xz91f3knc-8nRVdZibPVQcny00Fq8crGwhopNyT5bzlql0JndksH/s728-rw-e365/lockbit.jpg",
+        "Title": "LockBit Ransomware Group Resurfaces After Law Enforcement Takedown",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 26, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xrv3BUpxdTQySXPFni8fpn9yXjmkHyKmUlj0ucy2IhxcSZAfPBN4kEqbCwqzKPQ_QBiYEdD_TBrOag-wY6e1jiF7kRlQ2L1jd0ge3q8Fq-25tQgM1yqP6u_hF5RNCsIMVA3Gy21dl4nGEVYqW0KFhaa-Z-gvaZbEsbu_4aFXNkANWnaHrWBJ7CSC-Qxd/s728-rw-e365/fbi.jpg",
         "Title": "Authorities Claim LockBit Admin \"LockBitSupp\" Has Engaged with Law Enforcement",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/microsoft-expands-free-logging.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYfojJSqdIoSFAUQiKjssiS_ODeJrTiELPIXBgO9P1PT7BMWYBKNvodylXfVsLfh2sOrhWOlnKkjrTeWfpjzTUriFME6B7NscVt3WFKVFZ4AihtoWP8XKVQkogX_JYDebhn7qG2qj5oRW5tkLjB2DsOEmKAT_tH-uGvahAvq80ejxXouILu7Y46J9n5Fn/s728-rw-e365/MS.jpg",
         "Title": "Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s728-rw-e365/sython.jpg",
-        "Title": " Dormant PyPI Package Compromised to Spread Nova Sentinel Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/state-of-ai-cloud-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHSJOm3k4XE_qoOLA7DlGEmh7w9RrGRknaRhHju_ANvTjqGtrg2nuERFqEEqHmxop1EiwspuvnI3vH8zwf_aNvR5GXvlvqMmNkqnrC4z-gawCjbuqeEywxpIgkT-p4IpMd0P56NxObSKkXHWzrGfz_nZh1X8cKP2QfklgGsyffzyRhkYCpj1oQB2rzbL23/s728-rw-e365/AI-Report.png",
-        "Title": "The Critical State of AI in the Cloud",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_HwkesnmtsT_nLK-15tI3N-OIF24qFDpWnNJzv1EHs3xhgj_FXedqNCKjQC5tg1sFJmyU0KtiKKYxeWq5hPTtJ0ZrlZy-_HZuEkacA9B0OXT5rrrOKghyphenhyphen6TZ5LR2vrgNAe9sXGYMlIZP3HL2WfA-Zr4tuUbQgxhA27sHDN-HYNj59CL62GYBgZMwE_dMR/s728-rw-e365/ai.jpg",
-        "Title": "Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s728-rw-e365/Tines-SOC-Automation-Capability-Matrix-article1.jpg",
-        "Title": "How to Use Tines's SOC Automation Capability Matrix",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s728-rw-e365/apple.jpg",
-        "Title": "Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCb3lbR5kKaNE9_BRADHrZqnNzA8MYLNnIDfJ8esB94HKtdiQsqC0exNVk5hWYeLbeUYgQyjqJoIshnKImmBKXjjSU_QWjoQnFtll_ge1xVfpf-nAl_f15ERLDetjxzj__ejnde7ebtIh3E27BN3Xm5UTrexnvX5p7oL_dT8oq25Pl5jwRT1UqeQb4VO8/s728-rw-e365/wing.jpg",
         "Title": "How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities ",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4CkF0FKmQkSKVnLecasyDcNvbolw8jlgsCh7i43vbtEBYq70p-8v8M3FmNlMZL4toXP8MOioKQ6o6diIS3b8unxjoh8E6K5bQYdebD41oVcGHmT19Z36txtw8PPcA_Oo83oZ5MbHhefLnPel5jh073XdA88Jpk2FRsXgtS2dc43lUU8KwNW7_jsiF7FRk/s728-rw-e365/avast.jpg",
-        "Title": "FTC Slams Avast with $16.5 Million Fine for Selling Users' Browsing Data",
+        "Link": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s728-rw-e365/sython.jpg",
+        "Title": " Dormant PyPI Package Compromised to Spread Nova Sentinel Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s728-rw-e365/apple.jpg",
-        "Title": "Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage",
+        "Link": "https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_HwkesnmtsT_nLK-15tI3N-OIF24qFDpWnNJzv1EHs3xhgj_FXedqNCKjQC5tg1sFJmyU0KtiKKYxeWq5hPTtJ0ZrlZy-_HZuEkacA9B0OXT5rrrOKghyphenhyphen6TZ5LR2vrgNAe9sXGYMlIZP3HL2WfA-Zr4tuUbQgxhA27sHDN-HYNj59CL62GYBgZMwE_dMR/s728-rw-e365/ai.jpg",
+        "Title": "Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS9ApKf9qeb9o5Y2LcxqESomxrcUsYmTXjjGug5b2i3K6lYD7hYx8NFXWeIn8msh3hr0yy3jUJ4RWf8n6hD4k8jiJO9Dz1vW3CBCcmwKG-a_1Lx5HES3csVB9x8x1dqVUMgnveroustRiN-KDgmlan9KUFpVFoxs33LSvrNmJegzA5kZXvzB-SPmU0PMk/s728-rw-e365/ssh-malware.jpg",
-        "Title": "Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks",
+        "Link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s728-rw-e365/Tines-SOC-Automation-Capability-Matrix-article1.jpg",
+        "Title": "How to Use Tines's SOC Automation Capability Matrix",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 25, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://www.wired.com/story/isoon-china-hack-for-hire-leak/",
@@ -84,87 +84,87 @@
         "Timestamp": "Feb 24, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png",
-        "Title": "New Leak Shows Business Side of China\u2019s APT Menace",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 22, 2024"
+        "Link": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s728-rw-e365/apple.jpg",
+        "Title": "Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s728-rw-e365/hacking.jpg",
-        "Title": "A New Age of Hacktivism ",
+        "Link": "https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4CkF0FKmQkSKVnLecasyDcNvbolw8jlgsCh7i43vbtEBYq70p-8v8M3FmNlMZL4toXP8MOioKQ6o6diIS3b8unxjoh8E6K5bQYdebD41oVcGHmT19Z36txtw8PPcA_Oo83oZ5MbHhefLnPel5jh073XdA88Jpk2FRsXgtS2dc43lUU8KwNW7_jsiF7FRk/s728-rw-e365/avast.jpg",
+        "Title": "FTC Slams Avast with $16.5 Million Fine for Selling Users' Browsing Data",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/russian-government-software-backdoored.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj49rhqqA-mxtmox1fybU0tENIeJuA_2g3BytqZBQjH8PEScWg5QxtfprIfKf7oQcv-YabbjzNAltHcZCbA0sLFmrXjUdRB9DIAhzOYFuNeoasslqkEQNKZ-OfevXS-UIIISE53qayWiM2qXMpUF1lPRepm3Cqyczrw62w9Kqa1HSkcP9MP-162wM8cus/s728-rw-e365/north-korean-hackers.jpg",
-        "Title": "Russian Government Software Backdoored to Deploy Konni RAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
+        "Timestamp": "Feb 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCb3lbR5kKaNE9_BRADHrZqnNzA8MYLNnIDfJ8esB94HKtdiQsqC0exNVk5hWYeLbeUYgQyjqJoIshnKImmBKXjjSU_QWjoQnFtll_ge1xVfpf-nAl_f15ERLDetjxzj__ejnde7ebtIh3E27BN3Xm5UTrexnvX5p7oL_dT8oq25Pl5jwRT1UqeQb4VO8/s728-rw-e365/wing.jpg",
         "Title": "How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities ",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
+        "Timestamp": "Feb 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s728-rw-e365/apple.jpg",
+        "Title": "Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/third-party-risk-management",
+        "Img_URL": "https://thehackernews.com/images/-guGr7KVb5CQ/ZdxkNvINghI/AAAAAAAA7zI/4zJl46CuXjIEJI0AuKoJuAgbJdVzTy-TACNcBGAsYHQ/s728-rw-e365/wing.jpg",
+        "Title": "Are You Vulnerable to Third-Party Breaches Through Interconnected SaaS Apps?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS9ApKf9qeb9o5Y2LcxqESomxrcUsYmTXjjGug5b2i3K6lYD7hYx8NFXWeIn8msh3hr0yy3jUJ4RWf8n6hD4k8jiJO9Dz1vW3CBCcmwKG-a_1Lx5HES3csVB9x8x1dqVUMgnveroustRiN-KDgmlan9KUFpVFoxs33LSvrNmJegzA5kZXvzB-SPmU0PMk/s728-rw-e365/ssh-malware.jpg",
+        "Title": "Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s728-rw-e365/hacking.jpg",
+        "Title": "A New Age of Hacktivism ",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/russian-government-software-backdoored.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj49rhqqA-mxtmox1fybU0tENIeJuA_2g3BytqZBQjH8PEScWg5QxtfprIfKf7oQcv-YabbjzNAltHcZCbA0sLFmrXjUdRB9DIAhzOYFuNeoasslqkEQNKZ-OfevXS-UIIISE53qayWiM2qXMpUF1lPRepm3Cqyczrw62w9Kqa1HSkcP9MP-162wM8cus/s728-rw-e365/north-korean-hackers.jpg",
+        "Title": "Russian Government Software Backdoored to Deploy Konni RAT Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/us-offers-15-million-bounty-to-hunt.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9B_XlCcneNO3rItPlLzMIQzGGW-t-EX8jCnxgj4wsSkos4hPxoK7A1yF5wK_jVmZb2D3P3u1Ih1wQ1gvyCmXQ-dJ8-N53ONQ6gBUnNy5LI9jg2vsfgCyYfGvzJ8K9Bo2ekIoPew4Pne_dHHPxqc8u_3BTUo_5cSp9MMpa-yh3An8IQ8wj0BrlKFATM9wz/s728-rw-e365/lockbit-2.png",
         "Title": "U.S. Offers $15 Million Bounty to Hunt Down LockBit Ransomware Leaders",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/state-of-ai-cloud-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHSJOm3k4XE_qoOLA7DlGEmh7w9RrGRknaRhHju_ANvTjqGtrg2nuERFqEEqHmxop1EiwspuvnI3vH8zwf_aNvR5GXvlvqMmNkqnrC4z-gawCjbuqeEywxpIgkT-p4IpMd0P56NxObSKkXHWzrGfz_nZh1X8cKP2QfklgGsyffzyRhkYCpj1oQB2rzbL23/s728-rw-e365/AI-Report.png",
-        "Title": "The Critical State of AI in the Cloud",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
+        "Timestamp": "Feb 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s728-rw-e365/wifi-hacking.jpg",
         "Title": "New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
+        "Timestamp": "Feb 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdwRoEj5MBI3Hv5VHDRdVqzIQdeVz1l3eDAvckNEY7VKhoNL0GgfCtaFBJQOqE0vXHzeD4bo_-rv990jTtU72nqi5MvLVPvOMLCPBbG0h1MQAnITHfBzAw5QV818CwfGBqGny9D_XcQaGWwYE7qsb984bl5MWqIBQ5RL74TwYhfVDaM_1mchJrIyoh8E2/s728-rw-e365/attack.jpg",
         "Title": "Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS",
         "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
+        "Timestamp": "Feb 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrU7kQyj3Noo_e-GI9EPyq99JFzESySs_fM6EAeA7TBg_wAQ-wPGRWgQWjd-jEnhRe5IUyNjKemzKWQDx4EAvPuk_VTsgN3wVqT1EJ3k95td23NUWnw54y_h9Fy6X2xBP6oGQ0xfP2mAY0w6vdsQsFn5rjeJhigAAhyd4x9x9sCVTpCxGxQTIq-23Vt4/s1200/apps.jpg",
-        "Title": "6 Ways to Simplify SaaS Identity Governance",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-h3tA0nOel4bkV9qIxLZVXmLKCwIoOq-Phz0CNOtmC-z0HqiRVdwwWVODeG470YqCHuWNQ1Y7o7dx97VPtigukSN-Q9PCbmczI5fxeNU2fBbKp3R9PQGgnTFm4ekNTU6rH5gurO0zIY69HmzUuBhR_cgAyTEvWHgaYrmWHNDE9CLsaBXjpUjILXcaBWG/s728-rw-e365/gib-main.jpg",
-        "Title": "New 'VietCredCare' Stealer Targeting Facebook Advertisers in Vietnam",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBlEFPEVNM4jnXssAF3BxzBlQMYFa2EslLaGrXUEBK12LE7HKfYB0xmkkSXICa0bCg9L4szoY_3aoTV7pOF4XpDng8AiHZaTx0RH3HmKKG_xfT6wqvQ7zOS_SXje985ewnxMb_nL1mkzPaktFv1fkyb85xe6a0tqJKodQZG0s7v1pS6W8cxgWpiRiZthU/s728-rw-e365/header.png",
-        "Title": "Cybersecurity for Healthcare\u2014Diagnosing the Threat Landscape and Prescribing Solutions for Recovery",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTef13t7V2gVnFNsHMgyQEO92YSYmZN4sudh5idghwYeOBkhkF7W4if8mXy31_f44oh418iG5H43UyPvkJTH6fXU3WPfFVXmzWci6a19xmT987TiTpDpONlCKH5UJSGKi0pKf2Hk6KPScO9s-5sXVvQlVNWpND1ovAhgWok5eqrGd8lsCciFjknT36A1jv/s728-rw-e365/signal.jpg",
-        "Title": "Signal Introduces Usernames, Allowing Users to Keep Their Phone Numbers Private",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png",
+        "Title": "New Leak Shows Business Side of China\u2019s APT Menace",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Feb 22, 2024"
     },
     {
@@ -236,6 +236,13 @@
         "Title": "Who is Alleged Medibank Hacker Aleksandr Ermakov?",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 26, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/freecadad.png",
+        "Title": "Using Google Search to Find Software Can Be Risky",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 25, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/",
@@ -369,13 +376,6 @@
         "Title": "Microsoft\u2019s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime",
         "Source": "WIRED",
         "Timestamp": "Dec 05, 2023"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2023/11/okta-breach-affected-all-customer-support-users/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/10/okta-ss.png",
-        "Title": "Okta: Breach Affected All Customer Support Users",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 29, 2023"
     },
     {
         "Link": "https://www.wired.com/story/f1-las-vegas-grand-prix-security/",
