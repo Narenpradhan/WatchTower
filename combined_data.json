@@ -1,15 +1,15 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s728-rw-e365/telecom.jpg",
-        "Title": "GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks",
+        "Link": "https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_6sv5NpzuZbAcWf78ZEfAMC5xtLD2_skoPU3hluY7oPp6fi0IqgZHMHUdLwQBE5d4E6Ib_tBfzikaR1lLkjjm7KScRsahF0S3BsjC-TI4lJ0VxdW6WSk_0PAg0dfBMz1vl1vyF5ZrShqZBmyEUdCCrmIMkJKBebQu3MibEkJzgGSrqdDCJgMGQyQGFDr/s728-rw-e365/ms.jpg",
+        "Title": "New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems",
         "Source": "The Hacker News",
         "Timestamp": "Feb 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/why-risk-based-approach-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6cLLRZYUdyF4Dnf1amlfa1G46ydHBiTWhI9yV87d4ARWXvZez8qO6eAwr02DWcjB9cVWoli8jb56rXNm4eSLjqjjD4KIAKPAnh9-qFBZgAwKhm19FK1i3m_6_96_rQ4Pr0RdEzNKhU0Q_ONyYhvu7CMPTAx1J-MrqGPyZtgnOrq3XRN__0iChMnedXk/s728-rw-e365/lock.jpg",
-        "Title": "How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI",
+        "Link": "https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s728-rw-e365/telecom.jpg",
+        "Title": "GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 29, 2024"
     },
@@ -28,6 +28,13 @@
         "Timestamp": "Feb 29, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/02/why-risk-based-approach-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6cLLRZYUdyF4Dnf1amlfa1G46ydHBiTWhI9yV87d4ARWXvZez8qO6eAwr02DWcjB9cVWoli8jb56rXNm4eSLjqjjD4KIAKPAnh9-qFBZgAwKhm19FK1i3m_6_96_rQ4Pr0RdEzNKhU0Q_ONyYhvu7CMPTAx1J-MrqGPyZtgnOrq3XRN__0iChMnedXk/s728-rw-e365/lock.jpg",
+        "Title": "How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 29, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/new-backdoor-targeting-european.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv97o8vYE-bCkTyewAfwFqbXiCjYGi5xgZFIUcejJ_po1BiM36fhNzLV3YGMtwpx2RWJ4OenARptW_EE9QXOrAANbn0mj0EHnoKC3UU9O7qiPHKGWkJpDvktX6gfXsQPzoNU1s5Ltxu5deZ4kxqNKQXC8mGfVlAdem0fvA_bGVEw3rLpLQNwvwjwe7loKG/s728-rw-e365/cyber.jpg",
         "Title": "New Backdoor Targeting European Officials Linked to Indian Diplomatic Events",
@@ -42,16 +49,16 @@
         "Timestamp": "Feb 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBMGRX-FRhy6CYsKZLAVAI-R4Vq-OHFhUpTO_Ky7GF6UcUGzv6Kh0jYNdC5kTLbexZbAJ5ePXVe8uxpWGu0GVnHjUIKIJnONT-dn6y7dSF_2aQonNdE0ZqL9S-u1McXUreNtn-zlj4B6ssalzlcEsOZ-fB-aGbVYsuor2yZxvsD6GAlahvlQ7RT7oyJ0C/s728-rw-e365/china.jpg",
-        "Title": "Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware",
+        "Link": "https://thehackernews.com/2024/02/saas-compliance-through-nist.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rIwl-lQkPV8X_cOhyohAfEdpQaZ_uy-Qmq9MFpMM4SdHtm3m7sza3ZUYkQtbV-SK6LHHG2s_-4sT5NjDUhQMJMzsRM1Qeya12ztXUpuXE-w6NTG-vWU1qTfkhYkvb84jm8Gw_jU35JWEQJR5JGfcsN7rjGXdTY5D13O6fT-_CObdurC-YboK7y1tX4o/s728-rw-e365/as.jpg",
+        "Title": "SaaS Compliance through the NIST Cybersecurity Framework",
         "Source": "The Hacker News",
         "Timestamp": "Feb 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/saas-compliance-through-nist.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rIwl-lQkPV8X_cOhyohAfEdpQaZ_uy-Qmq9MFpMM4SdHtm3m7sza3ZUYkQtbV-SK6LHHG2s_-4sT5NjDUhQMJMzsRM1Qeya12ztXUpuXE-w6NTG-vWU1qTfkhYkvb84jm8Gw_jU35JWEQJR5JGfcsN7rjGXdTY5D13O6fT-_CObdurC-YboK7y1tX4o/s728-rw-e365/as.jpg",
-        "Title": "SaaS Compliance through the NIST Cybersecurity Framework",
+        "Link": "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBMGRX-FRhy6CYsKZLAVAI-R4Vq-OHFhUpTO_Ky7GF6UcUGzv6Kh0jYNdC5kTLbexZbAJ5ePXVe8uxpWGu0GVnHjUIKIJnONT-dn6y7dSF_2aQonNdE0ZqL9S-u1McXUreNtn-zlj4B6ssalzlcEsOZ-fB-aGbVYsuor2yZxvsD6GAlahvlQ7RT7oyJ0C/s728-rw-e365/china.jpg",
+        "Title": "Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware",
         "Source": "The Hacker News",
         "Timestamp": "Feb 29, 2024"
     },
@@ -70,10 +77,10 @@
         "Timestamp": "Feb 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukNpThGmmz9-8zmRGUTKJL6gtlyhpbhwRefdGHdH66jQQgaMHEKbIfpLQ7K5XFOhVL5CzKc9KcuYQP_UEu7iU2UQRpUvD1ogEMqMWwEbmuxzXM-CkWUNQX461hhQzhSt6ebjLiiiqq0Bilwh8KZ9KGZXyHZpb2KuCcqhYAdsw4zG8ur70ONEkbgYQTANE/s728-rw-e365/hacker.jpg",
-        "Title": "FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/",
+        "Img_URL": "https://media.wired.com/photos/65dfcc595e7030af474191d9/3:2/w_1280%2Cc_limit/022824-security-critical-updates-feb-01.jpg",
+        "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
+        "Source": "WIRED",
         "Timestamp": "Feb 29, 2024"
     },
     {
@@ -84,16 +91,16 @@
         "Timestamp": "Feb 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/building-your-privacy-compliant.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekU7XcahU23ovu_89Z9cqz7mylVDYXpNb6ttWBfXYjfRXEcR7-4NaC8Hp3-azQKttgbliMyHLqrzcn4pSvUzLfujDSArgoN8ek1djzIEGT8Z_9KKt5z78U39bbSGaSTrZ4X7rYCi_9rXowrT9VwTRZ0axA90KZb44Py-0rVCMBAkOmkyAeXESdg7-sC3V/s728-rw-e365/tt.jpg",
-        "Title": "Building Your Privacy-Compliant Customer Data Platform (CDP) with First-Party Data",
+        "Link": "https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukNpThGmmz9-8zmRGUTKJL6gtlyhpbhwRefdGHdH66jQQgaMHEKbIfpLQ7K5XFOhVL5CzKc9KcuYQP_UEu7iU2UQRpUvD1ogEMqMWwEbmuxzXM-CkWUNQX461hhQzhSt6ebjLiiiqq0Bilwh8KZ9KGZXyHZpb2KuCcqhYAdsw4zG8ur70ONEkbgYQTANE/s728-rw-e365/hacker.jpg",
+        "Title": "FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s728-rw-e365/ssh.jpg",
-        "Title": "Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management",
+        "Link": "https://thehackernews.com/2024/02/building-your-privacy-compliant.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekU7XcahU23ovu_89Z9cqz7mylVDYXpNb6ttWBfXYjfRXEcR7-4NaC8Hp3-azQKttgbliMyHLqrzcn4pSvUzLfujDSArgoN8ek1djzIEGT8Z_9KKt5z78U39bbSGaSTrZ4X7rYCi_9rXowrT9VwTRZ0axA90KZb44Py-0rVCMBAkOmkyAeXESdg7-sC3V/s728-rw-e365/tt.jpg",
+        "Title": "Building Your Privacy-Compliant Customer Data Platform (CDP) with First-Party Data",
         "Source": "The Hacker News",
         "Timestamp": "Feb 28, 2024"
     },
@@ -105,9 +112,9 @@
         "Timestamp": "Feb 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGv9kL2-aXelC70ozqlh2auUP3YKZ6oZldx88C0I7A5IF0vetX4K3ZWmaN6Wi_N62ILtESUEaOYEFlTDzHAqzFKNgPb5BgeKI_S2PK4GHN13rRNA44jLHntKfnc8vnLyD8T1OyxCO-G87u6Lblu3DftrrqR7lxkqq71bCxmlw1uCTknARP3NUdK0LpT4w/s728-rw-e365/stealer.jpg",
-        "Title": "TimbreStealer Malware Spreading via Tax-themed Phishing Scam Targets IT Users",
+        "Link": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s728-rw-e365/ssh.jpg",
+        "Title": "Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management",
         "Source": "The Hacker News",
         "Timestamp": "Feb 28, 2024"
     },
@@ -115,6 +122,13 @@
         "Link": "https://thehackernews.uk/third-party-risk-management",
         "Img_URL": "https://thehackernews.com/images/-guGr7KVb5CQ/ZdxkNvINghI/AAAAAAAA7zI/4zJl46CuXjIEJI0AuKoJuAgbJdVzTy-TACNcBGAsYHQ/s728-rw-e365/wing.jpg",
         "Title": "Are You Vulnerable to Third-Party Breaches Through Interconnected SaaS Apps?",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGv9kL2-aXelC70ozqlh2auUP3YKZ6oZldx88C0I7A5IF0vetX4K3ZWmaN6Wi_N62ILtESUEaOYEFlTDzHAqzFKNgPb5BgeKI_S2PK4GHN13rRNA44jLHntKfnc8vnLyD8T1OyxCO-G87u6Lblu3DftrrqR7lxkqq71bCxmlw1uCTknARP3NUdK0LpT4w/s728-rw-e365/stealer.jpg",
+        "Title": "TimbreStealer Malware Spreading via Tax-themed Phishing Scam Targets IT Users",
         "Source": "The Hacker News",
         "Timestamp": "Feb 28, 2024"
     },
@@ -154,13 +168,6 @@
         "Timestamp": "Feb 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnzXkaxocpZ-9_7WOZx-Sz4dWCkItUEl-XvMl7zFPf8P8jvD-T8FYZ2qAixJzkQplGiEV-Aq56VafeqKyDN7ps3YgNXuYtXQdE75xV0Mab5jNy-ZtJBzFL_n-mk-nqCktqBf5Yqbv3QY2cycwgnZVy0Qx5lllGr_sBeffPxwZVcedLDqtFqUCb1LT7GPj/s728-rw-e365/ai.jpg",
-        "Title": "New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 28, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
         "Img_URL": "https://media.wired.com/photos/65de4369d7afba84ab89dabb/3:2/w_1280%2Cc_limit/Ransomware-Groups-Are-Bouncing-Back-Faster-from-Law-Enforcement-Busts-Security-GettyImages-121352268.jpg",
         "Title": "Ransomware Groups Are Bouncing Back Faster From Law Enforcement Busts",
@@ -182,18 +189,18 @@
         "Timestamp": "Feb 25, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/isoon-china-hack-for-hire-leak/",
-        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
-        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
-        "Source": "WIRED",
-        "Timestamp": "Feb 24, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png",
         "Title": "New Leak Shows Business Side of China\u2019s APT Menace",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 22, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/",
+        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
+        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Feb 21, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/feds-seize-lockbit-ransomware-websites-offer-decryption-tools-troll-affiliates/",
@@ -446,12 +453,5 @@
         "Title": "Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws",
         "Source": "WIRED",
         "Timestamp": "Oct 24, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/us-congress-spyware/",
-        "Img_URL": "https://media.wired.com/photos/65370e2cec27098bc7d13884/3:2/w_1280%2Cc_limit/They-Cracked-a-Locked-$200-Million-Bitcoin-Thumb-Drive-Social.jpg",
-        "Title": "They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird",
-        "Source": "WIRED",
-        "Timestamp": "Oct 14, 2023"
     }
 ]
