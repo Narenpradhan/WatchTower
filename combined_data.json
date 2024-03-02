@@ -77,6 +77,13 @@
         "Timestamp": "Mar 02, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/push-notification-privacy-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65e26378c1cf92902dc16ebe/3:2/w_1280%2Cc_limit/Security-News-This-Week--The-Privacy-Danger-Lurking-in-Push-Notifications-Security-GettyImages-1378472002.jpg",
+        "Title": "The Privacy Danger Lurking in Push Notifications",
+        "Source": "WIRED",
+        "Timestamp": "Mar 02, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/here-come-the-ai-worms/",
         "Img_URL": "https://media.wired.com/photos/65e0e13fef1050f96f06c160/3:2/w_1280%2Cc_limit/security_ai_worm_email_spam.jpg",
         "Title": "Here Come the AI Worms",
@@ -182,11 +189,11 @@
         "Timestamp": "Feb 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
+        "Link": "https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/",
         "Img_URL": "https://media.wired.com/photos/65de4369d7afba84ab89dabb/3:2/w_1280%2Cc_limit/Ransomware-Groups-Are-Bouncing-Back-Faster-from-Law-Enforcement-Busts-Security-GettyImages-121352268.jpg",
         "Title": "Ransomware Groups Are Bouncing Back Faster From Law Enforcement Busts",
         "Source": "WIRED",
-        "Timestamp": "Feb 27, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/",
@@ -446,12 +453,5 @@
         "Title": "This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups",
         "Source": "WIRED",
         "Timestamp": "Nov 02, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/",
-        "Img_URL": "https://media.wired.com/photos/6542ce96ef12892fe0b649cf/3:2/w_1280%2Cc_limit/Microsoft-Security-GettyImages-1207074415.jpg",
-        "Title": "Microsoft Does Damage Control With Its New \u2018Secure Future Initiative\u2019",
-        "Source": "WIRED",
-        "Timestamp": "Oct 31, 2023"
     }
 ]
