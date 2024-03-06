@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s728-rw-e365/server-security.jpg",
+        "Title": "Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXvLe82q9CecyYhk9sDApk1yDpbqX2UcFoxy1TGDiSZBH8cKV2x2u2ja6PIQw4oCs5KZRdNqB8iDDfIvWg1Hwq81_zaMG93Wiecw21b91cmeZleuID1lh0K5kJZUuAkocjTNFx1rg6dPe09RWJXyR-CAQzlpleO7Qb4VDUQZ7IgIKh6c24hQj0BlUr0kMe/s728-rw-e365/blackcat.jpg",
+        "Title": "Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 06, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/a-new-way-to-manage-your-web-exposure.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBCJBFK8oTIgGm1I1YOIuNGpJFILOC7gcXPAMlbreUcgxcaw-_bIADIvxuWRCeLRmPFG56tG9koeqMygJYhnHNLLJHR-Vw0e9yqT8TzQo688H04_IrAuwrCMX3rWgfRRDJC8jHY4-xifSwZ-P1hqMd6NPM63-bby8jKYi3DwIabnv1VKzPocvVvD1vEXM/s728-rw-e365/1.jpg",
         "Title": "A New Way To Manage Your Web Exposure: The Reflectiz Product Explained",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
+        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 06, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
-        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
+        "Link": "https://thehackernews.com/2024/03/vmware-issues-security-patches-for-esxi.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvc4vGa2IyZoEewlN5F2HLawFs-FiMfHbW4QfyADIIlt1iZUhIxuVnmgW6OYvwtnA8RRwFKws709zm8x4QGA3Gjc61Xg_tf94C7Z17P13EC8cbOs76bcIf9a5b7SMFV8G7sd8QGfCevWnV_Q9Kg2-lbEV_iKtrOBXnxT2bvyaoQSZsfA8u0fYqJ3e/s728-rw-e30/vmware.jpg",
+        "Title": "VMware Issues Security Patches for ESXi, Workstation, and Fusion Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/vmware-issues-security-patches-for-esxi.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvc4vGa2IyZoEewlN5F2HLawFs-FiMfHbW4QfyADIIlt1iZUhIxuVnmgW6OYvwtnA8RRwFKws709zm8x4QGA3Gjc61Xg_tf94C7Z17P13EC8cbOs76bcIf9a5b7SMFV8G7sd8QGfCevWnV_Q9Kg2-lbEV_iKtrOBXnxT2bvyaoQSZsfA8u0fYqJ3e/s728-rw-e30/vmware.jpg",
-        "Title": "VMware Issues Security Patches for ESXi, Workstation, and Fusion Flaws",
+        "Link": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrU7kQyj3Noo_e-GI9EPyq99JFzESySs_fM6EAeA7TBg_wAQ-wPGRWgQWjd-jEnhRe5IUyNjKemzKWQDx4EAvPuk_VTsgN3wVqT1EJ3k95td23NUWnw54y_h9Fy6X2xBP6oGQ0xfP2mAY0w6vdsQsFn5rjeJhigAAhyd4x9x9sCVTpCxGxQTIq-23Vt4/s1200/apps.jpg",
+        "Title": "6 Ways to Simplify SaaS Identity Governance",
         "Source": "The Hacker News",
         "Timestamp": "Mar 06, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrU7kQyj3Noo_e-GI9EPyq99JFzESySs_fM6EAeA7TBg_wAQ-wPGRWgQWjd-jEnhRe5IUyNjKemzKWQDx4EAvPuk_VTsgN3wVqT1EJ3k95td23NUWnw54y_h9Fy6X2xBP6oGQ0xfP2mAY0w6vdsQsFn5rjeJhigAAhyd4x9x9sCVTpCxGxQTIq-23Vt4/s1200/apps.jpg",
-        "Title": "6 Ways to Simplify SaaS Identity Governance",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s728-rw-e365/apple.jpg",
         "Title": "Urgent: Apple Issues Critical Updates for Actively Exploited Zero-Day Flaws",
@@ -63,17 +77,10 @@
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0um1c_AUXqVfb2GFv3e5PTmKA56qyJ7MjQeA8XzuquGGwxWO8OSD90Z5qktApKMGLn_zmOcGkUIKxaC85R3zDyQLqTpeboBnMJwPTtPRNMAJZDDt31xayMVmY1I762u0_ZO8NDu0M_vdCOUokuruR0QMPEm5a38KiXZzNf2gVbOpQfBJDABIWrJMB1oxg/s728-rw-e365/korean-hacker.jpg",
-        "Title": "Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpQAbx1Lf4aNmx3Kmc8Me22HhWe_-vgF7xWdMIq0HmMyMrLDdwATPKsbdT-J5KRe1Z7W1k0ChsTbINmpmxwcWZTPGc6eNya4HoEROGW-u2BqTlcobVrFlHaGxPXKtCDUMGrYS6cSEgqX-aQXiTVSbw2MUmxIGDDNDbL_nsDTxmeR2t5QK-xviK9rmd3Ek/s728-rw-e365/in.jpg",
-        "Title": "What is Exposure Management and How Does it Differ from ASM?",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/meta-hacked-users-draining-resources/",
+        "Img_URL": "https://media.wired.com/photos/65e7c232eeebaaa58cda3a92/3:2/w_1280%2Cc_limit/Meta-Phishing-Scam-Problem-Security-1240854109.jpg",
+        "Title": "Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say",
+        "Source": "WIRED",
         "Timestamp": "Mar 06, 2024"
     },
     {
@@ -84,9 +91,37 @@
         "Timestamp": "Mar 05, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0um1c_AUXqVfb2GFv3e5PTmKA56qyJ7MjQeA8XzuquGGwxWO8OSD90Z5qktApKMGLn_zmOcGkUIKxaC85R3zDyQLqTpeboBnMJwPTtPRNMAJZDDt31xayMVmY1I762u0_ZO8NDu0M_vdCOUokuruR0QMPEm5a38KiXZzNf2gVbOpQfBJDABIWrJMB1oxg/s728-rw-e365/korean-hacker.jpg",
+        "Title": "Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpQAbx1Lf4aNmx3Kmc8Me22HhWe_-vgF7xWdMIq0HmMyMrLDdwATPKsbdT-J5KRe1Z7W1k0ChsTbINmpmxwcWZTPGc6eNya4HoEROGW-u2BqTlcobVrFlHaGxPXKtCDUMGrYS6cSEgqX-aQXiTVSbw2MUmxIGDDNDbL_nsDTxmeR2t5QK-xviK9rmd3Ek/s728-rw-e365/in.jpg",
+        "Title": "What is Exposure Management and How Does it Differ from ASM?",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrU7kQyj3Noo_e-GI9EPyq99JFzESySs_fM6EAeA7TBg_wAQ-wPGRWgQWjd-jEnhRe5IUyNjKemzKWQDx4EAvPuk_VTsgN3wVqT1EJ3k95td23NUWnw54y_h9Fy6X2xBP6oGQ0xfP2mAY0w6vdsQsFn5rjeJhigAAhyd4x9x9sCVTpCxGxQTIq-23Vt4/s1200/apps.jpg",
+        "Title": "6 Ways to Simplify SaaS Identity Governance",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 05, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQ_-tsESax3W-oWScC3Oryrn26kripICgK0eKDzhyFua-GlWVfzuRDP9chLSSNXzbsCGVqhaarsHwdHCPD4KXutx1Q4UN50X3P5mMjD-tAR9I06bSy93m_sB-ArORs7vsoDGldHiaYGtp0PLavuIgYxAYM1eXq6ekcgfVImj996D1DDr0NQ-lCm9GHjBt/s728-rw-e365/info.jpg",
         "Title": "Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
+        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 05, 2024"
     },
@@ -98,23 +133,9 @@
         "Timestamp": "Mar 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPrU7kQyj3Noo_e-GI9EPyq99JFzESySs_fM6EAeA7TBg_wAQ-wPGRWgQWjd-jEnhRe5IUyNjKemzKWQDx4EAvPuk_VTsgN3wVqT1EJ3k95td23NUWnw54y_h9Fy6X2xBP6oGQ0xfP2mAY0w6vdsQsFn5rjeJhigAAhyd4x9x9sCVTpCxGxQTIq-23Vt4/s1200/apps.jpg",
-        "Title": "6 Ways to Simplify SaaS Identity Governance",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 05, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nenSi9LuwDRIIJN6aqJT_DVuWYXh3Kr6nZIbvkDFaT0OOgTYY-mSrKaJz5CbzEFWUKviHpBd5XBv-t0XeSwZvCEOscyyHlfHtfUhKJZemSNj2Yef7w9Apw4zFGzvchjhMSptokaBNgt3gWQv38aiTWbxt3vuSP_PH4ZQLOwf9wqbDEO2zDWoOq302PdK/s728-rw-e365/email.jpg",
         "Title": "Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
-        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 05, 2024"
     },
@@ -147,20 +168,6 @@
         "Timestamp": "Mar 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/phobos-ransomware-aggressively.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipis2AWczDGHyE4CqOxOMPxIe8J5ZBgnedOSepVTRhAm2d7x0t4xfUcRReejLkyGFGmHP3IAA0BMz_iVOx0YdofWrtG7YMcHEs6WuWyRJwk0F5n4GGcHFtFKmrURCnAhZ4kkQ4pEnSCxOik5ZATRL9I2c4FBw77spqSHXHkq28OZcz8isYLLNAKAMVchul/s728-rw-e365/ransomware.jpg",
-        "Title": "Phobos Ransomware Aggressively Targeting U.S. Critical Infrastructure",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvL2MwMpUOGNYxtRnizTzpBX7MxBDEAzGMgjEKl9SHQEPpmBaLJxjzdN-55YH7KQ15BiVTjijt-QMEf4z_-AfSBhmXDViIirhNVoC23UTKNCWSEhDXBV_u08exMCFKP9zqsrx6Rjq2BOgW9YqMw0kJG1LFdpRUtQT9I5G0n5DVyxToW2cktWqtfLFTEWC/s728-rw-e365/whatsapp.jpg",
-        "Title": "U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 05, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/push-notification-privacy-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/65e26378c1cf92902dc16ebe/3:2/w_1280%2Cc_limit/Security-News-This-Week--The-Privacy-Danger-Lurking-in-Push-Notifications-Security-GettyImages-1378472002.jpg",
         "Title": "The Privacy Danger Lurking in Push Notifications",
@@ -182,18 +189,18 @@
         "Timestamp": "Feb 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/",
-        "Img_URL": "https://media.wired.com/photos/65dfcc595e7030af474191d9/3:2/w_1280%2Cc_limit/022824-security-critical-updates-feb-01.jpg",
-        "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
-        "Source": "WIRED",
-        "Timestamp": "Feb 29, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/doug-scammer.png",
         "Title": "Calendar Meeting Links Used to Spread Mac Malware",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 28, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
+        "Img_URL": "https://media.wired.com/photos/65dfcc595e7030af474191d9/3:2/w_1280%2Cc_limit/022824-security-critical-updates-feb-01.jpg",
+        "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
+        "Source": "WIRED",
+        "Timestamp": "Feb 27, 2024"
     },
     {
         "Link": "https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/",
@@ -271,13 +278,6 @@
         "Title": "From Cybercrime Saul Goodman to the Russian GRU",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 07, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/02/arrests-in-400m-sim-swap-tied-to-heist-at-ftx/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/elliptic-ftx.png",
-        "Title": "Arrests in $400M SIM-Swap Tied to Heist at FTX?",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 01, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/",
@@ -399,6 +399,13 @@
         "Timestamp": "Dec 16, 2023"
     },
     {
+        "Link": "https://krebsonsecurity.com/2023/12/ten-years-later-new-clues-in-the-target-breach/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2014/06/rescator-rr.png",
+        "Title": "Ten Years Later, New Clues in the Target Breach",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 14, 2023"
+    },
+    {
         "Link": "https://www.wired.com/story/microsoft-digital-crime-unit-2023/",
         "Img_URL": "https://media.wired.com/photos/6557ed60591547359b3c7022/3:2/w_1280%2Cc_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
         "Title": "Cybersecurity Industry Baffled by FBI\u2019s Lack of Action on Ransomware Gang",
@@ -446,12 +453,5 @@
         "Title": "Sandworm Hackers Caused Another Blackout in Ukraine\u2014During a Missile Strike",
         "Source": "WIRED",
         "Timestamp": "Nov 04, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-secure-future-initiative/",
-        "Img_URL": "https://media.wired.com/photos/65450b438e91e3ca88ad9cbb/3:2/w_1280%2Cc_limit/Flipper-Zero-Security-Roundup.jpg",
-        "Title": "This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups",
-        "Source": "WIRED",
-        "Timestamp": "Nov 02, 2023"
     }
 ]
