@@ -1,87 +1,129 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s728-rw-e365/wordpress.jpg",
-        "Title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
+        "Link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s728-rw-e365/entro.jpg",
+        "Title": "Secrets Sensei: Conquering Secrets Management Challenges",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s728-rw-e365/china.jpg",
-        "Title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
+        "Link": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaAPOVxPO0YHuxnsfw5jiHI1LU3BX1FsRt7b03_3rrCMup0bIgwINorRpPhekZDYtnlkopOJoc4psihkW7Mm-AlPg1JV5Cee15it-mo3FolBqHB9Md7lrZkUqzo72LdjIdAkX_XqYRN5R0myNyl2kyN-JZCYkFaroL_r1geuT3iBZ594aHCixNZ9X9k4O/s728-rw-e365/cisco.jpg",
+        "Title": "Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
-        "Title": "Human vs. Non-Human Identity in SaaS",
+        "Link": "https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0k6vbpiBt-n43SxfwrC24zjk1V1-aRo9iPPjDwIHRZf2hQ-ZHslErrNGfvecXHWyfX-ZWCFwuGz8jMJjjIxApPmRuvqY1L1h6X-XMQBVVRIqQukUJUacd0b9TaZokjVIMGiMsNgY1irMCMYfN8PFh3DFgfAaT9YEcBdmF5vzgICL9UMxCPXSKfWqBec7/s728-rw-e365/cyber.jpg",
+        "Title": "QEMU Emulator Exploited as Tunneling Tool to Breach Company Network",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
         "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
         "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s728-rw-e365/ai-tech.jpg",
-        "Title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
+        "Link": "https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbj-slUrGC8Ec2aRwoel6Yg-ccDDJA-_Fm8Vp-QcCgE8TvkOmKvj_kKUgn_i-Qt1jzP3_cnsWQ0w_nYbgGbeL5o5N17CP-U14DUHVsrB4wSIQhk2pBL_G0m9xiAP0O2lhHTBV32qwVCDa2AIue7JRgBgv68E5QLhPplv_aKKS_ZtrjFIzyM__sjoSef-d/s728-rw-e365/cisa.jpg",
+        "Title": "CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQT6HLhwlbCCJAtoCnMAsq4Vo8CAMFByLsYqvgbvEHbcJD4WmK0_5lUC_QaFX1x9ldXDKBC2BQFwE8OZKhaW0Y4BFk8jX2g2PrrJRwzV09VYyLTMhOfV0rYX9WKNyi00TTYVkVRBAZyLkfuCZF9i67UIMDhWS7kCFhuyvflNVWw0Z_OI7qOdcBNZl8KCke/s728-rw-e365/hacking.jpg",
-        "Title": "New Python-Based Snake Info Stealer Spreading Through Facebook Messages",
+        "Link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s728-rw-e365/wordpress.jpg",
+        "Title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s728-rw-e365/cyberattack.jpg",
-        "Title": "Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware",
+        "Link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s728-rw-e365/china.jpg",
+        "Title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
         "Title": "Three Tips to Protect Your Secrets from AI Accidents",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
+        "Title": "Human vs. Non-Human Identity in SaaS",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s728-rw-e365/ai-tech.jpg",
+        "Title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQT6HLhwlbCCJAtoCnMAsq4Vo8CAMFByLsYqvgbvEHbcJD4WmK0_5lUC_QaFX1x9ldXDKBC2BQFwE8OZKhaW0Y4BFk8jX2g2PrrJRwzV09VYyLTMhOfV0rYX9WKNyi00TTYVkVRBAZyLkfuCZF9i67UIMDhWS7kCFhuyvflNVWw0Z_OI7qOdcBNZl8KCke/s728-rw-e365/hacking.jpg",
+        "Title": "New Python-Based Snake Info Stealer Spreading Through Facebook Messages",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s728-rw-e365/cyberattack.jpg",
+        "Title": "Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s728-rw-e365/server-security.jpg",
         "Title": "Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXvLe82q9CecyYhk9sDApk1yDpbqX2UcFoxy1TGDiSZBH8cKV2x2u2ja6PIQw4oCs5KZRdNqB8iDDfIvWg1Hwq81_zaMG93Wiecw21b91cmeZleuID1lh0K5kJZUuAkocjTNFx1rg6dPe09RWJXyR-CAQzlpleO7Qb4VDUQZ7IgIKh6c24hQj0BlUr0kMe/s728-rw-e365/blackcat.jpg",
         "Title": "Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
+        "Title": "Three Tips to Protect Your Secrets from AI Accidents",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/a-new-way-to-manage-your-web-exposure.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBCJBFK8oTIgGm1I1YOIuNGpJFILOC7gcXPAMlbreUcgxcaw-_bIADIvxuWRCeLRmPFG56tG9koeqMygJYhnHNLLJHR-Vw0e9yqT8TzQo688H04_IrAuwrCMX3rWgfRRDJC8jHY4-xifSwZ-P1hqMd6NPM63-bby8jKYi3DwIabnv1VKzPocvVvD1vEXM/s728-rw-e365/1.jpg",
         "Title": "A New Way To Manage Your Web Exposure: The Reflectiz Product Explained",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
+        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s728-rw-e365/mm.png",
         "Title": "How to Find and Fix Risky Sharing in Google Drive",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
+        "Timestamp": "Mar 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/us-cracks-down-on-predatory-spyware.html",
@@ -98,23 +140,9 @@
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
-        "Title": "Three Tips to Protect Your Secrets from AI Accidents",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/alert-ghostsec-and-stormous-launch.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEbHFYkPgx1PUhVGiFx79Tkj2gTWlx22gNcIi1Q427jdMuBqJfAbE0C9nH50KEbrknkW2VGcigBsoUE12ppjODWF7g4hPoRY6l0PfrWSHPEMpFG_JkaqInRxtW6d32i_TPC_rSlv8_pzv0O-qMDwmYXaKfA-lNPohFgmbwnMy8pnrDvCpjLVCvnCnNNx89/s728-rw-e30/ransomware.jpg",
         "Title": "Alert: GhostSec and Stormous Launch Joint Ransomware Attacks in Over 15 Countries",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
-        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 06, 2024"
     },
@@ -140,31 +168,10 @@
         "Timestamp": "Mar 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpQAbx1Lf4aNmx3Kmc8Me22HhWe_-vgF7xWdMIq0HmMyMrLDdwATPKsbdT-J5KRe1Z7W1k0ChsTbINmpmxwcWZTPGc6eNya4HoEROGW-u2BqTlcobVrFlHaGxPXKtCDUMGrYS6cSEgqX-aQXiTVSbw2MUmxIGDDNDbL_nsDTxmeR2t5QK-xviK9rmd3Ek/s728-rw-e365/in.jpg",
-        "Title": "What is Exposure Management and How Does it Differ from ASM?",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQ_-tsESax3W-oWScC3Oryrn26kripICgK0eKDzhyFua-GlWVfzuRDP9chLSSNXzbsCGVqhaarsHwdHCPD4KXutx1Q4UN50X3P5mMjD-tAR9I06bSy93m_sB-ArORs7vsoDGldHiaYGtp0PLavuIgYxAYM1eXq6ekcgfVImj996D1DDr0NQ-lCm9GHjBt/s728-rw-e365/info.jpg",
-        "Title": "Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggmz8clVVtj3iZtAB7BjON9w8ClJrSdm6h0IwP-KzghDtIZaU6F7bun4L9gD2xFV0FVyH3WftBUFel0qtLt7LDt9uLOAzSzlQuVxopMHBKDmXuf6XwX-8zU400vuYeuswYPsc_eQD2H9a_c_0Y-UVsEwYcXuQzoqB90JNHkGJDaEoW4uPzJco2k0v4t7nI/s728-rw-e365/chatgpt.jpg",
-        "Title": "Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nenSi9LuwDRIIJN6aqJT_DVuWYXh3Kr6nZIbvkDFaT0OOgTYY-mSrKaJz5CbzEFWUKviHpBd5XBv-t0XeSwZvCEOscyyHlfHtfUhKJZemSNj2Yef7w9Apw4zFGzvchjhMSptokaBNgt3gWQv38aiTWbxt3vuSP_PH4ZQLOwf9wqbDEO2zDWoOq302PdK/s728-rw-e365/email.jpg",
-        "Title": "Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/meta-hacked-users-draining-resources/",
+        "Img_URL": "https://media.wired.com/photos/65e7c232eeebaaa58cda3a92/3:2/w_1280%2Cc_limit/Meta-Phishing-Scam-Problem-Security-1240854109.jpg",
+        "Title": "Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say",
+        "Source": "WIRED",
         "Timestamp": "Mar 06, 2024"
     },
     {
@@ -173,6 +180,13 @@
         "Title": "BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Healthcare",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/push-notification-privacy-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65e26378c1cf92902dc16ebe/3:2/w_1280%2Cc_limit/Security-News-This-Week--The-Privacy-Danger-Lurking-in-Push-Notifications-Security-GettyImages-1378472002.jpg",
+        "Title": "The Privacy Danger Lurking in Push Notifications",
+        "Source": "WIRED",
+        "Timestamp": "Mar 02, 2024"
     },
     {
         "Link": "https://www.wired.com/story/here-come-the-ai-worms/",
@@ -197,10 +211,17 @@
     },
     {
         "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
+        "Img_URL": "https://media.wired.com/photos/65dfcc595e7030af474191d9/3:2/w_1280%2Cc_limit/022824-security-critical-updates-feb-01.jpg",
+        "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
+        "Source": "WIRED",
+        "Timestamp": "Feb 27, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/",
         "Img_URL": "https://media.wired.com/photos/65de4369d7afba84ab89dabb/3:2/w_1280%2Cc_limit/Ransomware-Groups-Are-Bouncing-Back-Faster-from-Law-Enforcement-Busts-Security-GettyImages-121352268.jpg",
         "Title": "Ransomware Groups Are Bouncing Back Faster From Law Enforcement Busts",
         "Source": "WIRED",
-        "Timestamp": "Feb 27, 2024"
+        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/",
@@ -211,8 +232,8 @@
     },
     {
         "Link": "https://www.wired.com/story/isoon-china-hack-for-hire-leak/",
-        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
-        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
+        "Img_URL": "https://media.wired.com/photos/65d90ce5a068349256683564/3:2/w_1280%2Cc_limit/How-a-Right-Wing-Controversy-Could-Sabotage-US-Election-Security-Security-GettyImages-83273505.jpg",
+        "Title": "How a Right-Wing Controversy Could Sabotage US Election Security",
         "Source": "WIRED",
         "Timestamp": "Feb 24, 2024"
     },
@@ -222,6 +243,13 @@
         "Title": "New Leak Shows Business Side of China\u2019s APT Menace",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 22, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/",
+        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
+        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Feb 21, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/feds-seize-lockbit-ransomware-websites-offer-decryption-tools-troll-affiliates/",
@@ -235,6 +263,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png",
         "Title": "U.S. Internet Leaked Years of Internal, Customer Emails",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
+        "Img_URL": "https://media.wired.com/photos/65d50e8b735a52f796c0aa54/3:2/w_1280%2Cc_limit/Anne-Neuberger-Q&A-Security-GettyImages-1231220797.jpg",
+        "Title": "A Top White House Cyber Official Sees the \u2018Promise and Peril\u2019 in AI",
+        "Source": "WIRED",
         "Timestamp": "Feb 14, 2024"
     },
     {
@@ -273,6 +308,13 @@
         "Timestamp": "Jan 30, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/23andme-failed-to-detect-account-intrusions-for-months/",
+        "Img_URL": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/3:2/w_1280%2Cc_limit/security_ai_girlfriends_privacy_data.jpg",
+        "Title": "\u2018AI Girlfriends\u2019 Are a Privacy Nightmare",
+        "Source": "WIRED",
+        "Timestamp": "Jan 27, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/ermagerd.png",
         "Title": "Who is Alleged Medibank Hacker Aleksandr Ermakov?",
@@ -294,6 +336,20 @@
         "Timestamp": "Jan 24, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/",
+        "Img_URL": "https://media.wired.com/photos/65af08b39f8554eba9b09245/3:2/w_1280%2Cc_limit/NSO-Group%25E2%2580%2599s-attempts-to-revamp-its-tarnished-image-with-transparency-report-are-falling-flat-Security-2G8BKMW.jpg",
+        "Title": "Notorious Spyware Maker NSO Group Is Quietly Plotting a Comeback",
+        "Source": "WIRED",
+        "Timestamp": "Jan 21, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/cisa-emergency-directive-ivanti-vpn-patch-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65aad21f57e55f902415ff71/3:2/w_1280%2Cc_limit/quanta-lede-SecrerDatabase-byAllisonLi-Lede-scaled.jpg",
+        "Title": "Cryptographers Are Getting Closer to Enabling Fully Private Internet Searches",
+        "Source": "WIRED",
+        "Timestamp": "Jan 20, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2015/11/triangulationfraud.png",
         "Title": "Canadian Man Stuck in Triangle of E-Commerce Fraud",
@@ -308,11 +364,32 @@
         "Timestamp": "Jan 17, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
+        "Img_URL": "https://media.wired.com/photos/65aaee5f01ea01925b954b33/3:2/w_1280%2Cc_limit/US-Government-Urges-Patching-of-Ivanti-VPN-Vulnerabilities-Under-Active-Exploitation-Alamy-WAWPXD.jpg",
+        "Title": "US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked",
+        "Source": "WIRED",
+        "Timestamp": "Jan 16, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/us-school-shooter-emergency-plans-leak/",
+        "Img_URL": "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/3:2/w_1280%2Cc_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg",
+        "Title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
+        "Source": "WIRED",
+        "Timestamp": "Jan 11, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2019/05/suingyou.jpg",
         "Title": "Here\u2019s Some Bitcoin: Oh, and You\u2019ve Been Served!",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 10, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/sec-x-account-compromise/",
+        "Img_URL": "https://media.wired.com/photos/659f17ce3fe90f1d6e62fbf1/3:2/w_1280%2Cc_limit/leaked-data-school-science-GettyImages-489209474.jpg",
+        "Title": "US School Shooter Emergency Plans Exposed in a Highly Sensitive Database Leak",
+        "Source": "WIRED",
+        "Timestamp": "Jan 09, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/",
@@ -337,135 +414,58 @@
     },
     {
         "Link": "https://www.wired.com/story/cybersecurity-industry-fbi-ransomware/",
-        "Img_URL": "https://media.wired.com/photos/65af08b39f8554eba9b09245/3:2/w_1280%2Cc_limit/NSO-Group%25E2%2580%2599s-attempts-to-revamp-its-tarnished-image-with-transparency-report-are-falling-flat-Security-2G8BKMW.jpg",
-        "Title": "Notorious Spyware Maker NSO Group Is Quietly Plotting a Comeback",
+        "Img_URL": "https://media.wired.com/photos/659dbf12156f76cbf3057921/3:2/w_1280%2Cc_limit/Gary-Gensler-sec-GettyImages-1660268020.jpg",
+        "Title": "The SEC\u2019s Official X Account Was \u2018Compromised\u2019 and Used to Post Fake Bitcoin News",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-secure-future-initiative/",
+        "Link": "https://www.wired.com/story/microsoft-digital-crime-unit-2023/",
         "Img_URL": "https://media.wired.com/photos/6557ed60591547359b3c7022/3:2/w_1280%2Cc_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
         "Title": "Cybersecurity Industry Baffled by FBI\u2019s Lack of Action on Ransomware Gang",
         "Source": "WIRED",
-        "Timestamp": "Nov 02, 2023"
+        "Timestamp": "Dec 14, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/ftx-1-billion-crypto-heist/",
-        "Img_URL": "https://media.wired.com/photos/6542ce96ef12892fe0b649cf/3:2/w_1280%2Cc_limit/Microsoft-Security-GettyImages-1207074415.jpg",
-        "Title": "Microsoft Does Damage Control With Its New \u2018Secure Future Initiative\u2019",
+        "Link": "https://www.wired.com/story/23andme-breach-sec-update/",
+        "Img_URL": "https://media.wired.com/photos/657a0773d369f062c9dc83d8/3:2/w_1280%2Cc_limit/WorkingintheForensic_Print-1024x682-1024x682.jpg",
+        "Title": "Microsoft\u2019s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime",
         "Source": "WIRED",
-        "Timestamp": "Oct 09, 2023"
+        "Timestamp": "Dec 05, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/65203361f9c5320e83248c07/3:2/w_1280%2Cc_limit/Amid-Bankruptcy%2C-How-FTX-Scrambled-To-Save-$1-Billion-From-Thieves-Security-Alamy-2HFBNJT.jpg",
-        "Title": "Inside FTX\u2019s All-Night Race to Stop a $1 Billion Crypto Heist",
+        "Link": "https://www.wired.com/story/f1-las-vegas-grand-prix-security/",
+        "Img_URL": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/3:2/w_1280%2Cc_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
+        "Title": "The 23andMe Data Breach Keeps Spiraling",
         "Source": "WIRED",
-        "Timestamp": "Sep 23, 2023"
+        "Timestamp": "Nov 18, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/icc-cyberwar-crimes/",
-        "Img_URL": "https://media.wired.com/photos/64fa184b406fe6679c3e7755/3:2/w_1280%2Cc_limit/US-and-UK-Mount-Aggressive-Crackdown-on-Trickbot-and-Conti-Ransomware-Gangs-Security-GettyImages-502794865.jpg",
-        "Title": "US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs",
+        "Link": "https://www.wired.com/story/google-titan-security-key-passkeys/",
+        "Img_URL": "https://media.wired.com/photos/6557e61b8ba298d25d23d7f5/3:2/w_1280%2Cc_limit/Inside-The-Race-to-Secure-the-Formula-1-Las-Vegas-Grand-Prix-Security-GettyImages-1787267227.jpg",
+        "Title": "Inside the Race to Secure Formula 1\u2019s Las Vegas Grand Prix",
         "Source": "WIRED",
-        "Timestamp": "Sep 07, 2023"
+        "Timestamp": "Nov 15, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/trickbot-conti-sanctions-indictments/",
-        "Img_URL": "https://media.wired.com/photos/650e1db96c0207e6c416d223/3:2/w_1280%2Cc_limit/The-Shocking-Data-on-Kia-and-Hyundai-Thefts-in-the-US-Security-GettyImages-1254020637.jpg",
-        "Title": "The Shocking Data on Kia and Hyundai Thefts in the US",
+        "Link": "https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/",
+        "Img_URL": "https://media.wired.com/photos/6554f718afb528bcc13dd1c1/3:2/w_1280%2Cc_limit/Google's-New-Titan-Security-Keys-Are-Another-Piece-in-the-Password-Killing-Puzzle-Security.jpg",
+        "Title": "Google\u2019s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle",
         "Source": "WIRED",
-        "Timestamp": "Sep 07, 2023"
+        "Timestamp": "Nov 10, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/hacking-contests-cybercriminals/",
-        "Img_URL": "https://media.wired.com/photos/64f91bbcd07a0ebe6852d81f/3:2/w_1280%2Cc_limit/The-Hague's-Lead-Prosecutor-Says-He'll-Now-Charge-Cyberwar-Crimes-Security-GettyImages-1258493757.jpg",
-        "Title": "The International Criminal Court Will Now Prosecute Cyberwar Crimes",
+        "Link": "https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/",
+        "Img_URL": "https://media.wired.com/photos/654d4b3d71250da0bf23bfc8/3:2/w_1280%2Cc_limit/The-NSA-Is-Seriously-Freaked-Out-About-the-Threat-of-Chinese-Hackers-in-US-Critical-Infrastructure-Security-GettyImages-1041680676.jpg",
+        "Title": "The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure",
         "Source": "WIRED",
-        "Timestamp": "Aug 29, 2023"
+        "Timestamp": "Nov 09, 2023"
     },
     {
-        "Link": "https://www.wired.com/story/carderbee-china-hong-kong-supply-chain-attack/",
-        "Img_URL": "https://media.wired.com/photos/64ecf96deba2b507c997c0c6/3:2/w_1280%2Cc_limit/Criminals-Are-Running-Big-Money-Hacking-Competitions-Security-GettyImages-1141229196.jpg",
-        "Title": "The Weird, Big-Money World of Cybercrime Writing Contests",
+        "Link": "https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/654c0c0cf216c1860ca45fef/3:2/w_1280%2Cc_limit/Sandworm-Hackers-Caused-Another-Blackout-in-Ukraine%25E2%2580%2594During-a-Missile-Strike-Security-GettyImages-1244660782.jpg",
+        "Title": "Sandworm Hackers Caused Another Blackout in Ukraine\u2014During a Missile Strike",
         "Source": "WIRED",
-        "Timestamp": "Aug 22, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/qr-codes-phishing-attack/",
-        "Img_URL": "https://media.wired.com/photos/64e3ed7eef8671d76d4a8b81/3:2/w_1280%2Cc_limit/A-New-Supply-Chain-Attack-Hit-Close-to-100-Victims%25E2%2580%2594and-Clues-Point-to-China-Security-GettyImages-1587519761.png",
-        "Title": "A New Supply Chain Attack Hit Close to 100 Victims\u2014and Clues Point to China",
-        "Source": "WIRED",
-        "Timestamp": "Aug 19, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/",
-        "Img_URL": "https://media.wired.com/photos/64dfc1eb2db7cd67f965369c/3:2/w_1280%2Cc_limit/Security-Roundup-Energy-Company-QR-Codes-Phishing-Attack-1467764564.jpg",
-        "Title": "US Energy Firm Targeted With Malicious QR Codes in Mass Phishing Attack",
-        "Source": "WIRED",
-        "Timestamp": "Aug 10, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/downfall-flaw-intel-chips/",
-        "Img_URL": "https://media.wired.com/photos/64d544b66279e3647284478c/3:2/w_1280%2Cc_limit/Boston%2520Subway%2520Card%2520Hackers-2093.jpg",
-        "Title": "Teens Hacked Boston Subway Cards to Get Infinite Free Rides\u2014and This Time, Nobody Got Sued",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-ai-red-team/",
-        "Img_URL": "https://media.wired.com/photos/64d185e85d58439e770e466e/3:2/w_1280%2Cc_limit/Downfall-Intel-Bug-Security-GettyImages-1162790555.jpg",
-        "Title": "New \u2018Downfall\u2019 Flaw Exposes Valuable Data in Generations of Intel Chips",
-        "Source": "WIRED",
-        "Timestamp": "Aug 07, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/points-travel-rewards-platform-flaws/",
-        "Img_URL": "https://media.wired.com/photos/64cd85899ec11a2433532daf/3:2/w_1280%2Cc_limit/Microsoft-AI-Red-Team-Security-GettyImages-1481843876.jpg",
-        "Title": "Microsoft\u2019s AI Red Team Has Already Made the Case for Itself",
-        "Source": "WIRED",
-        "Timestamp": "Aug 03, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/ransomware-attacks-rise-2023/",
-        "Img_URL": "https://media.wired.com/photos/64caf196c859c4a1cdecc544/3:2/w_1280%2Cc_limit/Points.com-Scam-Security-GettyImages-931445252.jpg",
-        "Title": "Hackers Could Have Scored Unlimited Airline Miles by Targeting One Platform",
-        "Source": "WIRED",
-        "Timestamp": "Jul 12, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/electric-vehicle-charging-station-hacks/",
-        "Img_URL": "https://media.wired.com/photos/64adffb09ec11a2433532ca4/3:2/w_1280%2Cc_limit/money_ransome_GettyImages-1324303211.jpg",
-        "Title": "Ransomware Attacks Are on the Rise, Again",
-        "Source": "WIRED",
-        "Timestamp": "Jul 05, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/russia-gru-cadet-blizzard-ukraine-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/64a571b49a01d944fee36052/3:2/w_1280%2Cc_limit/616-ElectrifyAmerica-BakerCA-security.jpg",
-        "Title": "EV Charger Hacking Poses a \u2018Catastrophic\u2019 Risk",
-        "Source": "WIRED",
-        "Timestamp": "Jun 17, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/a-massive-vaccine-database-leak-exposes-ids-of-millions-of-indians/",
-        "Img_URL": "https://media.wired.com/photos/648cbb813d9e6b1cb17a8964/3:2/w_1280%2Cc_limit/russia_GRU-map_sec_GettyImages-865882198.jpg",
-        "Title": "A Newly Named Group of GRU Hackers is Wreaking Havoc in Ukraine",
-        "Source": "WIRED",
-        "Timestamp": "Jun 12, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/how-ai-protects-inbox-phishing/",
-        "Img_URL": "https://media.wired.com/photos/64876bcb8ca7067a92af16f3/3:2/w_1280%2Cc_limit/Needles_science_GettyImages-1195443864.jpg",
-        "Title": "A Massive Vaccine Database Leak Exposes IDs of Millions of Indians",
-        "Source": "WIRED",
-        "Timestamp": "Jun 03, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/",
-        "Img_URL": "https://media.wired.com/photos/647a458c8d6da8ab812d83e8/3:2/w_1280%2Cc_limit/How%25C2%25A0AI-Protects-(and-Attacks)-Your-Inbox-Gear-GettyImages-1350807277.jpg",
-        "Title": "How\u00a0AI Protects (and Attacks) Your Inbox",
-        "Source": "WIRED",
-        "Timestamp": "May 31, 2023"
+        "Timestamp": "Nov 04, 2023"
     }
 ]
