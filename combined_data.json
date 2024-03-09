@@ -1,5 +1,89 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlDIgbeHRjydU0ESg9Wz1BzTKcl84MusZZU4TlMTUXq92hqOD30x3B68Sied4Ep3piYxaPLkidUSYJ1SR0ENRyRrs-0spNoQN9nF-eF-mw9xx2azFbvQZL99Ws-F9BF2MDDn79wnu9S1z8Re517xMeflK1J0FLXK2bZlcADMtt0m9TgAVd-fNHYKlrkhj/s728-rw-e365/russian-hacker-microosft.jpg",
+        "Title": "Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s728-rw-e365/whatsapp.jpg",
+        "Title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s728-rw-e365/entro.jpg",
+        "Title": "Secrets Sensei: Conquering Secrets Management Challenges",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
+        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaAPOVxPO0YHuxnsfw5jiHI1LU3BX1FsRt7b03_3rrCMup0bIgwINorRpPhekZDYtnlkopOJoc4psihkW7Mm-AlPg1JV5Cee15it-mo3FolBqHB9Md7lrZkUqzo72LdjIdAkX_XqYRN5R0myNyl2kyN-JZCYkFaroL_r1geuT3iBZ594aHCixNZ9X9k4O/s728-rw-e365/cisco.jpg",
+        "Title": "Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0k6vbpiBt-n43SxfwrC24zjk1V1-aRo9iPPjDwIHRZf2hQ-ZHslErrNGfvecXHWyfX-ZWCFwuGz8jMJjjIxApPmRuvqY1L1h6X-XMQBVVRIqQukUJUacd0b9TaZokjVIMGiMsNgY1irMCMYfN8PFh3DFgfAaT9YEcBdmF5vzgICL9UMxCPXSKfWqBec7/s728-rw-e365/cyber.jpg",
+        "Title": "QEMU Emulator Exploited as Tunneling Tool to Breach Company Network",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbj-slUrGC8Ec2aRwoel6Yg-ccDDJA-_Fm8Vp-QcCgE8TvkOmKvj_kKUgn_i-Qt1jzP3_cnsWQ0w_nYbgGbeL5o5N17CP-U14DUHVsrB4wSIQhk2pBL_G0m9xiAP0O2lhHTBV32qwVCDa2AIue7JRgBgv68E5QLhPplv_aKKS_ZtrjFIzyM__sjoSef-d/s728-rw-e365/cisa.jpg",
+        "Title": "CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s728-rw-e365/ssh.jpg",
+        "Title": "Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s728-rw-e365/wordpress.jpg",
+        "Title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s728-rw-e365/china.jpg",
+        "Title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
+        "Title": "Human vs. Non-Human Identity in SaaS",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s728-rw-e365/ai-tech.jpg",
+        "Title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 09, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/radarisbtk.png",
         "Title": "A Close Up Look at the Consumer Data Broker Radaris",
@@ -7,93 +91,23 @@
         "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s728-rw-e365/whatsapp.jpg",
-        "Title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s728-rw-e365/entro.jpg",
-        "Title": "Secrets Sensei: Conquering Secrets Management Challenges",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaAPOVxPO0YHuxnsfw5jiHI1LU3BX1FsRt7b03_3rrCMup0bIgwINorRpPhekZDYtnlkopOJoc4psihkW7Mm-AlPg1JV5Cee15it-mo3FolBqHB9Md7lrZkUqzo72LdjIdAkX_XqYRN5R0myNyl2kyN-JZCYkFaroL_r1geuT3iBZ594aHCixNZ9X9k4O/s728-rw-e365/cisco.jpg",
-        "Title": "Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
-        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0k6vbpiBt-n43SxfwrC24zjk1V1-aRo9iPPjDwIHRZf2hQ-ZHslErrNGfvecXHWyfX-ZWCFwuGz8jMJjjIxApPmRuvqY1L1h6X-XMQBVVRIqQukUJUacd0b9TaZokjVIMGiMsNgY1irMCMYfN8PFh3DFgfAaT9YEcBdmF5vzgICL9UMxCPXSKfWqBec7/s728-rw-e365/cyber.jpg",
-        "Title": "QEMU Emulator Exploited as Tunneling Tool to Breach Company Network",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbj-slUrGC8Ec2aRwoel6Yg-ccDDJA-_Fm8Vp-QcCgE8TvkOmKvj_kKUgn_i-Qt1jzP3_cnsWQ0w_nYbgGbeL5o5N17CP-U14DUHVsrB4wSIQhk2pBL_G0m9xiAP0O2lhHTBV32qwVCDa2AIue7JRgBgv68E5QLhPplv_aKKS_ZtrjFIzyM__sjoSef-d/s728-rw-e365/cisa.jpg",
-        "Title": "CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s728-rw-e365/wordpress.jpg",
-        "Title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
-        "Title": "Three Tips to Protect Your Secrets from AI Accidents",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s728-rw-e365/china.jpg",
-        "Title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
-        "Title": "Human vs. Non-Human Identity in SaaS",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s728-rw-e365/ai-tech.jpg",
-        "Title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQT6HLhwlbCCJAtoCnMAsq4Vo8CAMFByLsYqvgbvEHbcJD4WmK0_5lUC_QaFX1x9ldXDKBC2BQFwE8OZKhaW0Y4BFk8jX2g2PrrJRwzV09VYyLTMhOfV0rYX9WKNyi00TTYVkVRBAZyLkfuCZF9i67UIMDhWS7kCFhuyvflNVWw0Z_OI7qOdcBNZl8KCke/s728-rw-e365/hacking.jpg",
         "Title": "New Python-Based Snake Info Stealer Spreading Through Facebook Messages",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s728-rw-e365/cyberattack.jpg",
         "Title": "Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s728-rw-e365/ssh.jpg",
+        "Title": "Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management",
         "Source": "The Hacker News",
         "Timestamp": "Mar 07, 2024"
     },
@@ -105,9 +119,9 @@
         "Timestamp": "Mar 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s728-rw-e365/git.jpg",
-        "Title": "Three Tips to Protect Your Secrets from AI Accidents",
+        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
+        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 07, 2024"
     },
@@ -115,13 +129,6 @@
         "Link": "https://thehackernews.com/2024/03/exit-scam-blackcat-ransomware-group.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXvLe82q9CecyYhk9sDApk1yDpbqX2UcFoxy1TGDiSZBH8cKV2x2u2ja6PIQw4oCs5KZRdNqB8iDDfIvWg1Hwq81_zaMG93Wiecw21b91cmeZleuID1lh0K5kJZUuAkocjTNFx1rg6dPe09RWJXyR-CAQzlpleO7Qb4VDUQZ7IgIKh6c24hQj0BlUr0kMe/s728-rw-e365/blackcat.jpg",
         "Title": "Exit Scam: BlackCat Ransomware Group Vanishes After $22 Million Payout",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/guide-evaluate-readiness-nist-csf",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQZLhcVYTMc2dXEplxeNMsdDCZFVkdeqr2p1qQsGQ6wUu17Hs-wWuWI8LUpf_qPkBUdY85G-_LKJ5HHvIRGapcyOyHx3GqkeLIdfWun1x0rDnYdAothGiQpbQcp5KWJ1RGXpTLCM0eT6bIX54jdo50Ybu1D0agQcBjxySaOz4vtp15C4Fs-sEGHbvLKEFU/s728-rw-e365/nist.png",
-        "Title": "NIST Cybersecurity Framework: Your Go-To Cybersecurity Standard is Changing",
         "Source": "The Hacker News",
         "Timestamp": "Mar 07, 2024"
     },
@@ -164,13 +171,6 @@
         "Link": "https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SkekStEDNa9RirqyxvgHjrvMZ-KPI21UGbFKxGa2t7ha5_vRjQYV0hg5295XLUddaNdSSw82wDsmZUNHMNfODDYfyzxb5uS8u-Z5UULggZqn-tBypo3F4Tn_W59b5oPkpiKn9UNFaW1Ik9aHmW-pbzQT8X8fTeAcuqe8aCJXBW3nZPXwKrHquLBjwxXx/s728-rw-e30/cyberattack.jpg",
         "Title": "New APT Group 'Lotus Bane' Behind Recent Attacks on Vietnam's Financial Entities",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s728-rw-e365/apple.jpg",
-        "Title": "Urgent: Apple Issues Critical Updates for Actively Exploited Zero-Day Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Mar 07, 2024"
     },
