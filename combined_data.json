@@ -1,86 +1,93 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s728-rw-e365/bitcoin.jpg",
-        "Title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
+        "Link": "https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSGDKpKxESYsc6vtMEbQ3iwNLzXRKX34L5cJc_LmAvdQiuPML6XQ8uoiG0A_j98dqfplOvfq6PAgDwk01Bc0J5x7e97QPkD4xN5IMjYgmtGQqmZHB7Nkl3YYzvoBhVRMtb3PjsB-6WbAgBNJO1JM8xujP4ZhERcD_fpZ2E5Qmscy2rEhr3qhAlDF2ge_8/s728-rw-e365/thn.jpg",
+        "Title": "Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
-        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
+        "Link": "https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTpn_ZovqWCRaMovbTeGPK8ItB4EJkLBrg-LxWdoqlLlmYBm2jHoLVUKpf5JNat601jsY5KzQNsykny5q6L8i8alD2DGItlzQvujJlvyuVf3oIYA6xN7_6jwpckP0s_DpaXhJ5xRFF587v06pwPsDBpciCnrY-vpeEG-5UPzwU3Alk90MCm21ObwRD0zL4/s728-rw-e365/google.jpg",
+        "Title": "Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s728-rw-e365/wordpress.jpg",
-        "Title": "Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites",
+        "Link": "https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSJ-Fl4cPKdma4o_d14y_6-5CIK8AAMHnfP3bz_KdOAYXg-vCpEnBeXAd33JRbYTgX3c8IVcsilapCgcvlW0EueavJic_3NcZnJbzQrC4An41-VhljMRAFq4vGRAjyDRhO4AE7zzWQqhQp_oFRR7949iddEmG4HO2E43ew-Z4h3qFgxvUNBFtMsAfXAJh-/s728-rw-e365/pro.jpg",
+        "Title": "Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.uk/wings-apps-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
         "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3zz51reriV2Wvdm78Eke1bJKBxU8EkqMU9v4WKmK5v-4ZVVCbzB_izfv8sdr3cgeDE_NKQpPZfZYEd-mjup_2Zf3EAFK609GXPXmQUBxMz8YsSvRgvTQnX9eCxYqx2wxb5bovJ7sr3dSnMjXOUrt8GE8r57PLGYnRWjcyjXZ3UPfTWsAWCZUmuZsG6GfT/s728-rw-e365/cyber.jpg",
-        "Title": "South Korean Citizen Detained in Russia on Cyber Espionage Charges",
+        "Link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
+        "Title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF11LAgOwlkzbI9tg3_sWaO0KdddD3KF4xn5WxHH9jk2ezuU4mLDCYrYAw9FZZDntBypePS2LhKbOsydWvtvLwgvoi-MajhTcC0kZDSzH70f2EVxOT60-NBE6cEnE_-Kpf6tiZB5uccMaiXNjdlopbl8z2O3IfCuhhrsOFJ-iqBqvPeL3nx492wCreHsil/s728-rw-e365/trojan.jpg",
-        "Title": "New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics",
+        "Link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s728-rw-e365/bitcoin.jpg",
+        "Title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s728-rw-e365/guide.jpg",
-        "Title": "Guide: On-Prem is Dead. Have You Adjusted Your Web\u00a0DLP\u00a0Plan?",
+        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
+        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
         "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s728-rw-e365/ransomware.jpg",
-        "Title": "BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks",
+        "Link": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s728-rw-e365/wordpress.jpg",
+        "Title": "Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s728-rw-e365/po.jpg",
-        "Title": "Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability",
+        "Link": "https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3zz51reriV2Wvdm78Eke1bJKBxU8EkqMU9v4WKmK5v-4ZVVCbzB_izfv8sdr3cgeDE_NKQpPZfZYEd-mjup_2Zf3EAFK609GXPXmQUBxMz8YsSvRgvTQnX9eCxYqx2wxb5bovJ7sr3dSnMjXOUrt8GE8r57PLGYnRWjcyjXZ3UPfTWsAWCZUmuZsG6GfT/s728-rw-e365/cyber.jpg",
+        "Title": "South Korean Citizen Detained in Russia on Cyber Espionage Charges",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVOGayxL29dTYIGp6bsU6ZZNo_Iagqii3xxtFInk2wJnwgfp003zhaKid4cicmLVor43VlM0_tarHibSmW0A6mQZZ8XidRBOXg50hdq2pMWUtoUwuRXVGVSnx113NahNi2QgYBIC42QJ4VFPElDXll_-z3K1SJRgHpqD467fssMdDacD7WhNfPb3PfPguE/s728-rw-e365/hacker.jpg",
-        "Title": "Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT",
+        "Link": "https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF11LAgOwlkzbI9tg3_sWaO0KdddD3KF4xn5WxHH9jk2ezuU4mLDCYrYAw9FZZDntBypePS2LhKbOsydWvtvLwgvoi-MajhTcC0kZDSzH70f2EVxOT60-NBE6cEnE_-Kpf6tiZB5uccMaiXNjdlopbl8z2O3IfCuhhrsOFJ-iqBqvPeL3nx492wCreHsil/s728-rw-e365/trojan.jpg",
+        "Title": "New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 12, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlDIgbeHRjydU0ESg9Wz1BzTKcl84MusZZU4TlMTUXq92hqOD30x3B68Sied4Ep3piYxaPLkidUSYJ1SR0ENRyRrs-0spNoQN9nF-eF-mw9xx2azFbvQZL99Ws-F9BF2MDDn79wnu9S1z8Re517xMeflK1J0FLXK2bZlcADMtt0m9TgAVd-fNHYKlrkhj/s728-rw-e365/russian-hacker-microosft.jpg",
-        "Title": "Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets",
+        "Link": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s728-rw-e365/guide.jpg",
+        "Title": "Guide: On-Prem is Dead. Have You Adjusted Your Web\u00a0DLP\u00a0Plan?",
         "Source": "The Hacker News",
+        "Timestamp": "Mar 13, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/03/patch-tuesday-march-2024-edition/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/macOS-ios.png",
+        "Title": "Patch Tuesday, March 2024 Edition",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Mar 12, 2024"
     },
     {
@@ -91,94 +98,94 @@
         "Timestamp": "Mar 11, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/radarisbtk.png",
-        "Title": "A Close Up Look at the Consumer Data Broker Radaris",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Mar 08, 2024"
+        "Link": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s728-rw-e365/ransomware.jpg",
+        "Title": "BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s728-rw-e365/whatsapp.jpg",
-        "Title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
+        "Link": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s728-rw-e365/po.jpg",
+        "Title": "Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s728-rw-e365/entro.jpg",
-        "Title": "Secrets Sensei: Conquering Secrets Management Challenges",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
         "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaAPOVxPO0YHuxnsfw5jiHI1LU3BX1FsRt7b03_3rrCMup0bIgwINorRpPhekZDYtnlkopOJoc4psihkW7Mm-AlPg1JV5Cee15it-mo3FolBqHB9Md7lrZkUqzo72LdjIdAkX_XqYRN5R0myNyl2kyN-JZCYkFaroL_r1geuT3iBZ594aHCixNZ9X9k4O/s728-rw-e365/cisco.jpg",
-        "Title": "Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client",
+        "Link": "https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVOGayxL29dTYIGp6bsU6ZZNo_Iagqii3xxtFInk2wJnwgfp003zhaKid4cicmLVor43VlM0_tarHibSmW0A6mQZZ8XidRBOXg50hdq2pMWUtoUwuRXVGVSnx113NahNi2QgYBIC42QJ4VFPElDXll_-z3K1SJRgHpqD467fssMdDacD7WhNfPb3PfPguE/s728-rw-e365/hacker.jpg",
+        "Title": "Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
         "Link": "https://thehackernews.uk/wings-apps-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
         "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlDIgbeHRjydU0ESg9Wz1BzTKcl84MusZZU4TlMTUXq92hqOD30x3B68Sied4Ep3piYxaPLkidUSYJ1SR0ENRyRrs-0spNoQN9nF-eF-mw9xx2azFbvQZL99Ws-F9BF2MDDn79wnu9S1z8Re517xMeflK1J0FLXK2bZlcADMtt0m9TgAVd-fNHYKlrkhj/s728-rw-e365/russian-hacker-microosft.jpg",
+        "Title": "Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s728-rw-e365/whatsapp.jpg",
+        "Title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s728-rw-e365/entro.jpg",
+        "Title": "Secrets Sensei: Conquering Secrets Management Challenges",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaAPOVxPO0YHuxnsfw5jiHI1LU3BX1FsRt7b03_3rrCMup0bIgwINorRpPhekZDYtnlkopOJoc4psihkW7Mm-AlPg1JV5Cee15it-mo3FolBqHB9Md7lrZkUqzo72LdjIdAkX_XqYRN5R0myNyl2kyN-JZCYkFaroL_r1geuT3iBZ594aHCixNZ9X9k4O/s728-rw-e365/cisco.jpg",
+        "Title": "Cisco Issues Patch for High-Severity VPN Hijacking Bug in Secure Client",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/cybercriminals-utilize-qemu-emulator-as.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu0k6vbpiBt-n43SxfwrC24zjk1V1-aRo9iPPjDwIHRZf2hQ-ZHslErrNGfvecXHWyfX-ZWCFwuGz8jMJjjIxApPmRuvqY1L1h6X-XMQBVVRIqQukUJUacd0b9TaZokjVIMGiMsNgY1irMCMYfN8PFh3DFgfAaT9YEcBdmF5vzgICL9UMxCPXSKfWqBec7/s728-rw-e365/cyber.jpg",
         "Title": "QEMU Emulator Exploited as Tunneling Tool to Breach Company Network",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibbj-slUrGC8Ec2aRwoel6Yg-ccDDJA-_Fm8Vp-QcCgE8TvkOmKvj_kKUgn_i-Qt1jzP3_cnsWQ0w_nYbgGbeL5o5N17CP-U14DUHVsrB4wSIQhk2pBL_G0m9xiAP0O2lhHTBV32qwVCDa2AIue7JRgBgv68E5QLhPplv_aKKS_ZtrjFIzyM__sjoSef-d/s728-rw-e365/cisa.jpg",
         "Title": "CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s728-rw-e365/wordpress.jpg",
         "Title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
+        "Timestamp": "Mar 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s728-rw-e365/china.jpg",
-        "Title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
-        "Title": "Human vs. Non-Human Identity in SaaS",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s728-rw-e365/ai-tech.jpg",
-        "Title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQT6HLhwlbCCJAtoCnMAsq4Vo8CAMFByLsYqvgbvEHbcJD4WmK0_5lUC_QaFX1x9ldXDKBC2BQFwE8OZKhaW0Y4BFk8jX2g2PrrJRwzV09VYyLTMhOfV0rYX9WKNyi00TTYVkVRBAZyLkfuCZF9i67UIMDhWS7kCFhuyvflNVWw0Z_OI7qOdcBNZl8KCke/s728-rw-e365/hacking.jpg",
-        "Title": "New Python-Based Snake Info Stealer Spreading Through Facebook Messages",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/radarisbtk.png",
+        "Title": "A Close Up Look at the Consumer Data Broker Radaris",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Mar 08, 2024"
     },
     {
@@ -285,20 +292,6 @@
         "Title": "A Top White House Cyber Official Sees the \u2018Promise and Peril\u2019 in AI",
         "Source": "WIRED",
         "Timestamp": "Feb 14, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/02/fat-patch-tuesday-february-2024-edition/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
-        "Title": "Fat Patch Tuesday, February 2024 Edition",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 13, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/02/fat-patch-tuesday-february-2024-edition/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
-        "Title": "Fat Patch Tuesday, February 2024 Edition",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 13, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/",
@@ -411,6 +404,13 @@
         "Title": "US School Shooter Emergency Plans Exposed in a Highly Sensitive Database Leak",
         "Source": "WIRED",
         "Timestamp": "Jan 09, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/12/ika-tarelka.png",
+        "Title": "Meet Ika & Sal: The Bulletproof Hosting Duo from Hell",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cybersecurity-industry-fbi-ransomware/",
