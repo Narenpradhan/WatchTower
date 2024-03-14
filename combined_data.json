@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s728-rw-e365/ransomware.jpg",
+        "Title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s728-rw-e365/flaws.jpg",
         "Title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
@@ -14,16 +21,16 @@
         "Timestamp": "Mar 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdwYU4i2rdn3xTLQhE7SDHpfbJ0IfQMCfaOUEk2Ns7xgYrLVZJ7x3fGHw-E4lMCMrA7Ba21AZV9oh5OkwxSjscO7Cc4nJJyKje8NQmVM6nEuTDS2WJm5L5gufT9yn3iNk9vcix4LK7liuSCYBvGHlWiwd_1Aw_kKwdcYoEz-9vjOnGdn8BFngDoLEcNEi/s728-rw-e365/cyber%20(1).jpg",
-        "Title": "RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage",
+        "Link": "https://thehackernews.uk/wings-apps-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
+        "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wings-apps-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
-        "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
+        "Link": "https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdwYU4i2rdn3xTLQhE7SDHpfbJ0IfQMCfaOUEk2Ns7xgYrLVZJ7x3fGHw-E4lMCMrA7Ba21AZV9oh5OkwxSjscO7Cc4nJJyKje8NQmVM6nEuTDS2WJm5L5gufT9yn3iNk9vcix4LK7liuSCYBvGHlWiwd_1Aw_kKwdcYoEz-9vjOnGdn8BFngDoLEcNEi/s728-rw-e365/cyber%20(1).jpg",
+        "Title": "RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Mar 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9YpU282tK7dKQzpM0yrk5nU4bPcLM3miyWl2x3sqioMkuQqjsZ652zIQM-oq6aLnccvK6qF5yXZcprmQG80-tDJySrSRjovEQejlyB8kv9AZy8YFwHDWyTowV8WxZoUM4Tb-9-4bQDnt0rhU1wBta6H6d0l3HJrntdA0dLdqzodpWvr9vuP3NkjQWbpA/s728-rw-e365/fortinet.jpg",
-        "Title": "Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software",
+        "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
+        "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
-        "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
+        "Link": "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9YpU282tK7dKQzpM0yrk5nU4bPcLM3miyWl2x3sqioMkuQqjsZ652zIQM-oq6aLnccvK6qF5yXZcprmQG80-tDJySrSRjovEQejlyB8kv9AZy8YFwHDWyTowV8WxZoUM4Tb-9-4bQDnt0rhU1wBta6H6d0l3HJrntdA0dLdqzodpWvr9vuP3NkjQWbpA/s728-rw-e365/fortinet.jpg",
+        "Title": "Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
@@ -81,19 +88,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTpn_ZovqWCRaMovbTeGPK8ItB4EJkLBrg-LxWdoqlLlmYBm2jHoLVUKpf5JNat601jsY5KzQNsykny5q6L8i8alD2DGItlzQvujJlvyuVf3oIYA6xN7_6jwpckP0s_DpaXhJ5xRFF587v06pwPsDBpciCnrY-vpeEG-5UPzwU3Alk90MCm21ObwRD0zL4/s728-rw-e365/google.jpg",
         "Title": "Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSJ-Fl4cPKdma4o_d14y_6-5CIK8AAMHnfP3bz_KdOAYXg-vCpEnBeXAd33JRbYTgX3c8IVcsilapCgcvlW0EueavJic_3NcZnJbzQrC4An41-VhljMRAFq4vGRAjyDRhO4AE7zzWQqhQp_oFRR7949iddEmG4HO2E43ew-Z4h3qFgxvUNBFtMsAfXAJh-/s728-rw-e365/pro.jpg",
         "Title": "Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
-        "Title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s728-rw-e365/bitcoin.jpg",
-        "Title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
+        "Link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
+        "Title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.uk/wings-apps-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
         "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s728-rw-e365/bitcoin.jpg",
+        "Title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
@@ -157,13 +164,6 @@
         "Link": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s728-rw-e365/ransomware.jpg",
         "Title": "BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s728-rw-e365/po.jpg",
-        "Title": "Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
