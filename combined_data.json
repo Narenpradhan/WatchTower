@@ -287,6 +287,13 @@
         "Timestamp": "Feb 14, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png",
+        "Title": "U.S. Internet Leaked Years of Internal, Customer Emails",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Feb 14, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
         "Img_URL": "https://media.wired.com/photos/65d50e8b735a52f796c0aa54/3:2/w_1280%2Cc_limit/Anne-Neuberger-Q&A-Security-GettyImages-1231220797.jpg",
         "Title": "A Top White House Cyber Official Sees the \u2018Promise and Peril\u2019 in AI",
@@ -397,13 +404,6 @@
         "Title": "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data",
         "Source": "WIRED",
         "Timestamp": "Jan 11, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2019/05/suingyou.jpg",
-        "Title": "Here\u2019s Some Bitcoin: Oh, and You\u2019ve Been Served!",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jan 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/sec-x-account-compromise/",
