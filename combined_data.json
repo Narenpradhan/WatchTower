@@ -1,65 +1,93 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s728-rw-e365/ransomware.jpg",
-        "Title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
+        "Link": "https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k8kuo0Gqkw8CCM95JlOx7P4cUnDM-SnjUyN3OrZbAkzJnr1c_CPtOMYgL3-DRUQV8PSAPZwhQaD8BW-J46-7iyoRNFxzKYemHGp2IGSGFMxBg-xIFuz93lm_ZCum55AB3rNp6Y3Fc6F_vUlBcA_ZlCmkSSzRGkQE_OCkfD7uir7giw5NjrVj4NU6gbcM/s728-rw-e365/chatgpt.jpg",
+        "Title": "Third-Party ChatGPT Plugins Could Lead to Account Takeovers",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s728-rw-e365/flaws.jpg",
-        "Title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
+        "Link": "https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OHQmxR5GWxD80JEXkZbgkWIyh0vNd0ZWLKJEeEVbGWjtQOoSbJV78cYXgdZ6r8NaEV0iBTU-XI8eran-RnhBw-NElc0WpsT4BgoqGRo_tJojZ1OYm7cznyxDsRpEtrKreeBQb9zOD2WVJXSTKJCl4TVSRY5v8c4ZDFEFfnMhCRYMMcepGVh6iR7QsEM9/s728-rw-e365/url.jpg",
+        "Title": "Google Introduces Enhanced Real-Time URL Protection for Chrome Users",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJPfR5Ik25HftOcCrJj59fuqtIb359cSW0hotQVK0KkAAz3anH7U7Fr0-Gi7P2OsnbMtAjwi8kCfhDwvqpGyJPqIepJVqlnip4r9wYNGfhTeiBqFfCVnvK7q-DPJzFPeffFGKjWN2Be6vzkwT1jIoQktY4cjZo9vhoLC4Yaol9Ak0iVI8xmvVgwA6EWFI/s728-rw-e365/cato.jpg",
-        "Title": "3 Things CISOs Achieve with Cato",
+        "Link": "https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMDfs339flChbFGf3_fpTM5QE9t_zbZHVk4B14sEQPLhc9Z8wcsnsg5Szl-P9GiFWrz-Il1bpVLCyJwcPJL6LqyAe1iC5e394glG98jegZ_OvlUovswO-erglRNLjU0uvquBu1RG-dA-RuaEPJSBGcUp7I9Q-G3xktyEemW7kAqb1lvyw5HvCbCTu_SOo/s728-rw-e365/notepad.jpg",
+        "Title": "Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
         "Link": "https://thehackernews.uk/wings-apps-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
         "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdwYU4i2rdn3xTLQhE7SDHpfbJ0IfQMCfaOUEk2Ns7xgYrLVZJ7x3fGHw-E4lMCMrA7Ba21AZV9oh5OkwxSjscO7Cc4nJJyKje8NQmVM6nEuTDS2WJm5L5gufT9yn3iNk9vcix4LK7liuSCYBvGHlWiwd_1Aw_kKwdcYoEz-9vjOnGdn8BFngDoLEcNEi/s728-rw-e365/cyber%20(1).jpg",
-        "Title": "RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage",
+        "Link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s728-rw-e365/ransomware.jpg",
+        "Title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ande-loader-malware-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix40bLfxLXPonXwTglHQzJ24jUr6_YLwgx8D_C39xe8oGW53dbxailiRri2a68SKCvLeLlHgtNyYFH3kYtbnd5uWLn3jqMpjnzORgleRkfrF21mSsVwqKQD8P5X2_8BNi5dRtLMav1eRC3EYeR9kAeWa3YEM19JixtLfy3WQD_0jHRAfLOLrmgLWfydfGG/s728-rw-e365/malware%20(1).jpg",
-        "Title": "Ande Loader Malware Targets Manufacturing Sector in North America",
+        "Link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s728-rw-e365/flaws.jpg",
+        "Title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0_ZTU5ZC1nUYdjn03PbGdRnkiFr8f0MqiWpzlguwHlj1HoSqzQ5aPLeUsqh1Xi-hWcy_VIgbH1hPmhIdk70gM-HKgeahwHAYOxwRlAROiijBt2inFWmQmmQGIk5HMAG2RpydqpC2jt61Zt_1A7fDGugiRWyKOv-7041KZtF8LEYVz7afZomTISMzan1T/s728-rw-e365/tm.jpg",
-        "Title": "DarkGate Malware Exploited Recently Patched Microsoft Flaw in Zero-Day Attack",
+        "Link": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJPfR5Ik25HftOcCrJj59fuqtIb359cSW0hotQVK0KkAAz3anH7U7Fr0-Gi7P2OsnbMtAjwi8kCfhDwvqpGyJPqIepJVqlnip4r9wYNGfhTeiBqFfCVnvK7q-DPJzFPeffFGKjWN2Be6vzkwT1jIoQktY4cjZo9vhoLC4Yaol9Ak0iVI8xmvVgwA6EWFI/s728-rw-e365/cato.jpg",
+        "Title": "3 Things CISOs Achieve with Cato",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
         "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdwYU4i2rdn3xTLQhE7SDHpfbJ0IfQMCfaOUEk2Ns7xgYrLVZJ7x3fGHw-E4lMCMrA7Ba21AZV9oh5OkwxSjscO7Cc4nJJyKje8NQmVM6nEuTDS2WJm5L5gufT9yn3iNk9vcix4LK7liuSCYBvGHlWiwd_1Aw_kKwdcYoEz-9vjOnGdn8BFngDoLEcNEi/s728-rw-e365/cyber%20(1).jpg",
+        "Title": "RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/ande-loader-malware-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix40bLfxLXPonXwTglHQzJ24jUr6_YLwgx8D_C39xe8oGW53dbxailiRri2a68SKCvLeLlHgtNyYFH3kYtbnd5uWLn3jqMpjnzORgleRkfrF21mSsVwqKQD8P5X2_8BNi5dRtLMav1eRC3EYeR9kAeWa3YEM19JixtLfy3WQD_0jHRAfLOLrmgLWfydfGG/s728-rw-e365/malware%20(1).jpg",
+        "Title": "Ande Loader Malware Targets Manufacturing Sector in North America",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0_ZTU5ZC1nUYdjn03PbGdRnkiFr8f0MqiWpzlguwHlj1HoSqzQ5aPLeUsqh1Xi-hWcy_VIgbH1hPmhIdk70gM-HKgeahwHAYOxwRlAROiijBt2inFWmQmmQGIk5HMAG2RpydqpC2jt61Zt_1A7fDGugiRWyKOv-7041KZtF8LEYVz7afZomTISMzan1T/s728-rw-e365/tm.jpg",
+        "Title": "DarkGate Malware Exploited Recently Patched Microsoft Flaw in Zero-Day Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/fortinet-warns-of-severe-sqli.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9YpU282tK7dKQzpM0yrk5nU4bPcLM3miyWl2x3sqioMkuQqjsZ652zIQM-oq6aLnccvK6qF5yXZcprmQG80-tDJySrSRjovEQejlyB8kv9AZy8YFwHDWyTowV8WxZoUM4Tb-9-4bQDnt0rhU1wBta6H6d0l3HJrntdA0dLdqzodpWvr9vuP3NkjQWbpA/s728-rw-e365/fortinet.jpg",
         "Title": "Fortinet Warns of Severe SQLi Vulnerability in FortiClientEMS Software",
         "Source": "The Hacker News",
+        "Timestamp": "Mar 15, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/onerep-permanente.png",
+        "Title": "CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Mar 14, 2024"
     },
     {
@@ -67,21 +95,35 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq8fog47TTyFB5xpZi-XwfM_Nx8QJOsXjQ2BIoSkB-CZjZGoW42Efb8AZ4puo4mGtGodLV97ikN4VZl48sK8W_drx29WKE7B08X_mjIWoj770Znj0HVhLhYSPV-zxc4rqlEKGAuNdrIBS4Jr-Utg25-hkR_jeVY17C1jqKgMdriXW6A3kGalf1uZW6o_4/s728-rw-e365/1.png",
         "Title": "Demystifying a Common Cybersecurity Myth",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilb8GiOv0ijRFp01w-5y6GgUQQNfjPUQdkZ5QYiX0z5S2Kv7o1aA_GZWLsCP3v_q2t05JTStYPe0XsrzSQ1N7QarobgEMKc6116tWKfFo7wYyDii982JSOFo1Nd4dBbP4ZsQi3_vaLSQkbnSVwGa7wJ34TgimRXfJORh3pUMoR5GgoexjFUgl8WZin4j8/s728-rw-e365/pix.jpg",
         "Title": "PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
+        "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSGDKpKxESYsc6vtMEbQ3iwNLzXRKX34L5cJc_LmAvdQiuPML6XQ8uoiG0A_j98dqfplOvfq6PAgDwk01Bc0J5x7e97QPkD4xN5IMjYgmtGQqmZHB7Nkl3YYzvoBhVRMtb3PjsB-6WbAgBNJO1JM8xujP4ZhERcD_fpZ2E5Qmscy2rEhr3qhAlDF2ge_8/s728-rw-e365/thn.jpg",
         "Title": "Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
+        "Timestamp": "Mar 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wings-apps-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
+        "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html",
@@ -98,23 +140,9 @@
         "Timestamp": "Mar 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s728-rw-e365/wing.jpg",
-        "Title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
         "Title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wings-apps-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJc_NhxBOPPqoO1DvTskZ6RSyq9phg-VN0xQ9LVGlwXg5i62wZWXwNqMH7riPT_vk0WwI_YGl0U88ZooG5O4I8j5YHg0mt-_xd3h5CSTRwGJoRep_PvT5N_LtdgVlyTn5qwKplN38PoxuRjHb7OyxmpOtqe9XCYD283OP_INVNJk-GvkgvQxqpa5TOIONC/s728-rw-e365/wing.png",
-        "Title": "Game On! Beat Our Calculator in Guessing Your Organization's App Count",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
@@ -143,27 +171,6 @@
         "Link": "https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3zz51reriV2Wvdm78Eke1bJKBxU8EkqMU9v4WKmK5v-4ZVVCbzB_izfv8sdr3cgeDE_NKQpPZfZYEd-mjup_2Zf3EAFK609GXPXmQUBxMz8YsSvRgvTQnX9eCxYqx2wxb5bovJ7sr3dSnMjXOUrt8GE8r57PLGYnRWjcyjXZ3UPfTWsAWCZUmuZsG6GfT/s728-rw-e365/cyber.jpg",
         "Title": "South Korean Citizen Detained in Russia on Cyber Espionage Charges",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF11LAgOwlkzbI9tg3_sWaO0KdddD3KF4xn5WxHH9jk2ezuU4mLDCYrYAw9FZZDntBypePS2LhKbOsydWvtvLwgvoi-MajhTcC0kZDSzH70f2EVxOT60-NBE6cEnE_-Kpf6tiZB5uccMaiXNjdlopbl8z2O3IfCuhhrsOFJ-iqBqvPeL3nx492wCreHsil/s728-rw-e365/trojan.jpg",
-        "Title": "New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s728-rw-e365/guide.jpg",
-        "Title": "Guide: On-Prem is Dead. Have You Adjusted Your Web\u00a0DLP\u00a0Plan?",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s728-rw-e365/ransomware.jpg",
-        "Title": "BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Mar 13, 2024"
     },
@@ -278,13 +285,6 @@
         "Title": "Feds Seize LockBit Ransomware Websites, Offer Decryption Tools, Troll Affiliates",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 20, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png",
-        "Title": "U.S. Internet Leaked Years of Internal, Customer Emails",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 14, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/",
