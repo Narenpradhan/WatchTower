@@ -84,6 +84,13 @@
         "Timestamp": "Mar 16, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65f4bc752a4b729889d78ac6/3:2/w_1280%2Cc_limit/Security-News-This-Week--Automakers-Are-Telling-Your-Insurance-Company-How-You-Really-Drive-GettyImages-108291313.jpg",
+        "Title": "Automakers Are Telling Your Insurance Company How You Really Drive",
+        "Source": "WIRED",
+        "Timestamp": "Mar 16, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/onerep-permanente.png",
         "Title": "CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms",
@@ -217,17 +224,17 @@
         "Timestamp": "Mar 02, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/here-come-the-ai-worms/",
-        "Img_URL": "https://media.wired.com/photos/65e0e13fef1050f96f06c160/3:2/w_1280%2Cc_limit/security_ai_worm_email_spam.jpg",
-        "Title": "Here Come the AI Worms",
-        "Source": "WIRED",
-        "Timestamp": "Mar 01, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png",
         "Title": "Fulton County, Security Experts Call LockBit\u2019s Bluff",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Feb 29, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/",
+        "Img_URL": "https://media.wired.com/photos/65e0e13fef1050f96f06c160/3:2/w_1280%2Cc_limit/security_ai_worm_email_spam.jpg",
+        "Title": "Here Come the AI Worms",
+        "Source": "WIRED",
         "Timestamp": "Feb 29, 2024"
     },
     {
@@ -460,12 +467,5 @@
         "Title": "The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure",
         "Source": "WIRED",
         "Timestamp": "Nov 09, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/654c0c0cf216c1860ca45fef/3:2/w_1280%2Cc_limit/Sandworm-Hackers-Caused-Another-Blackout-in-Ukraine%25E2%2580%2594During-a-Missile-Strike-Security-GettyImages-1244660782.jpg",
-        "Title": "Sandworm Hackers Caused Another Blackout in Ukraine\u2014During a Missile Strike",
-        "Source": "WIRED",
-        "Timestamp": "Nov 04, 2023"
     }
 ]
