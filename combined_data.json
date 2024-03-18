@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/new-deepgosu-malware-campaign-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQv258wvtjdHtSmn4-Bu6XOXmeRBHDTMVWTkE-k1JCWSp-gHFD90z5AmA2cpromChHtPuQS15fzQD3_9i35-YbUtdQIIsit559-bO9f7Mlb9X1x2fKlOLGmwnrp4h5tkxoAchP10HbC6HxGp1m8bhsFGi4agJbqx8SKEcQ6qU508KYfUSx3vDMCLm8qhT0/s728-rw-e365/malware.jpg",
+        "Title": "New DEEP#GOSU Malware Campaign Targets Windows Users with Advanced Tactics",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/fortra-patches-critical-rce.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0kbL1o0V6U0mzmaK2ZsUAU3cvExg9WoOHypZ82oYZmFoO-oGcSGGidQgF-_SFxLAGIq3mzUYwCn6inA7vYw-plO6Tg5tMGuA2lSjEBcHb0jj_dvXjDOM5zXoU_JaV8bJmZswB9KWzzFodmqMfNtmtWFIdyALPYeEpDMwr4D3cHrx-NF9k7UxdZt7h6L9x/s728-rw-e365/forta.png",
+        "Title": "Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEPYpAU1Mw1VHTpQ2K3CSvVCYd04Is_jCpDOlkqUPFGH6wjDRx01NNhqyHLU4pGVeAKE8st_Ip9xVD491lQ9Ln1J8h1O3jW_3tOAe5cUUck6fVYmIHvcfYNmKu2GQPZl_FyjraDxdRVtbzOOWnKNuPC8Xt7XUnsdWf5sWdS6D9m7PKrJd6nVUtIcXkWPoq/s728-rw-e365/sites.jpg",
+        "Title": "Hackers Using Sneaky HTML Smuggling to Deliver Malware via Fake Google Sites",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvWGErVuRNDBhvqZZ5XnRdZBdZmn4SMXA6OmJfgiRqsOqSW1CvoHuc7ZpUvqGUxlxgP_t5w1n-CwZDGASSjpnaiP3TxF2O1a04-yBX8uFmOCp0rnJ1VuhwC_bGd7ODxDrwl5dotlJzVtRHeGth12ivF4TwXiVqZ20PweBuyK-iXURsE_DDv-aJPd4lgd9/s728-rw-e365/mini.jpg",
         "Title": "WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw",
@@ -21,9 +49,9 @@
         "Timestamp": "Mar 18, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s728-rw-e365/mm.png",
+        "Title": "How to Find and Fix Risky Sharing in Google Drive",
         "Source": "The Hacker News",
         "Timestamp": "Mar 18, 2024"
     },
@@ -49,37 +77,9 @@
         "Timestamp": "Mar 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s728-rw-e365/mm.png",
-        "Title": "How to Find and Fix Risky Sharing in Google Drive",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMDfs339flChbFGf3_fpTM5QE9t_zbZHVk4B14sEQPLhc9Z8wcsnsg5Szl-P9GiFWrz-Il1bpVLCyJwcPJL6LqyAe1iC5e394glG98jegZ_OvlUovswO-erglRNLjU0uvquBu1RG-dA-RuaEPJSBGcUp7I9Q-G3xktyEemW7kAqb1lvyw5HvCbCTu_SOo/s728-rw-e365/notepad.jpg",
         "Title": "Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s728-rw-e365/ransomware.jpg",
-        "Title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s728-rw-e365/flaws.jpg",
-        "Title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJPfR5Ik25HftOcCrJj59fuqtIb359cSW0hotQVK0KkAAz3anH7U7Fr0-Gi7P2OsnbMtAjwi8kCfhDwvqpGyJPqIepJVqlnip4r9wYNGfhTeiBqFfCVnvK7q-DPJzFPeffFGKjWN2Be6vzkwT1jIoQktY4cjZo9vhoLC4Yaol9Ak0iVI8xmvVgwA6EWFI/s728-rw-e365/cato.jpg",
-        "Title": "3 Things CISOs Achieve with Cato",
         "Source": "The Hacker News",
         "Timestamp": "Mar 18, 2024"
     },
@@ -98,6 +98,41 @@
         "Timestamp": "Mar 14, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s728-rw-e365/ransomware.jpg",
+        "Title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s728-rw-e365/flaws.jpg",
+        "Title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s728-rw-e365/mm.png",
+        "Title": "How to Find and Fix Risky Sharing in Google Drive",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJPfR5Ik25HftOcCrJj59fuqtIb359cSW0hotQVK0KkAAz3anH7U7Fr0-Gi7P2OsnbMtAjwi8kCfhDwvqpGyJPqIepJVqlnip4r9wYNGfhTeiBqFfCVnvK7q-DPJzFPeffFGKjWN2Be6vzkwT1jIoQktY4cjZo9vhoLC4Yaol9Ak0iVI8xmvVgwA6EWFI/s728-rw-e365/cato.jpg",
+        "Title": "3 Things CISOs Achieve with Cato",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdwYU4i2rdn3xTLQhE7SDHpfbJ0IfQMCfaOUEk2Ns7xgYrLVZJ7x3fGHw-E4lMCMrA7Ba21AZV9oh5OkwxSjscO7Cc4nJJyKje8NQmVM6nEuTDS2WJm5L5gufT9yn3iNk9vcix4LK7liuSCYBvGHlWiwd_1Aw_kKwdcYoEz-9vjOnGdn8BFngDoLEcNEi/s728-rw-e365/cyber%20(1).jpg",
         "Title": "RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage",
@@ -112,23 +147,9 @@
         "Timestamp": "Mar 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s728-rw-e365/mm.png",
-        "Title": "How to Find and Fix Risky Sharing in Google Drive",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0_ZTU5ZC1nUYdjn03PbGdRnkiFr8f0MqiWpzlguwHlj1HoSqzQ5aPLeUsqh1Xi-hWcy_VIgbH1hPmhIdk70gM-HKgeahwHAYOxwRlAROiijBt2inFWmQmmQGIk5HMAG2RpydqpC2jt61Zt_1A7fDGugiRWyKOv-7041KZtF8LEYVz7afZomTISMzan1T/s728-rw-e365/tm.jpg",
         "Title": "DarkGate Malware Exploited Recently Patched Microsoft Flaw in Zero-Day Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
@@ -157,27 +178,6 @@
         "Link": "https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSGDKpKxESYsc6vtMEbQ3iwNLzXRKX34L5cJc_LmAvdQiuPML6XQ8uoiG0A_j98dqfplOvfq6PAgDwk01Bc0J5x7e97QPkD4xN5IMjYgmtGQqmZHB7Nkl3YYzvoBhVRMtb3PjsB-6WbAgBNJO1JM8xujP4ZhERcD_fpZ2E5Qmscy2rEhr3qhAlDF2ge_8/s728-rw-e365/thn.jpg",
         "Title": "Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTpn_ZovqWCRaMovbTeGPK8ItB4EJkLBrg-LxWdoqlLlmYBm2jHoLVUKpf5JNat601jsY5KzQNsykny5q6L8i8alD2DGItlzQvujJlvyuVf3oIYA6xN7_6jwpckP0s_DpaXhJ5xRFF587v06pwPsDBpciCnrY-vpeEG-5UPzwU3Alk90MCm21ObwRD0zL4/s728-rw-e365/google.jpg",
-        "Title": "Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSJ-Fl4cPKdma4o_d14y_6-5CIK8AAMHnfP3bz_KdOAYXg-vCpEnBeXAd33JRbYTgX3c8IVcsilapCgcvlW0EueavJic_3NcZnJbzQrC4An41-VhljMRAFq4vGRAjyDRhO4AE7zzWQqhQp_oFRR7949iddEmG4HO2E43ew-Z4h3qFgxvUNBFtMsAfXAJh-/s728-rw-e365/pro.jpg",
-        "Title": "Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
-        "Title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Mar 14, 2024"
     },
