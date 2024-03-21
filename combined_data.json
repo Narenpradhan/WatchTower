@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s728-rw-e365/russian-hackers.jpg",
+        "Title": "Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s728-rw-e365/npm.jpg",
+        "Title": "Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s728-rw-e365/lock.jpg",
+        "Title": "AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGnXc0n2prCqGXxp0kCl3h0fStXj0HKVp2GDJkQXhasRqo5XR3pfQHtWscMvq5WaZ1Gy4z51U6psqdnKI8CrqH2aHLn5NDCbKORD-f5Ekl_wtxuIOb3TOy4yXHicXrr_KmnMlI8OTaFO5Phh4iFM9cgjkdwaQEyedWKHiRm-bOqOjz4cun2-jcqr37fGI/s728-rw-e365/nudge.jpg",
         "Title": "How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl",
@@ -21,9 +49,9 @@
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
+        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
         "Source": "The Hacker News",
         "Timestamp": "Mar 21, 2024"
     },
@@ -49,13 +77,6 @@
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
-        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6jt2b4xsM6PU6iew6hOmkb0q8PvpHyz5tr2V_J102InPq0Y0mHPxbyOfl7NXMRhoYX2jzJz__L3RVN5oQYH601P32C8DEpueFTGI55VJ_EeqgpNUfLT3CqkSeT03mrKs4Zz3qFgjpot6teLioW_dofB-sI6u8f_UrpsKbzwpub7SdHdU0iYd11DFK84h/s728-rw-e365/dos.jpg",
         "Title": "New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems",
@@ -63,24 +84,17 @@
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ43osrt1HsWQY3rGI1cAmieI4SqQemmxM_Yk8JFmCN-TbQtTWjk1tPTMgrHOcWjoQDY4ABNPLfMh16kZfgtrc5N1gUKJf4PguNO5rpia26aKcnw-1xTvVW8BSeN_OXcT4AWpADSR0CFbecXCjnjWQByg1E2oTrQ1i5hTvfB94QVtdlqo9B-JJG3rgAinb/s728-rw-e365/lasso.jpg",
-        "Title": "Generative AI Security - Secure Your Business in a World Powered by LLMs",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFcUesSoSNfLNUICGE2myV1Oerz_BVcp7DAfb8yanA-TxVBp54wtCjnKzafQayVTJFNe5KE5vl7wQtYA3jEc9QG0-8v058dRHrIY6dFfCNBwzUuh26W5LU_eW4c2K0W1xOsmn9NVLFrwdQ19LMFctin4oGDdZyfbegRlePzhkX5q0I5fNn1iREl_PAwV_/s728-rw-e365/ransomware.jpg",
-        "Title": "TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s728-rw-e365/rabit.jpg",
-        "Title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb777e293f54ea2900acb4/3:2/w_1280%2Cc_limit/032024-security-hotel-locks-hack-site'.jpg",
+        "Title": "Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds",
+        "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
@@ -88,6 +102,41 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/MarilynGaskell.png",
         "Title": "The Not-so-True People-Search Network from China",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ43osrt1HsWQY3rGI1cAmieI4SqQemmxM_Yk8JFmCN-TbQtTWjk1tPTMgrHOcWjoQDY4ABNPLfMh16kZfgtrc5N1gUKJf4PguNO5rpia26aKcnw-1xTvVW8BSeN_OXcT4AWpADSR0CFbecXCjnjWQByg1E2oTrQ1i5hTvfB94QVtdlqo9B-JJG3rgAinb/s728-rw-e365/lasso.jpg",
+        "Title": "Generative AI Security - Secure Your Business in a World Powered by LLMs",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFcUesSoSNfLNUICGE2myV1Oerz_BVcp7DAfb8yanA-TxVBp54wtCjnKzafQayVTJFNe5KE5vl7wQtYA3jEc9QG0-8v058dRHrIY6dFfCNBwzUuh26W5LU_eW4c2K0W1xOsmn9NVLFrwdQ19LMFctin4oGDdZyfbegRlePzhkX5q0I5fNn1iREl_PAwV_/s728-rw-e365/ransomware.jpg",
+        "Title": "TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
+        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s728-rw-e365/rabit.jpg",
+        "Title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
     {
@@ -105,23 +154,9 @@
         "Timestamp": "Mar 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
-        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLThumm08Oeh2jkEN0Pakys99F6U7QkP7XadGO6iTKvvBImGev91sXwm6TorFvbFVTiGm36Uiwd8s8YQY86HfImfB4rc3h9lnpBShLOmjLqIrBt1lD2_Enl9N2gQzFx7Vy9nz6Xqo8Za8RpE9teQL3tJ0VaD_ouDEHXmSJ4uOPf0l-oqr6CXn8rFHdSHo/s728-rw-e365/hacker.jpg",
         "Title": "APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
@@ -150,27 +185,6 @@
         "Link": "https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TJDUG0umD5B2VrXM4SZp-inxyAGlZ2ZyMfaFBuLRiA6xnVM5XkhuLJkViHTj-bspablX7UDml9Ojzv0AmcFUDqzBHVsWXTpSmUOA0g5crNIr0zTMpcu41m4UsU0Aq0vBGoxB4PGqV6iuit-8SIlCrxz2oHvUjb1u4WLP8Z6Ept26lgIAv0zLpVS_V5zZ/s728-rw-e365/linux.jpg",
         "Title": "Suspected Russian Data-Wiping 'AcidPour' Malware Targeting Linux x86 Devices",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-phishing-attack-uses-clever.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcVPcQR4zsxsRuCOV212HAnLxhRUOiKxkvnlTZJui4qWjY32Z-q3ro47393ovcV8p5YQim8oyo-lPNuFcO4FUGPdYU-5J3q5QElbJSn7BbtexvQsvAOyZg1fdZq6PtKn7BdqO888q7XpLaZrb79W0uc6jxbSnGl6KqF2k-MuT224hxho129pVTxRWvwP8l/s728-rw-e365/cyber.jpg",
-        "Title": "New Phishing Attack Uses Clever Microsoft Office Trick to Deploy NetSupport RAT",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy4qy6mMTW1NgXA_oVqxN_hyphenhyphenIUPwlNZ-nyhS0G8KTZQ_0lAgto5fTVq0cDvqgpsgIV30norpFE_wsijK4F8A68_kYSqTuexnbrLWT8r_GGk1FAYykRTW1ewZCZQ0tN0sKhVReNF6IOz_gF0n9QrAE2dy9CPqD3p2XE6YvRyg4rcJzx94vyo412CWBfOaYs/s728-rw-e365/lock.jpg",
-        "Title": "E-Root Marketplace Admin Sentenced to 42 Months for Selling 350K Stolen Credentials",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-deepgosu-malware-campaign-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQv258wvtjdHtSmn4-Bu6XOXmeRBHDTMVWTkE-k1JCWSp-gHFD90z5AmA2cpromChHtPuQS15fzQD3_9i35-YbUtdQIIsit559-bO9f7Mlb9X1x2fKlOLGmwnrp4h5tkxoAchP10HbC6HxGp1m8bhsFGi4agJbqx8SKEcQ6qU508KYfUSx3vDMCLm8qhT0/s728-rw-e365/malware.jpg",
-        "Title": "New DEEP#GOSU Malware Campaign Targets Windows Users with Advanced Tactics",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
@@ -210,13 +224,6 @@
         "Timestamp": "Mar 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/meta-hacked-users-draining-resources/",
-        "Img_URL": "https://media.wired.com/photos/65e7c232eeebaaa58cda3a92/3:2/w_1280%2Cc_limit/Meta-Phishing-Scam-Problem-Security-1240854109.jpg",
-        "Title": "Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say",
-        "Source": "WIRED",
-        "Timestamp": "Mar 06, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/01/blackcat.png",
         "Title": "BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Healthcare",
@@ -225,10 +232,17 @@
     },
     {
         "Link": "https://www.wired.com/story/push-notification-privacy-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65e7c232eeebaaa58cda3a92/3:2/w_1280%2Cc_limit/Meta-Phishing-Scam-Problem-Security-1240854109.jpg",
+        "Title": "Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say",
+        "Source": "WIRED",
+        "Timestamp": "Mar 02, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/here-come-the-ai-worms/",
         "Img_URL": "https://media.wired.com/photos/65e26378c1cf92902dc16ebe/3:2/w_1280%2Cc_limit/Security-News-This-Week--The-Privacy-Danger-Lurking-in-Push-Notifications-Security-GettyImages-1378472002.jpg",
         "Title": "The Privacy Danger Lurking in Push Notifications",
         "Source": "WIRED",
-        "Timestamp": "Mar 02, 2024"
+        "Timestamp": "Mar 01, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/",
@@ -453,19 +467,5 @@
         "Title": "Inside the Race to Secure Formula 1\u2019s Las Vegas Grand Prix",
         "Source": "WIRED",
         "Timestamp": "Nov 15, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/",
-        "Img_URL": "https://media.wired.com/photos/6554f718afb528bcc13dd1c1/3:2/w_1280%2Cc_limit/Google's-New-Titan-Security-Keys-Are-Another-Piece-in-the-Password-Killing-Puzzle-Security.jpg",
-        "Title": "Google\u2019s New Titan Security Key Adds Another Piece to the Password-Killing Puzzle",
-        "Source": "WIRED",
-        "Timestamp": "Nov 10, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/",
-        "Img_URL": "https://media.wired.com/photos/654d4b3d71250da0bf23bfc8/3:2/w_1280%2Cc_limit/The-NSA-Is-Seriously-Freaked-Out-About-the-Threat-of-Chinese-Hackers-in-US-Critical-Infrastructure-Security-GettyImages-1041680676.jpg",
-        "Title": "The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure",
-        "Source": "WIRED",
-        "Timestamp": "Nov 09, 2023"
     }
 ]
