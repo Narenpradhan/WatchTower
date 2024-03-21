@@ -294,6 +294,13 @@
         "Timestamp": "Feb 20, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/02/feds-seize-lockbit-ransomware-websites-offer-decryption-tools-troll-affiliates/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/lockbitseized.png",
+        "Title": "Feds Seize LockBit Ransomware Websites, Offer Decryption Tools, Troll Affiliates",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Feb 20, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png",
         "Title": "U.S. Internet Leaked Years of Internal, Customer Emails",
@@ -390,13 +397,6 @@
         "Title": "Canadian Man Stuck in Triangle of E-Commerce Fraud",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jan 19, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/01/e-crime-rapper-punchmade-dev-debuts-card-shop/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
-        "Title": "E-Crime Rapper \u2018Punchmade Dev\u2019 Debuts Card Shop",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jan 17, 2024"
     },
     {
         "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
