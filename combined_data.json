@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpcZQUrPBQnIUjFnd8jEOSD5hhRzD2-AVXaWqlVptLz5wq9zZjcXCLu_MR7D_EmNi_xglrGzl-hCq2zyL1r7hzQI6PYCu2RtWeJUpPYP_YqAQ_o2Q6FC75OUnc0jvxSVRnCP8nZ-vN6DETUUGNTkxZBgVzQPYjO1GduNVzg1sIDrlDkxSxwUfQXgPQH4S/s728-rw-e365/phishing.jpg",
+        "Title": "New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilrCQsxfYxjv4mQlWwoB9t1FgUiTOj-bS5DR7xS8YcY9RuVxteldI4VqiFFZGmkR084xmwFsifB8HUcTI5s25Xg4E0NpY9AsOGzOC4tyWLDziLxt4T09T3lMLi8MTxn_9YF5pM63YhcpATiT6Z2caLEy9wdCLmQ3W2R1Iad2psPKFcIV8K1P2oCEyW58mD/s728-rw-e365/aws.jpg",
+        "Title": "AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX1OrN3yoHpCp3MoqtXumV3yhBw20fgRopKie-_WJUnwDR5Qs9ZrGRpSGgcBJUdnN898Y3W-ajxhQLoYhrf7fZE_jnBKfE0DqcWwcsRtDc_XBP9OEaFZg8m3E247yh3mKss4FIjUQr-JhqJ6nJepPkLAuLVz714JnHmD4ZZkGVQJspDeQyF-cR1hsDL1vO/s728-rw-e365/chinese-hackers.jpg",
         "Title": "China-Linked Group Breaches Networks via Connectwise, F5 Software Flaws",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
         "Source": "The Hacker News",
         "Timestamp": "Mar 22, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Link": "https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0-Hf3YpI1aL_1V5OxGfHdMdOGjLzNSoUV6U9QdeMBlLbAM3boaOYpzd2G0izLcX9lNOYaXil8CFbBX8PIaM8sEvwSV8voMfR6qf0aKZkIodceYh2LZzdjt6ZOLvd2fmj7mouGuHYycF-fu25DJhrOHLuo7c3qlOu6xwefTqMa3_nY5LBBMu2yJwVsdqs/s728-rw-e365/apple.jpg",
+        "Title": "U.S. Justice Department Sues Apple Over Monopoly and Messaging Security",
         "Source": "The Hacker News",
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0-Hf3YpI1aL_1V5OxGfHdMdOGjLzNSoUV6U9QdeMBlLbAM3boaOYpzd2G0izLcX9lNOYaXil8CFbBX8PIaM8sEvwSV8voMfR6qf0aKZkIodceYh2LZzdjt6ZOLvd2fmj7mouGuHYycF-fu25DJhrOHLuo7c3qlOu6xwefTqMa3_nY5LBBMu2yJwVsdqs/s728-rw-e365/apple.jpg",
-        "Title": "U.S. Justice Department Sues Apple Over Monopoly and Messaging Security",
+        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
+        "Title": "Human vs. Non-Human Identity in SaaS",
         "Source": "The Hacker News",
         "Timestamp": "Mar 22, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
-        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 22, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s728-rw-e365/npm.jpg",
         "Title": "Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'",
@@ -67,21 +81,35 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s728-rw-e365/lock.jpg",
         "Title": "AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 22, 2024"
+        "Timestamp": "Mar 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGnXc0n2prCqGXxp0kCl3h0fStXj0HKVp2GDJkQXhasRqo5XR3pfQHtWscMvq5WaZ1Gy4z51U6psqdnKI8CrqH2aHLn5NDCbKORD-f5Ekl_wtxuIOb3TOy4yXHicXrr_KmnMlI8OTaFO5Phh4iFM9cgjkdwaQEyedWKHiRm-bOqOjz4cun2-jcqr37fGI/s728-rw-e365/nudge.jpg",
         "Title": "How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 22, 2024"
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s728-rw-e365/ai.jpg",
+        "Title": "Human vs. Non-Human Identity in SaaS",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha6J17PBjMlZmCOcg1I-lTr7rM8MurscrQk2Twx22VRJntGNMvOVKULSGL7ZpR3BsGq2zEqX7wUpY9ts08-AooVmzdAdsDFxuObWx3wnlsKmKeEvMB_i0mar3yZzaMisqkTl0udAopzdcud62CF6sdzbmM5-dkzjUUkJxT-z-QSe5P9HwKFux1sWWdODo/s728-rw-e365/github.jpg",
         "Title": "GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 22, 2024"
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cybersecurity-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
+        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
@@ -98,23 +126,9 @@
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
-        "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s728-rw-e365/ivanti.jpg",
         "Title": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/cybersecurity-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
-        "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
         "Source": "The Hacker News",
         "Timestamp": "Mar 21, 2024"
     },
@@ -136,34 +150,6 @@
         "Link": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ43osrt1HsWQY3rGI1cAmieI4SqQemmxM_Yk8JFmCN-TbQtTWjk1tPTMgrHOcWjoQDY4ABNPLfMh16kZfgtrc5N1gUKJf4PguNO5rpia26aKcnw-1xTvVW8BSeN_OXcT4AWpADSR0CFbecXCjnjWQByg1E2oTrQ1i5hTvfB94QVtdlqo9B-JJG3rgAinb/s728-rw-e365/lasso.jpg",
         "Title": "Generative AI Security - Secure Your Business in a World Powered by LLMs",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFcUesSoSNfLNUICGE2myV1Oerz_BVcp7DAfb8yanA-TxVBp54wtCjnKzafQayVTJFNe5KE5vl7wQtYA3jEc9QG0-8v058dRHrIY6dFfCNBwzUuh26W5LU_eW4c2K0W1xOsmn9NVLFrwdQ19LMFctin4oGDdZyfbegRlePzhkX5q0I5fNn1iREl_PAwV_/s728-rw-e365/ransomware.jpg",
-        "Title": "TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s728-rw-e365/rabit.jpg",
-        "Title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmrX16UkSOXi4tCgMWB2BIV4nRn2V7ZKbOfT_RXY62s1RUrQarAZ2bS-fpjQuWnX_zdWbW2hPC42iNWl3DHNvMVEgQgNAqJcOF9yOaTA8XtKRRMaM8eHGtwakLsGo7DkJIlbgB0Ydn5Z7pS86ZxHdbnMeZ88Ey3tOr9fvuNSigHuX3mGP3hkPyGYyKQQU/s728-rw-e365/hacker-news.jpg",
-        "Title": "Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_osTZpMqlK3yD2lKx_zzOoSr8RYaaimCizXIk5xTj3AyQV6JXGAgh8m7taBQZ-q8HsYKduF0pdwDTWQl-5ShbEImwc7WRvkBuuamGAGxKs9d0fqs0xpuN6bjT02PeMsMo9K4yTwptBu5BPw-drIsSkzlE-Lctsu5wuAmT5bo6a6oYPEToHxU7TqRObcH/s728-rw-e365/water-task-force.jpg",
-        "Title": "U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks",
         "Source": "The Hacker News",
         "Timestamp": "Mar 21, 2024"
     },
