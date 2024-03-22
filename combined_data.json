@@ -1,87 +1,87 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrL5V6mpE-6sky2juAtJNQNztbLDK7MepZzcqnXcFUfynPSAtBGs5tZp4ViDgoZ1bjLDKDTiuAqYm93b1CzcnwX_KT_a2EmFoMOD6zgVEl4CwnFES1ud8rd9quUbUrGEPfJlFv2CV7DicndyNMpQBUK3PiuzCRcdUNUChHWc7dIELEeDWumZujGGwHFf8x/s728-rw-e365/cyberattack.jpg",
+        "Title": "Russian Hackers Target Ukrainian Telecoms with Upgraded 'AcidPour' Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s728-rw-e365/russian-hackers.jpg",
         "Title": "Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s728-rw-e365/npm.jpg",
         "Title": "Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s728-rw-e365/lock.jpg",
-        "Title": "AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.uk/cybersecurity-checklist",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
         "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s728-rw-e365/lock.jpg",
+        "Title": "AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGnXc0n2prCqGXxp0kCl3h0fStXj0HKVp2GDJkQXhasRqo5XR3pfQHtWscMvq5WaZ1Gy4z51U6psqdnKI8CrqH2aHLn5NDCbKORD-f5Ekl_wtxuIOb3TOy4yXHicXrr_KmnMlI8OTaFO5Phh4iFM9cgjkdwaQEyedWKHiRm-bOqOjz4cun2-jcqr37fGI/s728-rw-e365/nudge.jpg",
         "Title": "How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha6J17PBjMlZmCOcg1I-lTr7rM8MurscrQk2Twx22VRJntGNMvOVKULSGL7ZpR3BsGq2zEqX7wUpY9ts08-AooVmzdAdsDFxuObWx3wnlsKmKeEvMB_i0mar3yZzaMisqkTl0udAopzdcud62CF6sdzbmM5-dkzjUUkJxT-z-QSe5P9HwKFux1sWWdODo/s728-rw-e365/github.jpg",
         "Title": "GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s728-rw-e365/ot.jpg",
-        "Title": "Making Sense of Operational Technology Attacks: The Past, Present, and Future",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s728-rw-e365/main.png",
         "Title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s728-rw-e365/ot.jpg",
+        "Title": "Making Sense of Operational Technology Attacks: The Past, Present, and Future",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/us-sanctions-russians-behind.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGF550dTV5JHULJGHWxMXXMTnUZtGgD3bct5LM24vLnfnFJNAcjyi_Cy5IXC6phAT5Ts_ugGkRkv0SwVOYecIzxIvKXVGd76AdM_hO9onAyXdrNmJ4MBsCYFLPlLDuDkQa0HKNewOOtXxaT7on3IExYpxe37Ies0mJqDPApp9ON4pm7o0lDjRfCblZ1iu/s728-rw-e365/fke-news.jpg",
         "Title": "U.S. Sanctions Russians Behind 'Doppelganger' Cyber Influence Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s728-rw-e365/ivanti.jpg",
         "Title": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4DeLbur1as7BjrWQQya7wQleBMPeAFTdcGwNLdPz9oxjNICxLxGiy4jqEfsZ7QJ7obxk7O9Mr4zHpWpDIIkR06yXwAtJGcP8q1Y1M1OYLyzZWglO6J3DHh5ka2R4SiePcqFG554WnSE-WeD6EUk95fBl_8Gou3Ectd56XUvbJ-8PwAghSZd9_qbKjohey/s728-rw-e365/patch.jpg",
         "Title": "Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6jt2b4xsM6PU6iew6hOmkb0q8PvpHyz5tr2V_J102InPq0Y0mHPxbyOfl7NXMRhoYX2jzJz__L3RVN5oQYH601P32C8DEpueFTGI55VJ_EeqgpNUfLT3CqkSeT03mrKs4Zz3qFgjpot6teLioW_dofB-sI6u8f_UrpsKbzwpub7SdHdU0iYd11DFK84h/s728-rw-e365/dos.jpg",
-        "Title": "New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 21, 2024"
+        "Timestamp": "Mar 22, 2024"
     },
     {
         "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
@@ -105,16 +105,16 @@
         "Timestamp": "Mar 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ43osrt1HsWQY3rGI1cAmieI4SqQemmxM_Yk8JFmCN-TbQtTWjk1tPTMgrHOcWjoQDY4ABNPLfMh16kZfgtrc5N1gUKJf4PguNO5rpia26aKcnw-1xTvVW8BSeN_OXcT4AWpADSR0CFbecXCjnjWQByg1E2oTrQ1i5hTvfB94QVtdlqo9B-JJG3rgAinb/s728-rw-e365/lasso.jpg",
-        "Title": "Generative AI Security - Secure Your Business in a World Powered by LLMs",
+        "Link": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6jt2b4xsM6PU6iew6hOmkb0q8PvpHyz5tr2V_J102InPq0Y0mHPxbyOfl7NXMRhoYX2jzJz__L3RVN5oQYH601P32C8DEpueFTGI55VJ_EeqgpNUfLT3CqkSeT03mrKs4Zz3qFgjpot6teLioW_dofB-sI6u8f_UrpsKbzwpub7SdHdU0iYd11DFK84h/s728-rw-e365/dos.jpg",
+        "Title": "New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFcUesSoSNfLNUICGE2myV1Oerz_BVcp7DAfb8yanA-TxVBp54wtCjnKzafQayVTJFNe5KE5vl7wQtYA3jEc9QG0-8v058dRHrIY6dFfCNBwzUuh26W5LU_eW4c2K0W1xOsmn9NVLFrwdQ19LMFctin4oGDdZyfbegRlePzhkX5q0I5fNn1iREl_PAwV_/s728-rw-e365/ransomware.jpg",
-        "Title": "TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks",
+        "Link": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ43osrt1HsWQY3rGI1cAmieI4SqQemmxM_Yk8JFmCN-TbQtTWjk1tPTMgrHOcWjoQDY4ABNPLfMh16kZfgtrc5N1gUKJf4PguNO5rpia26aKcnw-1xTvVW8BSeN_OXcT4AWpADSR0CFbecXCjnjWQByg1E2oTrQ1i5hTvfB94QVtdlqo9B-JJG3rgAinb/s728-rw-e365/lasso.jpg",
+        "Title": "Generative AI Security - Secure Your Business in a World Powered by LLMs",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
@@ -126,9 +126,9 @@
         "Timestamp": "Mar 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s728-rw-e365/rabit.jpg",
-        "Title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
+        "Link": "https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmFcUesSoSNfLNUICGE2myV1Oerz_BVcp7DAfb8yanA-TxVBp54wtCjnKzafQayVTJFNe5KE5vl7wQtYA3jEc9QG0-8v058dRHrIY6dFfCNBwzUuh26W5LU_eW4c2K0W1xOsmn9NVLFrwdQ19LMFctin4oGDdZyfbegRlePzhkX5q0I5fNn1iREl_PAwV_/s728-rw-e365/ransomware.jpg",
+        "Title": "TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
@@ -136,6 +136,13 @@
         "Link": "https://thehackernews.uk/cybersecurity-checklist",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5e83A6uNX0umyxN44oUxNOAOM2_ODvMl4d1ogQuew-RcEmezxZV9dNJPbIu-OqfVEpTSH0gD8rcthD0RgHtGS1V5AlVPkm8jJgts7ujuTTR95VqHX7DzhMKkg_fgOC84_-GB1WUwloB9UsRLUqGKj8hQNyge0ZBBAkURpXN0donv0uaVx714bDc-st9-r/s728-rw-e365/armor.png",
         "Title": "Uncover Critical Gaps in 7 Core Areas of Your Cybersecurity Program",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s728-rw-e365/rabit.jpg",
+        "Title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
@@ -178,13 +185,6 @@
         "Link": "https://thehackernews.com/2024/03/hackers-exploiting-popular-document.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_hTnNc8FIZENiXSYoR6zuQegZJO8-lNPeEuzH8nfuaeR74yUuppXLquv_toJrGyuudFUwrUnJpLhOl0I93Zd_7DMq01oq8Dfrla5x3lDYFp895aX_t8Qgh4rI1WIvAqwEPzTifWXSpdFdqjxJCXLndkvDen2cbgHgJQKGjPcIOTeJdSGaMG30i9UpIPR/s728-rw-e365/phishing.jpg",
         "Title": "Hackers Exploiting Popular Document Publishing Sites for Phishing Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TJDUG0umD5B2VrXM4SZp-inxyAGlZ2ZyMfaFBuLRiA6xnVM5XkhuLJkViHTj-bspablX7UDml9Ojzv0AmcFUDqzBHVsWXTpSmUOA0g5crNIr0zTMpcu41m4UsU0Aq0vBGoxB4PGqV6iuit-8SIlCrxz2oHvUjb1u4WLP8Z6Ept26lgIAv0zLpVS_V5zZ/s728-rw-e365/linux.jpg",
-        "Title": "Suspected Russian Data-Wiping 'AcidPour' Malware Targeting Linux x86 Devices",
         "Source": "The Hacker News",
         "Timestamp": "Mar 20, 2024"
     },
