@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL-VtQI47wDMn5mFnZwgXABjMrDqsWTbdpGleNX6ZYdLN-vlIL3Q18L6jd6Mss2gLkKAo-YpaBeji1mCAgOkoUn-rHzSNRL8uHKv77Qtbl-Joq8TEoHrP_Eb3rMqi3UTfJJ7QQ3OSYO8B2lzoc8Qyp5ux7Kc7Pbgwwc9eyUaejXvoJOBKz9ezvjXCREFlz/s728-rw-e365/india.jpg",
+        "Title": "Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqbhRw2aPiRc30nzTv6OoQayNmcxJY45m1Kml7gyKy1XhijrxgnmwnAqk555rWJkZLkIXYrN1qCZCD3GWgkr06YIcP9JcJtSSONs6yCIG3ux5vM5XP9AEmslQx8QVv9LQi51Oem0zMkoV5ZrJ4Nui2QiO2C1Ep_GJlxnMvzvxixQl3_0DyEz9bhLamiaH/s728-rw-e365/SharePoint.jpg",
+        "Title": "CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hfqeVHLTPOHxJq0REnUwUllrYfG9kYrEfHMVkQ6m_A9ex42vECeoErJfjIbOUn1YOeEpXxOKNr3FGUwNQb6Hq6b-l_Ku9XqJ5NrjE3qCO-GJFMSsuXGWp8a30kXls6fU7vVzJaCoMgomRLr7kkAK7OmpInI1i9Tg81-isZrBMt9pxv1Zz7OiNvTi-SSw/s728-rw-e365/browser.jpg",
+        "Title": "Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-apps-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjK9dFV1ZpdrnMw1uOmCUG51BD9nC77ebXFckuqa2ve7syfOgHXiG_bEUF0ni-R3lKfO0pyhWq3XtiZZDgWd2FdkjjOgatJrOO2Eyp-dHbh7MrJNbufnN8RmaOPtEIczj8QXvR-k89d5t7sgZ48HJC_KYnyaZ77seFrtTWsYqLkaBJWMZaw-MzRIwrWz5/s728-e365/wing.png",
+        "Title": "Automated remediation solutions are crucial for security",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 27, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdAFMHBUT2DzbjPEChzlXN0WSOc8tVInPWTMQRyIWpV1iJM2EQlI2_yyqhMaeLxJCeYVw9bmohvKXOxYayLlk50dvgGYaPwRGmk7s_m6pxpXOyQtgxDB7_PcWA_flmhb_9VIOctBk8OLxbL6izYfX0uYSzOYjHEbE85QZ1jB479eZW1PFpZvVVUJ0nZWc/s728-rw-e365/sase.jpg",
         "Title": "SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals",
@@ -21,9 +49,9 @@
         "Timestamp": "Mar 27, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-apps-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjK9dFV1ZpdrnMw1uOmCUG51BD9nC77ebXFckuqa2ve7syfOgHXiG_bEUF0ni-R3lKfO0pyhWq3XtiZZDgWd2FdkjjOgatJrOO2Eyp-dHbh7MrJNbufnN8RmaOPtEIczj8QXvR-k89d5t7sgZ48HJC_KYnyaZ77seFrtTWsYqLkaBJWMZaw-MzRIwrWz5/s728-e365/wing.png",
-        "Title": "Automated remediation solutions are crucial for security",
+        "Link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s728-rw-e365/ot.jpg",
+        "Title": "Making Sense of Operational Technology Attacks: The Past, Present, and Future",
         "Source": "The Hacker News",
         "Timestamp": "Mar 27, 2024"
     },
@@ -49,31 +77,10 @@
         "Timestamp": "Mar 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLThumm08Oeh2jkEN0Pakys99F6U7QkP7XadGO6iTKvvBImGev91sXwm6TorFvbFVTiGm36Uiwd8s8YQY86HfImfB4rc3h9lnpBShLOmjLqIrBt1lD2_Enl9N2gQzFx7Vy9nz6Xqo8Za8RpE9teQL3tJ0VaD_ouDEHXmSJ4uOPf0l-oqr6CXn8rFHdSHo/s728-rw-e365/hacker.jpg",
-        "Title": "APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
-        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7vAsvoDaNiIZPfxDzRv6vBxyj1xmNSpRCe6Rr6Qv4yI2NBJ5vhKaedwFQzzz_m4i8W7uY1gQ-zUXkXUZcSkor5WPYoXujvpg-kEy7MRPc1DP0s1WEjmIuIOPTd2jHKKesxiFNeF4c7Ks84b0AkxoA7Ekgq2TgWnBHCIiwyecsrU1B-fDYe2k6GQwQOhM/s728-rw-e365/bitcoin.jpg",
-        "Title": "U.S. Sanctions 3 Cryptocurrency Exchanges for Helping Russia Evade Sanctions",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLoWIOugvuW1iPOXp-WNHP9WHwpAaSeAkLXoAfAjLDQQMqO_RDNf9t5tyUxByZc9d3J53tMxI0F5rUsPJtmR7hjzTk3r3IRID-dRl-6qhkp7FnDeNBOrGrWqKdm6jRpIiykPmOT6gH2lf7My-fAqWB8sGMTrv8RXzkuG9N2imD3wEpCfvAW4LHopJmsxWf/s728-rw-e365/cisa.png",
-        "Title": "CISA Alerts on Active Exploitation of Flaws in Fortinet, Ivanti, and Nice Products",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge's Medical School",
+        "Source": "WIRED",
         "Timestamp": "Mar 27, 2024"
     },
     {
@@ -84,81 +91,81 @@
         "Timestamp": "Mar 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpmVPj3iZtxIPrDtaAJ9i0mFrwRvEMGm_Nh_xssF2yrpU7cNtBhyphenhyphen4bzfu5JukG2siwNcpIABLejE8xDi_qh83rVsE8MBqrk2GbIDG6UMMeSJeBGwPBUDvhGAqab4tVhvzL8HYq-4c4N8QZnmN-w2SvErPtY8f8iSaO19zKcKfxklB_3TAT2H7reJufw7IW/s728-rw-e365/code.jpg",
-        "Title": "Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others",
+        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
+        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC08u5ZYbYCQ8BasgOase3h4OY5_9a-Q8GfaGQxMgKKbDCbaNlbNOmkTNKocpHPP_oT2mNbXvnHa2hddZAVITgILCTZkIprrHAtG5j03AMwImuB6qpXn1_TSgt8aMgVTyZ0OwtUDs2AgnkQtdIOxYCSXlip32kKf4CjEZ9CP1Nh3uw3wrhcsMQfOYTKd0/s728-rw-e365/ms.jpg",
-        "Title": "Key Lesson from Microsoft's Password Spray Hack: Secure Every Account ",
+        "Link": "https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7vAsvoDaNiIZPfxDzRv6vBxyj1xmNSpRCe6Rr6Qv4yI2NBJ5vhKaedwFQzzz_m4i8W7uY1gQ-zUXkXUZcSkor5WPYoXujvpg-kEy7MRPc1DP0s1WEjmIuIOPTd2jHKKesxiFNeF4c7Ks84b0AkxoA7Ekgq2TgWnBHCIiwyecsrU1B-fDYe2k6GQwQOhM/s728-rw-e365/bitcoin.jpg",
+        "Title": "U.S. Sanctions 3 Cryptocurrency Exchanges for Helping Russia Evade Sanctions",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLThumm08Oeh2jkEN0Pakys99F6U7QkP7XadGO6iTKvvBImGev91sXwm6TorFvbFVTiGm36Uiwd8s8YQY86HfImfB4rc3h9lnpBShLOmjLqIrBt1lD2_Enl9N2gQzFx7Vy9nz6Xqo8Za8RpE9teQL3tJ0VaD_ouDEHXmSJ4uOPf0l-oqr6CXn8rFHdSHo/s728-rw-e365/hacker.jpg",
-        "Title": "APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage",
+        "Link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s728-rw-e365/ot.jpg",
+        "Title": "Making Sense of Operational Technology Attacks: The Past, Present, and Future",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s728-rw-e365/apple.jpg",
-        "Title": "New \"GoFetch\" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys",
+        "Link": "https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLoWIOugvuW1iPOXp-WNHP9WHwpAaSeAkLXoAfAjLDQQMqO_RDNf9t5tyUxByZc9d3J53tMxI0F5rUsPJtmR7hjzTk3r3IRID-dRl-6qhkp7FnDeNBOrGrWqKdm6jRpIiykPmOT6gH2lf7My-fAqWB8sGMTrv8RXzkuG9N2imD3wEpCfvAW4LHopJmsxWf/s728-rw-e365/cisa.png",
+        "Title": "CISA Alerts on Active Exploitation of Flaws in Fortinet, Ivanti, and Nice Products",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
         "Link": "https://thehackernews.uk/wing-apps-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjK9dFV1ZpdrnMw1uOmCUG51BD9nC77ebXFckuqa2ve7syfOgHXiG_bEUF0ni-R3lKfO0pyhWq3XtiZZDgWd2FdkjjOgatJrOO2Eyp-dHbh7MrJNbufnN8RmaOPtEIczj8QXvR-k89d5t7sgZ48HJC_KYnyaZ77seFrtTWsYqLkaBJWMZaw-MzRIwrWz5/s728-e365/wing.png",
         "Title": "Automated remediation solutions are crucial for security",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpmVPj3iZtxIPrDtaAJ9i0mFrwRvEMGm_Nh_xssF2yrpU7cNtBhyphenhyphen4bzfu5JukG2siwNcpIABLejE8xDi_qh83rVsE8MBqrk2GbIDG6UMMeSJeBGwPBUDvhGAqab4tVhvzL8HYq-4c4N8QZnmN-w2SvErPtY8f8iSaO19zKcKfxklB_3TAT2H7reJufw7IW/s728-rw-e365/code.jpg",
+        "Title": "Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC08u5ZYbYCQ8BasgOase3h4OY5_9a-Q8GfaGQxMgKKbDCbaNlbNOmkTNKocpHPP_oT2mNbXvnHa2hddZAVITgILCTZkIprrHAtG5j03AMwImuB6qpXn1_TSgt8aMgVTyZ0OwtUDs2AgnkQtdIOxYCSXlip32kKf4CjEZ9CP1Nh3uw3wrhcsMQfOYTKd0/s728-rw-e365/ms.jpg",
+        "Title": "Key Lesson from Microsoft's Password Spray Hack: Secure Every Account ",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s728-rw-e365/apple.jpg",
+        "Title": "New \"GoFetch\" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UhayBlaH6ja82LknfnYnXW88z0JqCPGicfQajqnkHvIarJ1xS3T5POevCr-m3WMexL8dYMeW9WQas3HKoN3PzEbnfA6kk59psTwYgDYCmnQcP1oK-KsioBG_h5BsnKBNHI47XvhG_guevhqfRhsOZfyNMaVlSOGntxYpAYL_hNSBFWeyihhQaU44hqLW/s728-rw-e365/malware.jpg",
         "Title": "Iran-Linked MuddyWater Deploys Atera for Surveillance in Phishing Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/n-korea-linked-kimsuky-shifts-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemrGhznvzngtI1MmvT6BExQ6EOWkIFSAZ8wh7yBNUuik6kTUsmrt1eMFUBMyGXtXb0mSgRVLNw4H85LKQHomqqA7itpDE3tEwd78WlrV5oQsMZaCyjHpkxpPzYwo57-xEZ0KWuSOwUiYDO6WGZt7ThWHnqZhRuH3h4MraX48ux8F2UOhJpeZ9hZVtkkL/s728-rw-e365/chm.jpg",
         "Title": "N. Korea-linked Kimsuky Shifts to Compiled HTML Help Files in Ongoing Cyberattacks",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlwnhOsiYHFgNQy_PcuU5HS9IEp2Scv7KdVdgf5fjzZNQlSQEEzDj5JnQbAllIsgYTy3nkLTcqAzlyAQPC7Pu4W7fb2i7RJmy9BpXHqx6yuyZX3aVvn6of8u5m928bSqf1gWx610jPBqLZmPR6v0UsnE3FpJmdFsQiTy6TohLBn91vgQXuu8GBs-20wxB/s728-rw-e365/platform.jpg",
         "Title": "German Police Seize 'Nemesis Market' in Major International Darknet Raid",
         "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedxJ0gmbKhyphenhyphendy8d9ul3Bj07s79fql8EYL0w2OQtf7OU0FL4_h8p_EvHLoxHzRLaDp2O1BTT3-mkcNHhJ4MNdbdn1HmWSr7y6wlpusHqiWzIeYFP2OYZq17Wxe203vEpnH90mJO8RcpS9CmNmYkzXwTCwJ4nXelC5pS1NwjpP9FRYNoqmaneiNyDy4Eq-g/s728-rw-e365/russian-hackers.jpg",
-        "Title": "Russian Hackers Use 'WINELOADER' Malware to Target German Political Parties",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpcZQUrPBQnIUjFnd8jEOSD5hhRzD2-AVXaWqlVptLz5wq9zZjcXCLu_MR7D_EmNi_xglrGzl-hCq2zyL1r7hzQI6PYCu2RtWeJUpPYP_YqAQ_o2Q6FC75OUnc0jvxSVRnCP8nZ-vN6DETUUGNTkxZBgVzQPYjO1GduNVzg1sIDrlDkxSxwUfQXgPQH4S/s728-rw-e365/phishing.jpg",
-        "Title": "New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilrCQsxfYxjv4mQlWwoB9t1FgUiTOj-bS5DR7xS8YcY9RuVxteldI4VqiFFZGmkR084xmwFsifB8HUcTI5s25Xg4E0NpY9AsOGzOC4tyWLDziLxt4T09T3lMLi8MTxn_9YF5pM63YhcpATiT6Z2caLEy9wdCLmQ3W2R1Iad2psPKFcIV8K1P2oCEyW58mD/s728-rw-e365/aws.jpg",
-        "Title": "AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 25, 2024"
+        "Timestamp": "Mar 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/",
@@ -189,13 +196,6 @@
         "Timestamp": "Mar 20, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/65f4bc752a4b729889d78ac6/3:2/w_1280%2Cc_limit/Security-News-This-Week--Automakers-Are-Telling-Your-Insurance-Company-How-You-Really-Drive-GettyImages-108291313.jpg",
-        "Title": "Automakers Are Telling Your Insurance Company How You Really Drive",
-        "Source": "WIRED",
-        "Timestamp": "Mar 16, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/onerep-permanente.png",
         "Title": "CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms",
@@ -222,6 +222,13 @@
         "Title": "A Close Up Look at the Consumer Data Broker Radaris",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/meta-hacked-users-draining-resources/",
+        "Img_URL": "https://media.wired.com/photos/65f4bc752a4b729889d78ac6/3:2/w_1280%2Cc_limit/Security-News-This-Week--Automakers-Are-Telling-Your-Insurance-Company-How-You-Really-Drive-GettyImages-108291313.jpg",
+        "Title": "Automakers Are Telling Your Insurance Company How You Really Drive",
+        "Source": "WIRED",
+        "Timestamp": "Mar 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/",
@@ -446,12 +453,5 @@
         "Title": "The 23andMe Data Breach Keeps Spiraling",
         "Source": "WIRED",
         "Timestamp": "Nov 18, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/google-titan-security-key-passkeys/",
-        "Img_URL": "https://media.wired.com/photos/6557e61b8ba298d25d23d7f5/3:2/w_1280%2Cc_limit/Inside-The-Race-to-Secure-the-Formula-1-Las-Vegas-Grand-Prix-Security-GettyImages-1787267227.jpg",
-        "Title": "Inside the Race to Secure Formula 1\u2019s Las Vegas Grand Prix",
-        "Source": "WIRED",
-        "Timestamp": "Nov 15, 2023"
     }
 ]
