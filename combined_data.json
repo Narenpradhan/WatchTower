@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/03/thread-hijacking-phishes-that-prey-on-your-curiosity/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/kidanstory.png",
+        "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Mar 28, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-KGQUKSU74xrEZa2psXIZWXqLEiOJ6gl1cNx4ZeqRMWB6pLBcYdAV6xdwPgiqFHCw79-I_q2hb0zVINfTwbDWIMmZspUbmTFzha_n48_1LOMejoMJDvuvhqHLLRTcpTZzFmMmZdLl8NuHbzGiirrzHCtwJSCOr_Ci8HWwhg5QmwS1Gju8Z1X6iU6OH7_/s728-rw-e365/linux.jpg",
         "Title": "Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries",
@@ -264,13 +271,6 @@
         "Title": "Here Come the AI Worms",
         "Source": "WIRED",
         "Timestamp": "Feb 29, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/02/doug-scammer.png",
-        "Title": "Calendar Meeting Links Used to Spread Mac Malware",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Feb 28, 2024"
     },
     {
         "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
