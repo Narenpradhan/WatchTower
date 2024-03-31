@@ -77,6 +77,13 @@
         "Timestamp": "Mar 30, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/yogurt-heist-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/6606f98c12bb914ce2738b5e/3:2/w_1280%2Cc_limit/Security-News-This-Week--Cybercriminals'-Yogurt-Heist-Reveals-A-Rampant-Form-of-Online-Fraud-Security-GettyImages-158315555.jpg",
+        "Title": "Yogurt Heist Reveals a Rampant Form of Online Fraud",
+        "Source": "WIRED",
+        "Timestamp": "Mar 30, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/03/thread-hijacking-phishes-that-prey-on-your-curiosity/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/kidanstory.png",
         "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
@@ -182,13 +189,6 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb777e293f54ea2900acb4/3:2/w_1280%2Cc_limit/032024-security-hotel-locks-hack-site'.jpg",
-        "Title": "Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds",
-        "Source": "WIRED",
-        "Timestamp": "Mar 21, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
         "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
         "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
@@ -201,6 +201,13 @@
         "Title": "The Not-so-True People-Search Network from China",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 20, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/65fb777e293f54ea2900acb4/3:2/w_1280%2Cc_limit/032024-security-hotel-locks-hack-site'.jpg",
+        "Title": "Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds",
+        "Source": "WIRED",
+        "Timestamp": "Mar 16, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/",
@@ -446,12 +453,5 @@
         "Title": "Microsoft\u2019s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime",
         "Source": "WIRED",
         "Timestamp": "Dec 05, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/f1-las-vegas-grand-prix-security/",
-        "Img_URL": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/3:2/w_1280%2Cc_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
-        "Title": "The 23andMe Data Breach Keeps Spiraling",
-        "Source": "WIRED",
-        "Timestamp": "Nov 18, 2023"
     }
 ]
