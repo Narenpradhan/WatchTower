@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XpCw3UqUDLHsao2OaerAXp0ku8lrCCcXqyAj4Xhbj05KGiAoTUzM_i8W8miodNQwIX79Ao71LPBj6UsM93URqZUoMHUeGhP6qZRYxoddHo8gTbTRdJpt5fYm3CbXATf6ttjRuv5w-oaE1wDNtTxrbidEjeVYnjCypo55uEV-Z0QbhGDyK-n0qGrUl6kY/s728-rw-e365/linux.png",
+        "Title": "Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlElpcU83vt-eWmC6r_P_mRpyJm-uvxUQCEPB5edZQUuOyTOSWf0cZWWs0dA7rPxDotTAQbBenAG_Jzhofh0z9pa08-T0T72yar4vIO84dqjiV2oISJmGh26qOaxoFxS4B1VmPPJe2eDJxLNi0XzIJXyjVPixlC7HRY10aMzoUWYpPEuRv0j7VoE1u3c/s728-rw-e365/xmcyber.jpg",
         "Title": "Harnessing the Power of CTEM for Cloud Security",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4OeXqgwhEzYXhz0p4TTbTs5h5pr5V297VkZ20yl3ItaXdhp8Vi504tQaDlVkjqYsldnE10-SvlRk_9B0SqeW1qMQaym77Gg920cxAe5EclM9zvvMIoTSOCdyxzvV78rWJAmIn9MHGTgoXMUSjcF2jl3NEOqYRJ_VkA_OgcNphyphenhyphenIjgxr4rEivkPFbO31V/s728-rw-e365/chrome.jpg",
-        "Title": "Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement",
+        "Link": "https://thehackernews.uk/mars-cloud-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVKFDaWN7tqD4kRYvE3dGe4Lnle6rr1bl22zBB2Jvw_hT_7FbZcD-R6sWJ4-ziViSRjoBQe30gDWcN6E-0bYVArC1l0n5awipW6pBaa5u5Ja7kBmFQPHqerC7JQQcDQUJUrNlynqSMUMLu4pyovmfIqMXydgq8A6i7NA-vdTI62y0-t_ggHensHbDz88T/s728-e365/times.jpg",
+        "Title": "How Mars Protects Their Cloud Environment",
         "Source": "The Hacker News",
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/mars-cloud-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVKFDaWN7tqD4kRYvE3dGe4Lnle6rr1bl22zBB2Jvw_hT_7FbZcD-R6sWJ4-ziViSRjoBQe30gDWcN6E-0bYVArC1l0n5awipW6pBaa5u5Ja7kBmFQPHqerC7JQQcDQUJUrNlynqSMUMLu4pyovmfIqMXydgq8A6i7NA-vdTI62y0-t_ggHensHbDz88T/s728-e365/times.jpg",
-        "Title": "How Mars Protects Their Cloud Environment",
+        "Link": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4OeXqgwhEzYXhz0p4TTbTs5h5pr5V297VkZ20yl3ItaXdhp8Vi504tQaDlVkjqYsldnE10-SvlRk_9B0SqeW1qMQaym77Gg920cxAe5EclM9zvvMIoTSOCdyxzvV78rWJAmIn9MHGTgoXMUSjcF2jl3NEOqYRJ_VkA_OgcNphyphenhyphenIjgxr4rEivkPFbO31V/s728-rw-e365/chrome.jpg",
+        "Title": "Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement",
         "Source": "The Hacker News",
         "Timestamp": "Apr 02, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjslwQZtEyPm7DSvSfg1vAJuDs8qao1YplToNPNZyEkqSekcgAPW-5XNSBplGbkHBg3HP7oIapaVze6ZVZbzHocF43yclsYe4j7WMYzKxNo2ug9JiSh94VCIkwLW09diYb8nid8HOuWXvwF3YO2CiqyHUyNDzNqJdyr5iejJHPp6p2G8Gy-HYtP9k1ZkfJF/s728-rw-e365/main.png",
-        "Title": "Detecting Windows-based Malware Through Better Visibility",
+        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
+        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
-        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
+        "Link": "https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjslwQZtEyPm7DSvSfg1vAJuDs8qao1YplToNPNZyEkqSekcgAPW-5XNSBplGbkHBg3HP7oIapaVze6ZVZbzHocF43yclsYe4j7WMYzKxNo2ug9JiSh94VCIkwLW09diYb8nid8HOuWXvwF3YO2CiqyHUyNDzNqJdyr5iejJHPp6p2G8Gy-HYtP9k1ZkfJF/s728-rw-e365/main.png",
+        "Title": "Detecting Windows-based Malware Through Better Visibility",
         "Source": "The Hacker News",
         "Timestamp": "Apr 02, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURtJN6Yuim_HIeClyg3gWTYpm1XIP-tIMh3jlRRAQtfWAGkVCh2eZpUTfTslmQwde_xbfazDg0uhnxnBhuoNh1XjNtI5PgKOFoT13ct7tKwHn75hhy8u11yU4IPkD2tVgqf4EiZHnbaXZP1bv5OtJg7YnxJrHanfUz-JUwAdit6PKqgjq2R9S0NLXPMwL/s728-rw-e365/apple.jpg",
         "Title": "Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
+        "Timestamp": "Mar 30, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8OvVhdiTdk2NbTJsUGaqbgK7i_8BjH3PDOE82ZGtXY9ujMOhhEpGLtuTEG3WoVJ1MJgVEWPHnbjxP5Mfht0vJ5TZlavsH_-pWYynkeWSBy9A0t67AFfjy-tVi-2-J9tXdeWoOHIJeOtlpsYHmZVzIXw9fbi1XULyODudi4x7P4ZPmFJTZif57sWKdpsX/s728-rw-e365/linux.jpg",
         "Title": "Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqokdn6eNAnVrudJ3HebUu-Jo0SIA5sQ2BLRMpHvV1sKnftqSfNNvRD2kYj-m2D9YasgJwINIh8bmdT8PqhSYciT0qJiYZ2CDaNagAVRirZnhtm_-oJDQvDBdIIBkT7k8w7ZKCxgddXV3V1jUEgRSdPzudeyVXwG3Mw2GwYBtz_ao6RxsINEWxR0-y3HF/s728-rw-e365/lock.jpg",
-        "Title": "Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds",
         "Source": "The Hacker News",
         "Timestamp": "Mar 30, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Mar 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfygcD-G2L59-BGqP-hkrzLvdew2mSTdPMrJwc2YJVIdmLWSaR2Q8myiI8ryvUSHb1fHU6WPS7u1qge_dKuj9Yb_raDkZ29_5MvggisRZwF5svjZBSGHpVbtm65_ga6McSiVrFNx0_axnABrXLLo3lV8ExaJ-GycD7ghOyZgQyE6joJNhcLVMXoDwfOT0/s728-rw-e365/hacker.jpg",
-        "Title": "TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy",
+        "Link": "https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqokdn6eNAnVrudJ3HebUu-Jo0SIA5sQ2BLRMpHvV1sKnftqSfNNvRD2kYj-m2D9YasgJwINIh8bmdT8PqhSYciT0qJiYZ2CDaNagAVRirZnhtm_-oJDQvDBdIIBkT7k8w7ZKCxgddXV3V1jUEgRSdPzudeyVXwG3Mw2GwYBtz_ao6RxsINEWxR0-y3HF/s728-rw-e365/lock.jpg",
+        "Title": "Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds",
         "Source": "The Hacker News",
         "Timestamp": "Mar 30, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/mars-cloud-security-risks",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVKFDaWN7tqD4kRYvE3dGe4Lnle6rr1bl22zBB2Jvw_hT_7FbZcD-R6sWJ4-ziViSRjoBQe30gDWcN6E-0bYVArC1l0n5awipW6pBaa5u5Ja7kBmFQPHqerC7JQQcDQUJUrNlynqSMUMLu4pyovmfIqMXydgq8A6i7NA-vdTI62y0-t_ggHensHbDz88T/s728-e365/times.jpg",
         "Title": "How Mars Protects Their Cloud Environment",
+        "Source": "The Hacker News",
+        "Timestamp": "Mar 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfygcD-G2L59-BGqP-hkrzLvdew2mSTdPMrJwc2YJVIdmLWSaR2Q8myiI8ryvUSHb1fHU6WPS7u1qge_dKuj9Yb_raDkZ29_5MvggisRZwF5svjZBSGHpVbtm65_ga6McSiVrFNx0_axnABrXLLo3lV8ExaJ-GycD7ghOyZgQyE6joJNhcLVMXoDwfOT0/s728-rw-e365/hacker.jpg",
+        "Title": "TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy",
         "Source": "The Hacker News",
         "Timestamp": "Mar 30, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbIKXOt481VwYOdBeizhuZUK7JSHncH2lqTx3s1E9Ekra9j9z5d_5fydK5fWWptaTfrKr-x_LT9j8tjzYZKEuGkMz5uTEyP5wk6KpSJePdd6Ne1kJlzEjLATjkjGaSYlMJF0yEQD5HVxWA5TXBIrs8nXZPdx3vW4JIwCG6Ut6ZybEv7hysrjJnuz4_dNZp/s728-rw-e365/hacker.jpg",
         "Title": "Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Mar 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/new-zenhammer-attack-bypasses-rowhammer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDvbWPm-evCaKmAhbOZFgzKebMgNiclbVKDtraG-AZS2Xhh4SPKGR7Vt_LMl-ImkOGqk0F5pXj91XqP6SuJzLr1jnI1efHXiUVv-2BTgfpDYW__o-JrIdJ0z3OwC567arUpsHhOMKP3mZ5RvdkpknddpioZ9dVp6nHmukfs3GR-PzA70GDlIYom_EW6SJ/s728-rw-e365/amd.jpg",
-        "Title": "New ZenHammer Attack Bypasses RowHammer Defenses on AMD CPUs",
         "Source": "The Hacker News",
         "Timestamp": "Mar 30, 2024"
     },
