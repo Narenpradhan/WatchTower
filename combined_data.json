@@ -1,86 +1,93 @@
 [
     {
-        "Link": "https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/manipulaters-o365.png",
-        "Title": "The Manipulaters\u2019 Improve Phishing, Still Fail at Opsec",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 03, 2024"
+        "Link": "https://thehackernews.com/2024/04/considerations-for-operational.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02a1Tazh7Fugr5KFSouik52lSE-Z3kxkwVvc3QYGnwJ9z1r-23MMtHTrMY7Bbsjba2igKYrNwWMUlQ8P5gQhfViZrvQ2wDx-YgO8nHqhBCZUcDUnZgZl0mgVKByOvgWMuLmVQf7Iv7KG2w3QftwzJACTLoH9z7VsyZCXWpafusiwdU3DvI_fZ57xt97o/s728-rw-e365/ot.png",
+        "Title": "Considerations for Operational Technology Cybersecurity",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/new-http2-vulnerability-exposes-web.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSJOO-SFm8buSgPRicovagBROYUtBco0wbzJb6ZeyCRnYSvx-Xx8AF2vu7Rf8XZkBkwpPtAqwt7T-bCAOPXBI9AUMsxvY6Dlwh4ChCvsirxnHfArK9p11fpxeBXwXF6GPTIvEcA3bKvViT8nRSaRaM1tfzZWB4ImPHlmP627n2FugeSWyrKOYD7kz7X5hi/s728-rw-e365/https.png",
+        "Title": "New HTTP/2 Vulnerability Exposes Web Servers to DoS Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/ivanti-rushes-patches-for-4-new-flaw-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSul6T7JNOwMmmyov5MAIPTHFK_yEV4HQEerGakyw2uDWrziWPtpU8RPOZCBRdYIjLtpzlRkCJFOeKimAurxOmmYNuU6-8_Sp36YvUBXqDCU3kIAaxvfAWD7qXzSrAVVUFWl0IMUGhoQ0yozvTR3UrZynuSr2eqsOWlG0CLtbrUj1vnPvCtrR_1Lvh_b1/s728-rw-e365/ivanti.jpg",
+        "Title": "Ivanti Rushes Patches for 4 New Flaws in Connect Secure and Policy Secure",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/mars-cloud-security-wiz-tines",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgcpNL15PepiC_MJR-qW8TMTmppUGDppXUTktP5bzcP58u9CrizfO0-ii_qrMyiGIGGx89mQEYsrIrV094pup5At7xvz23nl92H6dCBtMOAIRxz29WVsbT6-I-8DrvSyiKO5W28tMZS0uJBLGKe31GzGmGcdX8_Z_5C8nl-Ur5FhphXJ-EnVEeiGaJHkj/s728-e365/tines.png",
+        "Title": "How Mars' Director of Security Invests in Detection and Response",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfH_WunMAzWYLRN7XQXT5aQ_efFKfgVKAkubbCnl7uYxHPHMFnjYTKnZ9C9Jx7Q4iECWLX1dsVq27XRV8anQkArenpZ_jFDaDYdzRg80DGw3IxCKosJiqRYDuzWHu8OTKohdM-Z9WqXt04ZfBEzY0-xyhqSatu2o_BURy2ws8BEbSArBkwALwjSbFEK-qa/s728-rw-e365/hacker.png",
         "Title": "Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNuHtzH9tTsNAhBQLRb196fV5XNPqRtNXZsj1DiGMKAW3bCK49bL3si6NL9s4Ve4eztYeB4pJCLv50sH1jCI-_D4155g4oO0WE0j-F1zVOp_ExduVYJmUpiMQbKaXHwgJ4O_Dd-rdr1GnT4iqXZzrA4XaauNsElQBAjJH2Bp4tqgEznZ3Qs5BgDXMDQqty/s728-rw-e365/ms.png",
         "Title": "U.S. Cyber Safety Board Slams Microsoft Over Breach by China-Based Hackers",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmK6FLX4ZvbHQio0PmpHdzg8HSW5YkhhUePuimCJeaN4A3sCJjQt7uNtRLbu25QBMovbQkAFHYk_WA34F16uS9A9TynoF-RH6qT2QRlQX6gfILD6p5FASH9LzhH07cFj6F7ZgyjWM4kszFskkqEdANYbBihi4qA4bx6JcSmXBYK_F_dtxfJ85od6ijrM3j/s728-rw-e365/chrome.png",
         "Title": "Google Chrome Beta Tests New DBSC Protection Against Cookie-Stealing Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/mars-cloud-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVKFDaWN7tqD4kRYvE3dGe4Lnle6rr1bl22zBB2Jvw_hT_7FbZcD-R6sWJ4-ziViSRjoBQe30gDWcN6E-0bYVArC1l0n5awipW6pBaa5u5Ja7kBmFQPHqerC7JQQcDQUJUrNlynqSMUMLu4pyovmfIqMXydgq8A6i7NA-vdTI62y0-t_ggHensHbDz88T/s728-e365/times.jpg",
-        "Title": "How Mars Protects Their Cloud Environment",
+        "Link": "https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikrBpZZKd8QjNr0ecy8umOPuckOLqeLacDaeaEyyL29FNDUoAJL4W9_7nDywz3oob7JFgGszLw6WvWvwFY2Yccoo3jBZ7JTvZfwSzy45-Is92D3BK1bk-WMI-ddkc5EOELcLSfkTZyTBEEgWAfe0CIxdiDcnYplcRZdhCh7LP4RcYLMlX4NXponK9i_ik/s728-rw-e365/entro.png",
+        "Title": "Behind the Scenes: The Art of Safeguarding Non-Human Identities",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/attack-surface-management-vs.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo_1U3LjH9D9tWsC7xS4W4OtmyYXJ6VBqyrwRRcxDtX3PwxdHxKTMDkSmPfd2K9QhAYp9xjwLwb9B3NaXG6Ch1QDgfjUwQ8xwhhXeW1-DGjbL1dq4WbycT9o3HZ1Zfw7oxjpJbkJB0gpeDDn-r_i7_h_MUSmXLHP2R8wbmalvjymUzRV2ANVFIuRd3IY/s728-rw-e365/intruder.png",
         "Title": "Attack Surface Management vs. Vulnerability Management",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/mispadu-trojan-targets-europe-thousands.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_ui36luirVwCC-9S3hmpIbKfGQSK98Cw528hmrpRAw60AzvnCKLPExZYrP1dKZK3RDrHcX6HUGz0CgsP0-_ypDiC7FW4fmRrssjbHljpPzZSVw4RUmsPwhdZYwegJRaCuE0tTguvi5WwABXUUQA6auGVldQ6PzYrU8tOD7vyDLHc0mWz-Ddq1IQmkmtj/s728-rw-e365/hacking.png",
         "Title": "Mispadu Trojan Targets Europe, Thousands of Credentials Compromised",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/critical-security-flaw-found-in-popular.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-PrWsU6BxKYcpvLxrcznioMh7y4olG21xdUa6H0sOYKuXizR0K9jHMsmWcdSTXU2U2rUcvgnZyMBGk4lCNvfLUScam9F1zM6HrjZKKWqUCQuo4f2E4PhhDVOOkBddqmGzGEkPhdXhgym13FmC62x_pIEIfXg2canup1riZ-Hnsku1437kZzeKu2gHgeX/s728-rw-e365/wordpress-hacking.png",
         "Title": "Critical Security Flaw Found in Popular LayerSlider WordPress Plugin",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
-        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660d9b183dcd47024015ca40/3:2/w_1280%2Cc_limit/P4x-Security-DVN_8879.jpeg",
+        "Title": "A Vigilante Hacker Took Down North Korea\u2019s Internet. Now He\u2019s Taking Off His Mask",
+        "Source": "WIRED",
+        "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XpCw3UqUDLHsao2OaerAXp0ku8lrCCcXqyAj4Xhbj05KGiAoTUzM_i8W8miodNQwIX79Ao71LPBj6UsM93URqZUoMHUeGhP6qZRYxoddHo8gTbTRdJpt5fYm3CbXATf6ttjRuv5w-oaE1wDNtTxrbidEjeVYnjCypo55uEV-Z0QbhGDyK-n0qGrUl6kY/s728-rw-e365/linux.png",
-        "Title": "Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlElpcU83vt-eWmC6r_P_mRpyJm-uvxUQCEPB5edZQUuOyTOSWf0cZWWs0dA7rPxDotTAQbBenAG_Jzhofh0z9pa08-T0T72yar4vIO84dqjiV2oISJmGh26qOaxoFxS4B1VmPPJe2eDJxLNi0XzIJXyjVPixlC7HRY10aMzoUWYpPEuRv0j7VoE1u3c/s728-rw-e365/xmcyber.jpg",
-        "Title": "Harnessing the Power of CTEM for Cloud Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/china-linked-hackers-deploy-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hhXfiXrIoNlQTsm4QraFUFa47AbYefWB4sKtf8fOMB2uY9XG0d-MB85eruQMDhnOic_LF2JZWfdIWfrEdYxj4viulgpLngCQLhDDLwDajrxlaYQpPSseJVUGyiD-nMPxjy-ajktroFm4B9SFg430r0TbHdVC9YkYJIRtZwn-z3BIeE344_0CM3DZdsia/s728-rw-e365/hackers.jpg",
-        "Title": "China-linked Hackers Deploy New 'UNAPIMON' Malware for Stealthy Operations",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/manipulaters-o365.png",
+        "Title": "The Manipulaters\u2019 Improve Phishing, Still Fail at Opsec",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Apr 03, 2024"
     },
     {
@@ -89,6 +96,41 @@
         "Title": "The Mystery of \u2018Jia Tan,\u2019 the XZ Backdoor Mastermind",
         "Source": "WIRED",
         "Timestamp": "Apr 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XpCw3UqUDLHsao2OaerAXp0ku8lrCCcXqyAj4Xhbj05KGiAoTUzM_i8W8miodNQwIX79Ao71LPBj6UsM93URqZUoMHUeGhP6qZRYxoddHo8gTbTRdJpt5fYm3CbXATf6ttjRuv5w-oaE1wDNtTxrbidEjeVYnjCypo55uEV-Z0QbhGDyK-n0qGrUl6kY/s728-rw-e365/linux.png",
+        "Title": "Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlElpcU83vt-eWmC6r_P_mRpyJm-uvxUQCEPB5edZQUuOyTOSWf0cZWWs0dA7rPxDotTAQbBenAG_Jzhofh0z9pa08-T0T72yar4vIO84dqjiV2oISJmGh26qOaxoFxS4B1VmPPJe2eDJxLNi0XzIJXyjVPixlC7HRY10aMzoUWYpPEuRv0j7VoE1u3c/s728-rw-e365/xmcyber.jpg",
+        "Title": "Harnessing the Power of CTEM for Cloud Security",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/03/behind-scenes-art-of-safeguarding-non.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikrBpZZKd8QjNr0ecy8umOPuckOLqeLacDaeaEyyL29FNDUoAJL4W9_7nDywz3oob7JFgGszLw6WvWvwFY2Yccoo3jBZ7JTvZfwSzy45-Is92D3BK1bk-WMI-ddkc5EOELcLSfkTZyTBEEgWAfe0CIxdiDcnYplcRZdhCh7LP4RcYLMlX4NXponK9i_ik/s728-rw-e365/entro.png",
+        "Title": "Behind the Scenes: The Art of Safeguarding Non-Human Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/china-linked-hackers-deploy-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hhXfiXrIoNlQTsm4QraFUFa47AbYefWB4sKtf8fOMB2uY9XG0d-MB85eruQMDhnOic_LF2JZWfdIWfrEdYxj4viulgpLngCQLhDDLwDajrxlaYQpPSseJVUGyiD-nMPxjy-ajktroFm4B9SFg430r0TbHdVC9YkYJIRtZwn-z3BIeE344_0CM3DZdsia/s728-rw-e365/hackers.jpg",
+        "Title": "China-linked Hackers Deploy New 'UNAPIMON' Malware for Stealthy Operations",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/mars-cloud-security-wiz-tines",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgcpNL15PepiC_MJR-qW8TMTmppUGDppXUTktP5bzcP58u9CrizfO0-ii_qrMyiGIGGx89mQEYsrIrV094pup5At7xvz23nl92H6dCBtMOAIRxz29WVsbT6-I-8DrvSyiKO5W28tMZS0uJBLGKe31GzGmGcdX8_Z_5C8nl-Ur5FhphXJ-EnVEeiGaJHkj/s728-e365/tines.png",
+        "Title": "How Mars' Director of Security Invests in Detection and Response",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 02, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
@@ -105,23 +147,9 @@
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s728-rw-e365/ddos.jpg",
-        "Title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg20G57lS7_ObJf62SPCwT_Vmlm6jCDeIUyFnM7QPJ6hRLi8ZMHDJkC7kF5ezOPRxhqZtB5N_a6w4wF4Fs4K_dI5rrqpfzbAOVshfqCClUQ9Hsf1mCbg0-MqFeNu-74Js76ljhhVua0g4sEOwCRLh9KMDMeAadrYSAj4DVbIsD6AhhyphenhyphenifnZotNkKy6zBfFB/s728-rw-e365/india.jpg",
         "Title": "Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/mars-cloud-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVKFDaWN7tqD4kRYvE3dGe4Lnle6rr1bl22zBB2Jvw_hT_7FbZcD-R6sWJ4-ziViSRjoBQe30gDWcN6E-0bYVArC1l0n5awipW6pBaa5u5Ja7kBmFQPHqerC7JQQcDQUJUrNlynqSMUMLu4pyovmfIqMXydgq8A6i7NA-vdTI62y0-t_ggHensHbDz88T/s728-e365/times.jpg",
-        "Title": "How Mars Protects Their Cloud Environment",
         "Source": "The Hacker News",
         "Timestamp": "Apr 02, 2024"
     },
@@ -147,27 +175,6 @@
         "Timestamp": "Apr 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/03/hackers-target-macos-users-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURtJN6Yuim_HIeClyg3gWTYpm1XIP-tIMh3jlRRAQtfWAGkVCh2eZpUTfTslmQwde_xbfazDg0uhnxnBhuoNh1XjNtI5PgKOFoT13ct7tKwHn75hhy8u11yU4IPkD2tVgqf4EiZHnbaXZP1bv5OtJg7YnxJrHanfUz-JUwAdit6PKqgjq2R9S0NLXPMwL/s728-rw-e365/apple.jpg",
-        "Title": "Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8OvVhdiTdk2NbTJsUGaqbgK7i_8BjH3PDOE82ZGtXY9ujMOhhEpGLtuTEG3WoVJ1MJgVEWPHnbjxP5Mfht0vJ5TZlavsH_-pWYynkeWSBy9A0t67AFfjy-tVi-2-J9tXdeWoOHIJeOtlpsYHmZVzIXw9fbi1XULyODudi4x7P4ZPmFJTZif57sWKdpsX/s728-rw-e365/linux.jpg",
-        "Title": "Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqokdn6eNAnVrudJ3HebUu-Jo0SIA5sQ2BLRMpHvV1sKnftqSfNNvRD2kYj-m2D9YasgJwINIh8bmdT8PqhSYciT0qJiYZ2CDaNagAVRirZnhtm_-oJDQvDBdIIBkT7k8w7ZKCxgddXV3V1jUEgRSdPzudeyVXwG3Mw2GwYBtz_ao6RxsINEWxR0-y3HF/s728-rw-e365/lock.jpg",
-        "Title": "Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 02, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/yogurt-heist-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/6606f98c12bb914ce2738b5e/3:2/w_1280%2Cc_limit/Security-News-This-Week--Cybercriminals'-Yogurt-Heist-Reveals-A-Rampant-Form-of-Online-Fraud-Security-GettyImages-158315555.jpg",
         "Title": "Yogurt Heist Reveals a Rampant Form of Online Fraud",
@@ -180,13 +187,6 @@
         "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 28, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
-        "Source": "WIRED",
-        "Timestamp": "Mar 27, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/",
@@ -206,6 +206,13 @@
         "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
         "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
         "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Source": "WIRED",
+        "Timestamp": "Mar 21, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
@@ -446,12 +453,5 @@
         "Title": "The SEC\u2019s Official X Account Was \u2018Compromised\u2019 and Used to Post Fake Bitcoin News",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2023"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-digital-crime-unit-2023/",
-        "Img_URL": "https://media.wired.com/photos/6557ed60591547359b3c7022/3:2/w_1280%2Cc_limit/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg",
-        "Title": "Cybersecurity Industry Baffled by FBI\u2019s Lack of Action on Ransomware Gang",
-        "Source": "WIRED",
-        "Timestamp": "Dec 14, 2023"
     }
 ]
