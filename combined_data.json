@@ -1,6 +1,6 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/04/blog-post.html",
+        "Link": "https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8y5pSJD55M4uxwnMjHQueuXyjPT11Vji1EQ28Z-UO2p6PsBmCwoSI59225cWjk919AMGPoZgjLFHLvEP65rhLeXMrBVt_Hgp02x7J99KK44kPg3ecXLPbJkYOjeabgnnTQlqNw9sFKL9CKApGVu7_iJwyK02mzlTzEfqnikCxAFLbKqzGr8Qkj5TYOa8/s728-rw-e365/git.png",
         "Title": "Python's PyPI Reveals Its Secrets",
         "Source": "The Hacker News",
@@ -42,16 +42,16 @@
         "Timestamp": "Apr 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPR2sn0vNoddML83QBH_7BbXyGNeWFZp_TVTdxHG1MjcVbmY1bIilrFIqDCDXDwegO5ViM-2QpI1DYJLX33GNCphpbRs0RkzLIOm4v7gCRqHlSWut9CWkPx82IHnM_Q_nliNvro98Pk0V4N4YMqjC-ehBS75CC0joIzUsL2ffH-YodWnhro309cnFfZf8i/s728-rw-e365/cyberattack.png",
-        "Title": "Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files",
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
+        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
         "Source": "The Hacker News",
         "Timestamp": "Apr 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/considerations-for-operational.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02a1Tazh7Fugr5KFSouik52lSE-Z3kxkwVvc3QYGnwJ9z1r-23MMtHTrMY7Bbsjba2igKYrNwWMUlQ8P5gQhfViZrvQ2wDx-YgO8nHqhBCZUcDUnZgZl0mgVKByOvgWMuLmVQf7Iv7KG2w3QftwzJACTLoH9z7VsyZCXWpafusiwdU3DvI_fZ57xt97o/s728-rw-e365/ot.png",
-        "Title": "Considerations for Operational Technology Cybersecurity",
+        "Link": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPR2sn0vNoddML83QBH_7BbXyGNeWFZp_TVTdxHG1MjcVbmY1bIilrFIqDCDXDwegO5ViM-2QpI1DYJLX33GNCphpbRs0RkzLIOm4v7gCRqHlSWut9CWkPx82IHnM_Q_nliNvro98Pk0V4N4YMqjC-ehBS75CC0joIzUsL2ffH-YodWnhro309cnFfZf8i/s728-rw-e365/cyberattack.png",
+        "Title": "Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files",
         "Source": "The Hacker News",
         "Timestamp": "Apr 11, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Apr 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/considerations-for-operational.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02a1Tazh7Fugr5KFSouik52lSE-Z3kxkwVvc3QYGnwJ9z1r-23MMtHTrMY7Bbsjba2igKYrNwWMUlQ8P5gQhfViZrvQ2wDx-YgO8nHqhBCZUcDUnZgZl0mgVKByOvgWMuLmVQf7Iv7KG2w3QftwzJACTLoH9z7VsyZCXWpafusiwdU3DvI_fZ57xt97o/s728-rw-e365/ot.png",
-        "Title": "Considerations for Operational Technology Cybersecurity",
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
+        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
         "Source": "The Hacker News",
         "Timestamp": "Apr 10, 2024"
     },
@@ -245,16 +245,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
