@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGsdWIC0s_DJ_5WcgDaX_hO4kFcYfxmwpNRLIebQdnNlUC1kEgq20Lzlvn-rOPDZBWpt8ZN7KtRxlPGChMha4BKAVJr6XZczzUY5q-LUc4P5XByCXS6YvpuNZTqNboMS4F3NJ3LwHwJjRWUlcoYIEppm6cIrKQsd63wQ1Gg1ARAz4e4MAE243G1OzmEvtO/s728-rw-e365/hack.png",
+        "Title": "Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 12, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLydkb9ir0GG5hJKtl86C09zd4PNchbLBcJ8uKdP-IIqyQOZnq8KBj2n7-WrdqrAPINEUwpZAbgDQqj9EhagJDWaqr3DZMUfwgYBytoTQ1Rkt3zB2xr-L9OfzXaWHINKPof437CQxanMqMMiCt6umwXhqur7fTdUp61pHKar3p7Q9E1XRW51y4Jhff6EI/s728-rw-e365/entro.png",
         "Title": "Code Keepers: Mastering Non-Human Identity Management",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVivcvjasugloxrypkPN7csr7xK0APkjXpPwxpgd5QSbQTzUu_VrNODlw1cTI0yNydh6m1emO0V5dB0iZRmO3oSH-dyUQAMuq0dI2oC2vzizueP8_xuPikyXpnfX-7YYSAnR8m4Ud8ayn4td34WJ8KUMtDNMgvhxcbnFE6URTgAX9vtnnZ45ZvvGnikYa/s728-rw-e365/palo.png",
-        "Title": "Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack",
+        "Link": "https://thehackernews.uk/cisco-webex-meetings",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKNgMzBHRfwAugQGNZjAdndjP_NHIwOlTnyJcnVH_36qoQNnF_I0u87s6ALHfrfAR3AJ6E7-_zoqUmrbNOOEHtyusZ9qWocvCKz5Zh0FJ_pe5tlD43ZJVMpF_-VnMO4Tts7qIfhQXRYWoQbENx7TagSBvVE_70sgKiba8hfysvVVIS9JtMN4ObW4Flvr5/s728-e365/nist.jpg",
+        "Title": "UPCOMING WEBINAR: Implementing What's New in NIST CSF 2.0",
         "Source": "The Hacker News",
         "Timestamp": "Apr 12, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cisco-webex-meetings",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKNgMzBHRfwAugQGNZjAdndjP_NHIwOlTnyJcnVH_36qoQNnF_I0u87s6ALHfrfAR3AJ6E7-_zoqUmrbNOOEHtyusZ9qWocvCKz5Zh0FJ_pe5tlD43ZJVMpF_-VnMO4Tts7qIfhQXRYWoQbENx7TagSBvVE_70sgKiba8hfysvVVIS9JtMN4ObW4Flvr5/s728-e365/nist.jpg",
-        "Title": "UPCOMING WEBINAR: Implementing What's New in NIST CSF 2.0",
+        "Link": "https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVivcvjasugloxrypkPN7csr7xK0APkjXpPwxpgd5QSbQTzUu_VrNODlw1cTI0yNydh6m1emO0V5dB0iZRmO3oSH-dyUQAMuq0dI2oC2vzizueP8_xuPikyXpnfX-7YYSAnR8m4Ud8ayn4td34WJ8KUMtDNMgvhxcbnFE6URTgAX9vtnnZ45ZvvGnikYa/s728-rw-e365/palo.png",
+        "Title": "Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack",
         "Source": "The Hacker News",
         "Timestamp": "Apr 12, 2024"
     },
@@ -35,16 +42,16 @@
         "Timestamp": "Apr 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWcAMnbQAApkXdQilx9WMIE6o-hMIj8gFedh9F9D0FbEeRHX0KAO-BfaGblXEeYsnbv7XNLkPCx2gCTs9GJWSkS5-9C3GOVBRPkC5x6PLMYmgX1p_yrwoe_OMxmTIHI5ZHZUNrTCBD_Bk5d0C2x9NiSCqGTqJ0ujLGEzYNp2kygDi5_IgcNOJ62_P9J-h/s728-rw-e365/email.png",
-        "Title": "U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks",
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
+        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
         "Source": "The Hacker News",
         "Timestamp": "Apr 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
-        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
+        "Link": "https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWcAMnbQAApkXdQilx9WMIE6o-hMIj8gFedh9F9D0FbEeRHX0KAO-BfaGblXEeYsnbv7XNLkPCx2gCTs9GJWSkS5-9C3GOVBRPkC5x6PLMYmgX1p_yrwoe_OMxmTIHI5ZHZUNrTCBD_Bk5d0C2x9NiSCqGTqJ0ujLGEzYNp2kygDi5_IgcNOJ62_P9J-h/s728-rw-e365/email.png",
+        "Title": "U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks",
         "Source": "The Hacker News",
         "Timestamp": "Apr 12, 2024"
     },
@@ -70,10 +77,10 @@
         "Timestamp": "Apr 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/fortinet-has-released-patches-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZN1H50NTqYS_ryZfZzfex6SwyFW0LCsYk62yDYc1bSjRbP06eM98UbUSPJYbbCQnglmQmMQWnTgMJClH68yIetp5OhDStDnsLU842qbiXZ6xrhOaj3Y9GDB_1_TMUHhN8ffhDedxNcUS4r2H1M6SjOmA3r1QQ7xqKaHoDp7jXzjZ4tNmNNkbOn1pl2Dsk/s728-rw-e365/fortinet.png",
-        "Title": "Fortinet Rolls Out Critical Security Patches for FortiClientLinux Vulnerability",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/change-healthcare-ransomhub-threat/",
+        "Img_URL": "https://media.wired.com/photos/66194e33b6dbceed427548e2/3:2/w_1280%2Cc_limit/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg",
+        "Title": "Change Healthcare Faces Another Ransomware Threat\u2014and It Looks Credible",
+        "Source": "WIRED",
         "Timestamp": "Apr 12, 2024"
     },
     {
@@ -84,87 +91,87 @@
         "Timestamp": "Apr 11, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png",
-        "Title": "Twitter\u2019s Clumsy Pivot to X.com Is a Gift to Phishers",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 10, 2024"
+        "Link": "https://thehackernews.com/2024/04/fortinet-has-released-patches-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZN1H50NTqYS_ryZfZzfex6SwyFW0LCsYk62yDYc1bSjRbP06eM98UbUSPJYbbCQnglmQmMQWnTgMJClH68yIetp5OhDStDnsLU842qbiXZ6xrhOaj3Y9GDB_1_TMUHhN8ffhDedxNcUS4r2H1M6SjOmA3r1QQ7xqKaHoDp7jXzjZ4tNmNNkbOn1pl2Dsk/s728-rw-e365/fortinet.png",
+        "Title": "Fortinet Rolls Out Critical Security Patches for FortiClientLinux Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpDjwu0ou7Qb7dMs0cGkVcyaSPlamklQqsJrhy3j4YmEwLcmIuwCwkuAWpUO5tjNhSrsq2sFtuRYw39S_t63WG4yg2EW1hnqtz1SRgUWb8Qw7zdp6TA5AG1NKV4lBy_WpcYuo-3_xNvbi6TW_iXmvl-4Pqz__dH9FmVpQOd0X_BO-SDHLIAFz1cRgXBJwv/s728-rw-e365/mobile.png",
         "Title": "'eXotic Visit' Spyware Campaign Targets Android Users in India and Pakistan",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
+        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPR2sn0vNoddML83QBH_7BbXyGNeWFZp_TVTdxHG1MjcVbmY1bIilrFIqDCDXDwegO5ViM-2QpI1DYJLX33GNCphpbRs0RkzLIOm4v7gCRqHlSWut9CWkPx82IHnM_Q_nliNvro98Pk0V4N4YMqjC-ehBS75CC0joIzUsL2ffH-YodWnhro309cnFfZf8i/s728-rw-e365/cyberattack.png",
         "Title": "Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
-        "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLB0nVVFWA6cVM7PmAUK71nDyiS9i092r-8Ky9fu_0cbyg46suqCO-PBmv9b-0mRQkITc9s1JSN4qPS8W1pNL17q8vqlhl3DtEvi4NJ47J-76m-WuEC5g5Z2Bha6hR4DUgnJ-cdu74xyCA9wBkgtMCw-4TouM8TDK1ZD6_Cm8TI9jm7ne9w4gN_W2xkVs/s728-rw-e365/github.png",
-        "Title": "Beware: GitHub's Fake Popularity Scam Tricking Developers into Downloading Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.uk/cisco-webex-meetings",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdKNgMzBHRfwAugQGNZjAdndjP_NHIwOlTnyJcnVH_36qoQNnF_I0u87s6ALHfrfAR3AJ6E7-_zoqUmrbNOOEHtyusZ9qWocvCKz5Zh0FJ_pe5tlD43ZJVMpF_-VnMO4Tts7qIfhQXRYWoQbENx7TagSBvVE_70sgKiba8hfysvVVIS9JtMN4ObW4Flvr5/s728-e365/nist.jpg",
         "Title": "UPCOMING WEBINAR: Implementing What's New in NIST CSF 2.0",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLB0nVVFWA6cVM7PmAUK71nDyiS9i092r-8Ky9fu_0cbyg46suqCO-PBmv9b-0mRQkITc9s1JSN4qPS8W1pNL17q8vqlhl3DtEvi4NJ47J-76m-WuEC5g5Z2Bha6hR4DUgnJ-cdu74xyCA9wBkgtMCw-4TouM8TDK1ZD6_Cm8TI9jm7ne9w4gN_W2xkVs/s728-rw-e365/github.png",
+        "Title": "Beware: GitHub's Fake Popularity Scam Tricking Developers into Downloading Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
         "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/researchers-uncover-first-native.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsD6LKdPcKWC46N-_BaaXZ29L0D7KphWMEbdicr1_7Yatd0mV1ryyXVkRdgJf12ZeUtbjMjsZ1gL-HSfF9zlxVSayKlyu6BzjHewf3GgU4jwaHJan42fatoQdSmRuH728-Sz1XusJcz8qymgTK8o0eB-9v4R1hn5MOrUvHi2UOm2O0WnBRbeimTNLO-oEt/s728-rw-e365/linux.png",
         "Title": "Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s728-rw-e365/identity.jpg",
         "Title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bsAdUeixoGTSir-Dw-WRkBDPal0O6tQA6RDGpqc9zbgS5h2-A-HstC1o9an_r0rKrkAGuRBpOD4y6sG6o_aW6DWFmAyszwEo4Ag0TQegGpP6QASX9CWYEZLkukiW6DrH4fmxL2FKlq6FzSUFTMeuVHzmw0xIR6QmT0sfxchitg0RhSoTqMyw4dZ3J03j/s728-rw-e365/windows.png",
         "Title": "Microsoft Fixes 149 Flaws in Huge April Patch Release, Zero-Days Included",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzj_pqPJa5YYNmBX9he6QAHf__vFlVYf7UbkLqYZwfGJ674gE1pamccawLRFMSWxm0IW9uXncZrpX8jkc-v3IfOh0wEgzM9KRNlLrvN1l7nYX6JUzjepsn3PPVSzlO6UYtamM3II697lUxzqM1XlFMjDakJY3l0kqEiXDYLiHiHnVx9fsv9t0ud6CSQ8NV/s728-rw-e365/hacking.png",
         "Title": "Critical 'BatBadBut' Rust Vulnerability Exposes Windows Systems to Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 10, 2024"
+        "Timestamp": "Apr 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSslyUWm58BGConGdCHyhxv8XYQ1Z6ofydvKKCrYc9TKOK53RKkPmM2RwD-UaSSoHuYWcuRz6OzU-l29QFwc7q9YOLnssHqtpD4Codsy3P2EkMp7_IwfNghlVMtvgpsr1Pfn_poKQuGY0MEO4nuRvqPG4xGAEj0MFoePdVwgIvF4gA8fi6oS-WFX1cMd2/s728-rw-e365/wordpress.png",
-        "Title": "10-Year-Old 'RUBYCARP' Romanian Hacker Group Surfaces with Botnet",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png",
+        "Title": "Twitter\u2019s Clumsy Pivot to X.com Is a Gift to Phishers",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Apr 10, 2024"
     },
     {
@@ -196,7 +203,7 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
         "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
         "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
@@ -446,12 +453,5 @@
         "Title": "Cryptographers Are Getting Closer to Enabling Fully Private Internet Searches",
         "Source": "WIRED",
         "Timestamp": "Jan 20, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/",
-        "Img_URL": "https://media.wired.com/photos/65aaee5f01ea01925b954b33/3:2/w_1280%2Cc_limit/US-Government-Urges-Patching-of-Ivanti-VPN-Vulnerabilities-Under-Active-Exploitation-Alamy-WAWPXD.jpg",
-        "Title": "US Agencies Urged to Patch Ivanti VPNs That Are Actively Being Hacked",
-        "Source": "WIRED",
-        "Timestamp": "Jan 16, 2024"
     }
 ]
