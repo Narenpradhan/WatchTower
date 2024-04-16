@@ -7,6 +7,34 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_NKfusabR181EhfZNwswyCTJ3qlcDbvafIMPvHdnHosJSTL3OG6xNCa2ivwdNZAxRVWs_H3__jBrqO0Bn4B9PbKEh67QxwZqrR1j_76qvtlWpDApdqpIzzQIunEovlBzkx5ksycpvtbPbEGY94K0sCTYvCZEPvEl5-R1VW_Qf3IIxAwt_c1XUqP3db_I/s728-rw-e365/openjs.png",
+        "Title": "OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dpEanpWyEH3zaUKGMy5cRsLq1qxhPKHoGUCH4uUm5Q57dRuw5ufSzGlATOMH9bGr0hOoa77NWKxSgF0fcKKdFmJmpqkgu4B84mNjrB7zfF6SjtxgMDJwsQG7hKCAQ7evjGYH86F0_XHrGD_Eee1_gzH4RriulJ0OBUfBDdX4fmzhPqoc9X37pW0BO5VA/s728-rw-e365/hacker.jpg",
+        "Title": "TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQ61q1unaO9nkqOW0K1z3EHh_y570jaSgouXAlR1rG01KYF40mzLUX25xa6EKLgay3bswJMsLNB1v_5ew0M3wtjM0zAjJ1KPV2XDDcuwaGgP3k3ZwDs8XiUrg8uDsO9-V7oGsk6_zJixelpe-UtNY15ozlCZG6it-JdO6aA7WsOhNP_XzYLtq11GnbYls/s728-rw-e365/password.png",
+        "Title": "AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
+        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s728-rw-e365/putty.png",
         "Title": "Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack",
@@ -28,9 +56,9 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
-        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
+        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
+        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
@@ -56,38 +84,45 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
-        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 16, 2024"
+        "Link": "https://krebsonsecurity.com/2024/04/crickets-from-chirp-systems-in-smart-lock-key-leak/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/chirpsystems.png",
+        "Title": "Crickets from Chirp Systems in Smart Lock Key Leak",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY4QgJVIKWaChCqvYFr75IVLZvUnsS6kjwWhk3LQAiRSQvJRMgHCmJ_2oh2Che-jGwwx8WXbXw3mPJUTE91VKkXH4iEAudnCwyBj6RPYw6hq1YLLBCFUuJOziPPv0Yt3Ow4dWe2ar5fFmQgOLaYXiIoKWCFxDLLHgfriICAfFGs56uYI5L2z3xodny9aZY/s728-rw-e365/cloud-data-security.jpg",
         "Title": "Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 16, 2024"
+        "Timestamp": "Apr 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzXSjd-H1ln6niplUaXIKPlWTiCFAbr95xgekcgtTYCEEZAVVqNlTiFjcazuGINlRy1sLhi_SW8M58SU6NGDpmtKBdMzgR-H7KqOVXc7F_wWWPC8_V8-e6Zgg5nnKq98o2docrAbdP_bgiL6Qt8WGym34cn_q-7iIdlYjTA5zreFvWJYnR60HT23rXMhU/s728-rw-e365/oneidentity.png",
         "Title": "Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 16, 2024"
+        "Timestamp": "Apr 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
+        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj633FM39iy4Ptak7gQiniTj-nj7x2IN2SR4us-AOn4rfHANHeAjjZL7fzi6r3KVFgAeOB0ClVjRhvQogDs-YK-ofRgDlyxCzQLPXwmbAvnk08nWIfmkKW213UzUPsmB-P2tYWaIwEzDOMCLztcnjYY0fnK8lP7070MtR5bPtKkZkO3RCQ2UScBevvxUKKo/s728-rw-e365/iphone.png",
         "Title": "Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 16, 2024"
+        "Timestamp": "Apr 15, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/04/crickets-from-chirp-systems-in-smart-lock-key-leak/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/chirpsystems.png",
-        "Title": "Crickets from Chirp Systems in Smart Lock Key Leak",
-        "Source": "KrebsonSecurity",
+        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
+        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
+        "Source": "The Hacker News",
         "Timestamp": "Apr 15, 2024"
     },
     {
@@ -105,23 +140,9 @@
         "Timestamp": "Apr 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
-        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 15, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvnrE-VFh5OYtv1xvfM9ISUeY7FMrJ5beOTw9U0tI0BIjDrQctBmyWUDpRuXAUIN13im9aCHb_i38bt-Ut1NI0IIoK_fbkXxZlbGZYTF-hugWGBwB13n5uymmWg-QkvVAHhkArvXF2yAoPtbSvpUmFbnffdA7VP4P1P1HllhOW3k5R5zppCGCOVaVTMS7/s728-rw-e365/hamas.png",
         "Title": "U.S. Treasury Hamas Spokesperson for Cyber Influence Operations",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
-        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
         "Source": "The Hacker News",
         "Timestamp": "Apr 15, 2024"
     },
@@ -143,27 +164,6 @@
         "Link": "https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLydkb9ir0GG5hJKtl86C09zd4PNchbLBcJ8uKdP-IIqyQOZnq8KBj2n7-WrdqrAPINEUwpZAbgDQqj9EhagJDWaqr3DZMUfwgYBytoTQ1Rkt3zB2xr-L9OfzXaWHINKPof437CQxanMqMMiCt6umwXhqur7fTdUp61pHKar3p7Q9E1XRW51y4Jhff6EI/s728-rw-e365/entro.png",
         "Title": "Code Keepers: Mastering Non-Human Identity Management",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihcBUM8AYIxXMTF524TJcMOgEdG-1yd4w8cxc1nuYvIRrALE3NnoCp2X1WfciBwiHi84Dr-x02L0SDkTq1Z_1KzFjOvOjp4MXXddjawSf6MliehwLcxeo3QfxE_o06g9Ecx-ZNHDB_jEeLZiXqxiRN0K4piG-frPl5fu0_qLhC53nPLUIs1w8-d2wwwSqS/s728-rw-e365/iran-hackers.png",
-        "Title": "Iranian MuddyWater Hackers Adopt New C2 Tool 'DarkBeatC2' in Latest Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVivcvjasugloxrypkPN7csr7xK0APkjXpPwxpgd5QSbQTzUu_VrNODlw1cTI0yNydh6m1emO0V5dB0iZRmO3oSH-dyUQAMuq0dI2oC2vzizueP8_xuPikyXpnfX-7YYSAnR8m4Ud8ayn4td34WJ8KUMtDNMgvhxcbnFE6URTgAX9vtnnZ45ZvvGnikYa/s728-rw-e365/palo.png",
-        "Title": "Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCYb9qtVaQLqfpVlF7Gjof9vaG1lbxAyL9I0yyEpEnCYWmVZKZeBiLYk0ILaFfWmphRyFnAH4QhzPBTCKs7Y-XTGTUK0iA5KywiQtlvZNC-LxUoqTpmmVpMFkbjL147cGFa22x3yjPhwOfqLQ-mwMSxy5uaxJAPgKXOZHi0d_XXKodGfogvjHzUBFWChO/s728-rw-e365/credit-card-hacking.png",
-        "Title": "Sneaky Credit Card Skimmer Disguised as Harmless Facebook Tracker",
         "Source": "The Hacker News",
         "Timestamp": "Apr 15, 2024"
     },
@@ -224,16 +224,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
