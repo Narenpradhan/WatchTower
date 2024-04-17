@@ -84,6 +84,13 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/change-healthcare-ransomhub-data-sale/",
+        "Img_URL": "https://media.wired.com/photos/661ebc4d5ebfe19fa48a7758/3:2/w_1280%2Cc_limit/Change-Healthcare-Hack-Security-Alamy-2K3J5G8.jpg",
+        "Title": "Change Healthcare\u2019s New Ransomware Nightmare Goes From Bad to Worse",
+        "Source": "WIRED",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/04/crickets-from-chirp-systems-in-smart-lock-key-leak/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/chirpsystems.png",
         "Title": "Crickets from Chirp Systems in Smart Lock Key Leak",
@@ -182,13 +189,6 @@
         "Timestamp": "Apr 13, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-ransomhub-threat/",
-        "Img_URL": "https://media.wired.com/photos/66194e33b6dbceed427548e2/3:2/w_1280%2Cc_limit/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg",
-        "Title": "Change Healthcare Faces Another Ransomware Threat\u2014and It Looks Credible",
-        "Source": "WIRED",
-        "Timestamp": "Apr 12, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/sisense.png",
         "Title": "Why CISA is Warning CISOs About a Breach at Sisense",
@@ -208,6 +208,13 @@
         "Title": "April\u2019s Patch Tuesday Brings Record Number of Fixes",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/how-to-protect-yourself-ai-scam-calls-detect/",
+        "Img_URL": "https://media.wired.com/photos/66194e33b6dbceed427548e2/3:2/w_1280%2Cc_limit/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg",
+        "Title": "Change Healthcare Faces Another Ransomware Threat\u2014and It Looks Credible",
+        "Source": "WIRED",
+        "Timestamp": "Apr 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/",
@@ -446,12 +453,5 @@
         "Title": "\u2018AI Girlfriends\u2019 Are a Privacy Nightmare",
         "Source": "WIRED",
         "Timestamp": "Jan 27, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/nso-group-lobbying-israel-hamas-war/",
-        "Img_URL": "https://media.wired.com/photos/65b3e5613d0c5372a6d08a4f/3:2/w_1280%2Cc_limit/23andMe-Security-Roundup-GettyImages-1230824674.jpg",
-        "Title": "23andMe Failed to Detect Account Intrusions for Months",
-        "Source": "WIRED",
-        "Timestamp": "Jan 24, 2024"
     }
 ]
