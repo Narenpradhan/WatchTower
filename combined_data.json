@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXJGzxXWApk_OMb5lv6Kx_E9LQPIGCe9hetfdPIpuFr4AA3a2SYUVsQYUEVtcP1-RPih-LTnhPmWETK5-eQPVF4uda8F-ZL1P1M70YCxFAbH9bnwgXXw98AlKLOzAxjGNiR4SRc64BithE2X349R3eUENFUEmi4gie3zH8aJenzueqVYM1fybkF6F5SNW5/s728-rw-e365/russian-hackers.png",
+        "Title": "Russian APT Deploys New 'Kapeka' Backdoor in Eastern European Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 17, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
         "Title": "GenAI: A New Headache for SaaS Security Teams",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s728-rw-e365/email.png",
-        "Title": "Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign",
+        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
+        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
         "Source": "The Hacker News",
         "Timestamp": "Apr 17, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
-        "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
+        "Link": "https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s728-rw-e365/email.png",
+        "Title": "Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Apr 17, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Apr 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dpEanpWyEH3zaUKGMy5cRsLq1qxhPKHoGUCH4uUm5Q57dRuw5ufSzGlATOMH9bGr0hOoa77NWKxSgF0fcKKdFmJmpqkgu4B84mNjrB7zfF6SjtxgMDJwsQG7hKCAQ7evjGYH86F0_XHrGD_Eee1_gzH4RriulJ0OBUfBDdX4fmzhPqoc9X37pW0BO5VA/s728-rw-e365/hacker.jpg",
-        "Title": "TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks",
+        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
+        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
         "Source": "The Hacker News",
         "Timestamp": "Apr 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s728-rw-e365/cynomi.png",
-        "Title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
+        "Link": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dpEanpWyEH3zaUKGMy5cRsLq1qxhPKHoGUCH4uUm5Q57dRuw5ufSzGlATOMH9bGr0hOoa77NWKxSgF0fcKKdFmJmpqkgu4B84mNjrB7zfF6SjtxgMDJwsQG7hKCAQ7evjGYH86F0_XHrGD_Eee1_gzH4RriulJ0OBUfBDdX4fmzhPqoc9X37pW0BO5VA/s728-rw-e365/hacker.jpg",
+        "Title": "TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Apr 17, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Apr 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s728-rw-e365/silverfort.png",
-        "Title": "Identity in the Shadows: Shedding Light on Cybersecurity's Unseen Threats",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 17, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/04/who-stole-3-6m-tax-records-from-south-carolina/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2018/01/taxthiefa.png",
         "Title": "Who Stole 3.6M Tax Records from South Carolina?",
@@ -84,16 +84,16 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWH7U-ZRiISJgbuAoCaNUu-8IWM6nuX3l4jyC8Hwgce0UqBrmLLlF5V4chcQ_eMR4mf8M6stwr5ICgniCDpm-ME-pgxEQmLLu23A9igzhIJBQdWSfiAPeKp2FK6onOaYEY-vqfcqmsUB8ySxNwH9PisDH6-EXqsrAlPKiRuqEjjA3chuQmya17ikGpKjT/s728-rw-e365/brain.png",
-        "Title": "FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations",
+        "Link": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s728-rw-e365/silverfort.png",
+        "Title": "Identity in the Shadows: Shedding Light on Cybersecurity's Unseen Threats",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGyXYKKxLIbKsQiWXmfsSH-PJWKKyAz5LgCHvVe9yE5yBF0nOsAVQjmgqv5cm1DGJBS0UiclHeltOYPmaWiWSxVZCfaKkOXNONkbkATk8Sjm2h_elIuBNxswiu_XGFjC4-69yhROiXsMcxmKPGav3xNxzlL6ShHI4QlkDGw9NdjDrr_s-YvXIwpMeaiEsR/s728-rw-e365/crime.png",
-        "Title": "Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown",
+        "Link": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWH7U-ZRiISJgbuAoCaNUu-8IWM6nuX3l4jyC8Hwgce0UqBrmLLlF5V4chcQ_eMR4mf8M6stwr5ICgniCDpm-ME-pgxEQmLLu23A9igzhIJBQdWSfiAPeKp2FK6onOaYEY-vqfcqmsUB8ySxNwH9PisDH6-EXqsrAlPKiRuqEjjA3chuQmya17ikGpKjT/s728-rw-e365/brain.png",
+        "Title": "FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Apr 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNbRMAwqrhrjFAKOv34RDTVBmqqtADrwcMZRih-wPxEGQzb6QakJVbPrhjJT0g1TQl9i95Qe0-dCiIEdUE0hfC7AZ4LuLyxVhg0FDvUGNrbikcbizIRs7TPyU2bOcEo2lDCkjxCZJG4oX4rVmHVtPdH7EI3FPCCbnPjuoVzeLx_kC57jVFz4_CWYipfCzn/s728-rw-e365/bmc.png",
-        "Title": "Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw",
+        "Link": "https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGyXYKKxLIbKsQiWXmfsSH-PJWKKyAz5LgCHvVe9yE5yBF0nOsAVQjmgqv5cm1DGJBS0UiclHeltOYPmaWiWSxVZCfaKkOXNONkbkATk8Sjm2h_elIuBNxswiu_XGFjC4-69yhROiXsMcxmKPGav3xNxzlL6ShHI4QlkDGw9NdjDrr_s-YvXIwpMeaiEsR/s728-rw-e365/crime.png",
+        "Title": "Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.uk/adaptive-shield-saas-threats",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZew_jar2aV88OwPswt4M4RT6FczNZCQufyLo8U2xPVbDGMZpZe7JMwolS8N4TL2o8p1NIpejjyj8OymDZ_GqCudRZXuqdePsaker4QNKQeGB2sbOH4EZcGUbFgFIDjjm8ndB2_w88GekFqCMg32-6zl0-S1oxQkMKWfmPR8_boRCkCxw0Y-UoDcFHneo1/s728-e365/saas-video.png",
         "Title": "WATCH: The SaaS Security Challenge in 90 Seconds",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNbRMAwqrhrjFAKOv34RDTVBmqqtADrwcMZRih-wPxEGQzb6QakJVbPrhjJT0g1TQl9i95Qe0-dCiIEdUE0hfC7AZ4LuLyxVhg0FDvUGNrbikcbizIRs7TPyU2bOcEo2lDCkjxCZJG4oX4rVmHVtPdH7EI3FPCCbnPjuoVzeLx_kC57jVFz4_CWYipfCzn/s728-rw-e365/bmc.png",
+        "Title": "Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFk2Gn7nORhsJaYtMIldc0KGin9sMytX05vZYuVfTKPE0ObMQHdxbUUIoS7FJZ2W3MNxttaUOlHj5zq3TJWgwE172SNNbbrRk15q_VXL1cEGlLFRPA91tXwaz65jzO11j7Ij7S7kKLua_7hG38Ai1C8knxtAffOcsNFvwip9-Z0-QsUOl4Hu6-UnWKh1Dv/s728-rw-e365/palo-alto-networks.png",
         "Title": "Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1B6GoV7QO_wl0SYV_PlTlE0cZij3kCXSJkTteoRbGcvltYOfRD_J3TlpHc7MGA792R7INv-Vat5ntxwXzhA8CT-J455z58_aVqdDNV1peuU13Hs0pfx37UQzoJenh9pLmEtbLFmN3UqXXO_u65kXwGliQcjJesh90OoZ3ixnLgzrXU0tuIKB-bSSOt-Lg/s728-rw-e365/bitcoin.png",
-        "Title": "Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts",
         "Source": "The Hacker News",
         "Timestamp": "Apr 16, 2024"
     },
