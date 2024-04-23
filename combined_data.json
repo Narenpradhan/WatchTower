@@ -1,37 +1,93 @@
 [
     {
-        "Link": "https://krebsonsecurity.com/2024/04/russian-fsb-counterintelligence-chief-gets-9-years-in-cybercrime-bribery-scheme/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2017/05/trumpsdumps-580x395.png",
-        "Title": "Russian FSB Counterintelligence Chief Gets 9 Years in Cybercrime Bribery Scheme",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 22, 2024"
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s728-rw-e365/webinar.png",
+        "Title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s728-rw-e365/hackers.png",
-        "Title": "ToddyCat Hacker Group Uses Advanced Tools for Industrial-Scale Data Theft",
+        "Link": "https://thehackernews.com/2024/04/police-chiefs-call-for-solutions-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjgxQXuZMjvjIfyxaxWq_yu4VtSnvvSQLqu1dFXYzl8KMm05t2Fun7l-er6mJzej__1nlkmMUPgneGRhVP4YiXl8biUwkjfN-aVYpAb8DeTqnC-7OcQPXhtaFFS_pSwnRqo0QFoFN3uxJpKZdItILR-50ZkC2rUkRVt97Anr2N5qAv_DpEDOVxetR3TWN/s728-rw-e365/police.png",
+        "Title": "Police Chiefs Call for Solutions to Access Encrypted Data in Serious Crime Cases",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 22, 2024"
+        "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfMeGEXXxPjQrPfvW-rREW_oBcDe6Yr5g9GiLuRIuCifiTSw1ZV4Ec0BcjCwei88C5yaxFi_r1g44HLZPj4FLC6ciaabUB5-zpOxwkuVmdtBBgLRPS8sVFnAmIIlMhXGJFig43txOhhKZoYi4t1dWKEsCWohQ9SW0LlnLCHY3purjGVvXJL-Tgu6yiAd8/s728-rw-e365/pen.jpg",
-        "Title": "Pentera's 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation",
+        "Link": "https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmDxlgCll1W5QwyKCjcqn7kQe3MWo_SOp8YHNWlUtxIQKOgEPJOmPFtjmesvu15fBYQYiVQRIuFdfxxMV-NOO8YcbM7tyvNihW1M7qUBOw2iYht01Mw4j9JWf5aBhYYvvG8PK0OXEtnBA0RefZon4uvmdTJ_O0GAYfUvIte_FWhV3LTkUEbB3mJCO5GU/s728-rw-e365/attack.png",
+        "Title": "Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNwoUKS52b1Eju0n8LEzIfbuyYtwPd5AQB9T0na5_Ia_vJIJBWeq2TBSS-iVopjs_nWCf7rfUALNtdJS7k5XMB2FqNcJ3i7Y7vn9S8RhD49hb52PAoANDlM-ToZ3db5GcQq6xUaeJ4CqFR40Jw6-iFOZHzR_WDZfYObS8d1xQON-4F51_89t0aEVCwqiA/s728-rw-e365/mitre.png",
-        "Title": "MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 22, 2024"
+        "Timestamp": "Apr 23, 2024"
     },
     {
         "Link": "https://thehackernews.uk/silverfort-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
         "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/german-authorities-issue-arrest.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkDNT9nspdpOZ2WXq5YRVJe2Zp_DkFuROmkH-egqTvJhSod5lV-iKKu1XBGzCWZrQ3bC9qjgGzNqcZGuEe8uUc36V7jPDPej2x1j6Z0UUAfVRqtr7wY96x_mw7Ezju7f8SfjnUGIpzmwBWvAsbfKNhMImORDeP8j3nkMWAXVRif0XJ3VXeptQqftNAvxve/s728-rw-e365/spies.png",
+        "Title": "German Authorities Issue Arrest Warrants for Three Suspected Chinese Spies",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRpnMQHQkPPPt4wysItoNA8wlDyNxRoKBs_w0HF9REOATiM8iw78KfXzLnRDej5VVzaEliMi3HMFB3j1k9aOvYEI3QPJ9b_CXBBuy-M4wq5UjI59uxWM3IlAkBuxp2xGtavkx6DiQswejmG7kAd4VfkgPKGLrVUQGdNearKuhPpvDbOET205ac4dBXRVx8/s728-rw-e365/spyware.png",
+        "Title": "U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s728-rw-e365/printer.png",
+        "Title": "Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
+        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s728-rw-e365/hackers.png",
+        "Title": "ToddyCat Hacker Group Uses Advanced Tools for Industrial-Scale Data Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfMeGEXXxPjQrPfvW-rREW_oBcDe6Yr5g9GiLuRIuCifiTSw1ZV4Ec0BcjCwei88C5yaxFi_r1g44HLZPj4FLC6ciaabUB5-zpOxwkuVmdtBBgLRPS8sVFnAmIIlMhXGJFig43txOhhKZoYi4t1dWKEsCWohQ9SW0LlnLCHY3purjGVvXJL-Tgu6yiAd8/s728-rw-e365/pen.jpg",
+        "Title": "Pentera's 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNwoUKS52b1Eju0n8LEzIfbuyYtwPd5AQB9T0na5_Ia_vJIJBWeq2TBSS-iVopjs_nWCf7rfUALNtdJS7k5XMB2FqNcJ3i7Y7vn9S8RhD49hb52PAoANDlM-ToZ3db5GcQq6xUaeJ4CqFR40Jw6-iFOZHzR_WDZfYObS8d1xQON-4F51_89t0aEVCwqiA/s728-rw-e365/mitre.png",
+        "Title": "MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Source": "WIRED",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/04/russian-fsb-counterintelligence-chief-gets-9-years-in-cybercrime-bribery-scheme/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2017/05/trumpsdumps-580x395.png",
+        "Title": "Russian FSB Counterintelligence Chief Gets 9 Years in Cybercrime Bribery Scheme",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Apr 22, 2024"
     },
     {
@@ -49,6 +105,13 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
+        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s728-rw-e365/ai.png",
         "Title": "Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage",
@@ -56,9 +119,9 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
-        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 22, 2024"
     },
@@ -84,6 +147,27 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGcUfhx1obbm71p9PknFOHSDt0JpRZAWhi6TYuS25Y_b9wL3NjX4nFwVEwHk6fetkwlUFBefLK2jaLL-lTiiX76QsZjJkjYfQFIuJkeIg8yEwHV_wfbjAAhFW4_b6gCAJnT-ky8oCMocwqZtiBNnt7APGxKNsBGioNBJ1NcnUUspJODg4nojqtpyFRTHT/s728-rw-e365/exploit.png",
+        "Title": "BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmQa7toUEZuwcxTxQeuqglBdtpQnugEb6_kLhyphenhyphenPRK9Y5yNB_05nt1IlFEDm6oYNFJdVEYslKGHOAYIxIeY1s7O0yUd5RABaRJij90vSM49Uvp7hTq1_hkLqdI4nY2Ry3KTDuIycq00zPjzmbNxip2LZLF3kuREcUe2bdcRJlcNAlXmrE1y9mK7nZqboBE/s728-rw-e365/push.png",
+        "Title": "How Attackers Can Own a Business Without Touching the Endpoint",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhthAXAoMONtjGz_Ev60Fkp51bbKA2ieF-phTujqTKYNJzKA-Ou7_-r2S4-dZZPPabSTGgxMNelRoi0SbDDrydSvyDhIFd7pXpsfIAQSPKPF0kiO4IoLxXn8Uow9UBBrW5sGasv7-xwo5OqIPJJnibYP5iGP2AyIbkygQNPPRYEFLoTumYCcfY3EniEeakK/s728-rw-e365/linux.png",
+        "Title": "Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 22, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
         "Img_URL": "https://media.wired.com/photos/6622f344e93e00504c86b731/3:2/w_1280%2Cc_limit/security_north_korea_tv_animation.jpg",
         "Title": "North Koreans Secretly Animated Amazon and Max Shows, Researchers Say",
@@ -91,88 +175,11 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/66227eaacef3c61df9a538f8/3:2/w_1280%2Cc_limit/LMA_VISTA.jpg",
-        "Title": "AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
-        "Timestamp": "Apr 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGcUfhx1obbm71p9PknFOHSDt0JpRZAWhi6TYuS25Y_b9wL3NjX4nFwVEwHk6fetkwlUFBefLK2jaLL-lTiiX76QsZjJkjYfQFIuJkeIg8yEwHV_wfbjAAhFW4_b6gCAJnT-ky8oCMocwqZtiBNnt7APGxKNsBGioNBJ1NcnUUspJODg4nojqtpyFRTHT/s728-rw-e365/exploit.png",
-        "Title": "BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmQa7toUEZuwcxTxQeuqglBdtpQnugEb6_kLhyphenhyphenPRK9Y5yNB_05nt1IlFEDm6oYNFJdVEYslKGHOAYIxIeY1s7O0yUd5RABaRJij90vSM49Uvp7hTq1_hkLqdI4nY2Ry3KTDuIycq00zPjzmbNxip2LZLF3kuREcUe2bdcRJlcNAlXmrE1y9mK7nZqboBE/s728-rw-e365/push.png",
-        "Title": "How Attackers Can Own a Business Without Touching the Endpoint",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
-        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhthAXAoMONtjGz_Ev60Fkp51bbKA2ieF-phTujqTKYNJzKA-Ou7_-r2S4-dZZPPabSTGgxMNelRoi0SbDDrydSvyDhIFd7pXpsfIAQSPKPF0kiO4IoLxXn8Uow9UBBrW5sGasv7-xwo5OqIPJJnibYP5iGP2AyIbkygQNPPRYEFLoTumYCcfY3EniEeakK/s728-rw-e365/linux.png",
-        "Title": "Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzgB2sV2o7XCd8GfhFg9ioZ-iRvZT13ZBn0uFv-5gc74hXEeUmfbSzCAsEA23kT_lZdt10oT-dGaL2ZxvDQeOSvxDDkucmpWgkK70emGIn-AtYxLDJuckxg_5dHFdIuNYs3nw5bsw6tqikH-05WNmHjo7Omd9TTmOeJJTvIdh0abYwZM0K6gOuhNf2s1a/s728-rw-e365/hackers.png",
-        "Title": "Hackers Target Middle East Governments with Evasive \"CR4T\" Backdoor",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiql6F8vCYrkcwRxtzGXvF7nUibNy6Pf-Pi7nWv0b1E36R4kETHLFpg4jvrehYoXOewkbCP6KVvt9A6dQs8wAWFrSw38x2sniPziFeJfudGccZ2fhVjjZ_p_EsF4NKByvisxtFSOFCX2g6qhfqG21jwdiVqxvOQ6uV2VoB7eRkgV6HyS_o9Db7_-7SVjGi2/s728-rw-e365/malware.png",
-        "Title": "OfflRouter Malware Evades Detection in Ukraine for Almost a Decade",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/fin7-cybercrime-group-targeting-us-auto.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl1E6Tg5TV7KuY9uNAnlAz_T3Z4rjTEK8g2JpuUJC4uDEHUReAwH377JCata-r8IhefjD1THYpxigaFtD75SA5r4oH1AO3LtUC9U38mWZP7-U5nj5d6tZRZbDz_JhN3vuHhi9e2T_Nesfjzg8n4OvUjdlsN2MCJE1NNsdBRl6V8N2En1R0qiD9PZqXj5tw/s728-rw-e365/cyberattack.png",
-        "Title": "FIN7 Cybercrime Group Targeting U.S. Auto Industry with Carbanak Backdoor",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
-        "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/new-android-trojan-soumnibot-evades.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXXG-YvknzDz26fwJvjcHAiYRRxs5ITSe4EO-DUVIulOEtpb408Myl9ABgUT6IgowDR-Vh_TgCq09sfWAuFaWhVWQgIWa0i89gYWyKCnS_S0IuLp6Rq2L6Yay5fLSvJZHuWxwrXrTub8PitIQKVJ7bWakiElhF5NFr7ApFiAdG0zUpejkJJSjkgv_As_-/s728-rw-e365/trojan.png",
-        "Title": "New Android Trojan 'SoumniBot' Evades Detection with Clever Tricks",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/how-to-conduct-advanced-static-analysis.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdLdeFsBp5WcONUpj6fXxAiA0NaKBUWrKpEK2jD90_XgRoUKtGT9pRY4XEqsvCYrO5v6TJL20ohj4jkmJ7Mb_sIcJQuJSvhofPamGdWtcYD9ReTVqaY1mgJ2qkxx0LYQjBoQj0yU2-NJgNwtCEJaVH8P1UCE8TTGLIYeTlUwAf5eRjDc-Mgy5gGN8q53o/s728-rw-e365/anyrun.png",
-        "Title": "How to Conduct Advanced Static Analysis in a Malware Sandbox",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 19, 2024"
+        "Timestamp": "Apr 22, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/who-stole-3-6m-tax-records-from-south-carolina/",
@@ -183,8 +190,8 @@
     },
     {
         "Link": "https://www.wired.com/story/change-healthcare-ransomhub-data-sale/",
-        "Img_URL": "https://media.wired.com/photos/661ebc4d5ebfe19fa48a7758/3:2/w_1280%2Cc_limit/Change-Healthcare-Hack-Security-Alamy-2K3J5G8.jpg",
-        "Title": "Change Healthcare\u2019s New Ransomware Nightmare Goes From Bad to Worse",
+        "Img_URL": "https://media.wired.com/photos/66227eaacef3c61df9a538f8/3:2/w_1280%2Cc_limit/LMA_VISTA.jpg",
+        "Title": "AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now",
         "Source": "WIRED",
         "Timestamp": "Apr 16, 2024"
     },
@@ -193,6 +200,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/chirpsystems.png",
         "Title": "Crickets from Chirp Systems in Smart Lock Key Leak",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/the-us-government-has-a-microsoft-problem/",
+        "Img_URL": "https://media.wired.com/photos/661ebc4d5ebfe19fa48a7758/3:2/w_1280%2Cc_limit/Change-Healthcare-Hack-Security-Alamy-2K3J5G8.jpg",
+        "Title": "Change Healthcare\u2019s New Ransomware Nightmare Goes From Bad to Worse",
+        "Source": "WIRED",
         "Timestamp": "Apr 15, 2024"
     },
     {
@@ -315,16 +329,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
@@ -439,19 +453,5 @@
         "Title": "FBI\u2019s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga.",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 25, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/isoon-china-hack-for-hire-leak/",
-        "Img_URL": "https://media.wired.com/photos/65d90ce5a068349256683564/3:2/w_1280%2Cc_limit/How-a-Right-Wing-Controversy-Could-Sabotage-US-Election-Security-Security-GettyImages-83273505.jpg",
-        "Title": "How a Right-Wing Controversy Could Sabotage US Election Security",
-        "Source": "WIRED",
-        "Timestamp": "Feb 24, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/",
-        "Img_URL": "https://media.wired.com/photos/65d8d804b4c045eec70aee55/3:2/w_1280%2Cc_limit/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg",
-        "Title": "A Mysterious Leak Exposed Chinese Hacking Secrets",
-        "Source": "WIRED",
-        "Timestamp": "Feb 21, 2024"
     }
 ]
