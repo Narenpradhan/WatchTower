@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s728-rw-e365/apache.png",
+        "Title": "Apache Cordova App Harness Targeted in Dependency Confusion Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s728-rw-e365/webinar.png",
         "Title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmDxlgCll1W5QwyKCjcqn7kQe3MWo_SOp8YHNWlUtxIQKOgEPJOmPFtjmesvu15fBYQYiVQRIuFdfxxMV-NOO8YcbM7tyvNihW1M7qUBOw2iYht01Mw4j9JWf5aBhYYvvG8PK0OXEtnBA0RefZon4uvmdTJ_O0GAYfUvIte_FWhV3LTkUEbB3mJCO5GU/s728-rw-e365/attack.png",
-        "Title": "Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery",
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmDxlgCll1W5QwyKCjcqn7kQe3MWo_SOp8YHNWlUtxIQKOgEPJOmPFtjmesvu15fBYQYiVQRIuFdfxxMV-NOO8YcbM7tyvNihW1M7qUBOw2iYht01Mw4j9JWf5aBhYYvvG8PK0OXEtnBA0RefZon4uvmdTJ_O0GAYfUvIte_FWhV3LTkUEbB3mJCO5GU/s728-rw-e365/attack.png",
+        "Title": "Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s728-rw-e365/printer.png",
-        "Title": "Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware",
+        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
+        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s728-rw-e365/main.png",
-        "Title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
+        "Link": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s728-rw-e365/printer.png",
+        "Title": "Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNwoUKS52b1Eju0n8LEzIfbuyYtwPd5AQB9T0na5_Ia_vJIJBWeq2TBSS-iVopjs_nWCf7rfUALNtdJS7k5XMB2FqNcJ3i7Y7vn9S8RhD49hb52PAoANDlM-ToZ3db5GcQq6xUaeJ4CqFR40Jw6-iFOZHzR_WDZfYObS8d1xQON-4F51_89t0aEVCwqiA/s728-rw-e365/mitre.png",
-        "Title": "MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 23, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/",
         "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
         "Title": "A National Security Insider Does the Math on the Dangers of AI",
@@ -91,16 +91,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE-hJDJwP_dVC57N76HSLNJGv2b_M_MjfOPOjGwSfhaheM4V1KnAyeYJ3UmrfA-nGCtxGv-KCXACr9chDx96Slc7dMW8-I9NDOqSNdjhtjcinks7s9efiC-u9Ke8CpMv-0WHOLv4OnUhRFI729-bYzUQ9XVbZvxS5iv2VLo1QAdwOzWh0XtNBi5PFdKIs/s728-rw-e365/ransomware.jpg",
-        "Title": "Ransomware Double-Dip: Re-Victimization in Cyber Extortion",
+        "Link": "https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNwoUKS52b1Eju0n8LEzIfbuyYtwPd5AQB9T0na5_Ia_vJIJBWeq2TBSS-iVopjs_nWCf7rfUALNtdJS7k5XMB2FqNcJ3i7Y7vn9S8RhD49hb52PAoANDlM-ToZ3db5GcQq6xUaeJ4CqFR40Jw6-iFOZHzR_WDZfYObS8d1xQON-4F51_89t0aEVCwqiA/s728-rw-e365/mitre.png",
+        "Title": "MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws",
         "Source": "The Hacker News",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/researchers-uncover-windows-flaws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisO0rAZ34PYmseKtEE9ec5ecQeyqRe5hvp-MnOE5tiLeHTcfv9f65OzwGgvU01HsHuMdWtD6XOCGaf3tvLlQpqLrmOv2HyxRsJOZ02S1PMnE1ItS3GuOpc9R1g20o0k1R5zIJD9zusimwxXscz8sjDEZNVVwUYK3kxVR2vcvuCYB8RJUeg7yUy8AD5yode/s728-rw-e365/rootkit.png",
-        "Title": "Researchers Uncover Windows Flaws Granting Hackers Rootkit-Like Powers",
+        "Link": "https://thehackernews.com/2024/04/ransomware-double-dip-re-victimization.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE-hJDJwP_dVC57N76HSLNJGv2b_M_MjfOPOjGwSfhaheM4V1KnAyeYJ3UmrfA-nGCtxGv-KCXACr9chDx96Slc7dMW8-I9NDOqSNdjhtjcinks7s9efiC-u9Ke8CpMv-0WHOLv4OnUhRFI729-bYzUQ9XVbZvxS5iv2VLo1QAdwOzWh0XtNBi5PFdKIs/s728-rw-e365/ransomware.jpg",
+        "Title": "Ransomware Double-Dip: Re-Victimization in Cyber Extortion",
         "Source": "The Hacker News",
         "Timestamp": "Apr 22, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s728-rw-e365/ai.png",
-        "Title": "Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage",
+        "Link": "https://thehackernews.com/2024/04/researchers-uncover-windows-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisO0rAZ34PYmseKtEE9ec5ecQeyqRe5hvp-MnOE5tiLeHTcfv9f65OzwGgvU01HsHuMdWtD6XOCGaf3tvLlQpqLrmOv2HyxRsJOZ02S1PMnE1ItS3GuOpc9R1g20o0k1R5zIJD9zusimwxXscz8sjDEZNVVwUYK3kxVR2vcvuCYB8RJUeg7yUy8AD5yode/s728-rw-e365/rootkit.png",
+        "Title": "Researchers Uncover Windows Flaws Granting Hackers Rootkit-Like Powers",
         "Source": "The Hacker News",
         "Timestamp": "Apr 22, 2024"
     },
@@ -122,6 +122,13 @@
         "Link": "https://thehackernews.uk/silverfort-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
         "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s728-rw-e365/ai.png",
+        "Title": "Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage",
         "Source": "The Hacker News",
         "Timestamp": "Apr 22, 2024"
     },
@@ -161,23 +168,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhthAXAoMONtjGz_Ev60Fkp51bbKA2ieF-phTujqTKYNJzKA-Ou7_-r2S4-dZZPPabSTGgxMNelRoi0SbDDrydSvyDhIFd7pXpsfIAQSPKPF0kiO4IoLxXn8Uow9UBBrW5sGasv7-xwo5OqIPJJnibYP5iGP2AyIbkygQNPPRYEFLoTumYCcfY3EniEeakK/s728-rw-e365/linux.png",
-        "Title": "Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
         "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
         "Img_URL": "https://media.wired.com/photos/6622f344e93e00504c86b731/3:2/w_1280%2Cc_limit/security_north_korea_tv_animation.jpg",
         "Title": "North Koreans Secretly Animated Amazon and Max Shows, Researchers Say",
-        "Source": "WIRED",
-        "Timestamp": "Apr 22, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
