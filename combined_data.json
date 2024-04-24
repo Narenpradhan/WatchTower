@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaoVw8STYtnbPnf3X5vmPKUTSZgBn6Wj2PHkFLLeRpXAZayJynh2Wq3jfFCqFapgig6pSjoknfdIYcJbBhYL1aY1BPD3-5vbWdOxmaqJwYEqQ9FMj2oRhStk2XkXU5jjd8DTT2FWnJQR3NBYE6eH9rfB6NH6LLUTkCOdxSvfaJhmHvpVl0MwXHsuaa6hyv/s728-rw-e365/iran.png",
+        "Title": "U.S. Treasury Sanctions Iranian Firms and Individuals Tied to Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1bEFQuUUnkFd5aJJzA0-_GeF9ciA5uY4iOf4gb7sJD_azqgIvlCw850DISUSIsP2TIus9AFy9KKFZSRgzFzJeB6KpIR9f0ttNsPYZiNILooejl8n2rVGQVziOWkf-9i2xtdx55PFylzHAGwMPp-H7vi9PCouncZWA0wY5B2VmBK1UtQxdkWy1vB7jfV5/s728-rw-e365/hacke.png",
+        "Title": "Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 24, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhysv9Vr-9_ufQmaJ4SD6qOv43h9-ycAg8WBdkh5Dw1Mgt5szz2UNW95DNZhfWyvFQYhtttQF9EYx-ab-ghj6GS_bZqYs6ObFK8aZmByk8QZhhIXp-8ACKFvvsbU2I8EZ_nYVBkXn5K0NvEhyGewChoGRt-LNYCRImwb0nbRd3kRNyTNQkYZ8zUH6cIX410/s728-rw-e365/mobile.png",
         "Title": "Major Security Flaws Expose Keystrokes of Over 1 Billion Chinese Keyboard App Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Apr 24, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s728-rw-e365/talos.png",
+        "Title": "CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s728-rw-e365/talos.png",
-        "Title": "CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers",
+        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
+        "Title": "GenAI: A New Headache for SaaS Security Teams",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Apr 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
-        "Title": "GenAI: A New Headache for SaaS Security Teams",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 24, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/04/police-chiefs-call-for-solutions-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjgxQXuZMjvjIfyxaxWq_yu4VtSnvvSQLqu1dFXYzl8KMm05t2Fun7l-er6mJzej__1nlkmMUPgneGRhVP4YiXl8biUwkjfN-aVYpAb8DeTqnC-7OcQPXhtaFFS_pSwnRqo0QFoFN3uxJpKZdItILR-50ZkC2rUkRVt97Anr2N5qAv_DpEDOVxetR3TWN/s728-rw-e365/police.png",
         "Title": "Police Chiefs Call for Solutions to Access Encrypted Data in Serious Crime Cases",
@@ -63,23 +77,44 @@
         "Timestamp": "Apr 24, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/",
+        "Img_URL": "https://media.wired.com/photos/66284838054b26b13d95a20c/3:2/w_1280%2Cc_limit/Cisco-Hack-Security-GettyImages-1238829383.jpg",
+        "Title": "Cyberspies Hacked Cisco Firewalls to Access Government Networks",
+        "Source": "WIRED",
+        "Timestamp": "Apr 24, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmDxlgCll1W5QwyKCjcqn7kQe3MWo_SOp8YHNWlUtxIQKOgEPJOmPFtjmesvu15fBYQYiVQRIuFdfxxMV-NOO8YcbM7tyvNihW1M7qUBOw2iYht01Mw4j9JWf5aBhYYvvG8PK0OXEtnBA0RefZon4uvmdTJ_O0GAYfUvIte_FWhV3LTkUEbB3mJCO5GU/s728-rw-e365/attack.png",
         "Title": "Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 24, 2024"
+        "Timestamp": "Apr 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/german-authorities-issue-arrest.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkDNT9nspdpOZ2WXq5YRVJe2Zp_DkFuROmkH-egqTvJhSod5lV-iKKu1XBGzCWZrQ3bC9qjgGzNqcZGuEe8uUc36V7jPDPej2x1j6Z0UUAfVRqtr7wY96x_mw7Ezju7f8SfjnUGIpzmwBWvAsbfKNhMImORDeP8j3nkMWAXVRif0XJ3VXeptQqftNAvxve/s728-rw-e365/spies.png",
         "Title": "German Authorities Issue Arrest Warrants for Three Suspected Chinese Spies",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 24, 2024"
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
+        "Title": "GenAI: A New Headache for SaaS Security Teams",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRpnMQHQkPPPt4wysItoNA8wlDyNxRoKBs_w0HF9REOATiM8iw78KfXzLnRDej5VVzaEliMi3HMFB3j1k9aOvYEI3QPJ9b_CXBBuy-M4wq5UjI59uxWM3IlAkBuxp2xGtavkx6DiQswejmG7kAd4VfkgPKGLrVUQGdNearKuhPpvDbOET205ac4dBXRVx8/s728-rw-e365/spyware.png",
         "Title": "U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
@@ -91,23 +126,9 @@
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
-        "Title": "GenAI: A New Headache for SaaS Security Teams",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 23, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s728-rw-e365/hackers.png",
         "Title": "ToddyCat Hacker Group Uses Advanced Tools for Industrial-Scale Data Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 23, 2024"
     },
@@ -140,20 +161,6 @@
         "Timestamp": "Apr 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s728-rw-e365/ai.png",
-        "Title": "Microsoft Warns: North Korean Hackers Turn to AI-Fueled Cyber Espionage",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKp96Jwc4R7bDqoN3v7fSZWFdCEwRgQ6DCaskmu3HdgEWb9Ur2ciNaWD7DPcwrHUbGWWiyDg3gG0bh9247Xkqr3kLUTFd1g4viEfuCYG-AiaXMnx9TPpft9tQo7CQfcYKkUTo_GpNI-IluYeLw8KCUY_ZgYsMT9gcFp3it77u9EM5Cz8RQQH-fpubD5GVF/s728-rw-e365/chart.png",
-        "Title": "New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 23, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/",
         "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
         "Title": "A National Security Insider Does the Math on the Dangers of AI",
@@ -175,11 +182,11 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Link": "https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/6622f344e93e00504c86b731/3:2/w_1280%2Cc_limit/security_north_korea_tv_animation.jpg",
         "Title": "North Koreans Secretly Animated Amazon and Max Shows, Researchers Say",
         "Source": "WIRED",
-        "Timestamp": "Apr 22, 2024"
+        "Timestamp": "Apr 20, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/who-stole-3-6m-tax-records-from-south-carolina/",
@@ -329,16 +336,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
@@ -439,13 +446,6 @@
         "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
         "Source": "WIRED",
         "Timestamp": "Feb 27, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/",
-        "Img_URL": "https://media.wired.com/photos/65de4369d7afba84ab89dabb/3:2/w_1280%2Cc_limit/Ransomware-Groups-Are-Bouncing-Back-Faster-from-Law-Enforcement-Busts-Security-GettyImages-121352268.jpg",
-        "Title": "Ransomware Groups Are Bouncing Back Faster From Law Enforcement Busts",
-        "Source": "WIRED",
-        "Timestamp": "Feb 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/",
