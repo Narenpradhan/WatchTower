@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eOMH0yikc2ziP8w_7miQp1DwkrTONPaXzgc73RsZ-4RZsBi7Yjespp6W3_drwPUPRBDrIgHmhWCbzSndSnIw2nDMWT7TqFNUVZF-p2EW8RkOwsSemxY_mi8CNQNtgf2K03pD5yrDg1oOc38p_5P22w0q0ofhVAl3jlKZ9qX15PnEISMwYvyIq-Sniaf4/s728-rw-e365/hackers.png",
+        "Title": "North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 25, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDOyS1S888meelUl1cpWWsxFECf0UWUbjcNquQn8TDmo_AFpCSz8bdcg6LefFmQN2FPpH6M9uQwrKctEeNtvlcysjW7jMWzYZjrKzZTJZw-ld57FN-CSTy5tm-E3Azc8-XDLYyOnRZHQzn2UVUNz4btGn4FaT_AecWR4mFZuWBz2xvI77FXRX_BQ42t94/s728-rw-e365/cato.png",
         "Title": "Network Threats: A Step-by-Step Attack Demonstration",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s728-rw-e365/chrome.png",
-        "Title": "Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny",
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s728-rw-e365/chrome.png",
+        "Title": "Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1bEFQuUUnkFd5aJJzA0-_GeF9ciA5uY4iOf4gb7sJD_azqgIvlCw850DISUSIsP2TIus9AFy9KKFZSRgzFzJeB6KpIR9f0ttNsPYZiNILooejl8n2rVGQVziOWkf-9i2xtdx55PFylzHAGwMPp-H7vi9PCouncZWA0wY5B2VmBK1UtQxdkWy1vB7jfV5/s728-rw-e365/hacke.png",
-        "Title": "Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike",
+        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
+        "Title": "GenAI: A New Headache for SaaS Security Teams",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s728-rw-e365/as.png",
-        "Title": "GenAI: A New Headache for SaaS Security Teams",
+        "Link": "https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1bEFQuUUnkFd5aJJzA0-_GeF9ciA5uY4iOf4gb7sJD_azqgIvlCw850DISUSIsP2TIus9AFy9KKFZSRgzFzJeB6KpIR9f0ttNsPYZiNILooejl8n2rVGQVziOWkf-9i2xtdx55PFylzHAGwMPp-H7vi9PCouncZWA0wY5B2VmBK1UtQxdkWy1vB7jfV5/s728-rw-e365/hacke.png",
+        "Title": "Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlG2kXWEMk6-E3mHu3GyTl0Jl0tx14U3EpMbIvbw2WXVSZ5nzff12hGgsApTXSViiC0_2VTQXDGTFW_CizX7-tC5yWTCYYNwQxqgdBcLdETu0uulNIzqzvIiD2fMyjzxFqaDp9z5KgkQBRtuSgLuFeDim9CeWgYxPhYF9gTgWDIVxHyYsabGsFh18sJZSZ/s728-rw-e365/antivirus.png",
         "Title": "eScan Antivirus Update Mechanism Exploited to Spread Backdoors and Miners",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 25, 2024"
+        "Timestamp": "Apr 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s728-rw-e365/talos.png",
         "Title": "CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s728-rw-e365/apache.png",
-        "Title": "Apache Cordova App Harness Targeted in Dependency Confusion Attack",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Apr 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s728-rw-e365/webinar.png",
-        "Title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
+        "Link": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s728-rw-e365/apache.png",
+        "Title": "Apache Cordova App Harness Targeted in Dependency Confusion Attack",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/silverfort-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
         "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s728-rw-e365/webinar.png",
+        "Title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s728-rw-e365/printer.png",
         "Title": "Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s728-rw-e365/hackers.png",
-        "Title": "ToddyCat Hacker Group Uses Advanced Tools for Industrial-Scale Data Theft",
         "Source": "The Hacker News",
         "Timestamp": "Apr 24, 2024"
     },
