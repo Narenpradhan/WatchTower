@@ -1,85 +1,106 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8USbb4jtK-uD5sMxXO5_7RDCAiICjrJttX5L5Ag9gZYXGQmnL0eJaj1BIX4oky2oZkLJpXI27-gcg3QCLxXOeoI-OZRBWE3dVJDu4UutRgnfyy9hhtLEO22EohVFIL2qzOoiEzBpstBGyIkLF3BGG1bxaa5LDI6KLnbuSsY3-atovs4hV0hqOE2W0Y4-d/s728-rw-e365/malware.png",
+        "Title": "Bogus npm Packages Used to Trick Software Developers into Installing Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 27, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKcSr0EJWdiaJbuMvzN8fuJ7s1q3xrar_oF8gElmwej9ek4cMy6aGKCXbc64xpcdCpLxEsQtmi6rVBQClnGhnco7j2fhOTWHUVT2DxEgIhzbcvZ6DNQFaQR4aBDqMVap2_W3G36RMMzqzfdK4XoU40mGHdnvA_faqC5_zOY-yLXBH6DVlWbjUIDIQEGU_5/s728-rw-e365/software.png",
         "Title": "Severe Flaws Disclosed in Brocade SANnav SAN Management Software",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s728-rw-e365/tips.png",
         "Title": "10 Critical Endpoint Security Tips You Should Know",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE9eeH2JGH6GFibi6gSwnWQ4vnHrWa1ekrq7ugJqj2uQHCKviLCjwVtko8DpuRJgFu-Ye4DR0i2YVuQc-t3rqFgy_mGeRTdE37SDc_GySLWJSL8ahyphenhyphenA7iAnptIsKon1uvsRhuCfIz-EzjpFcJgtPqC9jTG8upDIOBD6ikEbBRZmH_GdqZWzHeh7-0ANkcd/s728-rw-e365/android.png",
-        "Title": "New 'Brokewell' Android Malware Spread Through Fake Browser Updates",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.uk/silverfort-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
         "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE9eeH2JGH6GFibi6gSwnWQ4vnHrWa1ekrq7ugJqj2uQHCKviLCjwVtko8DpuRJgFu-Ye4DR0i2YVuQc-t3rqFgy_mGeRTdE37SDc_GySLWJSL8ahyphenhyphenA7iAnptIsKon1uvsRhuCfIz-EzjpFcJgtPqC9jTG8upDIOBD6ikEbBRZmH_GdqZWzHeh7-0ANkcd/s728-rw-e365/android.png",
+        "Title": "New 'Brokewell' Android Malware Spread Through Fake Browser Updates",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh51s_R2LKBS5_Vyt5ZYjPJ-AFIeQwqesJ00PFax-MVb5d89Zdg-KoxkkYQIorYYKCyVBw4vWSLB2aOKc63wLtPpUbmFGVypBHsyFKrrx3kchfcV8Zfv2GN0MI0xgc0kR07M9UBCCy5C45y8syjCvWFRwsScF-5HG2orj3BZR7jL-k_N9JiyDU9xtEWVnqY/s728-rw-e365/hackers.png",
         "Title": "Palo Alto Networks Outlines Remediation for Critical PAN-OS Flaw Under Attack",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvCffAfbsKsAnihZQH0q6CL3K-y2vFGHf-XHrltCyscHHKoe-nN1DD_y5JnC_nNzOH310coc6A5qc6dO4T0dJNmHMOJNyKv82b6jg5RWcsSkJxH0nbxLJE1-0oeFb1_AHQy1_44jIdODln4bUxDHBjY6GpttY7hU35WtCZiQeMY4xehIRGHMj_q3czx_h/s728-rw-e365/wp.png",
         "Title": "Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eOMH0yikc2ziP8w_7miQp1DwkrTONPaXzgc73RsZ-4RZsBi7Yjespp6W3_drwPUPRBDrIgHmhWCbzSndSnIw2nDMWT7TqFNUVZF-p2EW8RkOwsSemxY_mi8CNQNtgf2K03pD5yrDg1oOc38p_5P22w0q0ofhVAl3jlKZ9qX15PnEISMwYvyIq-Sniaf4/s728-rw-e365/hackers.png",
-        "Title": "North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
         "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eOMH0yikc2ziP8w_7miQp1DwkrTONPaXzgc73RsZ-4RZsBi7Yjespp6W3_drwPUPRBDrIgHmhWCbzSndSnIw2nDMWT7TqFNUVZF-p2EW8RkOwsSemxY_mi8CNQNtgf2K03pD5yrDg1oOc38p_5P22w0q0ofhVAl3jlKZ9qX15PnEISMwYvyIq-Sniaf4/s728-rw-e365/hackers.png",
+        "Title": "North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDOyS1S888meelUl1cpWWsxFECf0UWUbjcNquQn8TDmo_AFpCSz8bdcg6LefFmQN2FPpH6M9uQwrKctEeNtvlcysjW7jMWzYZjrKzZTJZw-ld57FN-CSTy5tm-E3Azc8-XDLYyOnRZHQzn2UVUNz4btGn4FaT_AecWR4mFZuWBz2xvI77FXRX_BQ42t94/s728-rw-e365/cato.png",
         "Title": "Network Threats: A Step-by-Step Attack Demonstration",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3eWBo6Hs3mTZdRaC-gE5gHnP2uAXPgnSfbj3LC208L82o3GSWx33DHweGS5QoGJV9d3D9fgvU9LWr7jCSeWLzZA5ee8Nx_P35qXdGcg_BzphoxWgcNjMWU2UH-uSxKzcjAiJGZAK8pG9Zq3__y3HS4XEfi5KGqo5VgB9iP4qg9erhibw4Jc7hmc6AkjGB/s728-rw-e365/wallet.png",
         "Title": "DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 27, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/racist-deepfake-google-cookies-gm-driver-surveillance-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/662bc744f4a60e1ae6c566db/3:2/w_1280%2Cc_limit/Baltimore-School-Impersonator-Security-GettyImages-1352083046.jpg",
+        "Title": "School Employee Allegedly Framed a Principal With Racist Deepfake Rant",
+        "Source": "WIRED",
+        "Timestamp": "Apr 27, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s728-rw-e365/chrome.png",
         "Title": "Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny",
         "Source": "The Hacker News",
-        "Timestamp": "Apr 26, 2024"
+        "Timestamp": "Apr 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2_t8GcML7j7I_THIDx4FdvQGgSjJwnsT4OpcIrj9Sl8qXx19py3ah1B9LpV6Ute_e6RRIRttOdrHMbU5nY4boWOMjiqLh60vaBEJgu2PgiIDBYywajCKkyYi2VYyZG_Tg77inzknAV8Ra6vds_rZnPlkxVzJC-EOfWWAaJiu4k84kq3PKUkO9xg15di1/s728-rw-e365/cisc.jpg",
         "Title": "State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
+        "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -91,9 +112,9 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
-        "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -101,13 +122,6 @@
         "Link": "https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1bEFQuUUnkFd5aJJzA0-_GeF9ciA5uY4iOf4gb7sJD_azqgIvlCw850DISUSIsP2TIus9AFy9KKFZSRgzFzJeB6KpIR9f0ttNsPYZiNILooejl8n2rVGQVziOWkf-9i2xtdx55PFylzHAGwMPp-H7vi9PCouncZWA0wY5B2VmBK1UtQxdkWy1vB7jfV5/s728-rw-e365/hacke.png",
         "Title": "Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -147,13 +161,6 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s728-rw-e365/webinar.png",
-        "Title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 25, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/",
         "Img_URL": "https://media.wired.com/photos/66284838054b26b13d95a20c/3:2/w_1280%2Cc_limit/Cisco-Hack-Security-GettyImages-1238829383.jpg",
         "Title": "Cyberspies Hacked Cisco Firewalls to Access Government Networks",
@@ -175,7 +182,7 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
         "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
         "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
@@ -336,16 +343,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
@@ -439,13 +446,6 @@
         "Title": "Calendar Meeting Links Used to Spread Mac Malware",
         "Source": "KrebsonSecurity",
         "Timestamp": "Feb 28, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/",
-        "Img_URL": "https://media.wired.com/photos/65dfcc595e7030af474191d9/3:2/w_1280%2Cc_limit/022824-security-critical-updates-feb-01.jpg",
-        "Title": "Here Are the Google and Microsoft Security Updates You Need Right Now",
-        "Source": "WIRED",
-        "Timestamp": "Feb 27, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/",
