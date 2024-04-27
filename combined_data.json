@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUzAQ7szXy7M5Yxr6vObXqotYfoQR-Rg8IgSJA0ICkTjsqOCKPirGXqvOjeqG6u4cf78ybQ8Y6p_SXG2iNwAtZkM5tPYv_XCyhKY8IbmC-0GDAY3x-awRhKL-KRJnbZWrXAdXRT2LAk24NpoNywl8JzKlfLXRMXq46c8BacPeK4pp8cdn7fhU5sNH6Yukj/s728-rw-e365/Ukraine.jpg",
+        "Title": "Ukraine Targeted in Cyberattack Exploiting 7-Year-Old Microsoft Office Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 27, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8USbb4jtK-uD5sMxXO5_7RDCAiICjrJttX5L5Ag9gZYXGQmnL0eJaj1BIX4oky2oZkLJpXI27-gcg3QCLxXOeoI-OZRBWE3dVJDu4UutRgnfyy9hhtLEO22EohVFIL2qzOoiEzBpstBGyIkLF3BGG1bxaa5LDI6KLnbuSsY3-atovs4hV0hqOE2W0Y4-d/s728-rw-e365/malware.png",
         "Title": "Bogus npm Packages Used to Trick Software Developers into Installing Malware",
@@ -14,16 +21,16 @@
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s728-rw-e365/tips.png",
-        "Title": "10 Critical Endpoint Security Tips You Should Know",
+        "Link": "https://thehackernews.uk/silverfort-report",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
+        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
         "Source": "The Hacker News",
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s728-rw-e365/tips.png",
+        "Title": "10 Critical Endpoint Security Tips You Should Know",
         "Source": "The Hacker News",
         "Timestamp": "Apr 27, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvCffAfbsKsAnihZQH0q6CL3K-y2vFGHf-XHrltCyscHHKoe-nN1DD_y5JnC_nNzOH310coc6A5qc6dO4T0dJNmHMOJNyKv82b6jg5RWcsSkJxH0nbxLJE1-0oeFb1_AHQy1_44jIdODln4bUxDHBjY6GpttY7hU35WtCZiQeMY4xehIRGHMj_q3czx_h/s728-rw-e365/wp.png",
-        "Title": "Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites",
+        "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
+        "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
         "Source": "The Hacker News",
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1500/Header-Image%201.png",
-        "Title": "Recover from Ransomware in 5 Minutes\u2014We will Teach You How!",
+        "Link": "https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvCffAfbsKsAnihZQH0q6CL3K-y2vFGHf-XHrltCyscHHKoe-nN1DD_y5JnC_nNzOH310coc6A5qc6dO4T0dJNmHMOJNyKv82b6jg5RWcsSkJxH0nbxLJE1-0oeFb1_AHQy1_44jIdODln4bUxDHBjY6GpttY7hU35WtCZiQeMY4xehIRGHMj_q3czx_h/s728-rw-e365/wp.png",
+        "Title": "Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites",
         "Source": "The Hacker News",
         "Timestamp": "Apr 27, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3eWBo6Hs3mTZdRaC-gE5gHnP2uAXPgnSfbj3LC208L82o3GSWx33DHweGS5QoGJV9d3D9fgvU9LWr7jCSeWLzZA5ee8Nx_P35qXdGcg_BzphoxWgcNjMWU2UH-uSxKzcjAiJGZAK8pG9Zq3__y3HS4XEfi5KGqo5VgB9iP4qg9erhibw4Jc7hmc6AkjGB/s728-rw-e365/wallet.png",
-        "Title": "DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 27, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/racist-deepfake-google-cookies-gm-driver-surveillance-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/662bc744f4a60e1ae6c566db/3:2/w_1280%2Cc_limit/Baltimore-School-Impersonator-Security-GettyImages-1352083046.jpg",
         "Title": "School Employee Allegedly Framed a Principal With Racist Deepfake Rant",
@@ -84,16 +84,16 @@
         "Timestamp": "Apr 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s728-rw-e365/chrome.png",
-        "Title": "Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny",
+        "Link": "https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3eWBo6Hs3mTZdRaC-gE5gHnP2uAXPgnSfbj3LC208L82o3GSWx33DHweGS5QoGJV9d3D9fgvU9LWr7jCSeWLzZA5ee8Nx_P35qXdGcg_BzphoxWgcNjMWU2UH-uSxKzcjAiJGZAK8pG9Zq3__y3HS4XEfi5KGqo5VgB9iP4qg9erhibw4Jc7hmc6AkjGB/s728-rw-e365/wallet.png",
+        "Title": "DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2_t8GcML7j7I_THIDx4FdvQGgSjJwnsT4OpcIrj9Sl8qXx19py3ah1B9LpV6Ute_e6RRIRttOdrHMbU5nY4boWOMjiqLh60vaBEJgu2PgiIDBYywajCKkyYi2VYyZG_Tg77inzknAV8Ra6vds_rZnPlkxVzJC-EOfWWAaJiu4k84kq3PKUkO9xg15di1/s728-rw-e365/cisc.jpg",
-        "Title": "State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage",
+        "Link": "https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s728-rw-e365/chrome.png",
+        "Title": "Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaoVw8STYtnbPnf3X5vmPKUTSZgBn6Wj2PHkFLLeRpXAZayJynh2Wq3jfFCqFapgig6pSjoknfdIYcJbBhYL1aY1BPD3-5vbWdOxmaqJwYEqQ9FMj2oRhStk2XkXU5jjd8DTT2FWnJQR3NBYE6eH9rfB6NH6LLUTkCOdxSvfaJhmHvpVl0MwXHsuaa6hyv/s728-rw-e365/iran.png",
-        "Title": "U.S. Treasury Sanctions Iranian Firms and Individuals Tied to Cyber Attacks",
+        "Link": "https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2_t8GcML7j7I_THIDx4FdvQGgSjJwnsT4OpcIrj9Sl8qXx19py3ah1B9LpV6Ute_e6RRIRttOdrHMbU5nY4boWOMjiqLh60vaBEJgu2PgiIDBYywajCKkyYi2VYyZG_Tg77inzknAV8Ra6vds_rZnPlkxVzJC-EOfWWAaJiu4k84kq3PKUkO9xg15di1/s728-rw-e365/cisc.jpg",
+        "Title": "State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.uk/silverfort-report",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
         "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Source": "The Hacker News",
+        "Timestamp": "Apr 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaoVw8STYtnbPnf3X5vmPKUTSZgBn6Wj2PHkFLLeRpXAZayJynh2Wq3jfFCqFapgig6pSjoknfdIYcJbBhYL1aY1BPD3-5vbWdOxmaqJwYEqQ9FMj2oRhStk2XkXU5jjd8DTT2FWnJQR3NBYE6eH9rfB6NH6LLUTkCOdxSvfaJhmHvpVl0MwXHsuaa6hyv/s728-rw-e365/iran.png",
+        "Title": "U.S. Treasury Sanctions Iranian Firms and Individuals Tied to Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s728-rw-e365/talos.png",
         "Title": "CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers",
-        "Source": "The Hacker News",
-        "Timestamp": "Apr 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s728-rw-e365/apache.png",
-        "Title": "Apache Cordova App Harness Targeted in Dependency Confusion Attack",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -343,16 +343,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
