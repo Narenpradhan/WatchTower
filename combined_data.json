@@ -21,9 +21,9 @@
         "Timestamp": "Apr 28, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.uk/saas-security-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6TxDDE6KolrmPLZngHyiXLgtgpA5YChC6DyS4sR86xtKANANQFtd1r9wCfKjAgOpLxhUnDcBn5m2q0YWs4WI7d7mD4bW1myqVcfa8ia7E4zHymRdSGMO2SLsdD3J4bD93TrYtnsuoHNlqCm_8IB5lsJQArzo3hk3lrEfoFQ4AZ17xnJupS-jkCY-EAX2/s728-e365/buyers-guide-to-sspm.jpg",
+        "Title": "SaaS Security Buyers Guide",
         "Source": "The Hacker News",
         "Timestamp": "Apr 28, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Apr 25, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-report",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPzuEejIEGCYiz5j3Hszfo3HqxAndJTk-97ZaFnQEnDikkTX-Zk3YPWdfddmJv7tSgwQEDFYSpzcMl639VF9tfogtdr9fpc5ZElo1JHOL9L1DQCw6wGdsOGKr3sNVBODtq3eDwFBx1WnwX7kyGLj-sm9xAM3Ag0OwPOarn3F4kMvCqZTfjjytuZ-KZM8EC/s728-e365/silver.png",
-        "Title": "Today's Top 4 Identity Threat Exposures: Where To Find Them and How To Stop Them",
+        "Link": "https://thehackernews.uk/saas-security-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6TxDDE6KolrmPLZngHyiXLgtgpA5YChC6DyS4sR86xtKANANQFtd1r9wCfKjAgOpLxhUnDcBn5m2q0YWs4WI7d7mD4bW1myqVcfa8ia7E4zHymRdSGMO2SLsdD3J4bD93TrYtnsuoHNlqCm_8IB5lsJQArzo3hk3lrEfoFQ4AZ17xnJupS-jkCY-EAX2/s728-e365/buyers-guide-to-sspm.jpg",
+        "Title": "SaaS Security Buyers Guide",
         "Source": "The Hacker News",
         "Timestamp": "Apr 25, 2024"
     },
@@ -343,16 +343,16 @@
         "Timestamp": "Mar 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
-        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
-        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
+        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
+        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
+        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
+        "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
+        "Img_URL": "https://media.wired.com/photos/660325aa2f517f41a849f677/3:2/w_1280%2Cc_limit/University-of-Cambridge-Hack-Security-GettyImages-1251809815.jpg",
+        "Title": "\u2018Malicious Activity\u2019 Hits the University of Cambridge\u2019s Medical School",
         "Source": "WIRED",
         "Timestamp": "Mar 21, 2024"
     },
