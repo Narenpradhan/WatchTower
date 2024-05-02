@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigmE-bZrGVDm13EWFXWLMYr044v3vExYNhz7ZgWpDBfjhuzCNOZHmUduocbXO37wpVMnX6NV4mgprnIoIxSc_6G_Gh7QHnUIz8Y1c0KNUIpJjnE4t8Uxu29YGdGxxirPHtpQnpBKCPxv88gvYiqU8Y3QGaAVChksvgAXyxsV2j7JWC2GyUimABOp6lNet5/s728-rw-e365/apps.png",
+        "Title": "Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "May 02, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiah_djipnxRTW-p6ze3oV27OoA0GVZgmF42zmKOLGPaMiItvJ6MxAzwM5oyKqK9BmHwg5hK1GdQvOggA0OJjX_x8DO4Y4hlTRe617q1GS35Gk21skd5D2XHQNcURHecHzqmU4XuAUP9SlqfuP4yyGbtXEssEDhDfpBfiSNIWbccubzYtvoUwz1B7tdiVh/s728-rw-e365/jail.png",
         "Title": "Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million",
@@ -14,16 +21,16 @@
         "Timestamp": "May 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s728-rw-e365/dropbox-sign.png",
-        "Title": "Dropbox Discloses Breach of Digital Signature Service Affecting All Users",
+        "Link": "https://thehackernews.uk/saas-security-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6TxDDE6KolrmPLZngHyiXLgtgpA5YChC6DyS4sR86xtKANANQFtd1r9wCfKjAgOpLxhUnDcBn5m2q0YWs4WI7d7mD4bW1myqVcfa8ia7E4zHymRdSGMO2SLsdD3J4bD93TrYtnsuoHNlqCm_8IB5lsJQArzo3hk3lrEfoFQ4AZ17xnJupS-jkCY-EAX2/s728-e365/buyers-guide-to-sspm.jpg",
+        "Title": "SaaS Security Buyers Guide",
         "Source": "The Hacker News",
         "Timestamp": "May 02, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/saas-security-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6TxDDE6KolrmPLZngHyiXLgtgpA5YChC6DyS4sR86xtKANANQFtd1r9wCfKjAgOpLxhUnDcBn5m2q0YWs4WI7d7mD4bW1myqVcfa8ia7E4zHymRdSGMO2SLsdD3J4bD93TrYtnsuoHNlqCm_8IB5lsJQArzo3hk3lrEfoFQ4AZ17xnJupS-jkCY-EAX2/s728-e365/buyers-guide-to-sspm.jpg",
-        "Title": "SaaS Security Buyers Guide",
+        "Link": "https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s728-rw-e365/dropbox-sign.png",
+        "Title": "Dropbox Discloses Breach of Digital Signature Service Affecting All Users",
         "Source": "The Hacker News",
         "Timestamp": "May 02, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "May 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNe67nDISGXYhECsz8hjhhdrir3btsZyG8G7-SMmVBbX-Kjq3e3l3wHvdrfcNhvnMsAdSM4dI4cMBB1IPJS3kuUMfwhS3O8EudzdIL29HAKxF-FXE4rmDq34uOmSZv6puZDe9xItkpvPYHne5lf1G_AULXbrHpyenhpxvr4OJqMaM-awJh_XMc0EGo_BQ/s728-rw-e365/malware.png",
-        "Title": "New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials",
+        "Link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s728-rw-e365/tips.png",
+        "Title": "10 Critical Endpoint Security Tips You Should Know",
         "Source": "The Hacker News",
         "Timestamp": "May 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s728-rw-e365/tips.png",
-        "Title": "10 Critical Endpoint Security Tips You Should Know",
+        "Link": "https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNe67nDISGXYhECsz8hjhhdrir3btsZyG8G7-SMmVBbX-Kjq3e3l3wHvdrfcNhvnMsAdSM4dI4cMBB1IPJS3kuUMfwhS3O8EudzdIL29HAKxF-FXE4rmDq34uOmSZv6puZDe9xItkpvPYHne5lf1G_AULXbrHpyenhpxvr4OJqMaM-awJh_XMc0EGo_BQ/s728-rw-e365/malware.png",
+        "Title": "New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials",
         "Source": "The Hacker News",
         "Timestamp": "May 02, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirwwacxhvAAJJ-85stzasFholvN8XEBjJlPwytOgDTW9IcoCeRVo74BuHeOVtBikTp6g6rc2K3RFm3-U80Um3yg9x1slSgJVS-L_UmXZOFPflr2AMxaXvxk7dgZCYy6JpovgbrNOKwEd8Nz3ApkAZ-j2wQamStm0iP_zefD2tFYrcFd6sMaXFsG_9dUTk/s728-rw-e365/SAT_Buyers_Guide_Huntress.png",
         "Title": "How to Make Your Employees Your First Line of Cyber Defense",
         "Source": "The Hacker News",
-        "Timestamp": "May 02, 2024"
+        "Timestamp": "May 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/zloader-malware-evolves-with-anti.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIVj9gB5uKAcvta-MNdQNtE181VEO8UUMOEPh9Ri4YgwimFwJb4Yu4GNuw8LxC-EHuBxxAzI_9Z1i7sVxePZLWQq5I_bCSnNAN6jeEMNXZvYYfE0oH4IleVb3E6P71chDhpTrBFZ6x70PMNDnDYLrs-PQgR2u79Lp9-9S8TYaryOyriIEFsPsT2m2ubYYg/s728-rw-e365/malware.png",
         "Title": "ZLoader Malware Evolves with Anti-Analysis Trick from Zeus Banking Trojan",
-        "Source": "The Hacker News",
-        "Timestamp": "May 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrHWJdoJEHApU6In26rJhKEo6B-RsoOVYHDolEO2xTVDGOvziT2CQBPqO0VKhmHeGR73Cl4gI4ktVLwQi4CBjomt8GEI5oLJLfnD-so_cS8L_DHHbcL0-AdWup8oEUPFSqLt8K6kdxA3xSq1aMcvWxwYlCoa3cjRCx9QS8rUkhDjUkvd9502AzPLKwzcl/s728-rw-e365/secret.png",
-        "Title": "Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia",
         "Source": "The Hacker News",
         "Timestamp": "May 01, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "May 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/04/millions-of-malicious-imageless.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV60ycag3gu19fGfBY_Q4zNcxY0p1dxw9j1AUl1ZjhUHOEj1jwT23M-UTQ_FR32i9FMaKoSE7POh9-eZ_U8a620DwdQtcHRvPSj5IUASrCgsOXV4b0TWPEWYWxW9AXJ167zMChZtkBNAdz8lMM-Azz2YO_WP0Qmj1MTI6kH1BHZ-kPQl_MvMGnl_zRuDjY/s728-rw-e365/docker-hub.png",
-        "Title": "Millions of Malicious 'Imageless' Containers Planted on Docker Hub Over 5 Years",
+        "Link": "https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrHWJdoJEHApU6In26rJhKEo6B-RsoOVYHDolEO2xTVDGOvziT2CQBPqO0VKhmHeGR73Cl4gI4ktVLwQi4CBjomt8GEI5oLJLfnD-so_cS8L_DHHbcL0-AdWup8oEUPFSqLt8K6kdxA3xSq1aMcvWxwYlCoa3cjRCx9QS8rUkhDjUkvd9502AzPLKwzcl/s728-rw-e365/secret.png",
+        "Title": "Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia",
         "Source": "The Hacker News",
         "Timestamp": "May 01, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/saas-security-guide",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6TxDDE6KolrmPLZngHyiXLgtgpA5YChC6DyS4sR86xtKANANQFtd1r9wCfKjAgOpLxhUnDcBn5m2q0YWs4WI7d7mD4bW1myqVcfa8ia7E4zHymRdSGMO2SLsdD3J4bD93TrYtnsuoHNlqCm_8IB5lsJQArzo3hk3lrEfoFQ4AZ17xnJupS-jkCY-EAX2/s728-e365/buyers-guide-to-sspm.jpg",
         "Title": "SaaS Security Buyers Guide",
+        "Source": "The Hacker News",
+        "Timestamp": "May 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/04/millions-of-malicious-imageless.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV60ycag3gu19fGfBY_Q4zNcxY0p1dxw9j1AUl1ZjhUHOEj1jwT23M-UTQ_FR32i9FMaKoSE7POh9-eZ_U8a620DwdQtcHRvPSj5IUASrCgsOXV4b0TWPEWYWxW9AXJ167zMChZtkBNAdz8lMM-Azz2YO_WP0Qmj1MTI6kH1BHZ-kPQl_MvMGnl_zRuDjY/s728-rw-e365/docker-hub.png",
+        "Title": "Millions of Malicious 'Imageless' Containers Planted on Docker Hub Over 5 Years",
         "Source": "The Hacker News",
         "Timestamp": "May 01, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrH1TINp4NlTmzZ7Q8Bcd4q7GW1vuXmmfOHE4E-SUe8-DJ7SLqfGeJnp_gbR-h_R30kXqEpbFsJDb7oz5d4ZWvLVkp02lzgkmPhrLCmS5cRfgG-uDN5Ij-UzCvLtULyylej5E-kYuLEXwiAcI5UiYLngrl4yZjs1hPEYuwyF3_AOp3rnOaYLlZCaH03rC/s728-rw-e365/scan.png",
         "Title": "China-Linked 'Muddling Meerkat' Hijacks DNS to Map Internet on Global Scale",
-        "Source": "The Hacker News",
-        "Timestamp": "May 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/04/navigating-threat-landscape.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBRWmHjdlVfsXwPi7Yfn1Rv3Kru3Zp9kJ3FoLqbJXuSMETMOZsxY7_3gef-jmEOtN8Mx5rhb5ROTNqNLf7wMBu44yvZAvshxTcplvlfzVgzcDJH9KYvC-MIUU4Dmbba6Dr9Wtx47xRdY7c-Uk1sqHsn8QMjVIv7CkUN0XVAj_zHmKCe4QTgNyKz75NVeU/s728-rw-e365/blog-2.png",
-        "Title": "Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM",
         "Source": "The Hacker News",
         "Timestamp": "May 01, 2024"
     },
