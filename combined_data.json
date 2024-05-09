@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s728-rw-e365/vpn.png",
+        "Title": "New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation",
+        "Source": "The Hacker News",
+        "Timestamp": "May 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKaJfnAR5HtIZkrkiZDce4SNgIRTNBO1fYGif-AkvpQCCR-tFBjCuJEzl0ZntSFuIOqSOkNfxt5nddzAggYy2udFTPTl8g_eoAc1PRavjKXJ8rxnFNtW46LsMi8sFKRoIR5mtQZonRLTLVNMn9pWdAmz1Y_kJ6UAoQpqEUoFGSp3Q5waTY2JojNLtOlgjr/s728-rw-e365/russian-hacker.png",
+        "Title": "Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "May 09, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1BLP41CBRl5iEZSK9mvuJoYFZVFZalw82yXj3w-5GSvvVu4AZd8eFwQKPE1-L2HrZMo7zGoxAw6XqWa_3UandW1xhaUkh14DIKqTWz1-rZMWx9BLgcs6LXDdLvaS5yONjZAzHvBU14YVUGGWM2TdwPEAaAVv02Cby7DbmJ0ykQ7B3LEm0bCrmuJ18CA/s728-rw-e365/vciso.png",
         "Title": "New Guide: How to Scale Your vCISO Services Profitably",
+        "Source": "The Hacker News",
+        "Timestamp": "May 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/ci-cd-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZY80PWYaYnTJkANzQ5MKjtA5f83RD6-8OCqZW4QsygbCtrINx1hpDEco4a5qjQy0i3NK2SaFGiSH4i0GpVB4ab5sY1Mnkmz6nkIS9l5q9LO9FX73NtQYzu_cgFMni2WAaly_e-Dg2wqxH-4GRmKu6i8O0EnC2iA7_RtS4TE6LlMrP89QqY5jvm8mG0l0/s728-e365/wiz.png",
+        "Title": "Want to Bolster Your CI/CD Pipeline?",
         "Source": "The Hacker News",
         "Timestamp": "May 09, 2024"
     },
@@ -17,13 +38,6 @@
         "Link": "https://thehackernews.com/2024/05/critical-f5-central-manager.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5s6eeVoQhFHOb9Vb_Vk3Rz9njcAmLGjrcKnDXKudv7jB3msdb7D7GCy-PZwg0I7yBZ-xfEjrmFtVxGiQH4wN33t7V5g6YbDs1s1oaPaArP2yRPtoRCAKThOWtdkaZv6iBzjNAxSOm8St97-q5-TNBv3Z5zv3ADd7G2kATs78RlqOGz3QNyJfb5bCXNsF2/s728-rw-e365/f5.png",
         "Title": "Critical F5 Central Manager Vulnerabilities Allow Enable Full Device Takeover",
-        "Source": "The Hacker News",
-        "Timestamp": "May 09, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/ci-cd-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZY80PWYaYnTJkANzQ5MKjtA5f83RD6-8OCqZW4QsygbCtrINx1hpDEco4a5qjQy0i3NK2SaFGiSH4i0GpVB4ab5sY1Mnkmz6nkIS9l5q9LO9FX73NtQYzu_cgFMni2WAaly_e-Dg2wqxH-4GRmKu6i8O0EnC2iA7_RtS4TE6LlMrP89QqY5jvm8mG0l0/s728-e365/wiz.png",
-        "Title": "Want to Bolster Your CI/CD Pipeline?",
         "Source": "The Hacker News",
         "Timestamp": "May 09, 2024"
     },
@@ -63,20 +77,6 @@
         "Timestamp": "May 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-wdluAnaCMhtDZVypdjKCoD-my751uVGh6sFsjmHbzXyWAfsaR6FZVvKW7Kyxpj0ZNkxIJDmYTVKGGvUc3QeYs3DTTWIhYy6ARW5qxlWsXmszoFbqlMVfiFOuyEflW-yWGGBI3nhk34XBQ4cWyyMC0hZRypO7CiRKczdzgAHVRLl4RBvZTm6u58Tk7tS/s728-rw-e365/lockbit.png",
-        "Title": "Russian Hacker Dmitry Khoroshev Unmasked as LockBit Ransomware Administrator",
-        "Source": "The Hacker News",
-        "Timestamp": "May 09, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6qvLqxsO9yW4bS9JTOZpkEiLqsqurdjy9gvYvvXCoZ07cOgMKi2AlfAGNvfZPiSQNhsTqK9xIBf6N4BDbfhYfbkpmRSF0-j1I5v0_15CWU1iwpfFliLkmdwHt6j8CrcgGKvt9hkPSzUCQaXz7mz6gx-6e1Ii3qYOxoGQgkv-JWpQdfVa8vIbKrNRrL1dv/s1500/ad.png",
-        "Title": "APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data",
-        "Source": "The Hacker News",
-        "Timestamp": "May 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/cyber-army-of-russia-interview/",
         "Img_URL": "https://media.wired.com/photos/66393100588f131dd8d770b0/3:2/w_1280%2Cc_limit/Cyber-Army-of-Russia-Security.jpg",
         "Title": "A (Strange) Interview With the Russian-Military-Linked Hackers Targeting US Water Utilities",
@@ -91,23 +91,23 @@
         "Timestamp": "May 07, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-wdluAnaCMhtDZVypdjKCoD-my751uVGh6sFsjmHbzXyWAfsaR6FZVvKW7Kyxpj0ZNkxIJDmYTVKGGvUc3QeYs3DTTWIhYy6ARW5qxlWsXmszoFbqlMVfiFOuyEflW-yWGGBI3nhk34XBQ4cWyyMC0hZRypO7CiRKczdzgAHVRLl4RBvZTm6u58Tk7tS/s728-rw-e365/lockbit.png",
+        "Title": "Russian Hacker Dmitry Khoroshev Unmasked as LockBit Ransomware Administrator",
+        "Source": "The Hacker News",
+        "Timestamp": "May 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6qvLqxsO9yW4bS9JTOZpkEiLqsqurdjy9gvYvvXCoZ07cOgMKi2AlfAGNvfZPiSQNhsTqK9xIBf6N4BDbfhYfbkpmRSF0-j1I5v0_15CWU1iwpfFliLkmdwHt6j8CrcgGKvt9hkPSzUCQaXz7mz6gx-6e1Ii3qYOxoGQgkv-JWpQdfVa8vIbKrNRrL1dv/s1500/ad.png",
+        "Title": "APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data",
+        "Source": "The Hacker News",
+        "Timestamp": "May 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/china-linked-hackers-used-rootrot.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQCqny-7V74hcHMCQEb6Y5GH-20vL1Yf6vXr8AAcEPKxNs2Nor81d5b2W8li3bilH2155zUVFb9dLWwGvi0loxzwJUmDn81Y59iFyx6lP5gfdrbmV4F46BcA5UBuZVVcVMIedGFpAqPw1aCUxcwS5rmMaHxP6PJv8sJEJjVKNMsBjPdhzazE2anizXUPKD/s728-rw-e365/map.png",
         "Title": "China-Linked Hackers Used ROOTROT Webshell in MITRE Network Intrusion",
-        "Source": "The Hacker News",
-        "Timestamp": "May 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-case-study-malicious-comment.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUS3LJkQuicN43D5NrxSf0xflKdo3GHVEdy089NmTUSypwNI70imjfQuBMzwrzNuBwmSdVJ9j-ARjsK2_kBTLRVilr8qOn7__e0I_38Wr6SR1yFGG16q-bOrtZy6HD6VOy2NkScWhynEiftat7H7gIhHRLr4jMiW2dD1wAP8L8FcTcCy9s6mb4QlJM958/s728-rw-e365/case.png",
-        "Title": "New Case Study: The Malicious Comment",
-        "Source": "The Hacker News",
-        "Timestamp": "May 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/google-simplifies-2-factor.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhts8IRNt2lxOZ9dY9XPz7jMaACPUzRvigd7tqCinb8wiH2wSR3E4FZsKfkjtwLLp1cXJJWmnA3GekpLpUXNu5aCTz89_QtbKtYuE96g9_-KBO8FRVkE-KTSqIhiLI7jhUUhc0t8T9iX_Xf5FskuLpgpljGnDU-9NLfNsmMTtiNzkTQuMP7H2ETPUpYbINx/s728-rw-e365/google.png",
-        "Title": "Google Simplifies 2-Factor Authentication Setup (It's More Important Than Ever)",
         "Source": "The Hacker News",
         "Timestamp": "May 07, 2024"
     },
@@ -122,6 +122,20 @@
         "Link": "https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirwwacxhvAAJJ-85stzasFholvN8XEBjJlPwytOgDTW9IcoCeRVo74BuHeOVtBikTp6g6rc2K3RFm3-U80Um3yg9x1slSgJVS-L_UmXZOFPflr2AMxaXvxk7dgZCYy6JpovgbrNOKwEd8Nz3ApkAZ-j2wQamStm0iP_zefD2tFYrcFd6sMaXFsG_9dUTk/s728-rw-e365/SAT_Buyers_Guide_Huntress.png",
         "Title": "How to Make Your Employees Your First Line of Cyber Defense",
+        "Source": "The Hacker News",
+        "Timestamp": "May 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-case-study-malicious-comment.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUS3LJkQuicN43D5NrxSf0xflKdo3GHVEdy089NmTUSypwNI70imjfQuBMzwrzNuBwmSdVJ9j-ARjsK2_kBTLRVilr8qOn7__e0I_38Wr6SR1yFGG16q-bOrtZy6HD6VOy2NkScWhynEiftat7H7gIhHRLr4jMiW2dD1wAP8L8FcTcCy9s6mb4QlJM958/s728-rw-e365/case.png",
+        "Title": "New Case Study: The Malicious Comment",
+        "Source": "The Hacker News",
+        "Timestamp": "May 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/google-simplifies-2-factor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhts8IRNt2lxOZ9dY9XPz7jMaACPUzRvigd7tqCinb8wiH2wSR3E4FZsKfkjtwLLp1cXJJWmnA3GekpLpUXNu5aCTz89_QtbKtYuE96g9_-KBO8FRVkE-KTSqIhiLI7jhUUhc0t8T9iX_Xf5FskuLpgpljGnDU-9NLfNsmMTtiNzkTQuMP7H2ETPUpYbINx/s728-rw-e365/google.png",
+        "Title": "Google Simplifies 2-Factor Authentication Setup (It's More Important Than Ever)",
         "Source": "The Hacker News",
         "Timestamp": "May 07, 2024"
     },
@@ -157,20 +171,6 @@
         "Link": "https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0AFmbWqUNd3G018HE8XfB9AeeuQk0WmwbIBCh6gh7Mv2scbyd4gFaB1_lvhqVzFrPyrqnAoCb8DEArPjZ7JpST1b_5q_ZYJKdHfveDjKKq8zsSo4SZTVGBIJS7BJPeNSnYX1OmC_thfu-oGo4fW9gDBZhRYo7QeXCPYtHDe4IxYxVfsRvd0BumJ6et_6y/s728-rw-e365/mi.png",
         "Title": "Xiaomi Android Devices Hit by Multiple Flaws Across Apps and System Components",
-        "Source": "The Hacker News",
-        "Timestamp": "May 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-cuckoo-persistent-macos-spyware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_F1KzJ-rXXDfpfsaOUDosDvEa2Iwig46Nm0LlpvTguCzmNRDH1jUtpku3ElPR4QkVdU9ZULPOYYtstxSDYnLyXV6sUZ4FZliYlJEdfnlwwW4MLtlcpW0JfYqfly_O861Gbam37tqnvNNXzShHY1mIT1IIvqyWFhDP3_etN0NJjNu0g0lrPk47lMpHY9j1/s728-rw-e365/macos.png",
-        "Title": "New 'Cuckoo' Persistent macOS Spyware Targeting Intel and Arm Macs",
-        "Source": "The Hacker News",
-        "Timestamp": "May 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/microsoft-outlook-flaw-exploited-by.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvmefaxQb8fJmt-33PHxsJPwDA1hCsjgoQgXtKInXBPiaBAR-pII_ITGw0GZntE4iN7GhXXne3OwQLZ9f5vZbVJ8Hw-N3h7Ahs0gVflvU4JqH7leHNR9n377obI7DXEdFhRK6L3ZNjFu0g4mtUPx08JvE9rZFaZfCm-_Z7MzcVma9p3XeFNuSxbO9XZLS/s728/russia.png",
-        "Title": "Microsoft Outlook Flaw Exploited by Russia's APT28 to Hack Czech, German Entities",
         "Source": "The Hacker News",
         "Timestamp": "May 07, 2024"
     },
@@ -343,16 +343,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
