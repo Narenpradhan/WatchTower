@@ -1,87 +1,94 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidGxM7ADAzrplKASUpJQ3bzcolJSyabMKaYKT4HClyzRgCOuWCVvr4duu8KJkPW_9Ga8ADrETgYfu0Pwx9QosFgHep34F7jq5lOwmpYTooakEW-L3-1pyG0UDv5s2UEUJ-etPxVPf3FsuaCnRzo-2SfgR6sBYGaiuMLgIfVMCeQ_eylo2l6zR3vJ-i3oYb/s728-rw-e365/browser.png",
+        "Title": "FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT",
+        "Source": "The Hacker News",
+        "Timestamp": "May 11, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJpCh60Y9OeOx9Vlo9dCf4aW8aHjXqU-MHJt8NBiVPiHKC7wWrDk1vRCuo90pQ3mtyy9t9A3ouhAdU6aUe5MxKQm5Tvt9XRGYYiX5EDVnNXthkbqKLKD-YikG_sWfHjatO8QRZIClAHjB2novZftoHKSkAEs50ZfCDkCDZzrPE_qZgIrvet1tAfPwa4L2/s728-rw-e365/map.png",
         "Title": "North Korean Hackers Deploy New Golang Malware 'Durian' Against Crypto Firms",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQzKHxF9wi3LGibNRnANXUG8_15lCG3M1Xufs8A98ul3VXJnGRM_LhxYgNXMMIF6bEVuMk1irdTzogocwMaUQgv6xl34h-r4-TpWtnaV9dpLC3ZsX2XyRYNMvMQTjJmpIZrScfZJdRhQcn0hVrVjH-4EAxWu-EXyDq0ebtYgGX787Xuf40HWe1XQYxVC3/s728-rw-e365/webinar.jpg",
         "Title": "CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros (Webinar)",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhSx8fwDELvWKGNqNBlu-6Ndi0sPJb5p7SWiIt3zy9vzwPZSe7riuvdLHazxW6fjyi7S27qv4kzvcF9xE_ftF8djTvTvdEzg1Oh4XMApFiK4rwg7xw_hB5QuQ5S7y76OVPdl2zVCKaS0gHR54fTN805N7NUzdgw-Ivg3EOYBvCPBwOlveakXMpHVZXvAY/s728-rw-e365/chrome.png",
-        "Title": "Chrome Zero-Day Alert \u2014 Update Your Browser to Patch New Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.uk/ci-cd-security-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZY80PWYaYnTJkANzQ5MKjtA5f83RD6-8OCqZW4QsygbCtrINx1hpDEco4a5qjQy0i3NK2SaFGiSH4i0GpVB4ab5sY1Mnkmz6nkIS9l5q9LO9FX73NtQYzu_cgFMni2WAaly_e-Dg2wqxH-4GRmKu6i8O0EnC2iA7_RtS4TE6LlMrP89QqY5jvm8mG0l0/s728-e365/wiz.png",
         "Title": "Want to Bolster Your CI/CD Pipeline?",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhSx8fwDELvWKGNqNBlu-6Ndi0sPJb5p7SWiIt3zy9vzwPZSe7riuvdLHazxW6fjyi7S27qv4kzvcF9xE_ftF8djTvTvdEzg1Oh4XMApFiK4rwg7xw_hB5QuQ5S7y76OVPdl2zVCKaS0gHR54fTN805N7NUzdgw-Ivg3EOYBvCPBwOlveakXMpHVZXvAY/s728-rw-e365/chrome.png",
+        "Title": "Chrome Zero-Day Alert \u2014 Update Your Browser to Patch New Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
         "Title": "What's the Right EDR for You? ",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7hyphenhyphennU2IYjiz-ihf3HI2sV7T0y8bp02Lny2zKl22QLmn60deJC7JrSYqlkAEihse0cDSvFoTKVWehDNwJHrR4xoMZOMSFkDUTBuDWNqQ6tbDT5Z7hZ784vbqPeKYUv9W9NFIV32gq8n_72bAOq0NcSHKiEtrKHmePuoQcgVdyRddlABJ3R4Q0upkj8NZG/s728-rw-e365/apps.png",
         "Title": "Malicious Android Apps Pose as Google, Instagram, WhatsApp to Steal Credentials",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s728-rw-e365/app.png",
         "Title": "Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s728-rw-e365/vpn.png",
-        "Title": "New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation",
-        "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirwwacxhvAAJJ-85stzasFholvN8XEBjJlPwytOgDTW9IcoCeRVo74BuHeOVtBikTp6g6rc2K3RFm3-U80Um3yg9x1slSgJVS-L_UmXZOFPflr2AMxaXvxk7dgZCYy6JpovgbrNOKwEd8Nz3ApkAZ-j2wQamStm0iP_zefD2tFYrcFd6sMaXFsG_9dUTk/s728-rw-e365/SAT_Buyers_Guide_Huntress.png",
         "Title": "How to Make Your Employees Your First Line of Cyber Defense",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s728-rw-e365/vpn.png",
+        "Title": "New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation",
+        "Source": "The Hacker News",
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKaJfnAR5HtIZkrkiZDce4SNgIRTNBO1fYGif-AkvpQCCR-tFBjCuJEzl0ZntSFuIOqSOkNfxt5nddzAggYy2udFTPTl8g_eoAc1PRavjKXJ8rxnFNtW46LsMi8sFKRoIR5mtQZonRLTLVNMn9pWdAmz1Y_kJ6UAoQpqEUoFGSp3Q5waTY2JojNLtOlgjr/s728-rw-e365/russian-hacker.png",
         "Title": "Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1BLP41CBRl5iEZSK9mvuJoYFZVFZalw82yXj3w-5GSvvVu4AZd8eFwQKPE1-L2HrZMo7zGoxAw6XqWa_3UandW1xhaUkh14DIKqTWz1-rZMWx9BLgcs6LXDdLvaS5yONjZAzHvBU14YVUGGWM2TdwPEAaAVv02Cby7DbmJ0ykQ7B3LEm0bCrmuJ18CA/s728-rw-e365/vciso.png",
         "Title": "New Guide: How to Scale Your vCISO Services Profitably",
         "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC0ui9EG4pPDPZvAfEntUJHehkrx0pkCo9KtjkzGzuk-qZLFMgEAegkw-wyjimRyrDCrLaAc52sd3LtHVaWeCkfpPAgTjLeSFRsyCnsYdR61C1dtkaydj6XmdSIAwrJupGHJheMs5NO3kg4vZdJTJdxERSgDqbXegmxqtE3v-NuqixyQxtQ9Ns5KCCHa6/s728-rw-e365/botnet.jpg",
-        "Title": "Mirai Botnet Exploits Ivanti Connect Secure Flaws for Malicious Payload Delivery",
-        "Source": "The Hacker News",
-        "Timestamp": "May 10, 2024"
+        "Link": "https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/663e3bdc3aeee12d6ca9981b/3:2/w_1280%2Cc_limit/Security-Roundup-5-11-GettyImages-1484882668.jpg",
+        "Title": "Microsoft Deploys Generative AI for US Spies",
+        "Source": "WIRED",
+        "Timestamp": "May 11, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tunnelvision-vpn-attack/",
@@ -89,6 +96,13 @@
         "Title": "\u2018TunnelVision\u2019 Attack Leaves Nearly All VPNs Vulnerable to Spying",
         "Source": "WIRED",
         "Timestamp": "May 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC0ui9EG4pPDPZvAfEntUJHehkrx0pkCo9KtjkzGzuk-qZLFMgEAegkw-wyjimRyrDCrLaAc52sd3LtHVaWeCkfpPAgTjLeSFRsyCnsYdR61C1dtkaydj6XmdSIAwrJupGHJheMs5NO3kg4vZdJTJdxERSgDqbXegmxqtE3v-NuqixyQxtQ9Ns5KCCHa6/s728-rw-e365/botnet.jpg",
+        "Title": "Mirai Botnet Exploits Ivanti Connect Secure Flaws for Malicious Payload Delivery",
+        "Source": "The Hacker News",
+        "Timestamp": "May 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/critical-f5-central-manager.html",
@@ -105,13 +119,6 @@
         "Timestamp": "May 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s728-rw-e365/cpu.png",
-        "Title": "New Spectre-Style 'Pathfinder' Attack Targets Intel CPU, Leak Encryption Keys and Data",
-        "Source": "The Hacker News",
-        "Timestamp": "May 09, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/ci-cd-security-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuZY80PWYaYnTJkANzQ5MKjtA5f83RD6-8OCqZW4QsygbCtrINx1hpDEco4a5qjQy0i3NK2SaFGiSH4i0GpVB4ab5sY1Mnkmz6nkIS9l5q9LO9FX73NtQYzu_cgFMni2WAaly_e-Dg2wqxH-4GRmKu6i8O0EnC2iA7_RtS4TE6LlMrP89QqY5jvm8mG0l0/s728-e365/wiz.png",
         "Title": "Want to Bolster Your CI/CD Pipeline?",
@@ -122,6 +129,13 @@
         "Link": "https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirwwacxhvAAJJ-85stzasFholvN8XEBjJlPwytOgDTW9IcoCeRVo74BuHeOVtBikTp6g6rc2K3RFm3-U80Um3yg9x1slSgJVS-L_UmXZOFPflr2AMxaXvxk7dgZCYy6JpovgbrNOKwEd8Nz3ApkAZ-j2wQamStm0iP_zefD2tFYrcFd6sMaXFsG_9dUTk/s728-rw-e365/SAT_Buyers_Guide_Huntress.png",
         "Title": "How to Make Your Employees Your First Line of Cyber Defense",
+        "Source": "The Hacker News",
+        "Timestamp": "May 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s728-rw-e365/cpu.png",
+        "Title": "New Spectre-Style 'Pathfinder' Attack Targets Intel CPU, Leak Encryption Keys and Data",
         "Source": "The Hacker News",
         "Timestamp": "May 09, 2024"
     },
@@ -168,13 +182,6 @@
         "Timestamp": "May 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-case-study-malicious-comment.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUS3LJkQuicN43D5NrxSf0xflKdo3GHVEdy089NmTUSypwNI70imjfQuBMzwrzNuBwmSdVJ9j-ARjsK2_kBTLRVilr8qOn7__e0I_38Wr6SR1yFGG16q-bOrtZy6HD6VOy2NkScWhynEiftat7H7gIhHRLr4jMiW2dD1wAP8L8FcTcCy9s6mb4QlJM958/s728-rw-e365/case.png",
-        "Title": "New Case Study: The Malicious Comment",
-        "Source": "The Hacker News",
-        "Timestamp": "May 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/cyber-army-of-russia-interview/",
         "Img_URL": "https://media.wired.com/photos/66393100588f131dd8d770b0/3:2/w_1280%2Cc_limit/Cyber-Army-of-Russia-Security.jpg",
         "Title": "A (Strange) Interview With the Russian-Military-Linked Hackers Targeting US Water Utilities",
@@ -196,11 +203,11 @@
         "Timestamp": "May 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-iphone-spyware-101/",
+        "Link": "https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/663568d2089ba3331125c81e/3:2/w_1280%2Cc_limit/iPhone-Spyware-Security-GettyImages-1527705905.jpg",
         "Title": "Apple\u2019s iPhone Spyware Problem Is Getting Worse. Here\u2019s What You Should Know",
         "Source": "WIRED",
-        "Timestamp": "May 06, 2024"
+        "Timestamp": "May 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cisa-cybersecurity-pledge/",
@@ -418,13 +425,6 @@
         "Title": "Mozilla Drops Onerep After CEO Admits to Running People-Search Networks",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 22, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/",
-        "Img_URL": "https://media.wired.com/photos/65fb842a293f54ea2900acb6/3:2/w_1280%2Cc_limit/NSA-Gilbert-Herrera-Q&A-Business-1041680672.jpg",
-        "Title": "The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge",
-        "Source": "WIRED",
-        "Timestamp": "Mar 21, 2024"
     },
     {
         "Link": "https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/",
