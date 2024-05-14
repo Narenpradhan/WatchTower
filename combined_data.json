@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-pzoIE9OnLDHB8KIQVybTE2wnBsTI_1QVCBzh5pnbmIaPdYMHYjnH0mxkSowWMkCqZzsANsz5iKxL96siXr3O04tsO_PEV-j_NA4JKPbuIOaXRJC9fE-CIKOfNOy8TLIawuFf-Q0hTvSGjvKzFxlHNnFsRq_k1bfd7_wfohmNRVtgUXNYGXasYHaSpl3Y/s728-rw-e365/vmware.png",
+        "Title": "VMware Patches Severe Security Flaws in Workstation and Fusion Products",
+        "Source": "The Hacker News",
+        "Timestamp": "May 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibh2nNGZ-2lt1wpR9uYjcE3feawRpDHdC-0unnr9Bfx0E6RMQ1Psb5mtKQQp6fwf91MEEFg5-KGH25MgZBcOUsm-2t1zwLIToKqT-6ayvgBebjkU5WQLZoEosXwsF8YtOfCuPupZK8fFXdjwiOdL-PPAj0TvFJPwekUglRjR_fKgJhewEq6rSQRSFMaUgK/s728-rw-e365/chrome.jpg",
+        "Title": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation",
+        "Source": "The Hacker News",
+        "Timestamp": "May 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHLObaDDW6hdIpLGFNDDk2sYbQB81_DFHKufB40rUMtjWDIHnxm6KFsECxwXCMaSXiZNYt11Oqp_5iWn7F6THWOMJPE2HZLD1jjV5t20PcFyEG_IyW9sWX00AsLPlfT-XhA00tSyHjNdwe1NjptEAWja1IH6HUuMGJAihrs6Y9sjQbAeUTH24vfCQ-Medf/s728-rw-e365/catci.png",
         "Title": "Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code",
+        "Source": "The Hacker News",
+        "Timestamp": "May 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/delinea-free-pam-template",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
+        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
         "Source": "The Hacker News",
         "Timestamp": "May 14, 2024"
     },
@@ -16,14 +37,7 @@
     {
         "Link": "https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi73OKiZQwK_Ile4L79a5ZC2ZHqReLRn0hfIzp96t0SQVa_YKh5L6e7Evy-GG8C8YI_WZ9zh5RkLdPYLWCDcRuxu2WaBhotnL2BiT4EUFnvu5FHVrqddCfG8ocx0R0pmn_piAgDkIkqqdy3CmzJeSB3B-m7lQ9vXfUP8jV7rCPQLXT8jNfoxoo5fGiCsIlZ/s728-rw-e365/phone-spam.png",
-        "Title": "Ongoing Campaign Bombarded Enterprises with Spam Emails and Phone Calls",
-        "Source": "The Hacker News",
-        "Timestamp": "May 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/delinea-free-pam-template",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
-        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
+        "Title": "Ongoing Campaign Bombards Enterprises with Spam Emails and Phone Calls",
         "Source": "The Hacker News",
         "Timestamp": "May 14, 2024"
     },
@@ -42,6 +56,13 @@
         "Timestamp": "May 14, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2M7d61ZmP8y3jHs7RLgx0L225Cxh2PI_04E1yggbYjtFiZUledoEzJ1t_GSSMWZWqcS-CJNV6HCtgODjbP2yvOVXNFNgB0R1D0zcrwLYi8wXq1O5sMPYrmgBiaPaa6YDh9HMYbq0lMQYQHR3b4EUNFWE0Gn6BGbQjbpfNXhEE2jf7QFCQDNkJd3wmpUI/s728-rw-e365/layer.png",
+        "Title": "New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data",
+        "Source": "The Hacker News",
+        "Timestamp": "May 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s728-rw-e365/2024.png",
         "Title": "The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield",
@@ -56,30 +77,9 @@
         "Timestamp": "May 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2M7d61ZmP8y3jHs7RLgx0L225Cxh2PI_04E1yggbYjtFiZUledoEzJ1t_GSSMWZWqcS-CJNV6HCtgODjbP2yvOVXNFNgB0R1D0zcrwLYi8wXq1O5sMPYrmgBiaPaa6YDh9HMYbq0lMQYQHR3b4EUNFWE0Gn6BGbQjbpfNXhEE2jf7QFCQDNkJd3wmpUI/s728-rw-e365/layer.png",
-        "Title": "New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data",
-        "Source": "The Hacker News",
-        "Timestamp": "May 14, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/severe-vulnerabilities-in-cinterion.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5Y6QTYy8lc2gfLQmtyC9OD8rg6srhJ1mN3QIUuyhmyOM2pGxYJ4mn6mh8F8oDNBbuCnp28OexbQo9nenllHfQ9KIqw15wEA4BusboyXhujCd8zvUXhiAQuAx1KZn_d476b31KuRnjzOXlSL5QkO2J6NeCuD6a6U99RRVRPZGDTpnMDgxP67wGbg2v1tu/s728-rw-e365/tel.png",
         "Title": "Severe Vulnerabilities in Cinterion Cellular Modems Pose Risks to Various Industries",
-        "Source": "The Hacker News",
-        "Timestamp": "May 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/black-basta-ransomware-strikes-500.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWOHiEN0OtwESEetnjfH3hslYWDThSiGHFocrzKqZP6Uw3kErdgYV3a8xnpiWkPxNyc5M5ZkuTaW_G3Z5GF9V6x1yiDtyVdWG4l4EB5svc6q1fKaBM9TNj-7MQl8d5nLuiMdGRo_qrjdGhPk8ZetizQPSb2We9cH-opXOdDoQ7J2LLMHrMKUiM53JI6D7D/s728-rw-e365/ransomware.png",
-        "Title": "Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia",
-        "Source": "The Hacker News",
-        "Timestamp": "May 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/malicious-python-package-hides-sliver.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQICHAT2vwAjFq5fO9q_dUX6I4-SONVfpHzNeGUlwZa6dp85TbpU-FEVvT3XTjZMRzz4Og2MCs3ARJwIljRCz1zPZblcXoxyWSrVfKEgR5XcW06Sj_pWk1wr9pFT4t5N6TfJ2Gg8WzRfmYEF0LJbP56ImbLey2hdwg4hr6mQXq2TCT6W3ZkV8w2tzxAoT/s728-rw-e365/python.png",
-        "Title": "Malicious Python Package Hides Sliver C2 Framework in Fake Requests Library Logo",
         "Source": "The Hacker News",
         "Timestamp": "May 14, 2024"
     },
@@ -91,88 +91,88 @@
         "Timestamp": "May 13, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/05/black-basta-ransomware-strikes-500.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWOHiEN0OtwESEetnjfH3hslYWDThSiGHFocrzKqZP6Uw3kErdgYV3a8xnpiWkPxNyc5M5ZkuTaW_G3Z5GF9V6x1yiDtyVdWG4l4EB5svc6q1fKaBM9TNj-7MQl8d5nLuiMdGRo_qrjdGhPk8ZetizQPSb2We9cH-opXOdDoQ7J2LLMHrMKUiM53JI6D7D/s728-rw-e365/ransomware.png",
+        "Title": "Black Basta Ransomware Strikes 500+ Entities Across North America, Europe, and Australia",
+        "Source": "The Hacker News",
+        "Timestamp": "May 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/malicious-python-package-hides-sliver.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQICHAT2vwAjFq5fO9q_dUX6I4-SONVfpHzNeGUlwZa6dp85TbpU-FEVvT3XTjZMRzz4Og2MCs3ARJwIljRCz1zPZblcXoxyWSrVfKEgR5XcW06Sj_pWk1wr9pFT4t5N6TfJ2Gg8WzRfmYEF0LJbP56ImbLey2hdwg4hr6mQXq2TCT6W3ZkV8w2tzxAoT/s728-rw-e365/python.png",
+        "Title": "Malicious Python Package Hides Sliver C2 Framework in Fake Requests Library Logo",
+        "Source": "The Hacker News",
+        "Timestamp": "May 13, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidGxM7ADAzrplKASUpJQ3bzcolJSyabMKaYKT4HClyzRgCOuWCVvr4duu8KJkPW_9Ga8ADrETgYfu0Pwx9QosFgHep34F7jq5lOwmpYTooakEW-L3-1pyG0UDv5s2UEUJ-etPxVPf3FsuaCnRzo-2SfgR6sBYGaiuMLgIfVMCeQ_eylo2l6zR3vJ-i3oYb/s728-rw-e365/browser.png",
         "Title": "FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJpCh60Y9OeOx9Vlo9dCf4aW8aHjXqU-MHJt8NBiVPiHKC7wWrDk1vRCuo90pQ3mtyy9t9A3ouhAdU6aUe5MxKQm5Tvt9XRGYYiX5EDVnNXthkbqKLKD-YikG_sWfHjatO8QRZIClAHjB2novZftoHKSkAEs50ZfCDkCDZzrPE_qZgIrvet1tAfPwa4L2/s728-rw-e365/map.png",
-        "Title": "North Korean Hackers Deploy New Golang Malware 'Durian' Against Crypto Firms",
-        "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQzKHxF9wi3LGibNRnANXUG8_15lCG3M1Xufs8A98ul3VXJnGRM_LhxYgNXMMIF6bEVuMk1irdTzogocwMaUQgv6xl34h-r4-TpWtnaV9dpLC3ZsX2XyRYNMvMQTjJmpIZrScfZJdRhQcn0hVrVjH-4EAxWu-EXyDq0ebtYgGX787Xuf40HWe1XQYxVC3/s728-rw-e365/webinar.jpg",
-        "Title": "CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros (Webinar)",
-        "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.uk/delinea-free-pam-template",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
         "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2M7d61ZmP8y3jHs7RLgx0L225Cxh2PI_04E1yggbYjtFiZUledoEzJ1t_GSSMWZWqcS-CJNV6HCtgODjbP2yvOVXNFNgB0R1D0zcrwLYi8wXq1O5sMPYrmgBiaPaa6YDh9HMYbq0lMQYQHR3b4EUNFWE0Gn6BGbQjbpfNXhEE2jf7QFCQDNkJd3wmpUI/s728-rw-e365/layer.png",
         "Title": "New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJpCh60Y9OeOx9Vlo9dCf4aW8aHjXqU-MHJt8NBiVPiHKC7wWrDk1vRCuo90pQ3mtyy9t9A3ouhAdU6aUe5MxKQm5Tvt9XRGYYiX5EDVnNXthkbqKLKD-YikG_sWfHjatO8QRZIClAHjB2novZftoHKSkAEs50ZfCDkCDZzrPE_qZgIrvet1tAfPwa4L2/s728-rw-e365/map.png",
+        "Title": "North Korean Hackers Deploy New Golang Malware 'Durian' Against Crypto Firms",
+        "Source": "The Hacker News",
+        "Timestamp": "May 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQzKHxF9wi3LGibNRnANXUG8_15lCG3M1Xufs8A98ul3VXJnGRM_LhxYgNXMMIF6bEVuMk1irdTzogocwMaUQgv6xl34h-r4-TpWtnaV9dpLC3ZsX2XyRYNMvMQTjJmpIZrScfZJdRhQcn0hVrVjH-4EAxWu-EXyDq0ebtYgGX787Xuf40HWe1XQYxVC3/s728-rw-e365/webinar.jpg",
+        "Title": "CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros (Webinar)",
+        "Source": "The Hacker News",
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhSx8fwDELvWKGNqNBlu-6Ndi0sPJb5p7SWiIt3zy9vzwPZSe7riuvdLHazxW6fjyi7S27qv4kzvcF9xE_ftF8djTvTvdEzg1Oh4XMApFiK4rwg7xw_hB5QuQ5S7y76OVPdl2zVCKaS0gHR54fTN805N7NUzdgw-Ivg3EOYBvCPBwOlveakXMpHVZXvAY/s728-rw-e365/chrome.png",
         "Title": "Chrome Zero-Day Alert \u2014 Update Your Browser to Patch New Vulnerability",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
         "Title": "What's the Right EDR for You? ",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/malicious-android-apps-pose-as-google.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7hyphenhyphennU2IYjiz-ihf3HI2sV7T0y8bp02Lny2zKl22QLmn60deJC7JrSYqlkAEihse0cDSvFoTKVWehDNwJHrR4xoMZOMSFkDUTBuDWNqQ6tbDT5Z7hZ784vbqPeKYUv9W9NFIV32gq8n_72bAOq0NcSHKiEtrKHmePuoQcgVdyRddlABJ3R4Q0upkj8NZG/s728-rw-e365/apps.png",
         "Title": "Malicious Android Apps Pose as Google, Instagram, WhatsApp to Steal Credentials",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s728-rw-e365/app.png",
         "Title": "Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s728-rw-e365/vpn.png",
         "Title": "New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation",
         "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKaJfnAR5HtIZkrkiZDce4SNgIRTNBO1fYGif-AkvpQCCR-tFBjCuJEzl0ZntSFuIOqSOkNfxt5nddzAggYy2udFTPTl8g_eoAc1PRavjKXJ8rxnFNtW46LsMi8sFKRoIR5mtQZonRLTLVNMn9pWdAmz1Y_kJ6UAoQpqEUoFGSp3Q5waTY2JojNLtOlgjr/s728-rw-e365/russian-hacker.png",
-        "Title": "Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1BLP41CBRl5iEZSK9mvuJoYFZVFZalw82yXj3w-5GSvvVu4AZd8eFwQKPE1-L2HrZMo7zGoxAw6XqWa_3UandW1xhaUkh14DIKqTWz1-rZMWx9BLgcs6LXDdLvaS5yONjZAzHvBU14YVUGGWM2TdwPEAaAVv02Cby7DbmJ0ykQ7B3LEm0bCrmuJ18CA/s728-rw-e365/vciso.png",
-        "Title": "New Guide: How to Scale Your vCISO Services Profitably",
-        "Source": "The Hacker News",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 13, 2024"
     },
     {
         "Link": "https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/",
@@ -371,16 +371,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
