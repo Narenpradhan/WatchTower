@@ -343,6 +343,13 @@
         "Timestamp": "Apr 10, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png",
+        "Title": "Twitter\u2019s Clumsy Pivot to X.com Is a Gift to Phishers",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 10, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/04/aprils-patch-tuesday-brings-record-number-of-fixes/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
         "Title": "April\u2019s Patch Tuesday Brings Record Number of Fixes",
@@ -371,16 +378,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
@@ -460,12 +467,5 @@
         "Title": "Patch Tuesday, March 2024 Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 12, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/incognito-extortion.png",
-        "Title": "Incognito Darknet Market Mass-Extorts Buyers, Sellers",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Mar 11, 2024"
     }
 ]
