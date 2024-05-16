@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6d7Gzb_h-iUyW-ZV9K-72UmwGBH5s6LAObmfDc7t5yM8sjbhw5BiJ1tl6YYaIyz7rDm3A0V6yivf7rF9438dH0cguzgTV821Tn0TbVubAm7qfWQZjXHfyVF2sbH-72wMa6elHZq8sGiW6VomBjgRLgcAersRKeraJa16BdWZkU04X5WSAfRLEsFfjoAKT/s728-rw-e365/wifi.png",
+        "Title": "New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CgQjTGmGSfRS1sg_daBIAU-YSbp-JtU2wJUNbsvH_Z7lMjjdGBl1RMbetEr4oFfmuHwcDQFYa6CtTZYbI3UzTjzIs6sqIbAEBIH9VqH1hUdZz9OFPtEpUGXAzEw-6Njmcbngrrx3SoZN5DFEC3txh9Q9GTUkI123G9pXWKuBp7O7DwhMqnuGdf37Mqhm/s728-rw-e365/hack.png",
+        "Title": "North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0W6bvR9fzkycXkJJdcnbs_5eE6MI3KteW1cqK4EmjT9CtU3UeHZ9qrBsDt81R0i6Ihyphenhyphen9LKFhwPHDAoHdYzi_rLcg_FZC7x4ddV05oV0ybdTa8rd1Uu-lwxbQbHJeLL2X19HyElBjinJemsN7A8V5cenapqWtdFi0mJjbbAQroZFomNspkugGaARpukihf/s728-rw-e365/machine.png",
         "Title": "Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/delinea-free-pam-template",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
+        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
         "Source": "The Hacker News",
         "Timestamp": "May 16, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/delinea-free-pam-template",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
-        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCXr2dbbDhMkcRibJUp2K02Qb3JwpOR8ZtazciTs8E36_l_t671ju76x7-P7nePx-sg-zMVzDR3cJ_wbLPcobjXz2nXE4zCAwTDUHgBDf8alqqTYLedg14b5LYjB8OOT4KHWZ5BHQWovYovduLQnIxD2jbs-4aN5XL3IrdWQSo3IBBrebzVLADhjwfeszk/s728-rw-e365/fbi.png",
         "Title": "FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSXArZPLs2xoQsPxEI7dwO9FQhcJD4L2jqdTMYu8bLpIUTLN5aYpp1gbA0ranFijRCTaxENd0Wp94A5ilS7E6gnWbfulmafIwu6WmJ2HclOVy7ltJPtZZeCXGyHMTlwXt5q6dWNUBthyphenhyphentCYwclR35dqV3RwJn57AaolO2S521J57aIArOyTxp8876P-Jda/s728-rw-e365/theft.png",
         "Title": "Google Launches AI-Powered Theft and Data Protection Features for Android Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
+        "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
         "Source": "The Hacker News",
         "Timestamp": "May 16, 2024"
     },
@@ -56,13 +77,6 @@
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
-        "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s728-rw-e365/2.png",
         "Title": "(Cyber) Risk = Probability of Occurrence x Damage ",
@@ -74,33 +88,19 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcopCewQJMs6m2QrYmO-yLRWF8j0J1p3RH7nRvUNcxMzeMWla1RVkbi2DlVfqU2wQBYuv0hc9OZPZiC7RMVjlgmJSRYf-SBP2CzzHJZeEeMNbL632oiH9k1Lfqu2IjmVpXxltFVGCZ6PMOGkPBfiSFdz1eC1eiUL1JY3PcZh3_dnK_vm_0uN9cnr6EIA5/s728-rw-e365/ebury.jpg",
         "Title": "Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s728-rw-e365/main.png",
         "Title": "It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPk-hQq2Zp77E2oPvv_a6v5qZcic-fMnamnazYDiOxRjCDkaBpawAz2aJHS5PDYLOy8LhfFefLGVniZ4QQaISgQuJZuDirj3cYon-WnvQVVaaW63p-EBRZuf-qnoa4i_anIXxGiyJ9C35NEN5b5_qwPYZfVuuzLqN4AyPnzFxA-otoo6obsvcDo7ZHidY/s728-rw-e365/cash.png",
         "Title": "Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s728-rw-e365/windows.jpg",
-        "Title": "Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-pzoIE9OnLDHB8KIQVybTE2wnBsTI_1QVCBzh5pnbmIaPdYMHYjnH0mxkSowWMkCqZzsANsz5iKxL96siXr3O04tsO_PEV-j_NA4JKPbuIOaXRJC9fE-CIKOfNOy8TLIawuFf-Q0hTvSGjvKzFxlHNnFsRq_k1bfd7_wfohmNRVtgUXNYGXasYHaSpl3Y/s728-rw-e365/vmware.png",
-        "Title": "VMware Patches Severe Security Flaws in Workstation and Fusion Products",
         "Source": "The Hacker News",
         "Timestamp": "May 15, 2024"
     },
@@ -115,6 +115,20 @@
         "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
         "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
+        "Source": "The Hacker News",
+        "Timestamp": "May 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s728-rw-e365/windows.jpg",
+        "Title": "Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days",
+        "Source": "The Hacker News",
+        "Timestamp": "May 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-pzoIE9OnLDHB8KIQVybTE2wnBsTI_1QVCBzh5pnbmIaPdYMHYjnH0mxkSowWMkCqZzsANsz5iKxL96siXr3O04tsO_PEV-j_NA4JKPbuIOaXRJC9fE-CIKOfNOy8TLIawuFf-Q0hTvSGjvKzFxlHNnFsRq_k1bfd7_wfohmNRVtgUXNYGXasYHaSpl3Y/s728-rw-e365/vmware.png",
+        "Title": "VMware Patches Severe Security Flaws in Workstation and Fusion Products",
         "Source": "The Hacker News",
         "Timestamp": "May 15, 2024"
     },
@@ -150,20 +164,6 @@
         "Link": "https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObKafwXTvS8TkJlQc8yMb4vVEIkZe5OIVC6T1AqpzyrFxsdcmHzDoMTDqd7bGEKxYnGPrx73JhWmFGLuvXCD4mkLpvZwKultOaTQk8VS2BK8pnqpDMjBrRtdVMeZrcwVeA7IJCdDMCz_1NW1AB3NHerl2Moi22iXqw8ZuqWjTUeYGAYqVIRsOKs6FgywW/s728-rw-e365/google.png",
         "Title": "Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1D1wnx1DJ7Arc47tALIJpvQa-wwjJIS_F5-laBVgVXphQ9vqQvjXzHT_BGrmzNZp8B16UDdxoq4LJygejxxCrEDhIJo1TTXbF_zHVb1oHtIYaEk626-oenl-YNtbbT6iboroTycRoj-ZqIxfumBl21Gne9TjRG1lw_KS3kQ5DNnpV5KBAgOgl1VbKJo9y/s728-rw-e365/device.jpg",
-        "Title": "MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s728-rw-e365/2024.png",
-        "Title": "The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield",
         "Source": "The Hacker News",
         "Timestamp": "May 15, 2024"
     },
@@ -378,16 +378,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
