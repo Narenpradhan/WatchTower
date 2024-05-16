@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0W6bvR9fzkycXkJJdcnbs_5eE6MI3KteW1cqK4EmjT9CtU3UeHZ9qrBsDt81R0i6Ihyphenhyphen9LKFhwPHDAoHdYzi_rLcg_FZC7x4ddV05oV0ybdTa8rd1Uu-lwxbQbHJeLL2X19HyElBjinJemsN7A8V5cenapqWtdFi0mJjbbAQroZFomNspkugGaARpukihf/s728-rw-e365/machine.png",
+        "Title": "Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-PcUDkVO7cSuiKU_orq2mhb9VqxGYPcQgP4eSUAh4OL_-f_CubxQBn1Htu_Br7xERfpfD3QjIul2LRq6fTa6Iz43Snrla-go6qPN9o-aJJ7o7CxNU2kK4yvj6lPQKwLms8JbgbHX38B-apXbBuPkVN95W_0kdwXHmi1lBS43GDFcOvwEvIuNWFhtRdMo/s728-rw-e365/ms.png",
         "Title": "Cybercriminals Exploiting Microsoft's Quick Assist Feature in Ransomware Attacks",
@@ -14,13 +21,6 @@
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCXr2dbbDhMkcRibJUp2K02Qb3JwpOR8ZtazciTs8E36_l_t671ju76x7-P7nePx-sg-zMVzDR3cJ_wbLPcobjXz2nXE4zCAwTDUHgBDf8alqqTYLedg14b5LYjB8OOT4KHWZ5BHQWovYovduLQnIxD2jbs-4aN5XL3IrdWQSo3IBBrebzVLADhjwfeszk/s728-rw-e365/fbi.png",
-        "Title": "FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/delinea-free-pam-template",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
         "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
@@ -28,9 +28,9 @@
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzmzJIldOiZh2c4S9W_dAr7OIpkKAYlProKSmMCr0WI30vVIfl9ynDpMLu9_Z-Fr9kIEV0rvm7TZOotA5d79_htMnvCLYW12I_enFTHhlAEfqNnk5_hAaNp6hGqGdr9dIxSX2hVKZcQVuGFb-ajdN_k1pN1VwtZ_ywDtPJnll3oM_dSdz1JXVkdk__agp/s728-rw-e365/malware.png",
-        "Title": "Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps",
+        "Link": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCXr2dbbDhMkcRibJUp2K02Qb3JwpOR8ZtazciTs8E36_l_t671ju76x7-P7nePx-sg-zMVzDR3cJ_wbLPcobjXz2nXE4zCAwTDUHgBDf8alqqTYLedg14b5LYjB8OOT4KHWZ5BHQWovYovduLQnIxD2jbs-4aN5XL3IrdWQSo3IBBrebzVLADhjwfeszk/s728-rw-e365/fbi.png",
+        "Title": "FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity",
         "Source": "The Hacker News",
         "Timestamp": "May 16, 2024"
     },
@@ -42,6 +42,13 @@
         "Timestamp": "May 16, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzmzJIldOiZh2c4S9W_dAr7OIpkKAYlProKSmMCr0WI30vVIfl9ynDpMLu9_Z-Fr9kIEV0rvm7TZOotA5d79_htMnvCLYW12I_enFTHhlAEfqNnk5_hAaNp6hGqGdr9dIxSX2hVKZcQVuGFb-ajdN_k1pN1VwtZ_ywDtPJnll3oM_dSdz1JXVkdk__agp/s728-rw-e365/malware.png",
+        "Title": "Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps",
+        "Source": "The Hacker News",
+        "Timestamp": "May 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cHYoES0UHkeCQhIzrtg0-1PPT-Pd5wjEMvOv8Xs6Coix-T0WYczWTIeJPtTASn03jxqIlTXjgCY3TQlBpshgywr1ORTLltZGa1OyOXAtVLtl5TL9WLGaA5Fl0onRYieAlgE7Lz6OsJBV9B5ChUtpMfNxi0o3yVGc7dsFQZScPQp0jXgxxay5CI69u22e/s728-rw-e365/malware.png",
         "Title": "Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions",
@@ -49,16 +56,16 @@
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s728-rw-e365/2.png",
-        "Title": "(Cyber) Risk = Probability of Occurrence x Damage ",
+        "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
+        "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
         "Source": "The Hacker News",
         "Timestamp": "May 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
-        "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
+        "Link": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s728-rw-e365/2.png",
+        "Title": "(Cyber) Risk = Probability of Occurrence x Damage ",
         "Source": "The Hacker News",
         "Timestamp": "May 16, 2024"
     },
@@ -81,7 +88,7 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPk-hQq2Zp77E2oPvv_a6v5qZcic-fMnamnazYDiOxRjCDkaBpawAz2aJHS5PDYLOy8LhfFefLGVniZ4QQaISgQuJZuDirj3cYon-WnvQVVaaW63p-EBRZuf-qnoa4i_anIXxGiyJ9C35NEN5b5_qwPYZfVuuzLqN4AyPnzFxA-otoo6obsvcDo7ZHidY/s728-rw-e365/cash.png",
         "Title": "Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
@@ -98,13 +105,6 @@
         "Timestamp": "May 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibh2nNGZ-2lt1wpR9uYjcE3feawRpDHdC-0unnr9Bfx0E6RMQ1Psb5mtKQQp6fwf91MEEFg5-KGH25MgZBcOUsm-2t1zwLIToKqT-6ayvgBebjkU5WQLZoEosXwsF8YtOfCuPupZK8fFXdjwiOdL-PPAj0TvFJPwekUglRjR_fKgJhewEq6rSQRSFMaUgK/s728-rw-e365/chrome.jpg",
-        "Title": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/delinea-free-pam-template",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
         "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s728-rw-e365/as.png",
         "Title": "A SaaS Security Challenge: Getting Permissions All in One Place\u00a0",
+        "Source": "The Hacker News",
+        "Timestamp": "May 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibh2nNGZ-2lt1wpR9uYjcE3feawRpDHdC-0unnr9Bfx0E6RMQ1Psb5mtKQQp6fwf91MEEFg5-KGH25MgZBcOUsm-2t1zwLIToKqT-6ayvgBebjkU5WQLZoEosXwsF8YtOfCuPupZK8fFXdjwiOdL-PPAj0TvFJPwekUglRjR_fKgJhewEq6rSQRSFMaUgK/s728-rw-e365/chrome.jpg",
+        "Title": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "May 15, 2024"
     },
@@ -157,13 +164,6 @@
         "Link": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s728-rw-e365/2024.png",
         "Title": "The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield",
-        "Source": "The Hacker News",
-        "Timestamp": "May 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlU1-NhlyNyk19CgLQbkq80WbGg-WNMi9cZvcMu7twTPPrIFJM92a0LTticOq-iGIHr_qG2WBSrqMq1zVBM_Ptn5UG3x6DNXYyOeDRnh6ySoiSHD3l8hOvn1sEUCtm2lhJoNRqrSdlrlNZlg5rwS_8lDvlaEQvEDW4fcOieerKi6p0rD1sd48ArkCIEmw/s728-rw-e365/shqq.png",
-        "Title": "SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike ",
         "Source": "The Hacker News",
         "Timestamp": "May 15, 2024"
     },
@@ -273,16 +273,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
@@ -378,16 +378,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
