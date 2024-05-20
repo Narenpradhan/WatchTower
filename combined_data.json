@@ -1,87 +1,87 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRiV_XiRI9o2S5jAcxj7y6CyJFJEriCacEVFhydLwRPJLFqxhs6qGG6wdDhH8K6-HKrBLDTUN8MX2hqb_513Qu2JtOo5E_J-FiO-KjyqMKvv4qldMUwpwBgHnmCfUyppRmYBAS0AIYh86_BgPN5gBPGcN50ofL0hWx05Teogx2goq8d42BTEl8AeuqVLR/s728-rw-e365/pdf.png",
+        "Title": "Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
+        "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/cyber-criminals-exploit-github-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLVp_rXZpAax3aY4Aa-AmJXwZmeAWuktKiXp4GN-qgCDkfiAGlu_1tuNLKXIJEjNkKq0r0cjLiVpBK3BqY8xka1y-u9IIKR1pAMRiZNFPqCaP1wpZ_rX8rfV9Nm-qFAVs42kYWkE9r6Ceds151AlrK6l3CUUxxM7_Dtzf7NxdgFTeC8VRqc-KUHj3yVjj/s728-rw-e365/malware.png",
+        "Title": "Cyber Criminals Exploit GitHub and FileZilla to Deliver Cocktail Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSlRbIUbyKqPEtm2I428qqbur_PuJRbGTYuVER5b5E1uD4CLM5Bgbmb3U4deiV6hU_JXva6c7iak3XojM2XW1B97SiL5lZzf8tBmDgskBOy76M5m6_MMkfyJ9TuPwers54SvHNIa536wYfB7uGcEB5l3Lr4_wSOY59rVbZphqGx-XU11o3RioPxm-z7aw/s728-rw-e365/malware.png",
+        "Title": "Latrodectus Malware Loader Emerges as IcedID's Successor in Phishing Campaigns",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYY-3t_2tEUCVX41dZcLK7NZIikQ7t63JtNS5jX7NbaaimvXybHsXlveMWPFT7QoHTxI9pM4DTdCije4sDSd7Yt6c46gYuudMKp1Ud0L92UBMhLd_6-0_QldH6ucXCnWnOEbzO52dMTHetk494taJhWkjOi6pows13Ixl-zhXBPBkCiAt8k9kD51LsiNip/s728-rw-e365/pig.png",
         "Title": "Chinese Nationals Arrested for Laundering $73 Million in Pig Butchering Crypto Scam",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/grandoreiro-banking-trojan-resurfaces.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5-kZvOVxoh88ywy2pxjyTedNazjZeTetG15AeVqaK0dpeege9CD6e2nGix7xcLI8J5RtixTt0_ADwR6weDe_DL8Zpy5P0W8PgKn5lk0SFi421tllqDPbFLTqy03f-EBXdNDL2FEoIBeqLQcEtMwUf9AH2XFER0KHuzr7EgmKXZEM-6P8C7gydaNIbRKgm/s728-rw-e365/bank.png",
         "Title": "Grandoreiro Banking Trojan Resurfaces, Targeting Over 1,500 Banks Worldwide",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4mP8B96EWYEiuIhr6QfWevzBBDrF1MExz8DaxQyyFW5Xi8oI5PbXBXtS9s2pHFVphKGD-17WDofzuHK0yqCr6pZ6wlGEPnWXEpVl8O5bynP0-n-wITgskYUjgHq5TqJp0XGOSm9hW1oAmzlsRdvXHciMXmnCjotvoj0Tugvqgcu4fvm_4WwFVgZxLgaJ/s728-rw-e365/victim.png",
         "Title": "Kinsing Hacker Group Exploits More Flaws to Expand Botnet for Cryptojacking",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/delinea-free-pam-template",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
-        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
-        "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s728-rw-e365/main.png",
-        "Title": "New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs",
-        "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s728-rw-e365/cyber.jpg",
-        "Title": "China-Linked Hackers Adopt Two-Stage Infection Tactic to Deploy Deuterbear RAT",
-        "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKkkd9TlpBH69SJ2A5la8Bres_d4l53vzANAK7W2RVh3HJoJjX9PuIhhtiYhO5YlDnu8RuFrT8bAyj_0DwcjPB4tSIcLglj7N2PGus3G1cYnF29ytBkUvgf_DuGCsD5wc7c9NZ-Y5WoSifZzg5ZcNs2nbhRgepHlfcURgaVUvEu_6OQwZktjWfr-did40B/s728-rw-e365/linux.png",
-        "Title": "Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjif0vHPiJpWqSsxYf6_ZftcHyQWnudXK5c0G1j4lk-mM1WJs-TZHhgitfonc7VJBNvCrZMtrAmL0ms_XPCe8LYGpB5CxrIn8xijJTtD98T5hDh7xTWBl5DkzbNmrY8Z2XwrVFa29h2SYwv2Ambz4DKI3fhCFPn3vzfFFcdHUR1NeJUzJfocCIac_SOBlZo/s728-rw-e365/dlink.png",
-        "Title": "CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now",
-        "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1BLP41CBRl5iEZSK9mvuJoYFZVFZalw82yXj3w-5GSvvVu4AZd8eFwQKPE1-L2HrZMo7zGoxAw6XqWa_3UandW1xhaUkh14DIKqTWz1-rZMWx9BLgcs6LXDdLvaS5yONjZAzHvBU14YVUGGWM2TdwPEAaAVv02Cby7DbmJ0ykQ7B3LEm0bCrmuJ18CA/s728-rw-e365/vciso.png",
         "Title": "New Guide: How to Scale Your vCISO Services Profitably",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6d7Gzb_h-iUyW-ZV9K-72UmwGBH5s6LAObmfDc7t5yM8sjbhw5BiJ1tl6YYaIyz7rDm3A0V6yivf7rF9438dH0cguzgTV821Tn0TbVubAm7qfWQZjXHfyVF2sbH-72wMa6elHZq8sGiW6VomBjgRLgcAersRKeraJa16BdWZkU04X5WSAfRLEsFfjoAKT/s728-rw-e365/wifi.png",
-        "Title": "New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks",
+        "Link": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s728-rw-e365/main.png",
+        "Title": "New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CgQjTGmGSfRS1sg_daBIAU-YSbp-JtU2wJUNbsvH_Z7lMjjdGBl1RMbetEr4oFfmuHwcDQFYa6CtTZYbI3UzTjzIs6sqIbAEBIH9VqH1hUdZz9OFPtEpUGXAzEw-6Njmcbngrrx3SoZN5DFEC3txh9Q9GTUkI123G9pXWKuBp7O7DwhMqnuGdf37Mqhm/s728-rw-e365/hack.png",
-        "Title": "North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign",
+        "Link": "https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s728-rw-e365/cyber.jpg",
+        "Title": "China-Linked Hackers Adopt Two-Stage Infection Tactic to Deploy Deuterbear RAT",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0W6bvR9fzkycXkJJdcnbs_5eE6MI3KteW1cqK4EmjT9CtU3UeHZ9qrBsDt81R0i6Ihyphenhyphen9LKFhwPHDAoHdYzi_rLcg_FZC7x4ddV05oV0ybdTa8rd1Uu-lwxbQbHJeLL2X19HyElBjinJemsN7A8V5cenapqWtdFi0mJjbbAQroZFomNspkugGaARpukihf/s728-rw-e365/machine.png",
-        "Title": "Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines",
+        "Link": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKkkd9TlpBH69SJ2A5la8Bres_d4l53vzANAK7W2RVh3HJoJjX9PuIhhtiYhO5YlDnu8RuFrT8bAyj_0DwcjPB4tSIcLglj7N2PGus3G1cYnF29ytBkUvgf_DuGCsD5wc7c9NZ-Y5WoSifZzg5ZcNs2nbhRgepHlfcURgaVUvEu_6OQwZktjWfr-did40B/s728-rw-e365/linux.png",
+        "Title": "Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "May 19, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/",
@@ -91,88 +91,88 @@
         "Timestamp": "May 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-PcUDkVO7cSuiKU_orq2mhb9VqxGYPcQgP4eSUAh4OL_-f_CubxQBn1Htu_Br7xERfpfD3QjIul2LRq6fTa6Iz43Snrla-go6qPN9o-aJJ7o7CxNU2kK4yvj6lPQKwLms8JbgbHX38B-apXbBuPkVN95W_0kdwXHmi1lBS43GDFcOvwEvIuNWFhtRdMo/s728-rw-e365/ms.png",
-        "Title": "Cybercriminals Exploiting Microsoft's Quick Assist Feature in Ransomware Attacks",
+        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjif0vHPiJpWqSsxYf6_ZftcHyQWnudXK5c0G1j4lk-mM1WJs-TZHhgitfonc7VJBNvCrZMtrAmL0ms_XPCe8LYGpB5CxrIn8xijJTtD98T5hDh7xTWBl5DkzbNmrY8Z2XwrVFa29h2SYwv2Ambz4DKI3fhCFPn3vzfFFcdHUR1NeJUzJfocCIac_SOBlZo/s728-rw-e365/dlink.png",
+        "Title": "CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/google-patches-yet-another-actively.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbF8wx_xuLZ51MTHpCOGdzhN7uoQqeUv9WnoyH1_pZ-84rV1BgjxUr1NQfMiogwJkoUXmvki27jHE-xRC-GwTpFEPuxTASdjeQIpdevA628w8I8Ufh-AHtkuK9jXo7CYdSxpqCjW8pFMP71VTdcutUPOQOZeexKjkzZi5vhypW952FbL8uw07mq-NMQF77/s728-rw-e365/chrome.png",
-        "Title": "Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability",
+        "Link": "https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6d7Gzb_h-iUyW-ZV9K-72UmwGBH5s6LAObmfDc7t5yM8sjbhw5BiJ1tl6YYaIyz7rDm3A0V6yivf7rF9438dH0cguzgTV821Tn0TbVubAm7qfWQZjXHfyVF2sbH-72wMa6elHZq8sGiW6VomBjgRLgcAersRKeraJa16BdWZkU04X5WSAfRLEsFfjoAKT/s728-rw-e365/wifi.png",
+        "Title": "New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCXr2dbbDhMkcRibJUp2K02Qb3JwpOR8ZtazciTs8E36_l_t671ju76x7-P7nePx-sg-zMVzDR3cJ_wbLPcobjXz2nXE4zCAwTDUHgBDf8alqqTYLedg14b5LYjB8OOT4KHWZ5BHQWovYovduLQnIxD2jbs-4aN5XL3IrdWQSo3IBBrebzVLADhjwfeszk/s728-rw-e365/fbi.png",
-        "Title": "FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity",
+        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CgQjTGmGSfRS1sg_daBIAU-YSbp-JtU2wJUNbsvH_Z7lMjjdGBl1RMbetEr4oFfmuHwcDQFYa6CtTZYbI3UzTjzIs6sqIbAEBIH9VqH1hUdZz9OFPtEpUGXAzEw-6Njmcbngrrx3SoZN5DFEC3txh9Q9GTUkI123G9pXWKuBp7O7DwhMqnuGdf37Mqhm/s728-rw-e365/hack.png",
+        "Title": "North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/delinea-free-pam-template",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWXekWqDyX38ybJC3HdOcc_Il06hGpk6SrlbAmyx_4E3AbpnZMf1GxX8WGlfJucNgK8TbnFNc-5F68s4XaTdqydi6Vmgeu11ZZGh8Pi1wPN42pKPqezQHoreX8ka5nS6B-PeDcQuFZ_S86jDP3RNa5Rvtek0hgfcUItiMl5kS6LAU4Wgl3EsTGfIoX8sB/s728-e365/checklist.png",
-        "Title": "Guide: Secure Your Privileged Access with Our Expert-Approved Template",
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1BLP41CBRl5iEZSK9mvuJoYFZVFZalw82yXj3w-5GSvvVu4AZd8eFwQKPE1-L2HrZMo7zGoxAw6XqWa_3UandW1xhaUkh14DIKqTWz1-rZMWx9BLgcs6LXDdLvaS5yONjZAzHvBU14YVUGGWM2TdwPEAaAVv02Cby7DbmJ0ykQ7B3LEm0bCrmuJ18CA/s728-rw-e365/vciso.png",
         "Title": "New Guide: How to Scale Your vCISO Services Profitably",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0W6bvR9fzkycXkJJdcnbs_5eE6MI3KteW1cqK4EmjT9CtU3UeHZ9qrBsDt81R0i6Ihyphenhyphen9LKFhwPHDAoHdYzi_rLcg_FZC7x4ddV05oV0ybdTa8rd1Uu-lwxbQbHJeLL2X19HyElBjinJemsN7A8V5cenapqWtdFi0mJjbbAQroZFomNspkugGaARpukihf/s728-rw-e365/machine.png",
+        "Title": "Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines",
+        "Source": "The Hacker News",
+        "Timestamp": "May 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-PcUDkVO7cSuiKU_orq2mhb9VqxGYPcQgP4eSUAh4OL_-f_CubxQBn1Htu_Br7xERfpfD3QjIul2LRq6fTa6Iz43Snrla-go6qPN9o-aJJ7o7CxNU2kK4yvj6lPQKwLms8JbgbHX38B-apXbBuPkVN95W_0kdwXHmi1lBS43GDFcOvwEvIuNWFhtRdMo/s728-rw-e365/ms.png",
+        "Title": "Cybercriminals Exploiting Microsoft's Quick Assist Feature in Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/google-patches-yet-another-actively.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbF8wx_xuLZ51MTHpCOGdzhN7uoQqeUv9WnoyH1_pZ-84rV1BgjxUr1NQfMiogwJkoUXmvki27jHE-xRC-GwTpFEPuxTASdjeQIpdevA628w8I8Ufh-AHtkuK9jXo7CYdSxpqCjW8pFMP71VTdcutUPOQOZeexKjkzZi5vhypW952FbL8uw07mq-NMQF77/s728-rw-e365/chrome.png",
+        "Title": "Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "May 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCXr2dbbDhMkcRibJUp2K02Qb3JwpOR8ZtazciTs8E36_l_t671ju76x7-P7nePx-sg-zMVzDR3cJ_wbLPcobjXz2nXE4zCAwTDUHgBDf8alqqTYLedg14b5LYjB8OOT4KHWZ5BHQWovYovduLQnIxD2jbs-4aN5XL3IrdWQSo3IBBrebzVLADhjwfeszk/s728-rw-e365/fbi.png",
+        "Title": "FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity",
+        "Source": "The Hacker News",
+        "Timestamp": "May 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSXArZPLs2xoQsPxEI7dwO9FQhcJD4L2jqdTMYu8bLpIUTLN5aYpp1gbA0ranFijRCTaxENd0Wp94A5ilS7E6gnWbfulmafIwu6WmJ2HclOVy7ltJPtZZeCXGyHMTlwXt5q6dWNUBthyphenhyphentCYwclR35dqV3RwJn57AaolO2S521J57aIArOyTxp8876P-Jda/s728-rw-e365/theft.png",
         "Title": "Google Launches AI-Powered Theft and Data Protection Features for Android Devices",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzmzJIldOiZh2c4S9W_dAr7OIpkKAYlProKSmMCr0WI30vVIfl9ynDpMLu9_Z-Fr9kIEV0rvm7TZOotA5d79_htMnvCLYW12I_enFTHhlAEfqNnk5_hAaNp6hGqGdr9dIxSX2hVKZcQVuGFb-ajdN_k1pN1VwtZ_ywDtPJnll3oM_dSdz1JXVkdk__agp/s728-rw-e365/malware.png",
         "Title": "Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cHYoES0UHkeCQhIzrtg0-1PPT-Pd5wjEMvOv8Xs6Coix-T0WYczWTIeJPtTASn03jxqIlTXjgCY3TQlBpshgywr1ORTLltZGa1OyOXAtVLtl5TL9WLGaA5Fl0onRYieAlgE7Lz6OsJBV9B5ChUtpMfNxi0o3yVGc7dsFQZScPQp0jXgxxay5CI69u22e/s728-rw-e365/malware.png",
         "Title": "Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions",
         "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s728-rw-e365/2.png",
-        "Title": "(Cyber) Risk = Probability of Occurrence x Damage ",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcopCewQJMs6m2QrYmO-yLRWF8j0J1p3RH7nRvUNcxMzeMWla1RVkbi2DlVfqU2wQBYuv0hc9OZPZiC7RMVjlgmJSRYf-SBP2CzzHJZeEeMNbL632oiH9k1Lfqu2IjmVpXxltFVGCZ6PMOGkPBfiSFdz1eC1eiUL1JY3PcZh3_dnK_vm_0uN9cnr6EIA5/s728-rw-e365/ebury.jpg",
-        "Title": "Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s728-rw-e365/main.png",
-        "Title": "It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPk-hQq2Zp77E2oPvv_a6v5qZcic-fMnamnazYDiOxRjCDkaBpawAz2aJHS5PDYLOy8LhfFefLGVniZ4QQaISgQuJZuDirj3cYon-WnvQVVaaW63p-EBRZuf-qnoa4i_anIXxGiyJ9C35NEN5b5_qwPYZfVuuzLqN4AyPnzFxA-otoo6obsvcDo7ZHidY/s728-rw-e365/cash.png",
-        "Title": "Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering",
-        "Source": "The Hacker News",
-        "Timestamp": "May 16, 2024"
+        "Timestamp": "May 17, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/patch-tuesday-may-2024-edition/",
