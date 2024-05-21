@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYu3YNaZw5J6noJEe8zgsNAEl9NPjhiLltDjm8S3LuKCsaN7FSchdxUjk0SpCgdLeXLtKIk9rW7B7pOc5w-b9qVgzD5_G71PYH3YRntp_6vVDIAC_8BX87fUtdAaMul7BElKKeo0nk5l4GOv58yuKDFqPFCPfei1qEnbW8za_px4V5Szn5v68T1Lwe6zAX/s728-rw-e365/github.png",
+        "Title": "Critical GitHub Enterprise Server Flaw Allows Authentication Bypass",
+        "Source": "The Hacker News",
+        "Timestamp": "May 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s728-rw-e365/code.png",
+        "Title": "Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users",
+        "Source": "The Hacker News",
+        "Timestamp": "May 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKDnmEKwvzLV2hL7i2IT8S_VQhFv6YwsXJibqHeluhcApde6rbg88bCohB453m2cTCkdc2cfiWD-9QqmXH58eqe16Xi-cYoDrekGAas2rovMyHR-AUzNlr-u5uAvVR3C_3nOAZ-e6qfZTDs6bd-Y25HtCe5xThuhKDr44buyCiEGZMWhQSC9Gx27LX2NfD/s728-rw-e365/may.png",
+        "Title": "SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure",
+        "Source": "The Hacker News",
+        "Timestamp": "May 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "May 21, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicbAo9FykXi3T9hkcnUZHLUBWoNTAdQk_akoRk-5U0xrN8Cqzkcn1WnwX_AhElMlHx9HuH5J2XF7RmEbrEtxCUsMD74Qu29s00jC2IomKET9Ulwa4I04nBljtO3SLQA4ep4ai6Ugc5HTi80wFS_X_xK2AlsYi_a4aUjhPjLugXFJxAkieFSwicP3gCMg/s728-rw-e365/devsecops.png",
         "Title": "Five Core Tenets Of Highly Effective DevSecOps Practices",
@@ -21,16 +49,16 @@
         "Timestamp": "May 21, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
-        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Link": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHDwHlrCflIV4o3REgAPy3VOZKYfTb2HCUtsRIoJFtKj8JH2fG2TVJGE66ln4oaqW4ES_bUKf7vsuot29ybqQOhZFavsn0jWpAizM33_3BtnWUXJYn_2jvLg8pjfyZ-Y_Qj4VUgJgf6mQiQ03m-iwuKIO_mVBnh3840-70h4BZ1a2DPdHKI7pe5hZ3GKo/s728-rw-e365/ms.jpg",
+        "Title": "Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses",
         "Source": "The Hacker News",
         "Timestamp": "May 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHDwHlrCflIV4o3REgAPy3VOZKYfTb2HCUtsRIoJFtKj8JH2fG2TVJGE66ln4oaqW4ES_bUKf7vsuot29ybqQOhZFavsn0jWpAizM33_3BtnWUXJYn_2jvLg8pjfyZ-Y_Qj4VUgJgf6mQiQ03m-iwuKIO_mVBnh3840-70h4BZ1a2DPdHKI7pe5hZ3GKo/s728-rw-e365/ms.jpg",
-        "Title": "Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses",
+        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
+        "Title": "What's the Right EDR for You? ",
         "Source": "The Hacker News",
         "Timestamp": "May 21, 2024"
     },
@@ -56,32 +84,39 @@
         "Timestamp": "May 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
-        "Title": "What's the Right EDR for You? ",
-        "Source": "The Hacker News",
-        "Timestamp": "May 21, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRiV_XiRI9o2S5jAcxj7y6CyJFJEriCacEVFhydLwRPJLFqxhs6qGG6wdDhH8K6-HKrBLDTUN8MX2hqb_513Qu2JtOo5E_J-FiO-KjyqMKvv4qldMUwpwBgHnmCfUyppRmYBAS0AIYh86_BgPN5gBPGcN50ofL0hWx05Teogx2goq8d42BTEl8AeuqVLR/s728-rw-e365/pdf.png",
         "Title": "Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal",
         "Source": "The Hacker News",
-        "Timestamp": "May 21, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
         "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
         "Source": "The Hacker News",
-        "Timestamp": "May 21, 2024"
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/cyber-criminals-exploit-github-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLVp_rXZpAax3aY4Aa-AmJXwZmeAWuktKiXp4GN-qgCDkfiAGlu_1tuNLKXIJEjNkKq0r0cjLiVpBK3BqY8xka1y-u9IIKR1pAMRiZNFPqCaP1wpZ_rX8rfV9Nm-qFAVs42kYWkE9r6Ceds151AlrK6l3CUUxxM7_Dtzf7NxdgFTeC8VRqc-KUHj3yVjj/s728-rw-e365/malware.png",
         "Title": "Cyber Criminals Exploit GitHub and FileZilla to Deliver Malware Cocktail",
         "Source": "The Hacker News",
-        "Timestamp": "May 21, 2024"
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
+        "Title": "What's the Right EDR for You? ",
+        "Source": "The Hacker News",
+        "Timestamp": "May 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html",
@@ -101,20 +136,6 @@
         "Link": "https://thehackernews.com/2024/05/grandoreiro-banking-trojan-resurfaces.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5-kZvOVxoh88ywy2pxjyTedNazjZeTetG15AeVqaK0dpeege9CD6e2nGix7xcLI8J5RtixTt0_ADwR6weDe_DL8Zpy5P0W8PgKn5lk0SFi421tllqDPbFLTqy03f-EBXdNDL2FEoIBeqLQcEtMwUf9AH2XFER0KHuzr7EgmKXZEM-6P8C7gydaNIbRKgm/s728-rw-e365/bank.png",
         "Title": "Grandoreiro Banking Trojan Resurfaces, Targeting Over 1,500 Banks Worldwide",
-        "Source": "The Hacker News",
-        "Timestamp": "May 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
-        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
-        "Source": "The Hacker News",
-        "Timestamp": "May 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
-        "Title": "What's the Right EDR for You? ",
         "Source": "The Hacker News",
         "Timestamp": "May 20, 2024"
     },
@@ -143,27 +164,6 @@
         "Link": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKkkd9TlpBH69SJ2A5la8Bres_d4l53vzANAK7W2RVh3HJoJjX9PuIhhtiYhO5YlDnu8RuFrT8bAyj_0DwcjPB4tSIcLglj7N2PGus3G1cYnF29ytBkUvgf_DuGCsD5wc7c9NZ-Y5WoSifZzg5ZcNs2nbhRgepHlfcURgaVUvEu_6OQwZktjWfr-did40B/s728-rw-e365/linux.png",
         "Title": "Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjif0vHPiJpWqSsxYf6_ZftcHyQWnudXK5c0G1j4lk-mM1WJs-TZHhgitfonc7VJBNvCrZMtrAmL0ms_XPCe8LYGpB5CxrIn8xijJTtD98T5hDh7xTWBl5DkzbNmrY8Z2XwrVFa29h2SYwv2Ambz4DKI3fhCFPn3vzfFFcdHUR1NeJUzJfocCIac_SOBlZo/s728-rw-e365/dlink.png",
-        "Title": "CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now",
-        "Source": "The Hacker News",
-        "Timestamp": "May 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6d7Gzb_h-iUyW-ZV9K-72UmwGBH5s6LAObmfDc7t5yM8sjbhw5BiJ1tl6YYaIyz7rDm3A0V6yivf7rF9438dH0cguzgTV821Tn0TbVubAm7qfWQZjXHfyVF2sbH-72wMa6elHZq8sGiW6VomBjgRLgcAersRKeraJa16BdWZkU04X5WSAfRLEsFfjoAKT/s728-rw-e365/wifi.png",
-        "Title": "New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/north-korean-hackers-exploit-facebook.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CgQjTGmGSfRS1sg_daBIAU-YSbp-JtU2wJUNbsvH_Z7lMjjdGBl1RMbetEr4oFfmuHwcDQFYa6CtTZYbI3UzTjzIs6sqIbAEBIH9VqH1hUdZz9OFPtEpUGXAzEw-6Njmcbngrrx3SoZN5DFEC3txh9Q9GTUkI123G9pXWKuBp7O7DwhMqnuGdf37Mqhm/s728-rw-e365/hack.png",
-        "Title": "North Korean Hackers Exploit Facebook Messenger in Targeted Malware Campaign",
         "Source": "The Hacker News",
         "Timestamp": "May 20, 2024"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
@@ -341,6 +341,13 @@
         "Title": "Roku Breach Hits 567,000 Users",
         "Source": "WIRED",
         "Timestamp": "Apr 12, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/sisense.png",
+        "Title": "Why CISA is Warning CISOs About a Breach at Sisense",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 11, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/",
@@ -460,12 +467,5 @@
         "Title": "CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 14, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/03/patch-tuesday-march-2024-edition/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/macOS-ios.png",
-        "Title": "Patch Tuesday, March 2024 Edition",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Mar 12, 2024"
     }
 ]
