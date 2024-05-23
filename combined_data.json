@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiemf-PMvxq0BrRiBbpx3_uBlifu0KTdvk6SvjSWLxQa2COyn8WixzXcHrRpA8Zh-8tDmTeS2sBpVIaH69eM5O4TCavuyEndvfTvBCDyXetChmekEp22w0Av5PCIytyivYiDr0ikI0DA6ozzMufBtGu5YUeEI9WrIuSj03kapMGuqgwNHwHWe9LlsQhDSj/s728-rw-e365/ransomware.png",
+        "Title": "Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern",
+        "Source": "The Hacker News",
+        "Timestamp": "May 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s728-rw-e365/apache.png",
+        "Title": "CISA Warns of Actively Exploited Apache Flink Security Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "May 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlkZwkfhY4C7r6p8rgzF7VBSkgvPmpejWI0E2EV3OBgpij7TXXrh2t8kEBZz_JuTWDJBeOp-xAm1rpItMLKpHZBhAWg8cbyR_1kEELZKHalXqoO9M3K47jMo0bkAD1WgUaXiduxQ1w7qKVEQBbZgfdRgBcv0wpshyMrENHuvZOMRRWS4ek0ihxWh1vNtC/s728-rw-e365/china.png",
+        "Title": "New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa & Caribbean Govts",
+        "Source": "The Hacker News",
+        "Timestamp": "May 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "May 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s728-rw-e365/backup.jpg",
         "Title": "Are Your SaaS Backups as Secure as Your Production Data?",
@@ -21,16 +49,16 @@
         "Timestamp": "May 23, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
-        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Link": "https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOlKa2UHpzqttYKvjLB7UH7SOZnI5sKdTEalTraVb2BKuNyPaUfIyh8NsKHQ2jYJ7-6NOEpeNYbf0V1Loajb5wotnAG8cG9lEeLYAf3RNazMI_6-SizKY3DLUmgNjQXFoTBFHc5CsvqcAOF7K-bCo4z-W3y8zzXFe-U6Vnu8tFpStwcFy0XrfDITJi1r_d/s728-rw-e365/vbscript.png",
+        "Title": "The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell",
         "Source": "The Hacker News",
         "Timestamp": "May 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOlKa2UHpzqttYKvjLB7UH7SOZnI5sKdTEalTraVb2BKuNyPaUfIyh8NsKHQ2jYJ7-6NOEpeNYbf0V1Loajb5wotnAG8cG9lEeLYAf3RNazMI_6-SizKY3DLUmgNjQXFoTBFHc5CsvqcAOF7K-bCo4z-W3y8zzXFe-U6Vnu8tFpStwcFy0XrfDITJi1r_d/s728-rw-e365/vbscript.png",
-        "Title": "The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell",
+        "Link": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlU1-NhlyNyk19CgLQbkq80WbGg-WNMi9cZvcMu7twTPPrIFJM92a0LTticOq-iGIHr_qG2WBSrqMq1zVBM_Ptn5UG3x6DNXYyOeDRnh6ySoiSHD3l8hOvn1sEUCtm2lhJoNRqrSdlrlNZlg5rwS_8lDvlaEQvEDW4fcOieerKi6p0rD1sd48ArkCIEmw/s728-rw-e365/shqq.png",
+        "Title": "SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike ",
         "Source": "The Hacker News",
         "Timestamp": "May 23, 2024"
     },
@@ -56,32 +84,39 @@
         "Timestamp": "May 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
-        "Title": "What's the Right EDR for You? ",
-        "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s728-rw-e365/crypto-malware.png",
         "Title": "GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack",
         "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
+        "Timestamp": "May 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvFbct90kMiUaJ1POK6KYGnSysRgM_OI3n4DV56YgeG8j59sa86Mrvaz3bdjsbLERLY4vWPAOGFb0PTMzZnAV7kmwawe_3hkr4n0OY5mbnFVLjEGweubLIOMcfUr51fT5rWH6jPQQU29-CvmknyaN_IXHhbGKM8hOFLSRK7FssY0RXxLrSV9Z66uT1QTs/s728-rw-e365/ms.jpg",
         "Title": "MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
+        "Timestamp": "May 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5bLaF3ZIspfO3Y7DlBlt_w6meAz5I2NO5P3J4kM7uEa1N1z63dXEtIYGux9Xusy-JfQyDAdimpXn94NiyEJSw26uFuT0lfJK1Y438RytqZxdJu7qEKEGoo8gWlLt6iQIxZZuUNr9XMGlwvpc5SUXiLuQRAy_G_H-UV7d5po2WtRRas3I1tMoA9MT249h/s728-rw-e365/qnap.png",
         "Title": "QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances",
         "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
+        "Timestamp": "May 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
+        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "May 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlU1-NhlyNyk19CgLQbkq80WbGg-WNMi9cZvcMu7twTPPrIFJM92a0LTticOq-iGIHr_qG2WBSrqMq1zVBM_Ptn5UG3x6DNXYyOeDRnh6ySoiSHD3l8hOvn1sEUCtm2lhJoNRqrSdlrlNZlg5rwS_8lDvlaEQvEDW4fcOieerKi6p0rD1sd48ArkCIEmw/s728-rw-e365/shqq.png",
+        "Title": "SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike ",
+        "Source": "The Hacker News",
+        "Timestamp": "May 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html",
@@ -101,20 +136,6 @@
         "Link": "https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYu3YNaZw5J6noJEe8zgsNAEl9NPjhiLltDjm8S3LuKCsaN7FSchdxUjk0SpCgdLeXLtKIk9rW7B7pOc5w-b9qVgzD5_G71PYH3YRntp_6vVDIAC_8BX87fUtdAaMul7BElKKeo0nk5l4GOv58yuKDFqPFCPfei1qEnbW8za_px4V5Szn5v68T1Lwe6zAX/s728-rw-e365/github.png",
         "Title": "Critical GitHub Enterprise Server Flaw Allows Authentication Bypass",
-        "Source": "The Hacker News",
-        "Timestamp": "May 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
-        "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
-        "Source": "The Hacker News",
-        "Timestamp": "May 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/whats-right-edr-for-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf4ObBPhLrcp9eQ4wBjjsqmgCiTTduqn2Z86NyBvqJIICGm88V2AZbHI3LUgw2V6T2O_Stp9triqnH0DHUM2PlpbZy9cNfIlkbHRMq_H6aQHjOuDTHBQ88jPyn6Lm913dcGTutJLCvyWd4BPWNKYVHQCApwvtTP2wbDwosiP6wzj2L7Yh4HDgCoxNwkHo/s728-rw-e365/HUNT.png",
-        "Title": "What's the Right EDR for You? ",
         "Source": "The Hacker News",
         "Timestamp": "May 22, 2024"
     },
@@ -143,27 +164,6 @@
         "Link": "https://thehackernews.com/2024/05/achieve-security-compliance-with-wazuh.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s728-rw-e365/WAZUH.png",
         "Title": "Achieve security compliance with Wazuh File Integrity Monitoring",
-        "Source": "The Hacker News",
-        "Timestamp": "May 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VqOkAZrz_HIQstJ1Xqey1yQxhbv4BPE3ZRxcFvPmNbbFvEGjwOuPq_EJFXuusvUJeyWr9bLpcFMuY0k2QRmwsTi4vlCAm1qxHoNnaZCa8bjafLYFSOiOjQs0KQW2RrysWZdTY9755sPGC9MD0vHTYGYqPwQXxU_s7_-gowaxvMnA32n6E369yDP3ovN0/s728-rw-e365/pdf.png",
-        "Title": "Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox",
-        "Source": "The Hacker News",
-        "Timestamp": "May 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHDwHlrCflIV4o3REgAPy3VOZKYfTb2HCUtsRIoJFtKj8JH2fG2TVJGE66ln4oaqW4ES_bUKf7vsuot29ybqQOhZFavsn0jWpAizM33_3BtnWUXJYn_2jvLg8pjfyZ-Y_Qj4VUgJgf6mQiQ03m-iwuKIO_mVBnh3840-70h4BZ1a2DPdHKI7pe5hZ3GKo/s728-rw-e365/ms.jpg",
-        "Title": "Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses",
-        "Source": "The Hacker News",
-        "Timestamp": "May 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/nextgen-healthcare-mirth-connect-under.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKl1GTC4u5lSKSWwiC8pyWmKtYWyTnYPgXqnv6Q8yz4dZXViyxhk6SDHzTS6mvB_FOdJUGckbJUAwmhovZds9B_0OQRTsvtKaBsHbIJPZYQmI-pXhWlmkabd0Ko6CKqHu5A8pIsp7C28Qy6IwdUzBZcuLJBMKicBVYs9ctV-qkK7SLunBJ2piEKNZ3P4E/s728-rw-e365/leathcare.png",
-        "Title": "NextGen Healthcare Mirth Connect Under Attack - CISA Issues Urgent Warning",
         "Source": "The Hacker News",
         "Timestamp": "May 22, 2024"
     },
@@ -287,16 +287,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
@@ -392,16 +392,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
