@@ -77,6 +77,13 @@
         "Timestamp": "May 25, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/6650c08051f80bee475844a9/3:2/w_1280%2Cc_limit/Microsoft-AI-Screenshots-Security-GettyImages-2060937751.jpg",
+        "Title": "Microsoft\u2019s New Recall AI Tool May Be a \u2018Privacy Nightmare\u2019",
+        "Source": "WIRED",
+        "Timestamp": "May 25, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/stark-industries-solutions.png",
         "Title": "Stark Industries Solutions: An Iron Hammer in the Cloud",
@@ -196,11 +203,11 @@
         "Timestamp": "May 11, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tunnelvision-vpn-attack/",
+        "Link": "https://www.wired.com/story/cyber-army-of-russia-interview/",
         "Img_URL": "https://media.wired.com/photos/663e39c734a53f6e0f3e067e/3:2/w_1280%2Cc_limit/VPN-Attack-GettyImages-896761626.jpg",
         "Title": "\u2018TunnelVision\u2019 Attack Leaves Nearly All VPNs Vulnerable to Spying",
         "Source": "WIRED",
-        "Timestamp": "May 10, 2024"
+        "Timestamp": "May 08, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/u-s-charges-russian-man-as-boss-of-lockbit-ransomware-group/",
@@ -425,13 +432,6 @@
         "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 28, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/",
-        "Img_URL": "https://media.wired.com/photos/6606f98c12bb914ce2738b5e/3:2/w_1280%2Cc_limit/Security-News-This-Week--Cybercriminals'-Yogurt-Heist-Reveals-A-Rampant-Form-of-Online-Fraud-Security-GettyImages-158315555.jpg",
-        "Title": "Yogurt Heist Reveals a Rampant Form of Online Fraud",
-        "Source": "WIRED",
-        "Timestamp": "Mar 27, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/",
