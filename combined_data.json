@@ -1,86 +1,93 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NYJzMwaBmPPr2xgwv5e5G3gcXxOFfosCEdWWR6SQVy3GnGtNkVghRp7Gfat-Bcx5vh5sfcLZxfOpx2pZ8tPEwdCmfYQzUsLw8aDy43NB7qpXsGl_sZciwzLhtatN60dsR6AV-N4eIag-ks44Zu_RkLd6aOI1j8OeV_DshVZU88vBAY4fWaGEZ9rOZu3W/s728-rw-e365/wiz.png",
+        "Title": "Experts Find Flaw in Replicate AI Service Exposing Customers' Models and Data",
+        "Source": "The Hacker News",
+        "Timestamp": "May 25, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s728-rw-e365/server.png",
         "Title": "Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s728-rw-e365/malware.png",
         "Title": "Beware: These Fake Antivirus Sites Spreading Android and Windows Malware",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s728-rw-e365/webinar.png",
-        "Title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
         "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s728-rw-e365/webinar.png",
+        "Title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij92OQITp179Lh8GyMrrxHpgOHGq-opbSJFwmj9RmB-YK_-KfdyCwvk9gmphCXTFXS17_xp9KqhfNi4tWF2A9FIQJV9ngNl-G4feZOMJPCHAnVWwaNeoK-z3Rr1hBtDcIogV-TVUklEhMtEqqwo09bjcJt9x3fGuzwnsul42HMmJI4w3Dn4mufDxtoYk0B/s728-rw-e365/main.png",
         "Title": "DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQY2j1dSbQkHtYem6znrRSPDop8X-YNX_3H9RaQAs5Dn65HrCGJWW8mCPZJrbJL-5AEQ5yL0kt84CDrCXxu73n9Eo2q37km-dMyseVRXab0FvdlKBVYKKG3_-sSB_VXEu-5Ukc3AnOdVrm7Ox9nSnCxTdzhmwInkQI33wu_qHWteY7VmQxIPdrwaBUkoEZ/s728-rw-e365/chrome.png",
         "Title": "Update Chrome Browser Now: 4th Zero-Day Exploit Discovered in May 2024",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2O3IRYLkP56xaJ5-EMsyacYO4-NiXnllH5gHfd_AucezX2dXR0o4nAUSGs0_Mhx_xrkyspck4H15gXljHjq2efu_x0tl1JHeh3fx7DmlLewuciJIfhls2xWbq7o9bPfYly7lJBJiAhvrGrmt1NxDNR0zvtWw_Zp0L3aqkBiXxfkUzeoWom0qYCLmgtHp/s728-rw-e365/court.png",
         "Title": "JAVS Courtroom Recording Software Backdoored - Deploys RustDoor Malware",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0WR_Xyh7kTaazS9rsbZWua3sn9ZB1AivlTaJeT8FZTJLPc5ISy-UtnNL-mLGXLqKHlm_UbhMpwd2hdJRJCRKqxuxMS8PGRXnBeNVhZ_Pqq1z_XPcL7qurXgTPOlUgRdVNJxmrNQpxwCizIYVS1DFVduh4z82maNRWr6FuiferSfEjMOmG1axKVR-yZn0/s728-rw-e365/server.png",
-        "Title": "Stealthy BLOODALCHEMY Malware Targeting ASEAN Government Networks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlU1-NhlyNyk19CgLQbkq80WbGg-WNMi9cZvcMu7twTPPrIFJM92a0LTticOq-iGIHr_qG2WBSrqMq1zVBM_Ptn5UG3x6DNXYyOeDRnh6ySoiSHD3l8hOvn1sEUCtm2lhJoNRqrSdlrlNZlg5rwS_8lDvlaEQvEDW4fcOieerKi6p0rD1sd48ArkCIEmw/s728-rw-e365/shqq.png",
         "Title": "SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike ",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0WR_Xyh7kTaazS9rsbZWua3sn9ZB1AivlTaJeT8FZTJLPc5ISy-UtnNL-mLGXLqKHlm_UbhMpwd2hdJRJCRKqxuxMS8PGRXnBeNVhZ_Pqq1z_XPcL7qurXgTPOlUgRdVNJxmrNQpxwCizIYVS1DFVduh4z82maNRWr6FuiferSfEjMOmG1axKVR-yZn0/s728-rw-e365/server.png",
+        "Title": "Stealthy BLOODALCHEMY Malware Targeting ASEAN Government Networks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiemf-PMvxq0BrRiBbpx3_uBlifu0KTdvk6SvjSWLxQa2COyn8WixzXcHrRpA8Zh-8tDmTeS2sBpVIaH69eM5O4TCavuyEndvfTvBCDyXetChmekEp22w0Av5PCIytyivYiDr0ikI0DA6ozzMufBtGu5YUeEI9WrIuSj03kapMGuqgwNHwHWe9LlsQhDSj/s728-rw-e365/ransomware.png",
         "Title": "Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern",
         "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s728-rw-e365/apache.png",
-        "Title": "CISA Warns of Actively Exploited Apache Flink Security Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/stark-industries-solutions.png",
         "Title": "Stark Industries Solutions: An Iron Hammer in the Cloud",
         "Source": "KrebsonSecurity",
+        "Timestamp": "May 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s728-rw-e365/apache.png",
+        "Title": "CISA Warns of Actively Exploited Apache Flink Security Vulnerability",
+        "Source": "The Hacker News",
         "Timestamp": "May 23, 2024"
     },
     {
@@ -98,13 +105,6 @@
         "Timestamp": "May 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s728-rw-e365/backup.jpg",
-        "Title": "Are Your SaaS Backups as Secure as Your Production Data?",
-        "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/insider-user-offboarding-safety",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBPu6J6yBsrGvC3aupugp6RfgzYfYaubfc1jZObulTKIHqWicC72Ky4lMt2J1InxhQnvgk5LO5TAJF8IcgBe3a25f2VrPxdFjgctrZkuremIYumKpXxRJW81kEUPq0EuYTqS8TQZ9QcwL1tzyr7tevZN2WuY8l_kLgST3eNNU8qHEDLAuleltpN3p29fY/s728-e365/wing.png",
         "Title": "Protecting Your Organization From Insider Threats - All You Need to Know",
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlU1-NhlyNyk19CgLQbkq80WbGg-WNMi9cZvcMu7twTPPrIFJM92a0LTticOq-iGIHr_qG2WBSrqMq1zVBM_Ptn5UG3x6DNXYyOeDRnh6ySoiSHD3l8hOvn1sEUCtm2lhJoNRqrSdlrlNZlg5rwS_8lDvlaEQvEDW4fcOieerKi6p0rD1sd48ArkCIEmw/s728-rw-e365/shqq.png",
         "Title": "SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike ",
+        "Source": "The Hacker News",
+        "Timestamp": "May 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s728-rw-e365/backup.jpg",
+        "Title": "Are Your SaaS Backups as Secure as Your Production Data?",
         "Source": "The Hacker News",
         "Timestamp": "May 23, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
         "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
-        "Source": "The Hacker News",
-        "Timestamp": "May 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s728-rw-e365/crypto-malware.png",
-        "Title": "GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack",
         "Source": "The Hacker News",
         "Timestamp": "May 23, 2024"
     },
