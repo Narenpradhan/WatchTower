@@ -1,80 +1,94 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Pp-B9n0oLyoWt3WiCPxOpa8Lqsuh6ZIkGPQYwM510J4dhf8nBIZkNrmwvj_Ip-On1zfagGJWuy05PKHeiDKRjOASKQhhv_AGP-L1mRyElX5LNESQ2W90z-cCRzpU1LiN7rfZQCFnN34KQip3gmtHn0N2pKqGPtygvbnui2KTLzHBADCyU68h80aR-gKu/s728-rw-e365/gift-card.png",
-        "Title": "Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud",
+        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
+        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk2dBGe5R5Hq5UhFoaG6DITVPuLDiriZEbXMTke95UC9APcM7IX_LB0hS-7LvB6CY-GLDmc1-CjpuQwooq2DvkB867vQeAgMwwWiwc8-mqNihnSTQWkVTmp0tywgLje94tn9d705buAhNzMwm2MPpGyQCCD0luYO7w5i04e6HCZm1doqZbtJ_xB0rIvg/s728-rw-e365/layerx.png",
-        "Title": "Report: The Dark Side of Phishing Protection",
+        "Link": "https://thehackernews.com/2024/05/researchers-warn-of-catddos-botnet-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigZXVtGUSVvV8Jv6AnEy0frBzR74Wt67u-MPmYbpVqickJtmz434_SfBG5DIVJCtQxoCPB-uySRQiXscRqa8Ute79cLxY9Hee9SFD0Fz7p6kTTDEndJwJ-mCOyIqkF83mNVE8qK7gF20CIrtsNx8kyiAFlPREiAztF7nUryZJ75L_LmBVpgkaC-Wd7gepk/s728-rw-e365/cat-ddos.png",
+        "Title": "Researchers Warn of CatDDoS Botnet and DNSBomb DDoS Attack Technique",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ef101SowhJwU352YPVl3iAtc9xMdIuCrJhAUmumTKJvxhVrabFgVgzPDShoBhSudHO6sc0CPmEEhhyphenhyphenTjBHR6dOEB3gfolK1OwEtIYXDlVhWns4K3Yf-f3NiW4Ayt9cGEFFSkjVEY5BF6rrkTxjN769Mx6AnUFUcSpJ5c_TFb-4xWWjkkQFGC0nzUWPW4/s728-rw-e365/phishing.png",
-        "Title": "New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI",
+        "Link": "https://thehackernews.com/2024/05/wordpress-plugin-exploited-to-steal.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi38V16zql2ja6zNWjM4W_rywY1frkN1JYEhwv0F26N7hFS6koTLKYkhlYoyMW9OOnZpKAFyB-Adka8gulX-D9Hs2Td9SN_jBc7Ajd8aGfMxb7t7eM6lIYWSBy5iro6rfCvJGp4iSEE87xA-BHuxkKrox7Q4oFl0NJvqql7HolqjOBpzc1TJNXMhM5QAyAy/s728-rw-e365/data.png",
+        "Title": "WordPress Plugin Exploited to Steal Credit Card Data from E-commerce Sites",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://thehackernews.uk/iso42001-checklist",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXiI_c72Gz4ueGVsWOqGgusIR1ZVBlvKmTBmJS67ChvaWZ5St2FU-pvj0g3GXnQpnD3JU7iOhrvfaSqY1l6Yf6JW3ENHz2kF1_Byh950mx0K9heOjihDAyWw7Ga1o5tfc1AqdYffytFUKmq7wPUm4OloTvjBCTIFJ37LZBIGmU80t6GV44uTBhHSktaSw/s728-e365/vanta.png",
         "Title": "Demonstrate Responsible AI: Get the ISO 42001 Compliance Checklist from Vanta",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/tp-link-gaming-router-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqlQtomqZWVty8-Aa9VmhtXqOXgNI8-sDMl4i9lRQU_sQJup7Mutw8617WAZ2JgnKYxSmvgJIY9S8ZW7YfN2DU4EWUWh3wvYyvdwvx-HFcAtBryNPcxh1UTw9Y8-xAA_DGO1vDrmnxBsow20lIG3Svf1FF3E9KXpeBv2JGIX0pLsw5d1qPel_jCmahepl/s728-rw-e365/router.jpg",
+        "Title": "TP-Link Gaming Router Vulnerability Exposes Users to Remote Code Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Pp-B9n0oLyoWt3WiCPxOpa8Lqsuh6ZIkGPQYwM510J4dhf8nBIZkNrmwvj_Ip-On1zfagGJWuy05PKHeiDKRjOASKQhhv_AGP-L1mRyElX5LNESQ2W90z-cCRzpU1LiN7rfZQCFnN34KQip3gmtHn0N2pKqGPtygvbnui2KTLzHBADCyU68h80aR-gKu/s728-rw-e365/gift-card.png",
+        "Title": "Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud",
+        "Source": "The Hacker News",
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk2dBGe5R5Hq5UhFoaG6DITVPuLDiriZEbXMTke95UC9APcM7IX_LB0hS-7LvB6CY-GLDmc1-CjpuQwooq2DvkB867vQeAgMwwWiwc8-mqNihnSTQWkVTmp0tywgLje94tn9d705buAhNzMwm2MPpGyQCCD0luYO7w5i04e6HCZm1doqZbtJ_xB0rIvg/s728-rw-e365/layerx.png",
+        "Title": "Report: The Dark Side of Phishing Protection",
+        "Source": "The Hacker News",
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ef101SowhJwU352YPVl3iAtc9xMdIuCrJhAUmumTKJvxhVrabFgVgzPDShoBhSudHO6sc0CPmEEhhyphenhyphenTjBHR6dOEB3gfolK1OwEtIYXDlVhWns4K3Yf-f3NiW4Ayt9cGEFFSkjVEY5BF6rrkTxjN769Mx6AnUFUcSpJ5c_TFb-4xWWjkkQFGC0nzUWPW4/s728-rw-e365/phishing.png",
+        "Title": "New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI",
+        "Source": "The Hacker News",
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
+        "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/pakistan-linked-hackers-deploy-python.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgk2rs-P-9FlvoQfl6FijOim5xNwDZRBHZ2wD5Wm9imowW00ij946EciIKaImy8ExQjaWPDNVfC4JK6CJOTDpfhhxXkFYc2wi8v5X6yuSlXFgXYJQS6naT8fBn2xAAYWXo7dj5FxpVbAJEOy-LjNW_lMG3aM73JTEiQiyqvuTJnVinV2a7h4qOOFgFy5DR/s728-rw-e365/pakistani-hacker.png",
         "Title": "Pakistan-linked Hackers Deploy Python, Golang, and Rust Malware on Indian Targets",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/experts-find-flaw-in-replicate-ai.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NYJzMwaBmPPr2xgwv5e5G3gcXxOFfosCEdWWR6SQVy3GnGtNkVghRp7Gfat-Bcx5vh5sfcLZxfOpx2pZ8tPEwdCmfYQzUsLw8aDy43NB7qpXsGl_sZciwzLhtatN60dsR6AV-N4eIag-ks44Zu_RkLd6aOI1j8OeV_DshVZU88vBAY4fWaGEZ9rOZu3W/s728-rw-e365/wiz.png",
         "Title": "Experts Find Flaw in Replicate AI Service Exposing Customers' Models and Data",
         "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s728-rw-e365/server.png",
-        "Title": "Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Source": "WIRED",
+        "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s728-rw-e365/malware.png",
-        "Title": "Beware: These Fake Antivirus Sites Spreading Android and Windows Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s728-rw-e365/main.png",
-        "Title": "It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure",
-        "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s728-rw-e365/webinar.png",
-        "Title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij92OQITp179Lh8GyMrrxHpgOHGq-opbSJFwmj9RmB-YK_-KfdyCwvk9gmphCXTFXS17_xp9KqhfNi4tWF2A9FIQJV9ngNl-G4feZOMJPCHAnVWwaNeoK-z3Rr1hBtDcIogV-TVUklEhMtEqqwo09bjcJt9x3fGuzwnsul42HMmJI4w3Dn4mufDxtoYk0B/s728-rw-e365/main.png",
-        "Title": "DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?",
-        "Source": "The Hacker News",
-        "Timestamp": "May 27, 2024"
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/6650ec054c9f60ff213aba42/3:2/w_1280%2Cc_limit/Cops-Are-Just-Trolling-Cybercriminals-Now-GettyImages-151575564.jpg",
+        "Title": "Cops Are Just Trolling Cybercriminals Now",
+        "Source": "WIRED",
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/",
@@ -82,6 +96,48 @@
         "Title": "Microsoft\u2019s New Recall AI Tool May Be a \u2018Privacy Nightmare\u2019",
         "Source": "WIRED",
         "Timestamp": "May 25, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s728-rw-e365/server.png",
+        "Title": "Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s728-rw-e365/malware.png",
+        "Title": "Beware: These Fake Antivirus Sites Spreading Android and Windows Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s728-rw-e365/webinar.png",
+        "Title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/iso42001-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXiI_c72Gz4ueGVsWOqGgusIR1ZVBlvKmTBmJS67ChvaWZ5St2FU-pvj0g3GXnQpnD3JU7iOhrvfaSqY1l6Yf6JW3ENHz2kF1_Byh950mx0K9heOjihDAyWw7Ga1o5tfc1AqdYffytFUKmq7wPUm4OloTvjBCTIFJ37LZBIGmU80t6GV44uTBhHSktaSw/s728-e365/vanta.png",
+        "Title": "Demonstrate Responsible AI: Get the ISO 42001 Compliance Checklist from Vanta",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
+        "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij92OQITp179Lh8GyMrrxHpgOHGq-opbSJFwmj9RmB-YK_-KfdyCwvk9gmphCXTFXS17_xp9KqhfNi4tWF2A9FIQJV9ngNl-G4feZOMJPCHAnVWwaNeoK-z3Rr1hBtDcIogV-TVUklEhMtEqqwo09bjcJt9x3fGuzwnsul42HMmJI4w3Dn4mufDxtoYk0B/s728-rw-e365/main.png",
+        "Title": "DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?",
+        "Source": "The Hacker News",
+        "Timestamp": "May 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html",
@@ -105,20 +161,6 @@
         "Timestamp": "May 24, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/iso42001-checklist",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXiI_c72Gz4ueGVsWOqGgusIR1ZVBlvKmTBmJS67ChvaWZ5St2FU-pvj0g3GXnQpnD3JU7iOhrvfaSqY1l6Yf6JW3ENHz2kF1_Byh950mx0K9heOjihDAyWw7Ga1o5tfc1AqdYffytFUKmq7wPUm4OloTvjBCTIFJ37LZBIGmU80t6GV44uTBhHSktaSw/s728-e365/vanta.png",
-        "Title": "Demonstrate Responsible AI: Get the ISO 42001 Compliance Checklist from Vanta",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s728-rw-e365/main.png",
-        "Title": "It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiemf-PMvxq0BrRiBbpx3_uBlifu0KTdvk6SvjSWLxQa2COyn8WixzXcHrRpA8Zh-8tDmTeS2sBpVIaH69eM5O4TCavuyEndvfTvBCDyXetChmekEp22w0Av5PCIytyivYiDr0ikI0DA6ozzMufBtGu5YUeEI9WrIuSj03kapMGuqgwNHwHWe9LlsQhDSj/s728-rw-e365/ransomware.png",
         "Title": "Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern",
@@ -129,34 +171,6 @@
         "Link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s728-rw-e365/apache.png",
         "Title": "CISA Warns of Actively Exploited Apache Flink Security Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlkZwkfhY4C7r6p8rgzF7VBSkgvPmpejWI0E2EV3OBgpij7TXXrh2t8kEBZz_JuTWDJBeOp-xAm1rpItMLKpHZBhAWg8cbyR_1kEELZKHalXqoO9M3K47jMo0bkAD1WgUaXiduxQ1w7qKVEQBbZgfdRgBcv0wpshyMrENHuvZOMRRWS4ek0ihxWh1vNtC/s728-rw-e365/china.png",
-        "Title": "New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa & Caribbean Govts",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetOjivWbM8-lvWBoEXtqy3n6cxhXESjRxC1XdOXP3VCgjBAqgH4-iShIFr3y-nX-gNRiWJjRC7FCCQcFOJevjTkIy5JWpF1Z4n8lohzAKY5uWHX4Ao1XpEOTiE3bg6lXwaL2F8zr3RQSKKu7rQAH89f45u74r2PtchODjXSPvD-npuXfC85GZIf6zu05K/s728-rw-e365/china.png",
-        "Title": "Inside Operation Diplomatic Specter: Chinese APT Group's Stealthy Tactics Exposed",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s728-rw-e365/backup.jpg",
-        "Title": "Are Your SaaS Backups as Secure as Your Production Data?",
-        "Source": "The Hacker News",
-        "Timestamp": "May 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEa6bwJvaq28OX6jN8eDPiagXRVIzk6CY9H8C305W20wTNoG-Ay-8lBW4H5Z51ecA5QH5SG2qNDr_UAlfYJjiC-nxXAAEOGyeEB0y3B3l0162iMh7NiUkZZaPdnC_9h4uSKffO94tRnJxusu9d1md5Zz-ollf-j3ZPNKoaPi0hN98K7XDNQzfq_0-T9IV/s728-rw-e365/ivanti.png",
-        "Title": "Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager",
         "Source": "The Hacker News",
         "Timestamp": "May 24, 2024"
     },
@@ -175,13 +189,6 @@
         "Timestamp": "May 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/",
-        "Img_URL": "https://media.wired.com/photos/6647d6aeaef4cb09881cd0a2/3:2/w_1280%2Cc_limit/US-Official-Warns-a-Cell-Network-Flaw-Is-Being-Exploited-for-Spying-Security-GettyImages-1425154697.jpg",
-        "Title": "US Official Warns a Cell Network Flaw Is Being Exploited for Spying",
-        "Source": "WIRED",
-        "Timestamp": "May 18, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/05/patch-tuesday-may-2024-edition/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
         "Title": "Patch Tuesday, May 2024 Edition",
@@ -197,10 +204,17 @@
     },
     {
         "Link": "https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/6647d6aeaef4cb09881cd0a2/3:2/w_1280%2Cc_limit/US-Official-Warns-a-Cell-Network-Flaw-Is-Being-Exploited-for-Spying-Security-GettyImages-1425154697.jpg",
+        "Title": "US Official Warns a Cell Network Flaw Is Being Exploited for Spying",
+        "Source": "WIRED",
+        "Timestamp": "May 11, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/tunnelvision-vpn-attack/",
         "Img_URL": "https://media.wired.com/photos/663e3bdc3aeee12d6ca9981b/3:2/w_1280%2Cc_limit/Security-Roundup-5-11-GettyImages-1484882668.jpg",
         "Title": "Microsoft Deploys Generative AI for US Spies",
         "Source": "WIRED",
-        "Timestamp": "May 11, 2024"
+        "Timestamp": "May 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cyber-army-of-russia-interview/",
@@ -392,16 +406,16 @@
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
+        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
+        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
+        "Title": "Identity Thief Lived as a Different Man for 33 Years",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
+        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
+        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
@@ -411,20 +425,6 @@
         "Title": "The Manipulaters\u2019 Improve Phishing, Still Fail at Opsec",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 03, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/jia-tan-xz-backdoor/",
-        "Img_URL": "https://media.wired.com/photos/660d9b183dcd47024015ca40/3:2/w_1280%2Cc_limit/P4x-Security-DVN_8879.jpeg",
-        "Title": "A Vigilante Hacker Took Down North Korea\u2019s Internet. Now He\u2019s Taking Off His Mask",
-        "Source": "WIRED",
-        "Timestamp": "Apr 03, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/yogurt-heist-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/660c78d0cf625ba36bc429b0/3:2/w_1280%2Cc_limit/The-Mystery-of-%25E2%2580%259CJia-Tan%2C%25E2%2580%259D-the-Persona-Behind-One-of-the-Stealthiest-Supply-Chain-Attacks-Security-GettyImages-596702519.jpg",
-        "Title": "The Mystery of \u2018Jia Tan,\u2019 the XZ Backdoor Mastermind",
-        "Source": "WIRED",
-        "Timestamp": "Mar 30, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/03/thread-hijacking-phishes-that-prey-on-your-curiosity/",
