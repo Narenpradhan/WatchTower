@@ -1,5 +1,47 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7-NCAN-dGf6yIhzebrJsNMPy9ug6Xg3CPtgCFfzrlE4b6BdgXjN6B8Mb-VPKth5PSi9lQOYwfOGRpi7D0GTLTp9-hjO6krIdzG7KQgUs9pII78GopvVU0L0P4D-FKdT0fVDDBlYgZb_ioOzSxZVMOR33vo1Wd20VTJOxFPQehTouLRJTeNKuPIBjH-WZS/s728-rw-e365/linux.png",
+        "Title": "CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68sqpj7J1OntdWt42pRoHyK6-JR_emWxyIKxr0X7jWweXsAkx8zHj719wmONSno2zrn6YVL8gdAw6g1FFpVCcyNjogusPvAKM_n1auqxns_qvHpmgf0Q9AYF4D6vV7V3MjEWSb2GG-0XSjDeXPQgbyz0yJb3XekG4Uj5XggMzBQ8NGAuSv0tMO1_HSe23/s728-rw-e365/exploit.png",
+        "Title": "FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-0tPvdVxLiudeZNkhmcVrIIDHzugII2J9cwrkd9Jgv1cJ4moSVi1w2Dz8eiMiPNZRkRS82-Vnx1tRkM9eI_NyyFn_onTi9ucCeGXr2pswPjtTyTDnF080T5zM7g5ArztT7Lc1w6Ipo5ywQNCtCJVZtg2tgOgYczSgxRjUb_FHhB6UHil0uKaAf0qVrFo/s728-rw-e365/ciscoc.png",
+        "Title": "Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/streamline-security-trust-center",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
+        "Title": "Webinar: How to streamline security reviews with Trust Center",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s728-rw-e365/palo.png",
+        "Title": "RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXZ2HjGB9ebgJZmTu8ttzfcvQqk6Q_tJfAPluUM8vIsgvMiO-qy1gZ7vCIykNtBYaq2PeijLVLEMWn9JIVP1umtNEVtbZ6HG3ZU5YB5LpyMnCRSoN5tiuCziANr0_SsvHus0CwHyh1ZstP1GYL9PWIjtlloGeBZE7Jsq4KzYBpewkBQwIXuLpgk5isl_4/s728-rw-e365/wordpress.png",
+        "Title": "Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqd-Bt372rNepYz42FLB-LvNX9Phw8o87pu3SNSxDhoEYIBYxxeCtBPDXkzyJk40KWwf6Shu_-CuSzgPzsMQ2TQfm6PZXdOuY3B6nhkNkKmJVkjDygqf_UULfwpCwPg4cAH07EygDAXZ8aQ86GWy-Y6uH_QpdRjKiHJt-_rMItzCJ713HvD-0V_Jofs8/s728-rw-e365/soc.png",
         "Title": "How to Build Your Autonomous SOC Strategy",
@@ -14,16 +56,16 @@
         "Timestamp": "May 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtTJDHXh0p8e0ZbpdErjrQtJBPACIlTd-duGYydpjgItjv0ukkR2BQO4UERyf_hHeNtLK_eFzgeEEV2DKHIb3wI2khx0jimQaXvIDUuD2ACrqQFbGT6o_yVeH7yU0lgixUSGdUR8kNyTK_fZBcfYAKWi93JtdKAcxyNAbEtDsCUAgF3GAB0WPVKdCY0K6/s728-rw-e365/map.png",
-        "Title": "U.S. Dismantles World's Largest 911 S5 Botnet, with 19 Million Infected Devices",
+        "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
+        "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
         "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/streamline-security-trust-center",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
-        "Title": "Webinar: How to streamline security reviews with Trust Center",
+        "Link": "https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtTJDHXh0p8e0ZbpdErjrQtJBPACIlTd-duGYydpjgItjv0ukkR2BQO4UERyf_hHeNtLK_eFzgeEEV2DKHIb3wI2khx0jimQaXvIDUuD2ACrqQFbGT6o_yVeH7yU0lgixUSGdUR8kNyTK_fZBcfYAKWi93JtdKAcxyNAbEtDsCUAgF3GAB0WPVKdCY0K6/s728-rw-e365/map.png",
+        "Title": "U.S. Dismantles World's Largest 911 S5 Botnet with 19 Million Infected Devices",
         "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
@@ -35,52 +77,59 @@
         "Timestamp": "May 30, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/05/is-your-computer-part-of-the-largest-botnet-ever/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/cloudrouter.png",
+        "Title": "Is Your Computer Part of \u2018The Largest Botnet Ever?\u2019",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "May 29, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpwYCtgh66IBPc9X1QdLiJ8pP1PFmwmzD94qTeS-FPqpgpdNRgAHCaf8evh6Y7j0XRjrb51Y_T0yw3bOgcj2gKCe73tuRFld6mEGKYQh1_NshybQVUI_LzFDA9uyr1zuI4gT5tn-ryUOzDh-I4UO9dwwPrz0utACFRjhBCamAuhSF3sENCX8XpBlJm8wIL/s728-rw-e365/py.png",
         "Title": "Cybercriminals Abuse Stack Overflow to Promote Malicious Python Package",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
+        "Timestamp": "May 29, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/check-point-warns-of-zero-day-attacks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOI-jglg40uIAChX9xJgkUT_xC8K5Nqhlft5HjvY9U0GGIG7BAi5LB4jGCWpYQ-3QUyw9x-NkjmI1-0HuKhe-KTFFrM_hZ1rRGPlVJoCT9ToJ73JYrtU8KqWsw9yvqk6nsQjKLrxotOfng4qGhcDrlzpLRh1vgAEjGMSVYnWXO0DStT4ZhlIo-ZNHJR3sI/s728-rw-e365/checkoint.png",
         "Title": "Check Point Warns of Zero-Day Attacks on its VPN Gateway Products",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
+        "Timestamp": "May 29, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/brazilian-banks-targeted-by-new.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2oN4wA3-1nzpUfMF9tGkFGhB-Vw3OkHXSml-BmnvgJUpF4ItSykgbTAbbQC9NPC77B-n-BRDpYQUHbdk0uI2hU8x5mY1rX03OEvR3w7w_H6DL3esp7vZ4NdtWiotWz3gYjKnebIhi2ozwZWjpoaW6cD6yEHkChlBBOJn4-v1gGa4WY1ZBBUx7Brme6R1k/s728-rw-e365/cyber.png",
         "Title": "Brazilian Banks Targeted by New AllaKore RAT Variant Called AllaSenha",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
+        "Timestamp": "May 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
-        "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
+        "Link": "https://thehackernews.uk/streamline-security-trust-center",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
+        "Title": "Webinar: How to streamline security reviews with Trust Center",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
+        "Timestamp": "May 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
+        "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
+        "Source": "The Hacker News",
+        "Timestamp": "May 29, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj69UMr98SgrEoosx71G77H-d6Rs62uPdULDSsFyYq_PCe8CaZSagT-XLr98qEelk7S3F_Iz-qOvJDhqWmq-2_N-RiGCT7fVqox-pY3pNMaf9FyvZh9WzBLnqx7BbP909uW1khXNqt8f7h3w2DL0W6RwrkT5VnmXs6MHI_CjAAthlHKCybhW39r1-QZG-Rp/s728-rw-e365/email.png",
         "Title": "U.S. Sentences 31-Year-Old to 10 Years for Laundering $4.5M in Email Scams",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
+        "Timestamp": "May 29, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/new-research-warns-about-weak.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXfoyEXUL9II97PV3yBAiAUjOzPc0b977O1_v93RFRl4vqmTOr0YWt75NA8SqR5nOVG2ooZCpBwMIhSuvrDNjajg9i2q5Q0N6G4q4XYuoHu-L3VAYwJjfHm8fM-wD4b4pRxwjLGBZ3PgiLcy5Y9TPGc-W1_FCrQf10wu3yIe4NjpBtNtM9XZQuKqhktmQt/s728-rw-e365/saas.png",
         "Title": "New Research Warns About Weak Offboarding Management and Insider Risks",
         "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/05/is-your-computer-part-of-the-largest-botnet-ever/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/cloudrouter.png",
-        "Title": "Is Your Computer Part of \u2018The Largest Botnet Ever?\u2019",
-        "Source": "KrebsonSecurity",
         "Timestamp": "May 29, 2024"
     },
     {
@@ -105,58 +154,9 @@
         "Timestamp": "May 29, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/streamline-security-trust-center",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
-        "Title": "Webinar: How to streamline security reviews with Trust Center",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC669QJNpXuaZYmUdnfGzSzK0EuseqIbFSAoHPjbJT4wqpuBgJOCWawvnQTfQwJEp7zYNFKUNVLFkt1A4DlrhyyhiQXASB27EvYAgw9QdOnc8ijM9fLfmSh80bKp9LXFv_Or1nlkET3JktZxky4PlOBHMNugObZ07lzDBXO40xK9bogewJ_VCXYMY7TWw/s728-rw-e365/main.png",
-        "Title": "Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
         "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/researchers-warn-of-catddos-botnet-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigZXVtGUSVvV8Jv6AnEy0frBzR74Wt67u-MPmYbpVqickJtmz434_SfBG5DIVJCtQxoCPB-uySRQiXscRqa8Ute79cLxY9Hee9SFD0Fz7p6kTTDEndJwJ-mCOyIqkF83mNVE8qK7gF20CIrtsNx8kyiAFlPREiAztF7nUryZJ75L_LmBVpgkaC-Wd7gepk/s728-rw-e365/cat-ddos.png",
-        "Title": "Researchers Warn of CatDDoS Botnet and DNSBomb DDoS Attack Technique",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/wordpress-plugin-exploited-to-steal.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi38V16zql2ja6zNWjM4W_rywY1frkN1JYEhwv0F26N7hFS6koTLKYkhlYoyMW9OOnZpKAFyB-Adka8gulX-D9Hs2Td9SN_jBc7Ajd8aGfMxb7t7eM6lIYWSBy5iro6rfCvJGp4iSEE87xA-BHuxkKrox7Q4oFl0NJvqql7HolqjOBpzc1TJNXMhM5QAyAy/s728-rw-e365/data.png",
-        "Title": "WordPress Plugin Exploited to Steal Credit Card Data from E-commerce Sites",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/tp-link-gaming-router-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqlQtomqZWVty8-Aa9VmhtXqOXgNI8-sDMl4i9lRQU_sQJup7Mutw8617WAZ2JgnKYxSmvgJIY9S8ZW7YfN2DU4EWUWh3wvYyvdwvx-HFcAtBryNPcxh1UTw9Y8-xAA_DGO1vDrmnxBsow20lIG3Svf1FF3E9KXpeBv2JGIX0pLsw5d1qPel_jCmahepl/s728-rw-e365/router.jpg",
-        "Title": "TP-Link Gaming Router Vulnerability Exposes Users to Remote Code Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Pp-B9n0oLyoWt3WiCPxOpa8Lqsuh6ZIkGPQYwM510J4dhf8nBIZkNrmwvj_Ip-On1zfagGJWuy05PKHeiDKRjOASKQhhv_AGP-L1mRyElX5LNESQ2W90z-cCRzpU1LiN7rfZQCFnN34KQip3gmtHn0N2pKqGPtygvbnui2KTLzHBADCyU68h80aR-gKu/s728-rw-e365/gift-card.png",
-        "Title": "Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud",
-        "Source": "The Hacker News",
-        "Timestamp": "May 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk2dBGe5R5Hq5UhFoaG6DITVPuLDiriZEbXMTke95UC9APcM7IX_LB0hS-7LvB6CY-GLDmc1-CjpuQwooq2DvkB867vQeAgMwwWiwc8-mqNihnSTQWkVTmp0tywgLje94tn9d705buAhNzMwm2MPpGyQCCD0luYO7w5i04e6HCZm1doqZbtJ_xB0rIvg/s728-rw-e365/layerx.png",
-        "Title": "Report: The Dark Side of Phishing Protection",
         "Source": "The Hacker News",
         "Timestamp": "May 29, 2024"
     },
@@ -278,6 +278,13 @@
         "Title": "Man Who Mass-Extorted Psychotherapy Patients Gets Six Years",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 30, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2018/05/locationtracking.jpg",
+        "Title": "FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 29, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/",
@@ -446,12 +453,5 @@
         "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
         "Source": "KrebsonSecurity",
         "Timestamp": "Mar 28, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/patelpass.png",
-        "Title": "Recent \u2018MFA Bombing\u2019 Attacks Targeting Apple Users",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Mar 26, 2024"
     }
 ]
