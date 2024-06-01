@@ -1,86 +1,100 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKgULChR4YXP1kdJMi9DcpuuPel-a1bikg5-h5bYwwEPJw5HHCVMRBs9CR3E9Ze_cJa4KSL9PHU1at2o42UFxQK_4bXBg5Q-86lapp9rpTfkqfK2XVGyIupaS-b80oPJ731c9_VIj-cB9cNBs-mdEk_pxVKV6DsGUHalxF8PUyKd3OIQvmaLJg9GT8BXpH/s728-rw-e365/ai.png",
+        "Title": "AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4qNrTWSCWvP6osbw_wVN0Ha4-mI_pulRm75k2EYj6D3Emw7umiMnKa1TdwJQhBmfFD4QocAmje6AS2_zaIsgAJsRGflKl2NFn10y_T_LyczAYc8Leul9U_hrX1ki9lOGWzYVWFqMjfba2IlgTOrZIyokIMJWMd6ppj0Q3IC-UylP6X7kxA-R2v5PDwg4/s728-rw-e365/soho.png",
         "Title": "Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhr0XVPZUAeGKXtjMGHPkiYeINtEq0FNhhJQW226VK-A674Dw-CfCTP7Im6Glf-vD-jHbB-j0sC9i3HkIw2vPExTCLy8tiyfcuramj9hPmhvVOE_nn1IlSN0crVAHVNMZ72Qi5SOsfnXGwoewakcdKooqJPwWfzQXY7_UZlDLdeWUocJavZu5YPEDK7Wcm/s728-rw-e365/OT.png",
         "Title": "Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/saas-security-survey-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
+        "Title": "Protecting Your Saas Stack from Cyber Threats - What Works and What Doesn't",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQfJORxM3H7gDSbEZjVJ_HOTsUo1uVubnjgsRL4cFpgP3GYLqb_bAYVi1K7-G7rTzTvZodMpb_0YrJb0Ptj7oj7IMtcGJW55PYXONMpNyzXrux3c_SY7se_tSUps8ZnDOS76Me6NG3tDBc19s0OEdFLHiuL1ore5UeTR9ZNDt3YtnRxxvXgzYmDvdP2e92/s728-rw-e365/td.png",
         "Title": "Beyond Threat Detection \u2013 A Race to Digital Security ",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/streamline-security-trust-center",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
-        "Title": "Webinar: How to streamline security reviews with Trust Center",
-        "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqgDqbirJixJ8up6WN4btsQDXxoXl5eP-SzYw9jfSLVvz0g49uQ0t8hBw9zYe4L5KxopvZ6dFhCLs-UurcJtaC_aod6IH4grzzTNMdf3E2VNwtbyMLADZ83Ypw5YvJssC00RFn1YS9ZoOEtgBOvdERJwSSSAGfq2J9Fyx830vF4Vb0P5fZxoUfzlPyAEKe/s728-rw-e365/rf.png",
         "Title": "Russian Hackers Target Europe with HeadLace Malware and Credential Harvesting",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5-pH21k_7cYuZTaoeofb6WLIuWeXgA_Vmol8YIFLvCeygbQE4QpkgQJ7Vw4ILOx9Mq6E8SwAzHZW_CSFhao1tL0F9rpzGDVCq5QmuIZkm5EEcxuy4eXFfkw9uv4lX2tzYU3wBW4tfeYvCvJQ4EOjNpxQ8pr7ScNZX5UtMIp-Fad6-VYrrrZgajF5SFhv3/s728-rw-e365/fake-news.png",
         "Title": "OpenAI, Meta, and TikTok Crack Down on Covert Influence Campaigns, Some AI-Powered",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7-NCAN-dGf6yIhzebrJsNMPy9ug6Xg3CPtgCFfzrlE4b6BdgXjN6B8Mb-VPKth5PSi9lQOYwfOGRpi7D0GTLTp9-hjO6krIdzG7KQgUs9pII78GopvVU0L0P4D-FKdT0fVDDBlYgZb_ioOzSxZVMOR33vo1Wd20VTJOxFPQehTouLRJTeNKuPIBjH-WZS/s728-rw-e365/linux.png",
         "Title": "CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68sqpj7J1OntdWt42pRoHyK6-JR_emWxyIKxr0X7jWweXsAkx8zHj719wmONSno2zrn6YVL8gdAw6g1FFpVCcyNjogusPvAKM_n1auqxns_qvHpmgf0Q9AYF4D6vV7V3MjEWSb2GG-0XSjDeXPQgbyz0yJb3XekG4Uj5XggMzBQ8NGAuSv0tMO1_HSe23/s728-rw-e365/exploit.png",
-        "Title": "FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine",
-        "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
         "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68sqpj7J1OntdWt42pRoHyK6-JR_emWxyIKxr0X7jWweXsAkx8zHj719wmONSno2zrn6YVL8gdAw6g1FFpVCcyNjogusPvAKM_n1auqxns_qvHpmgf0Q9AYF4D6vV7V3MjEWSb2GG-0XSjDeXPQgbyz0yJb3XekG4Uj5XggMzBQ8NGAuSv0tMO1_HSe23/s728-rw-e365/exploit.png",
+        "Title": "FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-0tPvdVxLiudeZNkhmcVrIIDHzugII2J9cwrkd9Jgv1cJ4moSVi1w2Dz8eiMiPNZRkRS82-Vnx1tRkM9eI_NyyFn_onTi9ucCeGXr2pswPjtTyTDnF080T5zM7g5ArztT7Lc1w6Ipo5ywQNCtCJVZtg2tgOgYczSgxRjUb_FHhB6UHil0uKaAf0qVrFo/s728-rw-e365/ciscoc.png",
         "Title": "Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors",
         "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s728-rw-e365/palo.png",
-        "Title": "RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "May 31, 2024"
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/endgamestill.png",
         "Title": "Operation Endgame\u2019 Hits Malware Delivery Platforms",
         "Source": "KrebsonSecurity",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s728-rw-e365/palo.png",
+        "Title": "RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability",
+        "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
     {
@@ -98,16 +112,9 @@
         "Timestamp": "May 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s728-rw-e365/malware.png",
-        "Title": "Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/streamline-security-trust-center",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6e6Qdt8uK7yz2n2hEUaRyIVNUEcirQ5HGVHLSHJf1c8mrWGEp2bN_Zs4ahY46zZJrXsGECCxx-zW5Vytv26T_V9XUc7kP0MqLnwogbfnW4eDObn0xt4eapumrORLWQGHDH06nPWe-i2knFteVE8olfUfU4W38HevvGKAHf9_Mu_lUu-bVIsHTA_I26flS/s728-e365/vanta.png",
-        "Title": "Webinar: How to streamline security reviews with Trust Center",
+        "Link": "https://thehackernews.uk/saas-security-survey-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
+        "Title": "Protecting Your Saas Stack from Cyber Threats - What Works and What Doesn't",
         "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
@@ -115,6 +122,13 @@
         "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
         "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
+        "Source": "The Hacker News",
+        "Timestamp": "May 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s728-rw-e365/malware.png",
+        "Title": "Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware",
         "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
@@ -154,13 +168,6 @@
         "Timestamp": "May 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj69UMr98SgrEoosx71G77H-d6Rs62uPdULDSsFyYq_PCe8CaZSagT-XLr98qEelk7S3F_Iz-qOvJDhqWmq-2_N-RiGCT7fVqox-pY3pNMaf9FyvZh9WzBLnqx7BbP909uW1khXNqt8f7h3w2DL0W6RwrkT5VnmXs6MHI_CjAAthlHKCybhW39r1-QZG-Rp/s728-rw-e365/email.png",
-        "Title": "U.S. Sentences 31-Year-Old to 10 Years for Laundering $4.5M in Email Scams",
-        "Source": "The Hacker News",
-        "Timestamp": "May 30, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/05/is-your-computer-part-of-the-largest-botnet-ever/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/cloudrouter.png",
         "Title": "Is Your Computer Part of \u2018The Largest Botnet Ever?\u2019",
@@ -175,13 +182,6 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
-        "Source": "WIRED",
-        "Timestamp": "May 28, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
         "Img_URL": "https://media.wired.com/photos/6650ec054c9f60ff213aba42/3:2/w_1280%2Cc_limit/Cops-Are-Just-Trolling-Cybercriminals-Now-GettyImages-151575564.jpg",
         "Title": "Cops Are Just Trolling Cybercriminals Now",
@@ -189,11 +189,11 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/6650c08051f80bee475844a9/3:2/w_1280%2Cc_limit/Microsoft-AI-Screenshots-Security-GettyImages-2060937751.jpg",
-        "Title": "Microsoft\u2019s New Recall AI Tool May Be a \u2018Privacy Nightmare\u2019",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
-        "Timestamp": "May 25, 2024"
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/",
@@ -208,6 +208,13 @@
         "Title": "Why Your Wi-Fi Router Doubles as an Apple AirTag",
         "Source": "KrebsonSecurity",
         "Timestamp": "May 21, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/",
+        "Img_URL": "https://media.wired.com/photos/6650c08051f80bee475844a9/3:2/w_1280%2Cc_limit/Microsoft-AI-Screenshots-Security-GettyImages-2060937751.jpg",
+        "Title": "Microsoft\u2019s New Recall AI Tool May Be a \u2018Privacy Nightmare\u2019",
+        "Source": "WIRED",
+        "Timestamp": "May 18, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/patch-tuesday-may-2024-edition/",
@@ -430,13 +437,6 @@
         "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
         "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
         "Title": "Identity Thief Lived as a Different Man for 33 Years",
-        "Source": "WIRED",
-        "Timestamp": "Apr 04, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
-        "Img_URL": "https://media.wired.com/photos/660c8c5f4a215f6b511f3fc4/3:2/w_1280%2Cc_limit/business_tiktok_whistleblower_bytedance_china.jpg",
-        "Title": "A TikTok Whistleblower Got DC\u2019s Attention. Do His Claims Add Up?",
         "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
