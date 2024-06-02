@@ -56,9 +56,9 @@
         "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
-        "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
+        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
+        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
         "Source": "The Hacker News",
         "Timestamp": "Jun 01, 2024"
     },
@@ -74,6 +74,13 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP-0tPvdVxLiudeZNkhmcVrIIDHzugII2J9cwrkd9Jgv1cJ4moSVi1w2Dz8eiMiPNZRkRS82-Vnx1tRkM9eI_NyyFn_onTi9ucCeGXr2pswPjtTyTDnF080T5zM7g5ArztT7Lc1w6Ipo5ywQNCtCJVZtg2tgOgYczSgxRjUb_FHhB6UHil0uKaAf0qVrFo/s728-rw-e365/ciscoc.png",
         "Title": "Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors",
         "Source": "The Hacker News",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
     {
@@ -119,9 +126,9 @@
         "Timestamp": "May 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s728-rw-e365/ad.jpg",
-        "Title": "The Ultimate SaaS Security Posture Management Checklist, 2025 Edition",
+        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
+        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
         "Source": "The Hacker News",
         "Timestamp": "May 30, 2024"
     },
@@ -189,11 +196,11 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Link": "https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/6650ec054c9f60ff213aba42/3:2/w_1280%2Cc_limit/Cops-Are-Just-Trolling-Cybercriminals-Now-GettyImages-151575564.jpg",
         "Title": "Cops Are Just Trolling Cybercriminals Now",
         "Source": "WIRED",
-        "Timestamp": "May 28, 2024"
+        "Timestamp": "May 25, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/",
@@ -431,13 +438,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/privnotedotcom.png",
         "Title": "Fake Lawsuit Threat Exposes Privnote Phishing Sites",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 04, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/",
-        "Img_URL": "https://media.wired.com/photos/66104192c874bfc82b991645/3:2/w_1280%2Cc_limit/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg",
-        "Title": "Identity Thief Lived as a Different Man for 33 Years",
-        "Source": "WIRED",
         "Timestamp": "Apr 04, 2024"
     },
     {
