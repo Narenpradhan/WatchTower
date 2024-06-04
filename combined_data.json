@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH8ZcmW9-GH3xeOuEbhWBdb9ccMATnVsBt-PD08_sU44QXp5ULH-TaKlY5RPOlCEgMyMRg7popHFf3YOeN3O0a8-DkFOT7PvFqHlw2oENwN3cpRRc8_Yp5f392iQKwXI_3HenCWBrV5N0i7SromtDghHdFL9JpFz0kHJ_sfbaMbkWg_N-ewSdb0LgZxA1g/s728-rw-e365/dns.png",
+        "Title": "Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaM1LE9n3qROvBSorrBTbFcptnHtKJCoZeJVRcwQjBA_AJ3bHMKvPiGuOK6v0bQgnTs8Lg860LD64Sjt46AuhiAQN4Sc5TGrd5CRYmSctaWInFIBLr95wME5yVmMCHHPnEK2tp-i7l6rZGVALSq0isdOwZX8pF7GkwsIPxb-EyRsBnXrLGoh0B7dWN1OKg/s728-rw-e365/server.png",
+        "Title": "Telerik Report Server Flaw Could Let Attackers Create Rogue Admin Accounts",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 04, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
         "Title": "The Next Generation of RBI (Remote Browser Isolation)",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/saas-security-survey-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
+        "Title": "Managing SaaS Security: What's Your Maturity Level?",
         "Source": "The Hacker News",
         "Timestamp": "Jun 04, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/saas-security-survey-2025",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
-        "Title": "Managing SaaS Security: What's Your Maturity Level?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishjOkrK3ROB0d6Owa1fCLFT7tsmozFuBOdXX0-c5JKRAq5Q4BXu1kMJ9UY_XGQmDOzfyx8mwOYr7I4FIwao9ayc1kPPA2W1kC5tFONEDSrogiNtLeqNxVUHU_QjYTd91xZnYLp_Z5Yl1AEbVwKnZerlITiFiMxMm_wvMNPk4SO9RKBoVUJUw1_q11uCtk/s728-rw-e365/hacking.png",
         "Title": "DarkGate Malware Replaces AutoIt with AutoHotkey in Latest Cyber Attacks",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s728-rw-e365/oracle.png",
         "Title": "Oracle WebLogic Server OS Command Injection Flaw Under Active Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
+        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
         "Source": "The Hacker News",
         "Timestamp": "Jun 04, 2024"
     },
@@ -56,10 +77,10 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
-        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
     {
@@ -67,33 +88,19 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKUnhLKV8Pw3heXnjZKfbTgU49Btg2FrTkNSx3CmpVHtgSOqn30crp2C7kChaI-ni450DPoF1b5gkPWEC3eo7gFMSqxwvs_C0LU0azPOnQEBFkeNytV6Pwo44kRI-V8Ufo1inQZCwuFOe_icNJYjGnekpnDFxrG9f2XQ0Beh-zuIGPJxpfyd6t7SosavI/s728-rw-e365/cato.png",
         "Title": "SASE Threat Report: 8 Key Findings for Enterprise Security",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
+        "Timestamp": "Jun 03, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8H0awcoASV3yCM5biiNRsoGFEWfonHzO4ySQ8c6-4o6pH9e3HJ89FRrtvtIAQ5r0td1bNz3eRR83t2VEt2aIU3_Flb9hSQ2dsEX7mfEgX2d4WQXsSHFPDOd1rI2WOE1ulzDGUyn_t-8Vnz6NSm04nx0InEJBHFOxBg3Pux-GsCYpSYcKrGXPX2rJDSvrU/s728-rw-e365/router.png",
         "Title": "Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
+        "Timestamp": "Jun 03, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW655hLoE7NqzdNqGqd0C7qVOMMyfShvNxQn11B3tDLE7-B3wY_vRCfzMTxKsNBfxez-WrZ73ZArdU-2GgZ2MsRnYxW_ascsZUlDZkEznpO3p1lmFfDwHqVOCI0bKTM2YiRt6IsULtp01VDH2XycRYw2_y-XIvkDgSJiV9-9KCVLXUcNFfbaznlhhl32S4/s728-rw-e365/malware.png",
         "Title": "Andariel Hackers Target South Korean Institutes with New Dora RAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKynwA1Unlh255wogi4h-oo-kzjvh0GJgqXCXWyaNtqCacWG-fZG5lzs3pLZvQtK6Z6H4gbGt_kwJz_TXxtK0hcAgSNGchj4NfvNKqbh-yc3V22s0tVTek3Z25jSXeoEwXolUK3utctfix6CurMrtu2WsHfSZiTdFokED-acRbkSInHNFC8JHVO9S9fs1m/s728-rw-e365/browser.png",
-        "Title": "Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKgULChR4YXP1kdJMi9DcpuuPel-a1bikg5-h5bYwwEPJw5HHCVMRBs9CR3E9Ze_cJa4KSL9PHU1at2o42UFxQK_4bXBg5Q-86lapp9rpTfkqfK2XVGyIupaS-b80oPJ731c9_VIj-cB9cNBs-mdEk_pxVKV6DsGUHalxF8PUyKd3OIQvmaLJg9GT8BXpH/s728-rw-e365/ai.png",
-        "Title": "AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform",
         "Source": "The Hacker News",
         "Timestamp": "Jun 03, 2024"
     },
@@ -108,6 +115,20 @@
         "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
         "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKynwA1Unlh255wogi4h-oo-kzjvh0GJgqXCXWyaNtqCacWG-fZG5lzs3pLZvQtK6Z6H4gbGt_kwJz_TXxtK0hcAgSNGchj4NfvNKqbh-yc3V22s0tVTek3Z25jSXeoEwXolUK3utctfix6CurMrtu2WsHfSZiTdFokED-acRbkSInHNFC8JHVO9S9fs1m/s728-rw-e365/browser.png",
+        "Title": "Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKgULChR4YXP1kdJMi9DcpuuPel-a1bikg5-h5bYwwEPJw5HHCVMRBs9CR3E9Ze_cJa4KSL9PHU1at2o42UFxQK_4bXBg5Q-86lapp9rpTfkqfK2XVGyIupaS-b80oPJ731c9_VIj-cB9cNBs-mdEk_pxVKV6DsGUHalxF8PUyKd3OIQvmaLJg9GT8BXpH/s728-rw-e365/ai.png",
+        "Title": "AI Company Hugging Face Detects Unauthorized Access to Its Spaces Platform",
         "Source": "The Hacker News",
         "Timestamp": "Jun 03, 2024"
     },
@@ -140,30 +161,16 @@
         "Timestamp": "Jun 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5-pH21k_7cYuZTaoeofb6WLIuWeXgA_Vmol8YIFLvCeygbQE4QpkgQJ7Vw4ILOx9Mq6E8SwAzHZW_CSFhao1tL0F9rpzGDVCq5QmuIZkm5EEcxuy4eXFfkw9uv4lX2tzYU3wBW4tfeYvCvJQ4EOjNpxQ8pr7ScNZX5UtMIp-Fad6-VYrrrZgajF5SFhv3/s728-rw-e365/fake-news.png",
-        "Title": "OpenAI, Meta, and TikTok Crack Down on Covert Influence Campaigns, Some AI-Powered",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7-NCAN-dGf6yIhzebrJsNMPy9ug6Xg3CPtgCFfzrlE4b6BdgXjN6B8Mb-VPKth5PSi9lQOYwfOGRpi7D0GTLTp9-hjO6krIdzG7KQgUs9pII78GopvVU0L0P4D-FKdT0fVDDBlYgZb_ioOzSxZVMOR33vo1Wd20VTJOxFPQehTouLRJTeNKuPIBjH-WZS/s728-rw-e365/linux.png",
-        "Title": "CISA Alerts Federal Agencies to Patch Actively Exploited Linux Kernel Flaw",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 03, 2024"
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
-        "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -189,7 +196,7 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
         "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
         "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
@@ -336,16 +343,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
@@ -425,13 +432,6 @@
         "Title": "Change Healthcare Faces Another Ransomware Threat\u2014and It Looks Credible",
         "Source": "WIRED",
         "Timestamp": "Apr 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/",
-        "Img_URL": "https://media.wired.com/photos/661076ef36eb33ece4690cb6/3:2/w_1280%2Cc_limit/040524-GEAR-AI-fake-calls-2x1.jpg",
-        "Title": "How to Protect Yourself (and Your Loved Ones) From AI Scam Calls",
-        "Source": "WIRED",
-        "Timestamp": "Apr 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/",
