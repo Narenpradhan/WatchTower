@@ -77,6 +77,13 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
+        "Source": "WIRED",
+        "Timestamp": "Jun 04, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
         "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
         "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
@@ -161,13 +168,6 @@
         "Timestamp": "Jun 03, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
-        "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
@@ -199,6 +199,13 @@
         "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
         "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
         "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Source": "WIRED",
+        "Timestamp": "May 28, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
@@ -343,16 +350,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
@@ -425,13 +432,6 @@
         "Title": "April\u2019s Patch Tuesday Brings Record Number of Fixes",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/how-to-protect-yourself-ai-scam-calls-detect/",
-        "Img_URL": "https://media.wired.com/photos/66194e33b6dbceed427548e2/3:2/w_1280%2Cc_limit/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg",
-        "Title": "Change Healthcare Faces Another Ransomware Threat\u2014and It Looks Credible",
-        "Source": "WIRED",
-        "Timestamp": "Apr 08, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/",
