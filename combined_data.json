@@ -1,38 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM4DNz5tdSeHXIrC4JzPseSDf7tBvSPRxTJEhfQBaB6UsWf38cZ-w0PU9vPd6nMbj_6RwwEdkL9okCR5gHLaMZpmu4pykUKVxLbMMl_9FGVkeLEIQS-LN0wtozjKVhxOJ2GHSBecros2GEWKkPkMI0y2O7XGIcBzj49565q8B6a6Ii9Lyd_9CHg7PDKNW7/s728-rw-e365/net.png",
-        "Title": "Chinese State-Backed Cyber Espionage Targets Southeast Asian Government",
+        "Link": "https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s728-rw-e365/hacking.png",
+        "Title": "Third-Party Cyber Attacks: The Threat No One Sees Coming \u2013 Here's How to Stop Them",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 05, 2024"
+        "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6ZN1CZ080DzqQRxiz2-AnPnjKABBQlXe71f1iwhiz6Uqxk80fpYili5hUSP3uiMBsw7GmhEPSNzSVEB7f_GXUwNXGrQBkbc9YKzTJX63ELwbtf2_o8lma1QLnpxJX1HSictno7QAe-D6Sqc4_epaOf6KZzqpZ4H0TY9e9Q7PeWNwu2JAyL-9oL1-o0c/s728-rw-e365/wing.png",
-        "Title": "Unpacking 2024's SaaS Threat Predictions",
+        "Link": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFN-Tl11nEwb1NHJor09V-vh76L4XkhcimjHqaCbqCat0n8WtB_WeKt7TklB6RxnxFIVQZ7syKstwg1-bZbeuve-EXR4XiF0XXXVhErzqzrDNOQJeVuvRqbSmatcMqbYPaLzxMEEDgKwNMBsgwU_XZ-QJQdaQNYLUBf8lQNf9ad24QfLddrnFaPD6cKz8/s728-rw-e365/main.png",
+        "Title": "Prevent Account Takeover with Better Password Security",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 05, 2024"
+        "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0GWhGvfWpTDP_c-1Pa-DdvPVk48Q0EJHp7z3AglbDBGPKmtZna90MnHJ33lLz9tQ8cYQsGpSYFD6bpIoV1yJxjvrAfUDLw9f6YVog3G3uyv_HRr_1qvnpiK0evFZcll0CD_sUk7KRNoIUDDSRvl7YqPE5puEYr3sJIpzfxD9ErQ6uUrx_rqjAAone2VHF/s728-rw-e365/healthcase.png",
-        "Title": "Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide",
+        "Link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s728-rw-e365/malware-detection.png",
+        "Title": "Hackers Exploit Legitimate Packer Software to Spread Malware Undetected",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 05, 2024"
+        "Timestamp": "Jun 06, 2024"
     },
     {
         "Link": "https://thehackernews.uk/saas-security-survey-2025",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
         "Title": "Managing SaaS Security: What's Your Maturity Level?",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 05, 2024"
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd0gj3EfesRLbqd1fEZAI1ZV-uYFreCGOkuRZMe51jSGDYha2xh69re8tAbfW0wJDSCNBhU6sjWWwkE5a9uyCUDFsmV10vnykyyGMwePtw_JnkVJ5H3xcCd_vKi3VEh4DPLIQhJCZ3VOmLehWRhM4R2xi9xrJ2pHl_0XaNoFfXpsECRqLuysMtLIDHTXOv/s728-rw-e365/google.png",
+        "Title": "Google Maps Timeline Data to be Stored Locally on Your Device for Privacy",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/hackers-target-python-developers-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUogY574S3HAfzMcUXlKzjKN0VDRPmV9nu_tKFHkqrQrUXKU5eCFCVtEz5q0vwYbf3uwA5-7CEqnktx7Z8ge2981E1qjAjGE_wI7kzKO46glPWMHhHEGtHRHFtqH4WO1mEmUpRC1tLNa37HejyBZwJ646XL14FFhSvNe_y2m8nwKEJfqGkbhATm2UZNimC/s728-rw-e365/python.png",
+        "Title": "Hackers Target Python Developers with Fake \"Crytic-Compilers\" Package on PyPI",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM4DNz5tdSeHXIrC4JzPseSDf7tBvSPRxTJEhfQBaB6UsWf38cZ-w0PU9vPd6nMbj_6RwwEdkL9okCR5gHLaMZpmu4pykUKVxLbMMl_9FGVkeLEIQS-LN0wtozjKVhxOJ2GHSBecros2GEWKkPkMI0y2O7XGIcBzj49565q8B6a6Ii9Lyd_9CHg7PDKNW7/s728-rw-e365/net.png",
+        "Title": "Chinese State-Backed Cyber Espionage Targets Southeast Asian Government",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6ZN1CZ080DzqQRxiz2-AnPnjKABBQlXe71f1iwhiz6Uqxk80fpYili5hUSP3uiMBsw7GmhEPSNzSVEB7f_GXUwNXGrQBkbc9YKzTJX63ELwbtf2_o8lma1QLnpxJX1HSictno7QAe-D6Sqc4_epaOf6KZzqpZ4H0TY9e9Q7PeWNwu2JAyL-9oL1-o0c/s728-rw-e365/wing.png",
+        "Title": "Unpacking 2024's SaaS Threat Predictions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqd-Bt372rNepYz42FLB-LvNX9Phw8o87pu3SNSxDhoEYIBYxxeCtBPDXkzyJk40KWwf6Shu_-CuSzgPzsMQ2TQfm6PZXdOuY3B6nhkNkKmJVkjDygqf_UULfwpCwPg4cAH07EygDAXZ8aQ86GWy-Y6uH_QpdRjKiHJt-_rMItzCJ713HvD-0V_Jofs8/s728-rw-e365/soc.png",
+        "Title": "How to Build Your Autonomous SOC Strategy",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0GWhGvfWpTDP_c-1Pa-DdvPVk48Q0EJHp7z3AglbDBGPKmtZna90MnHJ33lLz9tQ8cYQsGpSYFD6bpIoV1yJxjvrAfUDLw9f6YVog3G3uyv_HRr_1qvnpiK0evFZcll0CD_sUk7KRNoIUDDSRvl7YqPE5puEYr3sJIpzfxD9ErQ6uUrx_rqjAAone2VHF/s728-rw-e365/healthcase.png",
+        "Title": "Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCSeMxnwYp91ki-sYP1KK7ySdEhj9Av_tFh5VsIIlrjnjVgpVxTL3gJ8SRbGcyOPJViTlzBFTlJ6R8mpdzUemoNQpMPUgVeiEfOq80fDpSOIVySQx_K4xdEX1tbuq_XEBS2SVvyvKSDRbaiP6zsJeMPWTOAUk_68e9Nj0_iZ2JB62CzET-RRKZOhwU7CpY/s728-rw-e365/nas.png",
         "Title": "Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 05, 2024"
+        "Timestamp": "Jun 06, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html",
@@ -56,9 +98,16 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
-        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
+        "Link": "https://thehackernews.uk/saas-security-survey-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
+        "Title": "Managing SaaS Security: What's Your Maturity Level?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqd-Bt372rNepYz42FLB-LvNX9Phw8o87pu3SNSxDhoEYIBYxxeCtBPDXkzyJk40KWwf6Shu_-CuSzgPzsMQ2TQfm6PZXdOuY3B6nhkNkKmJVkjDygqf_UULfwpCwPg4cAH07EygDAXZ8aQ86GWy-Y6uH_QpdRjKiHJt-_rMItzCJ713HvD-0V_Jofs8/s728-rw-e365/soc.png",
+        "Title": "How to Build Your Autonomous SOC Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jun 05, 2024"
     },
@@ -77,6 +126,34 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/06/snowflake-warns-targeted-credential.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1mOI96vn5grs6MtGXXwRqwEnZGZrydkm-gNI7nHzfQxXK9VU7UCEep3rPz51nfMilDVit25MOynPvcfwISQqdWQiDnqtrp8dB5uMZqv_FbMfoLnjSShs6d8qUTYkS6eCXNMS2XxnOqClnbWLBWEYe0Qf7Wl-wLKJOt2cAIDC6nBwzjwKLeIeNL5qsHuD/s728-rw-e365/password.png",
+        "Title": "Snowflake Warns: Targeted Credential Theft Campaign Hits Cloud Customers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishjOkrK3ROB0d6Owa1fCLFT7tsmozFuBOdXX0-c5JKRAq5Q4BXu1kMJ9UY_XGQmDOzfyx8mwOYr7I4FIwao9ayc1kPPA2W1kC5tFONEDSrogiNtLeqNxVUHU_QjYTd91xZnYLp_Z5Yl1AEbVwKnZerlITiFiMxMm_wvMNPk4SO9RKBoVUJUw1_q11uCtk/s728-rw-e365/hacking.png",
+        "Title": "DarkGate Malware Replaces AutoIt with AutoHotkey in Latest Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s728-rw-e365/oracle.png",
+        "Title": "Oracle WebLogic Server OS Command Injection Flaw Under Active Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s728-rw-e365/npm.png",
+        "Title": "Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 05, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
         "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
@@ -84,93 +161,16 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/snowflake-warns-targeted-credential.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1mOI96vn5grs6MtGXXwRqwEnZGZrydkm-gNI7nHzfQxXK9VU7UCEep3rPz51nfMilDVit25MOynPvcfwISQqdWQiDnqtrp8dB5uMZqv_FbMfoLnjSShs6d8qUTYkS6eCXNMS2XxnOqClnbWLBWEYe0Qf7Wl-wLKJOt2cAIDC6nBwzjwKLeIeNL5qsHuD/s728-rw-e365/password.png",
-        "Title": "Snowflake Warns: Targeted Credential Theft Campaign Hits Cloud Customers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishjOkrK3ROB0d6Owa1fCLFT7tsmozFuBOdXX0-c5JKRAq5Q4BXu1kMJ9UY_XGQmDOzfyx8mwOYr7I4FIwao9ayc1kPPA2W1kC5tFONEDSrogiNtLeqNxVUHU_QjYTd91xZnYLp_Z5Yl1AEbVwKnZerlITiFiMxMm_wvMNPk4SO9RKBoVUJUw1_q11uCtk/s728-rw-e365/hacking.png",
-        "Title": "DarkGate Malware Replaces AutoIt with AutoHotkey in Latest Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s728-rw-e365/oracle.png",
-        "Title": "Oracle WebLogic Server OS Command Injection Flaw Under Active Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/saas-security-survey-2025",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs_Qaw5E4P413YhMZ3vbM8wM1xSMfq3gJ5MKPCf8m5dC3ZMl9wB6BJKLOBSa2f-Hsg36mEUQi3LM_FlhfIBhy9lntpJrKQQkC06ZUVC2PEcKdbs6IesBj_NFgiO4Xf2rcFfYwnYctMIv6a4UAkabo1k5G_Mt3DUTj3u72RCg1TACQlF-Y0B5BNg4qkTNzf/s728-e365/thn.png",
-        "Title": "Managing SaaS Security: What's Your Maturity Level?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmScmMuAAFtAX9Zy8B3N4TInCEmeZtaRH_o6npQ5vvi_E_tJ5MItUaEqq5EByZLxsmLpSouPp-c45xLkWRvm9ezLjBvKLDIwsVf5UhyphenhyphenzIA8-gHFJzUdW6tnTpKYrcre5JgSTqdrNvzjk6iZq3_FPeJPv43Pdpn-9zC-fNT1sYzn72XU7pei9USGu3AKSc/s728-rw-e365/main.png",
-        "Title": "4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s728-rw-e365/npm.png",
-        "Title": "Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKruqP8bX-Vx1XbA7b2TGBuyjs3zUvZ1kMNMFICcS5BUmumpA7Aj31q9MT-gcKPx7QdwSRdkkXrC2P2P45KJUsLgoOmPNo0lcAUv9_CwAM4u5LTmxR4daXo22Y1TkuvOIckGctKng-LSBJXTdH-pRPalEtHXIwdGQChx7_wFreAo9esUdJMDFTQu_Ru3Y8/s728-rw-e365/hacker.png",
-        "Title": "Authorities Ramp Up Efforts to Capture the Mastermind Behind Emotet",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKUnhLKV8Pw3heXnjZKfbTgU49Btg2FrTkNSx3CmpVHtgSOqn30crp2C7kChaI-ni450DPoF1b5gkPWEC3eo7gFMSqxwvs_C0LU0azPOnQEBFkeNytV6Pwo44kRI-V8Ufo1inQZCwuFOe_icNJYjGnekpnDFxrG9f2XQ0Beh-zuIGPJxpfyd6t7SosavI/s728-rw-e365/cato.png",
-        "Title": "SASE Threat Report: 8 Key Findings for Enterprise Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8H0awcoASV3yCM5biiNRsoGFEWfonHzO4ySQ8c6-4o6pH9e3HJ89FRrtvtIAQ5r0td1bNz3eRR83t2VEt2aIU3_Flb9hSQ2dsEX7mfEgX2d4WQXsSHFPDOd1rI2WOE1ulzDGUyn_t-8Vnz6NSm04nx0InEJBHFOxBg3Pux-GsCYpSYcKrGXPX2rJDSvrU/s728-rw-e365/router.png",
-        "Title": "Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW655hLoE7NqzdNqGqd0C7qVOMMyfShvNxQn11B3tDLE7-B3wY_vRCfzMTxKsNBfxez-WrZ73ZArdU-2GgZ2MsRnYxW_ascsZUlDZkEznpO3p1lmFfDwHqVOCI0bKTM2YiRt6IsULtp01VDH2XycRYw2_y-XIvkDgSJiV9-9KCVLXUcNFfbaznlhhl32S4/s728-rw-e365/malware.png",
-        "Title": "Andariel Hackers Target South Korean Institutes with New Dora RAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKynwA1Unlh255wogi4h-oo-kzjvh0GJgqXCXWyaNtqCacWG-fZG5lzs3pLZvQtK6Z6H4gbGt_kwJz_TXxtK0hcAgSNGchj4NfvNKqbh-yc3V22s0tVTek3Z25jSXeoEwXolUK3utctfix6CurMrtu2WsHfSZiTdFokED-acRbkSInHNFC8JHVO9S9fs1m/s728-rw-e365/browser.png",
-        "Title": "Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
         "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
         "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
@@ -203,16 +203,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
@@ -357,16 +357,16 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
+        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
+        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
+        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
-        "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
-        "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
         "Timestamp": "Apr 22, 2024"
     },
