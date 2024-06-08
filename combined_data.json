@@ -77,6 +77,13 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Source": "WIRED",
+        "Timestamp": "Jun 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFN-Tl11nEwb1NHJor09V-vh76L4XkhcimjHqaCbqCat0n8WtB_WeKt7TklB6RxnxFIVQZ7syKstwg1-bZbeuve-EXR4XiF0XXXVhErzqzrDNOQJeVuvRqbSmatcMqbYPaLzxMEEDgKwNMBsgwU_XZ-QJQdaQNYLUBf8lQNf9ad24QfLddrnFaPD6cKz8/s728-rw-e365/main.png",
         "Title": "Prevent Account Takeover with Better Password Security",
@@ -154,13 +161,6 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
         "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
@@ -168,11 +168,18 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/6661d02c80ded6bdcf057e1c/3:2/w_1280%2Cc_limit/Snowflake-Data-Breach-Security-GettyImages-559007197.jpg",
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
+        "Timestamp": "Jun 05, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
@@ -189,16 +196,16 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -378,13 +385,6 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
-        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
-        "Title": "A National Security Insider Does the Math on the Dangers of AI",
-        "Source": "WIRED",
-        "Timestamp": "Apr 22, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/",
         "Img_URL": "https://media.wired.com/photos/66272ff030e8549d0b61fd5f/3:2/w_1280%2Cc_limit/516917488",
         "Title": "Change Healthcare Finally Admits It Paid Ransomware Hackers\u2014and Still Faces a Patient Data Leak",
@@ -392,11 +392,11 @@
         "Timestamp": "Apr 22, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/6622f344e93e00504c86b731/3:2/w_1280%2Cc_limit/security_north_korea_tv_animation.jpg",
-        "Title": "North Koreans Secretly Animated Amazon and Max Shows, Researchers Say",
+        "Link": "https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/",
+        "Img_URL": "https://media.wired.com/photos/662301e548b61faa5f0fae1e/3:2/w_1280%2Cc_limit/V2_shutterstock_413528653.jpg",
+        "Title": "A National Security Insider Does the Math on the Dangers of AI",
         "Source": "WIRED",
-        "Timestamp": "Apr 20, 2024"
+        "Timestamp": "Apr 22, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/who-stole-3-6m-tax-records-from-south-carolina/",
