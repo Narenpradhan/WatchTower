@@ -1,38 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/06/moreeggs-malware-disguised-as-resumes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lMk5eWlyzcLrG29RYY0DlQup3VZIIGy4F2G2V-5UKF4K27A5JaSAVnm8vM5XEQ18GRRXg9i3kUjAdlI7_ihokuKFVDLTBAG2_LnIpOr0PjdnGZWXQJP-0YUEMHiLu-a-Jc7G3ED0SQFx7_KJXmaGK_5_BVtFxtjKPNJmrKyTwDFY3B4e3Cxn0gt5vXwP/s728-rw-e365/resume.png",
-        "Title": "More_eggs Malware Disguised as Resumes Targets Recruiters in Phishing Attack",
+        "Link": "https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7ROtUQQxkVHtI0gLx99n1k4Q8XKztT71GH3SBSq-NyCyS1IvFX3rG74BnwMMoyonF-mCy-0AFwmpcRIbUXYAY3qwYcbkOVMFGLY9A6s0MKDctracyxPKVx41VuJA_7fBsXun-Vnbtryx_sNj1AMNdixq56gBOXgNbvz7Bt_iK7vItDwDKC5t0vIa6XE/s728-rw-e365/pentest.png",
+        "Title": "Top 10 Critical Pentest Findings 2024: What You Need to Know",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
+        "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
-        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
+        "Link": "https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitTqz7fUqvr14moi7daqdnRK8kJh0gY2hZhe3gr8mMZE6-MTOtOX3GkkDbFrJUnbcapAb-bx_HxcbaOjdCmGsCp_oR9kHp7aBG_evK6rGgknD-DV7SpIin8be-b7kA3MQZRXbKGJnDY67n43MniXo9Jh00wCL0C7TJGcRVq-dUofNl1SfNP-x6ZwAP9saC/s728-rw-e365/APPLE.png",
+        "Title": "Apple Launches Private Cloud Compute for Privacy-Centric AI Processing",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
+        "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjEqJ-bEzUrjGe8Ea8UCLd0DKc1_FyRvFy1X0L4ebjIONIsZB44xrOZIz7T65tlHYvdqxocM41F96IgYRSLTN8vZl-Pv6uoxAq0wYUFmWj45-Y-VeiQL_8Msk2M3Xzk8NUAvXCmgw56x-qzVzb4_3l50W7x_5mXIJnC61KcrViSTxZ9blaPblIj-ntAw9/s728-rw-e365/image.gif",
-        "Title": "Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers",
+        "Link": "https://thehackernews.com/2024/06/china-linked-valleyrat-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2EdOO4bL3B-rM3Q6lsvHwCg2xDSALrotBUY1usVy4rTtkL8Ehkap3p2GKuhddvhuB517ZElDkqZoi_Ad8kVj_cDqxiFj-bPEZ-EB4UyW7fZCFa1o1MoFbpMZgj6TPZczsHLmDWWO-bFiWNHtzheEYiO1VfpcbyZtFTW7d0bQ6i3j9-DT6BOAAMTQ4vusL/s728-rw-e365/zscaler.png",
+        "Title": "China-Linked ValleyRAT Malware Resurfaces with Advanced Data Theft Tactics",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
+        "Timestamp": "Jun 11, 2024"
     },
     {
         "Link": "https://thehackernews.uk/vanta-automation-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
         "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1HRdlIuTn7v0Jjd1u2J9X_8FnGgnC90pgkk4H0sQsgso_ud0_3354-6NyIWwlHU8eHQ66Bld_cLzYCWFRlKvyVTE0-_I9hPRskwwmCmB9MI37eH6t7N-UK_fqemggx55d3pQGrKJMorfHSv-ZEM7JkAoN6GPzvt9oyP6lsujo3KZJKfkDJyxHQhrCDRO3/s728-rw-e365/snow.png",
+        "Title": "Snowflake Breach Exposes 165 Customers' Data in Ongoing Extortion Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s728-rw-e365/arm.png",
+        "Title": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/moreeggs-malware-disguised-as-resumes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lMk5eWlyzcLrG29RYY0DlQup3VZIIGy4F2G2V-5UKF4K27A5JaSAVnm8vM5XEQ18GRRXg9i3kUjAdlI7_ihokuKFVDLTBAG2_LnIpOr0PjdnGZWXQJP-0YUEMHiLu-a-Jc7G3ED0SQFx7_KJXmaGK_5_BVtFxtjKPNJmrKyTwDFY3B4e3Cxn0gt5vXwP/s728-rw-e365/resume.png",
+        "Title": "More_eggs Malware Disguised as Resumes Targets Recruiters in Phishing Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
+        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
+        "Title": "The Next Generation of RBI (Remote Browser Isolation)",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjEqJ-bEzUrjGe8Ea8UCLd0DKc1_FyRvFy1X0L4ebjIONIsZB44xrOZIz7T65tlHYvdqxocM41F96IgYRSLTN8vZl-Pv6uoxAq0wYUFmWj45-Y-VeiQL_8Msk2M3Xzk8NUAvXCmgw56x-qzVzb4_3l50W7x_5mXIJnC61KcrViSTxZ9blaPblIj-ntAw9/s728-rw-e365/image.gif",
+        "Title": "Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/google-takes-down-influence-campaigns.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCDt-g7wWbT_uhXIaOtmtmPqlvUi19IUuu2tyXuBZ8gUYluiSOoV-7gXBSjS896wMr2Wv59eP9lN6XVtG-X-7RR8wZ4fyqvs30Hc2zpqoQRHyvoCmVlPe4RDH9n_1443kMmmm6pgx-EJ2oROAkZJtzeyOB5lCUZ6LgHa8BhyphenhyphenXlzn0Ir-tpE6wDDelUq7VK/s728-rw-e365/cyber.png",
         "Title": "Google Takes Down Influence Campaigns Tied to China, Indonesia, and Russia",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
+        "Timestamp": "Jun 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html",
@@ -52,6 +94,13 @@
         "Link": "https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK8daxv-ieh0zWAtKeXCVW8awtFsZajGEKTH__oCqqclEYJfOHQN6BeoiOeZ8rZvY6ONDZCrOW4cLUdtvn899jx7WejDh7jdozmvL_X9Mwtfha90bCHa6j724ck1I-19Totnz3GTk2lzUc3N7Ip05YugQszWQ-546UoZCmJGdiGa85iA_cJGPrNmv16mEm/s728-rw-e365/recall.png",
         "Title": "Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/vanta-automation-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
+        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
         "Source": "The Hacker News",
         "Timestamp": "Jun 10, 2024"
     },
@@ -77,6 +126,34 @@
         "Timestamp": "Jun 10, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs84T3t1YKIM4DJfGKcC4s-dNN0cdvIj8nueN01YNhXWzwZjTCEHcoC_3DbFhZUr3cmemyj1pnx6nZb05DSKg5FTef3gKZfQfV04JbKezBzwsu2Ijf7nyGZAeUkAIb_eBt3oIsqfNNPT1DW4zeQ9XfmHAT8YGBBqkyo9u2eM1_YdzoEySokuOJPinbAP_k/s728-rw-e365/main.png",
+        "Title": "Cyber Landscape is Evolving - So Should Your SCA",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ParuwS1LnINrevCa-oQQpIv3HL4_aegOuxux2ezixZlvFoLUe0foVJkb5PyCbrFd8Z2oIX_CAfYgHKqRPhc6NY-1fD4UmJfDhzG4htpYdnKVtFn26thOWCOqC8tYH1_5X-g0pizo1z9Cetib61T0K5vHZ8LxDmg3DMtplwMCdLznGfCyIOmuORXuGwTA/s728-rw-e365/ai.png",
+        "Title": "The AI Debate: Google's Guidelines, Meta's GDPR Dispute, Microsoft's Recall Backlash",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/fbi-distributes-7000-lockbit-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcyQi8nhzcyMYqEXkzOoHRwgVp6NBg0XMazjjeZryH7vPJC2k5cENaim4Bv814vxZNtuztYdutcaHJDmHjHIOsozQQhE_yosF2WaS0V-wWQqSDN3EHQvpbGCUJCq8Iz-OuMfiLu4tWhV_XvB_p7yC32ugZehPLXS3nKnjRQ4qpZxaOsFJLZCaDkUQeaSNU/s728-rw-e365/ransomware-keys.png",
+        "Title": "FBI Distributes 7,000 LockBit Ransomware Decryption Keys to Help Victims",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dCF_MZ8R1aV_r0lLupLaF_MR-agH5s0ooWlT5NTlg5ueBWMyQ466ShykUNTqi0g6itGHHOWZVemZwV2Yu8lab9e33FDMcex7rxYuFHB8FGuoyO7xFU_c-WMoCoIguyX_tTlJt0EkcO_Is2Ui59nAaU5jdzOJsl_fVeGOAAkaaTKscoo0rtRl3D4YBo7Y/s728-rw-e365/target.png",
+        "Title": "SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/state-of-ransomware-2024/",
         "Img_URL": "https://media.wired.com/photos/66632fecdae29dd8b1100f7a/3:2/w_1280%2Cc_limit/The-State-of-Ransomware-Security.jpg",
         "Title": "Ransomware Is \u2018More Brutal\u2019 Than Ever in 2024",
@@ -91,83 +168,6 @@
         "Timestamp": "Jun 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/cyber-landscape-is-evolving-so-should.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs84T3t1YKIM4DJfGKcC4s-dNN0cdvIj8nueN01YNhXWzwZjTCEHcoC_3DbFhZUr3cmemyj1pnx6nZb05DSKg5FTef3gKZfQfV04JbKezBzwsu2Ijf7nyGZAeUkAIb_eBt3oIsqfNNPT1DW4zeQ9XfmHAT8YGBBqkyo9u2eM1_YdzoEySokuOJPinbAP_k/s728-rw-e365/main.png",
-        "Title": "Cyber Landscape is Evolving - So Should Your SCA",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ParuwS1LnINrevCa-oQQpIv3HL4_aegOuxux2ezixZlvFoLUe0foVJkb5PyCbrFd8Z2oIX_CAfYgHKqRPhc6NY-1fD4UmJfDhzG4htpYdnKVtFn26thOWCOqC8tYH1_5X-g0pizo1z9Cetib61T0K5vHZ8LxDmg3DMtplwMCdLznGfCyIOmuORXuGwTA/s728-rw-e365/ai.png",
-        "Title": "The AI Debate: Google's Guidelines, Meta's GDPR Dispute, Microsoft's Recall Backlash",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/fbi-distributes-7000-lockbit-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcyQi8nhzcyMYqEXkzOoHRwgVp6NBg0XMazjjeZryH7vPJC2k5cENaim4Bv814vxZNtuztYdutcaHJDmHjHIOsozQQhE_yosF2WaS0V-wWQqSDN3EHQvpbGCUJCq8Iz-OuMfiLu4tWhV_XvB_p7yC32ugZehPLXS3nKnjRQ4qpZxaOsFJLZCaDkUQeaSNU/s728-rw-e365/ransomware-keys.png",
-        "Title": "FBI Distributes 7,000 LockBit Ransomware Decryption Keys to Help Victims",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/vanta-automation-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
-        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
-        "Title": "The Next Generation of RBI (Remote Browser Isolation)",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dCF_MZ8R1aV_r0lLupLaF_MR-agH5s0ooWlT5NTlg5ueBWMyQ466ShykUNTqi0g6itGHHOWZVemZwV2Yu8lab9e33FDMcex7rxYuFHB8FGuoyO7xFU_c-WMoCoIguyX_tTlJt0EkcO_Is2Ui59nAaU5jdzOJsl_fVeGOAAkaaTKscoo0rtRl3D4YBo7Y/s728-rw-e365/target.png",
-        "Title": "SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHgPh9MYCyy8ZSzzZjXQNd6JaqQX6WCtr6zfxXx3aOUhbj5v_Szu411JvvXu-bPhjQ7qWbnJrM-5UBpZy8LRKZ06k_IT8hyphenhyphenadauRkvtjOKH2Th-qvStmj-k8n4e-IsANp2sD4ELvcg82rhLXWYR2mWWZPT7l-UrA4wOl-07vuNtRbi0czHD7wxgCD9dm0/s728-rw-e365/cat.png",
-        "Title": "Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuCqhQIJtyEtJKopdzfMdlfPQexpAwirAuZBQyq5gRwiz95N-WvXqVUVJiOe1mfy4_9uwRHYkvYF91ix4TeXCBGIeGz0Kms34p_zdVi9hRNPSBbln1jJlUBK9_TlI1RTGZpwbWVmtHa8SaIpHJ3SfDq4DJD0x4snT1_OsXOMC_b1won0imSQ0EYE5nI9fL/s728-rw-e365/ddos-attack.png",
-        "Title": "Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s728-rw-e365/hacking.png",
-        "Title": "Third-Party Cyber Attacks: The Threat No One Sees Coming \u2013 Here's How to Stop Them",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFN-Tl11nEwb1NHJor09V-vh76L4XkhcimjHqaCbqCat0n8WtB_WeKt7TklB6RxnxFIVQZ7syKstwg1-bZbeuve-EXR4XiF0XXXVhErzqzrDNOQJeVuvRqbSmatcMqbYPaLzxMEEDgKwNMBsgwU_XZ-QJQdaQNYLUBf8lQNf9ad24QfLddrnFaPD6cKz8/s728-rw-e365/main.png",
-        "Title": "Prevent Account Takeover with Better Password Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s728-rw-e365/malware-detection.png",
-        "Title": "Hackers Exploit Legitimate Packer Software to Spread Malware Undetected",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 07, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/",
         "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
         "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
@@ -175,16 +175,16 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -210,16 +210,16 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
