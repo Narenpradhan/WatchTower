@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbECET6DDpptY-8vhYAg8fVHd2M2S5CFJjH6suGkJ99KPCvFzi9WM4mHlE6GPoqUGnO-5C-PdjOZ1uR3f2j5IQIcwQk1fQELXVL_Gs-vtHSRmyAogpol-Ea22aVmzEn0AL7FDQqDMs0Znbjey7TzJcqCrgPsG30v-Ek7vrQ2f4hhElDLlh49hdh0vK8nw/s728-rw-e365/cynet.png",
+        "Title": "How Cynet Makes MSPs Rich & Their Clients Secure",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhauUgSL9TDo3Yncx7ztvIVTBa37gXd3n_oKRdPTeCpnxDKA_VmCix8Xo7BTQQgn5OMtNbFy9d9hg14iizMLX5urDG3cKu8DkUp8oJWBd9BVh2HtsJS-sD3JNrGbKwfz9BvR9U5VYh-2GVyzk-Ee3PQqHlxcTDAE6nI_WzBZVi2RkItOxLWMktOjjJnp1/s728-rw-e365/lcok.png",
+        "Title": "Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7ROtUQQxkVHtI0gLx99n1k4Q8XKztT71GH3SBSq-NyCyS1IvFX3rG74BnwMMoyonF-mCy-0AFwmpcRIbUXYAY3qwYcbkOVMFGLY9A6s0MKDctracyxPKVx41VuJA_7fBsXun-Vnbtryx_sNj1AMNdixq56gBOXgNbvz7Bt_iK7vItDwDKC5t0vIa6XE/s728-rw-e365/pentest.png",
         "Title": "Top 10 Critical Pentest Findings 2024: What You Need to Know",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/vanta-automation-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
+        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
         "Source": "The Hacker News",
         "Timestamp": "Jun 11, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/vanta-automation-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
-        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1HRdlIuTn7v0Jjd1u2J9X_8FnGgnC90pgkk4H0sQsgso_ud0_3354-6NyIWwlHU8eHQ66Bld_cLzYCWFRlKvyVTE0-_I9hPRskwwmCmB9MI37eH6t7N-UK_fqemggx55d3pQGrKJMorfHSv-ZEM7JkAoN6GPzvt9oyP6lsujo3KZJKfkDJyxHQhrCDRO3/s728-rw-e365/snow.png",
         "Title": "Snowflake Breach Exposes 165 Customers' Data in Ongoing Extortion Campaign",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s728-rw-e365/arm.png",
         "Title": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
+        "Title": "The Next Generation of RBI (Remote Browser Isolation)",
         "Source": "The Hacker News",
         "Timestamp": "Jun 11, 2024"
     },
@@ -56,44 +77,23 @@
         "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
-        "Title": "The Next Generation of RBI (Remote Browser Isolation)",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjEqJ-bEzUrjGe8Ea8UCLd0DKc1_FyRvFy1X0L4ebjIONIsZB44xrOZIz7T65tlHYvdqxocM41F96IgYRSLTN8vZl-Pv6uoxAq0wYUFmWj45-Y-VeiQL_8Msk2M3Xzk8NUAvXCmgw56x-qzVzb4_3l50W7x_5mXIJnC61KcrViSTxZ9blaPblIj-ntAw9/s728-rw-e365/image.gif",
         "Title": "Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
+        "Timestamp": "Jun 10, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/google-takes-down-influence-campaigns.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCDt-g7wWbT_uhXIaOtmtmPqlvUi19IUuu2tyXuBZ8gUYluiSOoV-7gXBSjS896wMr2Wv59eP9lN6XVtG-X-7RR8wZ4fyqvs30Hc2zpqoQRHyvoCmVlPe4RDH9n_1443kMmmm6pgx-EJ2oROAkZJtzeyOB5lCUZ6LgHa8BhyphenhyphenXlzn0Ir-tpE6wDDelUq7VK/s728-rw-e365/cyber.png",
         "Title": "Google Takes Down Influence Campaigns Tied to China, Indonesia, and Russia",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
+        "Timestamp": "Jun 10, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsmKvpWMnsrIG5QoQ9jDpSY-czFUfoFRy1kJE566ebCiRpKJMz8w0BkBmp_ZI_XD7QU8d1w2PHjIBk1z47iuMRO-8WG8oXnivM-UqiViMckLKzzBe0HZe_STM1HvXX4t3dF57J1raNnU2eyjMaTArfFdjX7cwB0G4PtGJvShA_4paHZyd7575-A7yLKbd/s728-rw-e365/malware.png",
         "Title": "Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJMVQwlBIUAMPQtsReXRN3k8ttvKE49dlbJVPZJgnzjEw-VIl7voeFz2A76WzwPtHpUhvg1xgIaWqvPLUXqmm2ZMD3Ggs0-MGB15FlBKNQ6A1oabhMtyUUivabvHLm9EvajbguJ5wCGUf8fjdM65rm-0pka0kmqb-9qTgeL0uOAL4E3hhAD279sA5ZpSu/s728-rw-e365/php.png",
-        "Title": "New PHP Vulnerability Exposes Windows Servers to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK8daxv-ieh0zWAtKeXCVW8awtFsZajGEKTH__oCqqclEYJfOHQN6BeoiOeZ8rZvY6ONDZCrOW4cLUdtvn899jx7WejDh7jdozmvL_X9Mwtfha90bCHa6j724ck1I-19Totnz3GTk2lzUc3N7Ip05YugQszWQ-546UoZCmJGdiGa85iA_cJGPrNmv16mEm/s728-rw-e365/recall.png",
-        "Title": "Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns",
         "Source": "The Hacker News",
         "Timestamp": "Jun 10, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thehackernews.com/2024/06/the-next-generation-of-rbi-remote.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMWBC3UWeppnSH1eHbD4rEOdOA5tNj7MxZSjMeTDdhdGuUJLjXwdhbmoEU2IBKpzPjhMpNHSgjuenGVdBuaA7kQ1a4g3jEB2jhdBfncUV2sBwIm8IWF401OF8khgyDrGl29kIToGZVGWYGjl97279dbz3XTQakNsDsWhbmBHrv566qRHRMfGB4ralQIKA/s728-rw-e365/rbi.png",
         "Title": "The Next Generation of RBI (Remote Browser Isolation)",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJMVQwlBIUAMPQtsReXRN3k8ttvKE49dlbJVPZJgnzjEw-VIl7voeFz2A76WzwPtHpUhvg1xgIaWqvPLUXqmm2ZMD3Ggs0-MGB15FlBKNQ6A1oabhMtyUUivabvHLm9EvajbguJ5wCGUf8fjdM65rm-0pka0kmqb-9qTgeL0uOAL4E3hhAD279sA5ZpSu/s728-rw-e365/php.png",
+        "Title": "New PHP Vulnerability Exposes Windows Servers to Remote Code Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/microsoft-revamps-controversial-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK8daxv-ieh0zWAtKeXCVW8awtFsZajGEKTH__oCqqclEYJfOHQN6BeoiOeZ8rZvY6ONDZCrOW4cLUdtvn899jx7WejDh7jdozmvL_X9Mwtfha90bCHa6j724ck1I-19Totnz3GTk2lzUc3N7Ip05YugQszWQ-546UoZCmJGdiGa85iA_cJGPrNmv16mEm/s728-rw-e365/recall.png",
+        "Title": "Microsoft Revamps Controversial AI-Powered Recall Feature Amid Privacy Concerns",
         "Source": "The Hacker News",
         "Timestamp": "Jun 10, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/06/the-ai-debate-googles-guidelines-metas.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ParuwS1LnINrevCa-oQQpIv3HL4_aegOuxux2ezixZlvFoLUe0foVJkb5PyCbrFd8Z2oIX_CAfYgHKqRPhc6NY-1fD4UmJfDhzG4htpYdnKVtFn26thOWCOqC8tYH1_5X-g0pizo1z9Cetib61T0K5vHZ8LxDmg3DMtplwMCdLznGfCyIOmuORXuGwTA/s728-rw-e365/ai.png",
         "Title": "The AI Debate: Google's Guidelines, Meta's GDPR Dispute, Microsoft's Recall Backlash",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/fbi-distributes-7000-lockbit-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcyQi8nhzcyMYqEXkzOoHRwgVp6NBg0XMazjjeZryH7vPJC2k5cENaim4Bv814vxZNtuztYdutcaHJDmHjHIOsozQQhE_yosF2WaS0V-wWQqSDN3EHQvpbGCUJCq8Iz-OuMfiLu4tWhV_XvB_p7yC32ugZehPLXS3nKnjRQ4qpZxaOsFJLZCaDkUQeaSNU/s728-rw-e365/ransomware-keys.png",
-        "Title": "FBI Distributes 7,000 LockBit Ransomware Decryption Keys to Help Victims",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dCF_MZ8R1aV_r0lLupLaF_MR-agH5s0ooWlT5NTlg5ueBWMyQ466ShykUNTqi0g6itGHHOWZVemZwV2Yu8lab9e33FDMcex7rxYuFHB8FGuoyO7xFU_c-WMoCoIguyX_tTlJt0EkcO_Is2Ui59nAaU5jdzOJsl_fVeGOAAkaaTKscoo0rtRl3D4YBo7Y/s728-rw-e365/target.png",
-        "Title": "SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Jun 10, 2024"
     },
@@ -196,16 +196,16 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
@@ -245,16 +245,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
