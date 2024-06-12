@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOoPFKaLL1VYVSOBJSY4SNIFBICEhuTF8vP_0y6BqMvnzJ1-og9edWjbmTAz1s-6gjxuaGiauGaIMYeXZwA41O3KqocYHBxOfvNaJA6pE78t8PMjeJVU5MsN1rBzKa-IMMroRRuhAICXo_yWB8MpieZkjgYnJ6n7lD_y5VUpwkhkuigEorGQH3SYIZ6O7/s728-rw-e365/crypto.png",
+        "Title": "Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 12, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/lessons-from-ticketmaster-snowflake.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qyeUbw1tV3KjKmV7UBAIoCFeFNdgCcFOhV91pgwMKLZejiFJxMTaEKZLK0JnJhXg0or4UfRMLr8qpnsLUmAxAeSUs0gzjJKdQlfcR84lP1Xo9vx6R0YL-iQy5WhK_7EQUu1IqnmzfSFDXL7-1yDfBAr2f5I7laFn4r9k9APe-IWrJZ8-hhUE5grEMer8/s728-rw-e365/one.png",
         "Title": "Lessons from the Ticketmaster-Snowflake Breach",
@@ -14,16 +21,16 @@
         "Timestamp": "Jun 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnwD8qAGiKWVL4GrVv-wBN31h7NRaVtzvMhiHNiHFwIaWcN4MyYCsZGMVjh-v_WlETv7Ug9Qlt6dOXMsW_jDHmla4kTWzahPnI5WxL-KtSgMt6VmD7_bJAVZ0tjpslPMPqrXel-Qan3IPpCJrkWKM_RY4U9bijyZ3qwFzIjpR3YiDTNsnDgd2bv_wZYbt/s728-rw-e365/cyberattack.png",
-        "Title": "New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers",
+        "Link": "https://thehackernews.uk/vanta-automation-calculator",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
+        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
         "Source": "The Hacker News",
         "Timestamp": "Jun 12, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/vanta-automation-calculator",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
-        "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
+        "Link": "https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnwD8qAGiKWVL4GrVv-wBN31h7NRaVtzvMhiHNiHFwIaWcN4MyYCsZGMVjh-v_WlETv7Ug9Qlt6dOXMsW_jDHmla4kTWzahPnI5WxL-KtSgMt6VmD7_bJAVZ0tjpslPMPqrXel-Qan3IPpCJrkWKM_RY4U9bijyZ3qwFzIjpR3YiDTNsnDgd2bv_wZYbt/s728-rw-e365/cyberattack.png",
+        "Title": "New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers",
         "Source": "The Hacker News",
         "Timestamp": "Jun 12, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jun 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhauUgSL9TDo3Yncx7ztvIVTBa37gXd3n_oKRdPTeCpnxDKA_VmCix8Xo7BTQQgn5OMtNbFy9d9hg14iizMLX5urDG3cKu8DkUp8oJWBd9BVh2HtsJS-sD3JNrGbKwfz9BvR9U5VYh-2GVyzk-Ee3PQqHlxcTDAE6nI_WzBZVi2RkItOxLWMktOjjJnp1/s728-rw-e365/lcok.png",
-        "Title": "Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale",
+        "Link": "https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6ZN1CZ080DzqQRxiz2-AnPnjKABBQlXe71f1iwhiz6Uqxk80fpYili5hUSP3uiMBsw7GmhEPSNzSVEB7f_GXUwNXGrQBkbc9YKzTJX63ELwbtf2_o8lma1QLnpxJX1HSictno7QAe-D6Sqc4_epaOf6KZzqpZ4H0TY9e9Q7PeWNwu2JAyL-9oL1-o0c/s728-rw-e365/wing.png",
+        "Title": "Unpacking 2024's SaaS Threat Predictions",
         "Source": "The Hacker News",
         "Timestamp": "Jun 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6ZN1CZ080DzqQRxiz2-AnPnjKABBQlXe71f1iwhiz6Uqxk80fpYili5hUSP3uiMBsw7GmhEPSNzSVEB7f_GXUwNXGrQBkbc9YKzTJX63ELwbtf2_o8lma1QLnpxJX1HSictno7QAe-D6Sqc4_epaOf6KZzqpZ4H0TY9e9Q7PeWNwu2JAyL-9oL1-o0c/s728-rw-e365/wing.png",
-        "Title": "Unpacking 2024's SaaS Threat Predictions",
+        "Link": "https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhauUgSL9TDo3Yncx7ztvIVTBa37gXd3n_oKRdPTeCpnxDKA_VmCix8Xo7BTQQgn5OMtNbFy9d9hg14iizMLX5urDG3cKu8DkUp8oJWBd9BVh2HtsJS-sD3JNrGbKwfz9BvR9U5VYh-2GVyzk-Ee3PQqHlxcTDAE6nI_WzBZVi2RkItOxLWMktOjjJnp1/s728-rw-e365/lcok.png",
+        "Title": "Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale",
         "Source": "The Hacker News",
         "Timestamp": "Jun 12, 2024"
     },
@@ -70,18 +77,25 @@
         "Timestamp": "Jun 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitTqz7fUqvr14moi7daqdnRK8kJh0gY2hZhe3gr8mMZE6-MTOtOX3GkkDbFrJUnbcapAb-bx_HxcbaOjdCmGsCp_oR9kHp7aBG_evK6rGgknD-DV7SpIin8be-b7kA3MQZRXbKGJnDY67n43MniXo9Jh00wCL0C7TJGcRVq-dUofNl1SfNP-x6ZwAP9saC/s728-rw-e365/APPLE.png",
-        "Title": "Apple Launches Private Cloud Compute for Privacy-Centric AI Processing",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 12, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/change-healthcare-22-million-payment-ransomware-spike/",
         "Img_URL": "https://media.wired.com/photos/6668cdc711ad16a3af80160e/3:2/w_1280%2Cc_limit/Screenshot%25202024-06-11%2520at%25206.20.07%25E2%2580%25AFPM.png",
         "Title": "Medical-Targeted Ransomware Is Breaking Records After Change Healthcare\u2019s $22M Payout",
         "Source": "WIRED",
         "Timestamp": "Jun 12, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/06/patch-tuesday-june-2024-recall-edition/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
+        "Title": "Patch Tuesday, June 2024 \u201cRecall\u201d Edition",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitTqz7fUqvr14moi7daqdnRK8kJh0gY2hZhe3gr8mMZE6-MTOtOX3GkkDbFrJUnbcapAb-bx_HxcbaOjdCmGsCp_oR9kHp7aBG_evK6rGgknD-DV7SpIin8be-b7kA3MQZRXbKGJnDY67n43MniXo9Jh00wCL0C7TJGcRVq-dUofNl1SfNP-x6ZwAP9saC/s728-rw-e365/APPLE.png",
+        "Title": "Apple Launches Private Cloud Compute for Privacy-Centric AI Processing",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/china-linked-valleyrat-malware.html",
@@ -98,13 +112,6 @@
         "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s728-rw-e365/arm.png",
-        "Title": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/vanta-automation-calculator",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWhw3xj2eqbWMahG3gzwPKeifkTh2EHkIJTvFD3vxb01RFwyVOuhDFCjjKemW-3HWN0HhjODCo-qk2ewdx1AU_fmKRlmssvy7o-t6KteFkauHHbh6KIT3Jyeeo8vvpodbfy5EqAuG3JS2sC7XJxFFNLgO6iwn3de8Jurftdfu0jKGoT8q8-V5QE3TWiIrj/s728-e365/vanta.png",
         "Title": "Instantly See How Much Time You Can Save by Automating Compliance",
@@ -115,6 +122,13 @@
         "Link": "https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS6ZN1CZ080DzqQRxiz2-AnPnjKABBQlXe71f1iwhiz6Uqxk80fpYili5hUSP3uiMBsw7GmhEPSNzSVEB7f_GXUwNXGrQBkbc9YKzTJX63ELwbtf2_o8lma1QLnpxJX1HSictno7QAe-D6Sqc4_epaOf6KZzqpZ4H0TY9e9Q7PeWNwu2JAyL-9oL1-o0c/s728-rw-e365/wing.png",
         "Title": "Unpacking 2024's SaaS Threat Predictions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s728-rw-e365/arm.png",
+        "Title": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers",
         "Source": "The Hacker News",
         "Timestamp": "Jun 11, 2024"
     },
@@ -154,13 +168,6 @@
         "Timestamp": "Jun 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJMVQwlBIUAMPQtsReXRN3k8ttvKE49dlbJVPZJgnzjEw-VIl7voeFz2A76WzwPtHpUhvg1xgIaWqvPLUXqmm2ZMD3Ggs0-MGB15FlBKNQ6A1oabhMtyUUivabvHLm9EvajbguJ5wCGUf8fjdM65rm-0pka0kmqb-9qTgeL0uOAL4E3hhAD279sA5ZpSu/s728-rw-e365/php.png",
-        "Title": "New PHP Vulnerability Exposes Windows Servers to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 11, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/state-of-ransomware-2024/",
         "Img_URL": "https://media.wired.com/photos/66632fecdae29dd8b1100f7a/3:2/w_1280%2Cc_limit/The-State-of-Ransomware-Security.jpg",
         "Title": "Ransomware Is \u2018More Brutal\u2019 Than Ever in 2024",
@@ -175,6 +182,13 @@
         "Timestamp": "Jun 08, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
         "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
         "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
@@ -185,13 +199,6 @@
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -252,16 +259,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
@@ -362,13 +369,6 @@
         "Title": "A New Surveillance Tool Invades Border Towns",
         "Source": "WIRED",
         "Timestamp": "May 01, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/11/kikmaki-wanted.png",
-        "Title": "Man Who Mass-Extorted Psychotherapy Patients Gets Six Years",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 30, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/",
