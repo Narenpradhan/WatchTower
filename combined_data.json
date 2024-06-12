@@ -175,16 +175,16 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -196,16 +196,16 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
@@ -245,16 +245,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
@@ -364,6 +364,13 @@
         "Timestamp": "Apr 30, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/04/man-who-mass-extorted-psychotherapy-patients-gets-six-years/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/11/kikmaki-wanted.png",
+        "Title": "Man Who Mass-Extorted Psychotherapy Patients Gets Six Years",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Apr 30, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2018/05/locationtracking.jpg",
         "Title": "FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data",
@@ -446,12 +453,5 @@
         "Title": "The Manipulaters\u2019 Improve Phishing, Still Fail at Opsec",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 03, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/03/thread-hijacking-phishes-that-prey-on-your-curiosity/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/03/kidanstory.png",
-        "Title": "Thread Hijacking: Phishes That Prey on Your Curiosity",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Mar 28, 2024"
     }
 ]
