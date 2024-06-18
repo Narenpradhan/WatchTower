@@ -1,80 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/06/asus-patches-critical-authentication.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIWsf6lKy8GePpP7Xqk8ZbPKegf1ChQsdpI54tJZw-x9zVnr-SLThmonvuPjvUnObPMZQ9MqGiNNwTlSmJOBGoqKREvyZnS0zxo27gPuZIm5Tfqe3hPeC2Phz9Y0qJQBLVUtnPSGffQQOzHVvRJT68BmliJdnr0Pc4LpTa4Ox3dG8ovrVANKzujx9cxYj/s728-rw-e365/asus.jpg",
-        "Title": "ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models",
+        "Link": "https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWpQM-bvKh3s3o06afEOI2oL-RZtWovqtimm1sa67DikSN8usbloz982qIGwoAF9cTa_8zBh14DHQvkqmzPSl1744O6EdS0af0LuE5nJnS7aiIl-bslQ1jxYnCCLQnX27jME9RJo9RWHGzSE4h8I8XHCCkmMT4VrZjCehaLf4QIGZKD7FGpKiaIT6EM0/s728-rw-e365/main.png",
+        "Title": "The Annual SaaS Security Report: 2025 CISO Plans and Priorities ",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXpnHOoUZ3v-ZiTghNebrIH_eeJ_3X8IYbqZjPSd1AcCwNEAilN3pu6hBwUEpVKEmKnuMJPmZslZe1L16n47ROMY-0i33rxRX6Uz3YMFNnn6G2OhZ__BTONMmC3vXh2sUDbb-fyv71vEzw2TOdS0yOi8eSQVV3HNFy_JO6Zn3wqfJlbZC41ciYI65gkqY/s728-rw-e365/cyberattack.jpg",
-        "Title": "China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices",
+        "Link": "https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghhRVYJXah-YDUVVSkd5YnwjiffHaFyz1zQRf08ialLrs3v5iFEWfz02ac4ru3AAglTaE15k6xqqa4w916neUksf3NwuJnsDg6LbvsH-YMKm_1DOmJvTNogrsrbIx4lwBRmw6Vg4OYSjTnL-tm14jXxAEOGIKYi07Om1J9LYQ-N9HcNP2JfRFdez-7rtT9/s728-rw-e365/docker.png",
+        "Title": "New Malware Targets Exposed Docker APIs for Cryptocurrency Mining",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s728-rw-e365/devsec.png",
-        "Title": "What is DevSecOps and Why is it Essential for Secure Software Delivery?",
+        "Link": "https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_363QDqRSIeSM8F37EYkY6wGLOXzTBSSck2QQQga13k-aL9x9Ah2h692wmXPTmjV6XoB2hx4tGXepQqHY6F1jbUIU9qkGP-1X2cNL2aVa8lBtYF-Yw-ZSvIryy3QEjT-VevSnahRiYJW8I8JG62G2HfWCuBj2UEXt32b4Nwuk7Mq_CUHNpFepAn8kCIc/s728-rw-e365/vmware.png",
+        "Title": "VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
         "Link": "https://thehackernews.uk/wing-saas-discovery",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
         "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbfRNNx-WWYDezf7mCqqOBRyqGSEHO2ViG4pIlt-D49YNy9o_YiPfYlSbG7k32emZ10FfF1qN4msnxRqtsiF-XJskr-bz6clO2d3WVoiolQ9GBY2HdDh4Cw7qOiid8VRyUk-2ogy7RpF-cDTDnHcSUKFFzukRu4OmgFb4ZXnavnYwqyxbQnZZtyF0waxx/s728-rw-e365/chrome.png",
-        "Title": "Hackers Exploit Legitimate Websites to Deliver BadSpace Windows Backdoor",
+        "Link": "https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSkzr0K1n6xihMUQkMJtFmrCqBhD5Sz41x-eK5Kp1Hfp-JhAb7Boi0QpbXLKghrI-RLa8WJd_RiDT14VxAkpC8b8KiNcKmFovfco2kvZD3CTIsWY_GvyTg4nPri5esJARDvwK2VDbOx6tiFbAs5CIWP9zLZd-DWlFdye1v5tiztB5_kyYTEKCGx76HwTi/s728-rw-e365/arrest.png",
+        "Title": "Singapore Police Extradites Malaysians Linked to Android Malware Fraud",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mZh6uTVdW5SnjPa7ZO_txAUjtnl6qplWUU5EjhSzBNw6aRggBWBNfEfyWZThXPhDd9SEwbVAVSn6c1QjkqCF-IFOg0eO77U7hDO92joOUnlpmTRrIgU_uV83lwOJ5sgBRUjnBjd3POTnpZSAov1CGSSbOzXy2rfi8I0Y1uXjfyTRqrDkTC41M8u09b4e/s728-rw-e365/pirate.png",
-        "Title": "NiceRAT Malware Targets South Korean Users via Cracked Software",
+        "Link": "https://thehackernews.com/2024/06/asus-patches-critical-authentication.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIWsf6lKy8GePpP7Xqk8ZbPKegf1ChQsdpI54tJZw-x9zVnr-SLThmonvuPjvUnObPMZQ9MqGiNNwTlSmJOBGoqKREvyZnS0zxo27gPuZIm5Tfqe3hPeC2Phz9Y0qJQBLVUtnPSGffQQOzHVvRJT68BmliJdnr0Pc4LpTa4Ox3dG8ovrVANKzujx9cxYj/s728-rw-e365/asus.jpg",
+        "Title": "ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEUpVPfpAudQXCd7rMYj9fL4Q_A8nOG9tV_IzleDqe8baoch2aw_1TbrNh7bebtlA3LWQ7oGhD_tkKcVaTUDPjuK4latv2DEIlXDEQtUrg9KbANXh0vGopkII1QrttAWLwEqoch8b-HDYy_zwT_yhDubMVhatNgBprUYZeE7Y8lhIclZ28ADVTBWEaQdLB/s728-rw-e365/arrest.png",
-        "Title": "U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain",
+        "Link": "https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXpnHOoUZ3v-ZiTghNebrIH_eeJ_3X8IYbqZjPSd1AcCwNEAilN3pu6hBwUEpVKEmKnuMJPmZslZe1L16n47ROMY-0i33rxRX6Uz3YMFNnn6G2OhZ__BTONMmC3vXh2sUDbb-fyv71vEzw2TOdS0yOi8eSQVV3HNFy_JO6Zn3wqfJlbZC41ciYI65gkqY/s728-rw-e365/cyberattack.jpg",
+        "Title": "China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQvbfY8y10D8oFXqOF9NwLjQFWiVCIACWzLH4Ta3Tpb-LuzR0itJ6Qr9UPmGmbzez7Bdne6cF20mYTo1LcIodqXVyuj_4bPNsniaA58X-Tm5h5fziw5D9tFWo2HaZ3lN-ePcVuMxKJbbWtsS8UoDg-FCOBn2HJBt_ZM5XRUXTQ3lEG9JfDnAwjTVVVeR/s728-rw-e365/malware.jpg",
-        "Title": "Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan",
+        "Link": "https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s728-rw-e365/devsec.png",
+        "Title": "What is DevSecOps and Why is it Essential for Secure Software Delivery?",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
         "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouiJdHlDATGpVqfPwd8pptQOFLHfzUFyuOMR-SFxRl07Z4MXkEdkOHWrNzbSTumd163a1d3NkGW3bZRSh1g3q1yAtSO5vmx7-H84FO-DFEgwaM51lDpquM4qD2Izdp87xURyHjFcDA_1JJv2aFbdYi3jsUPGaEts-VtjrYFbPJfmsM-6IFaCnmlywz1bk/s728-rw-e365/malware.png",
-        "Title": "Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks",
+        "Link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbfRNNx-WWYDezf7mCqqOBRyqGSEHO2ViG4pIlt-D49YNy9o_YiPfYlSbG7k32emZ10FfF1qN4msnxRqtsiF-XJskr-bz6clO2d3WVoiolQ9GBY2HdDh4Cw7qOiid8VRyUk-2ogy7RpF-cDTDnHcSUKFFzukRu4OmgFb4ZXnavnYwqyxbQnZZtyF0waxx/s728-rw-e365/chrome.png",
+        "Title": "Hackers Exploit Legitimate Websites to Deliver BadSpace Windows Backdoor",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf98xmgrIqumMGi5oBd85cNkJUom_6TIgIlmC_WJu9r2deoqeumxAVnEcWe86OulamsXgZ2qDM1-b1RJZ4mI2llTA3DuXEgpV91NBU0jRtVTW34NR6BKUZ1njOyCQy8QMcpHcd9T11CHm2jas_MzfbrbWKjteDmAFkr6Z98U1dBr8qqoD0i8JoQordjxHu/s728-rw-e365/fb-insta.png",
-        "Title": "Meta Pauses AI Training on EU User Data Amid Privacy Concerns",
+        "Link": "https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mZh6uTVdW5SnjPa7ZO_txAUjtnl6qplWUU5EjhSzBNw6aRggBWBNfEfyWZThXPhDd9SEwbVAVSn6c1QjkqCF-IFOg0eO77U7hDO92joOUnlpmTRrIgU_uV83lwOJ5sgBRUjnBjd3POTnpZSAov1CGSSbOzXy2rfi8I0Y1uXjfyTRqrDkTC41M8u09b4e/s728-rw-e365/pirate.png",
+        "Title": "NiceRAT Malware Targets South Korean Users via Cracked Software",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 17, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
         "Link": "https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/",
@@ -82,6 +82,83 @@
         "Title": "Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake",
         "Source": "WIRED",
         "Timestamp": "Jun 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEUpVPfpAudQXCd7rMYj9fL4Q_A8nOG9tV_IzleDqe8baoch2aw_1TbrNh7bebtlA3LWQ7oGhD_tkKcVaTUDPjuK4latv2DEIlXDEQtUrg9KbANXh0vGopkII1QrttAWLwEqoch8b-HDYy_zwT_yhDubMVhatNgBprUYZeE7Y8lhIclZ28ADVTBWEaQdLB/s728-rw-e365/arrest.png",
+        "Title": "U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQvbfY8y10D8oFXqOF9NwLjQFWiVCIACWzLH4Ta3Tpb-LuzR0itJ6Qr9UPmGmbzez7Bdne6cF20mYTo1LcIodqXVyuj_4bPNsniaA58X-Tm5h5fziw5D9tFWo2HaZ3lN-ePcVuMxKJbbWtsS8UoDg-FCOBn2HJBt_ZM5XRUXTQ3lEG9JfDnAwjTVVVeR/s728-rw-e365/malware.jpg",
+        "Title": "Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouiJdHlDATGpVqfPwd8pptQOFLHfzUFyuOMR-SFxRl07Z4MXkEdkOHWrNzbSTumd163a1d3NkGW3bZRSh1g3q1yAtSO5vmx7-H84FO-DFEgwaM51lDpquM4qD2Izdp87xURyHjFcDA_1JJv2aFbdYi3jsUPGaEts-VtjrYFbPJfmsM-6IFaCnmlywz1bk/s728-rw-e365/malware.png",
+        "Title": "Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-saas-discovery",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
+        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
+        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf98xmgrIqumMGi5oBd85cNkJUom_6TIgIlmC_WJu9r2deoqeumxAVnEcWe86OulamsXgZ2qDM1-b1RJZ4mI2llTA3DuXEgpV91NBU0jRtVTW34NR6BKUZ1njOyCQy8QMcpHcd9T11CHm2jas_MzfbrbWKjteDmAFkr6Z98U1dBr8qqoD0i8JoQordjxHu/s728-rw-e365/fb-insta.png",
+        "Title": "Meta Pauses AI Training on EU User Data Amid Privacy Concerns",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Og78pM_zo3-KRxwOLwUyNVKMGhnqJ3wWiRuJ_pvZ_ZMLMKW5AaIC7dj9owR-LaUNOjABQdd_ZNlPqGjM4XfGmN9hQv4Yfa4UCudIDDzY_XL0qQBbor2ZjishdiG_M4AuMEe-5hy8eEuQCW4T0-b0u5vmLckNpu3N8eGLfvYOUVjbxUhPXBC5hjEJl4Du/s728-rw-e365/privacy.jpg",
+        "Title": "Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBScFGvExBu87rJX2Qp8GZlXBq01vPlylYq3EWSIOQLVxE-rZOgFYonBFUzbOoVdC3MNOKtANvkT45iSlVHvMaJV5NuuMc-1yqsRFzmcWNkss9kYW8pAPA25kcK3wxwvYYhNbgz5HHdYXCWKO7hYp3SXJMBgDWrtYgHnIw0phgQ1Bb2gvj02Pzkn6c0GUg/s1200/data.png",
+        "Title": "Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s728-rw-e365/ever.png",
+        "Title": "Why Regulated Industries are Turning to Military-Grade Cyber Defenses",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/zkteco-biometric-system-found.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLjPcITZkM8AG9bIdlPjZ7e23Q0sD0fQ69x6VbGFseNUdceTweLs6pR8ytjSj150WShAVXZwFM0D6SOoy9odz9RvwB1Bi1_ZZ5nZzSUS8EyeMSV1bU_sFsRU_ihU7pI8J2Hs_yKsPp78wBqZtvijseWvTy0Nb_IdaXO-8TtRxLWp92Uwvj5n51J5HUZsfU/s728-rw-e365/bio.png",
+        "Title": "ZKTeco Biometric System Found Vulnerable to 24 Critical Security Flaws",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWs6Ak9M6lhFdKLU0lT7UtCsRPpQu6EdZFuqeMFJUQB-3IhlM-2n6tCzL9aYyQDX49plqAr1oWXoB_PpJDyJe0uj_rNx4bZlQyYLlAjFANFuQDnEpJKkUfeTaDWihDIjnRIS6dLidKBcj_fyXRVwNmCVSA96JAwaNyHuADMrcV8cq1c1iaVcs3nm6rizYt/s728-rw-e365/north-korea.png",
+        "Title": "North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 16, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/",
@@ -96,83 +173,6 @@
         "Title": "Ransomware Attacks Are Getting Worse",
         "Source": "WIRED",
         "Timestamp": "Jun 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Og78pM_zo3-KRxwOLwUyNVKMGhnqJ3wWiRuJ_pvZ_ZMLMKW5AaIC7dj9owR-LaUNOjABQdd_ZNlPqGjM4XfGmN9hQv4Yfa4UCudIDDzY_XL0qQBbor2ZjishdiG_M4AuMEe-5hy8eEuQCW4T0-b0u5vmLckNpu3N8eGLfvYOUVjbxUhPXBC5hjEJl4Du/s728-rw-e365/privacy.jpg",
-        "Title": "Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBScFGvExBu87rJX2Qp8GZlXBq01vPlylYq3EWSIOQLVxE-rZOgFYonBFUzbOoVdC3MNOKtANvkT45iSlVHvMaJV5NuuMc-1yqsRFzmcWNkss9kYW8pAPA25kcK3wxwvYYhNbgz5HHdYXCWKO7hYp3SXJMBgDWrtYgHnIw0phgQ1Bb2gvj02Pzkn6c0GUg/s1200/data.png",
-        "Title": "Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s728-rw-e365/ever.png",
-        "Title": "Why Regulated Industries are Turning to Military-Grade Cyber Defenses",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
-        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/zkteco-biometric-system-found.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLjPcITZkM8AG9bIdlPjZ7e23Q0sD0fQ69x6VbGFseNUdceTweLs6pR8ytjSj150WShAVXZwFM0D6SOoy9odz9RvwB1Bi1_ZZ5nZzSUS8EyeMSV1bU_sFsRU_ihU7pI8J2Hs_yKsPp78wBqZtvijseWvTy0Nb_IdaXO-8TtRxLWp92Uwvj5n51J5HUZsfU/s728-rw-e365/bio.png",
-        "Title": "ZKTeco Biometric System Found Vulnerable to 24 Critical Security Flaws",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWs6Ak9M6lhFdKLU0lT7UtCsRPpQu6EdZFuqeMFJUQB-3IhlM-2n6tCzL9aYyQDX49plqAr1oWXoB_PpJDyJe0uj_rNx4bZlQyYLlAjFANFuQDnEpJKkUfeTaDWihDIjnRIS6dLidKBcj_fyXRVwNmCVSA96JAwaNyHuADMrcV8cq1c1iaVcs3nm6rizYt/s728-rw-e365/north-korea.png",
-        "Title": "North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSRVY5orQDEimtEwxazfRl0KJDpjKAiehmqWAFb2IdLqytw2xFudSqu2uMwZCdiaYCgVvt1moKwseyM40p6BCleOqmC368ifVnFX2hgtJZmXtJM09QWwgm1hC4XgP_7nFX60U713hMQSPQ2Nj4sDqKofBD7UgymJ7qw-6nuQsvCG0oyhuIJxzKPAkysCd/s728-rw-e365/recall.png",
-        "Title": "Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8b7A4rSkW6hju0Yl1EddDkxRwBBLzDU9pDIEGkYrRKkGeTRn6qoXNO_rQxzd8cQlRpcIvzT_-JvU5HfFPLPK_TKZlAYlcie6O7hOAtpmUl_cZYUYCoK_dmVkyAwo_j8V6MQrUCo-LA1kQniRNeu9D12R0cj0jbFqd8L305wKTiIeoLzCPWh1pZU6G8A8/s728-rw-e365/ms.png",
-        "Title": "New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/arid-viper-launches-mobile-espionage.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKFZ31b3q4FsttVU0wPRd8ZX6P6BTMCVFDrUqhdVlc-dB1FAG-R5oBRb9U7iPQJWh8qX0sc7tTvUDzwL60ALOfzRiE03ZAjs2xVe2R7qrOEkvF-aNgwaVaxNABfoFEmdzo0pThPMP7LghuKnhFedJsuphX_Ykr02M4b9S3v_D0Wzmj8DTSYWB09z3B8my/s728-rw-e365/android-spyware.png",
-        "Title": "Arid Viper Launches Mobile Espionage Campaign with AridSpy Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s728-rw-e365/wing.png",
-        "Title": "Why SaaS Security is Suddenly Hot: Racing to Defend and Comply",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 14, 2024"
     },
     {
         "Link": "https://www.wired.com/story/change-healthcare-22-million-payment-ransomware-spike/",
@@ -203,6 +203,13 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
@@ -217,25 +224,11 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/6661d02c80ded6bdcf057e1c/3:2/w_1280%2Cc_limit/Snowflake-Data-Breach-Security-GettyImages-559007197.jpg",
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
         "Timestamp": "Jun 05, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
@@ -245,16 +238,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
