@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHgJlqHLiGVaoIa3w7KEj4HNDEaCdWCJ5kt287N2VrM2IN20krWTM6Uy9Wi-x77CXEroCggF-SLE92YIXX0jyVkzUM7q4X4c7_jv5Lj4ikImB9u5G1SCCjq5Ssy3-Fo9UA-Wd89qE6sqr4PyauBCacs1xfJr1Qwy8fh-k45HtStpPA7S08FrBzi0xnD78d/s728-rw-e365/crypto.png",
+        "Title": "Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s728-rw-e365/china.png",
+        "Title": "UNC3886 Uses Fortinet, VMware 0-Days and Stealth Tactics in Long-Term Spying",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s728-rw-e365/main.png",
         "Title": "New Case Study: Unmanaged GTM Tags Become a Security Nightmare",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-saas-discovery",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
+        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Jun 19, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Jun 19, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yl4xpsRQlCddnE34H-Qy7y0XdnOL1ar9GL89rTeRP1ZykyrRMI_53L9qXRW0ZP01RnCPMZWKOFw_ySZFMPQ0kwH0vdjgCW1y_Xm8Z9mf-xXMy2gMYvtqgp9CPW54o9oT7xyC535BX13et2DqCt9fZKpU4dygrCCmw-mv0Jy7T05CRlCoRQmKxc3EjYfc/s728-rw-e365/mailcow-hacking.png",
         "Title": "Mailcow Mail Server Flaws Expose Servers to Remote Code Execution",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s728-rw-e365/signal.png",
         "Title": "Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
+        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
         "Source": "The Hacker News",
         "Timestamp": "Jun 19, 2024"
     },
@@ -56,44 +77,23 @@
         "Timestamp": "Jun 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
-        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghhRVYJXah-YDUVVSkd5YnwjiffHaFyz1zQRf08ialLrs3v5iFEWfz02ac4ru3AAglTaE15k6xqqa4w916neUksf3NwuJnsDg6LbvsH-YMKm_1DOmJvTNogrsrbIx4lwBRmw6Vg4OYSjTnL-tm14jXxAEOGIKYi07Om1J9LYQ-N9HcNP2JfRFdez-7rtT9/s728-rw-e365/docker.png",
         "Title": "New Malware Targets Exposed Docker APIs for Cryptocurrency Mining",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_363QDqRSIeSM8F37EYkY6wGLOXzTBSSck2QQQga13k-aL9x9Ah2h692wmXPTmjV6XoB2hx4tGXepQqHY6F1jbUIU9qkGP-1X2cNL2aVa8lBtYF-Yw-ZSvIryy3QEjT-VevSnahRiYJW8I8JG62G2HfWCuBj2UEXt32b4Nwuk7Mq_CUHNpFepAn8kCIc/s728-rw-e365/vmware.png",
         "Title": "VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
+        "Timestamp": "Jun 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSkzr0K1n6xihMUQkMJtFmrCqBhD5Sz41x-eK5Kp1Hfp-JhAb7Boi0QpbXLKghrI-RLa8WJd_RiDT14VxAkpC8b8KiNcKmFovfco2kvZD3CTIsWY_GvyTg4nPri5esJARDvwK2VDbOx6tiFbAs5CIWP9zLZd-DWlFdye1v5tiztB5_kyYTEKCGx76HwTi/s728-rw-e365/arrest.png",
         "Title": "Singapore Police Extradites Malaysians Linked to Android Malware Fraud",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/asus-patches-critical-authentication.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIWsf6lKy8GePpP7Xqk8ZbPKegf1ChQsdpI54tJZw-x9zVnr-SLThmonvuPjvUnObPMZQ9MqGiNNwTlSmJOBGoqKREvyZnS0zxo27gPuZIm5Tfqe3hPeC2Phz9Y0qJQBLVUtnPSGffQQOzHVvRJT68BmliJdnr0Pc4LpTa4Ox3dG8ovrVANKzujx9cxYj/s728-rw-e365/asus.jpg",
-        "Title": "ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXpnHOoUZ3v-ZiTghNebrIH_eeJ_3X8IYbqZjPSd1AcCwNEAilN3pu6hBwUEpVKEmKnuMJPmZslZe1L16n47ROMY-0i33rxRX6Uz3YMFNnn6G2OhZ__BTONMmC3vXh2sUDbb-fyv71vEzw2TOdS0yOi8eSQVV3HNFy_JO6Zn3wqfJlbZC41ciYI65gkqY/s728-rw-e365/cyberattack.jpg",
-        "Title": "China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jun 18, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
         "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/asus-patches-critical-authentication.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIWsf6lKy8GePpP7Xqk8ZbPKegf1ChQsdpI54tJZw-x9zVnr-SLThmonvuPjvUnObPMZQ9MqGiNNwTlSmJOBGoqKREvyZnS0zxo27gPuZIm5Tfqe3hPeC2Phz9Y0qJQBLVUtnPSGffQQOzHVvRJT68BmliJdnr0Pc4LpTa4Ox3dG8ovrVANKzujx9cxYj/s728-rw-e365/asus.jpg",
+        "Title": "ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXpnHOoUZ3v-ZiTghNebrIH_eeJ_3X8IYbqZjPSd1AcCwNEAilN3pu6hBwUEpVKEmKnuMJPmZslZe1L16n47ROMY-0i33rxRX6Uz3YMFNnn6G2OhZ__BTONMmC3vXh2sUDbb-fyv71vEzw2TOdS0yOi8eSQVV3HNFy_JO6Zn3wqfJlbZC41ciYI65gkqY/s728-rw-e365/cyberattack.jpg",
+        "Title": "China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jun 18, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/06/uk-hacker-linked-to-notorious-scattered.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEUpVPfpAudQXCd7rMYj9fL4Q_A8nOG9tV_IzleDqe8baoch2aw_1TbrNh7bebtlA3LWQ7oGhD_tkKcVaTUDPjuK4latv2DEIlXDEQtUrg9KbANXh0vGopkII1QrttAWLwEqoch8b-HDYy_zwT_yhDubMVhatNgBprUYZeE7Y8lhIclZ28ADVTBWEaQdLB/s728-rw-e365/arrest.png",
         "Title": "U.K. Hacker Linked to Notorious Scattered Spider Group Arrested in Spain",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQvbfY8y10D8oFXqOF9NwLjQFWiVCIACWzLH4Ta3Tpb-LuzR0itJ6Qr9UPmGmbzez7Bdne6cF20mYTo1LcIodqXVyuj_4bPNsniaA58X-Tm5h5fziw5D9tFWo2HaZ3lN-ePcVuMxKJbbWtsS8UoDg-FCOBn2HJBt_ZM5XRUXTQ3lEG9JfDnAwjTVVVeR/s728-rw-e365/malware.jpg",
-        "Title": "Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouiJdHlDATGpVqfPwd8pptQOFLHfzUFyuOMR-SFxRl07Z4MXkEdkOHWrNzbSTumd163a1d3NkGW3bZRSh1g3q1yAtSO5vmx7-H84FO-DFEgwaM51lDpquM4qD2Izdp87xURyHjFcDA_1JJv2aFbdYi3jsUPGaEts-VtjrYFbPJfmsM-6IFaCnmlywz1bk/s728-rw-e365/malware.png",
-        "Title": "Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jun 18, 2024"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
