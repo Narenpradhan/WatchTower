@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s728-rw-e365/intel.png",
+        "Title": "Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv-tI6H7555jvr1t5aTud-C2e8o6rl1GAFR7gYgqElAi2OLf3LrfM9OLhKDN3syyLxx0Dp_YT-qAj1mhI02RWR7rp5fzLSi1Kqc-eH-CnWsxJL9Ihi7kAej1_mSzsmqpOftao0Xye6HnBQipYIOKV6gFACmPRxc0l7hm-cb13HuVQAUXGihuZAcCNwdSv/s728-rw-e365/hackers.png",
+        "Title": "French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/tool-overload-why-msps-are-still.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtgahvhRvBnzxVHcayme_EH_GIUNB5fBXsqgN1natNXNuHU3iznNBVVgfRZKA3MyNZmybnq1AdYyvbhC3MdYxKF3VHs6MHh-rTCAGNrh7GCRgU9YcgrHZZxixIdtW5JAC74Dja8olsI4_ug1m_nbKg63oBl-3ecvrn2oCr5pKVRgq9ganLM4zAWr_nkQ/s728-rw-e365/gallery.png",
         "Title": "Tool Overload: Why MSPs Are Still Drowning with Countless Cybersecurity Tools in 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-saas-discovery",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
+        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Jun 20, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Jun 20, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LbUE7vSJy3jeN_7qMCfC2_B4Nr4W57_P3sA-Esu-nFUKx1HKKOmwHzf2-jA_yzMVhsT2DYuUkZAsrefzVGmolZXGVambmGfKT8lw5qTFC7J0qZi0t9U_3tXqF2KqFh1f1BWG_Wd6M0dYsOIAZdwuIU-L2_iQQrSqxbDXwzLmqgWVkDP12IXOvtQ0ahyphenhypheni/s728-rw-e365/malware.png",
         "Title": "Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHgJlqHLiGVaoIa3w7KEj4HNDEaCdWCJ5kt287N2VrM2IN20krWTM6Uy9Wi-x77CXEroCggF-SLE92YIXX0jyVkzUM7q4X4c7_jv5Lj4ikImB9u5G1SCCjq5Ssy3-Fo9UA-Wd89qE6sqr4PyauBCacs1xfJr1Qwy8fh-k45HtStpPA7S08FrBzi0xnD78d/s728-rw-e365/crypto.png",
         "Title": "Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
+        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
         "Source": "The Hacker News",
         "Timestamp": "Jun 20, 2024"
     },
@@ -56,44 +77,23 @@
         "Timestamp": "Jun 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
-        "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mX66p6MBHyumlsDTlV5u8yFFCNxvGtmycqZU0EQU7xrzwjJTl-lDHOQx8QaBvratVEeBfyIp8l-lsZhHgzA1Dpm4eMS9gLIuHygwNlgsiC5Hj9rZpFijeyPsulyYWOLifD-VbXaiG0HmnYmZTpUguBWVoe4-4oShLp2quPXiQKkUYFZypI5Pf0oe7nhF/s728-rw-e365/ai.png",
         "Title": "New Threat Actor 'Void Arachne' Targets Chinese Users with Malicious VPN Installers",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 19, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/warning-markopolos-scam-targeting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJvOtIzI2dgCsuRe_JryE-wT8cQGG9pIWs4HI3RW4QfmxZnoNGjHPmf3PDwAmhm_xRInfxwQkurDMofQtQUxRdWqt7v9I-GmZsAruDYi1P9qiJYn88fWCzEvxbQXwuX3nZNO7TuVzCnYINzpEoCxY_Z7WA6VZ6jPMGOrD_t4kbOHHpzcTXy3iPFJkE6VB/s728-rw-e365/meeting.png",
         "Title": "Warning: Markopolo's Scam Targeting Crypto Users via Fake Meeting Software",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 19, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yl4xpsRQlCddnE34H-Qy7y0XdnOL1ar9GL89rTeRP1ZykyrRMI_53L9qXRW0ZP01RnCPMZWKOFw_ySZFMPQ0kwH0vdjgCW1y_Xm8Z9mf-xXMy2gMYvtqgp9CPW54o9oT7xyC535BX13et2DqCt9fZKpU4dygrCCmw-mv0Jy7T05CRlCoRQmKxc3EjYfc/s728-rw-e365/mailcow-hacking.png",
         "Title": "Mailcow Mail Server Flaws Expose Servers to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s728-rw-e365/signal.png",
-        "Title": "Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLaPB-NmzW_Hw0S2_GZu-UAYzAwI8rch3mnu6kah2x2REmGeYz7t3SjiGnXcduErIL0X7XE27kbczfZfNXSPCZ7hyphenhyphen_oBEQw4J0pxB8PfeTsaYiQpBILoyh0B7j4OC-CLcNh7cQV0yQV3RxD778z4lJzEil-FM9eiA-NkT3JCy89-jLYQhB1vyIps1RRR9j/s728-rw-e365/malware.png",
-        "Title": "Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer",
         "Source": "The Hacker News",
         "Timestamp": "Jun 19, 2024"
     },
@@ -108,6 +108,20 @@
         "Link": "https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s728-rw-e365/main.png",
         "Title": "Cybersecurity CPEs: Unraveling the What, Why & How",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s728-rw-e365/signal.png",
+        "Title": "Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLaPB-NmzW_Hw0S2_GZu-UAYzAwI8rch3mnu6kah2x2REmGeYz7t3SjiGnXcduErIL0X7XE27kbczfZfNXSPCZ7hyphenhyphen_oBEQw4J0pxB8PfeTsaYiQpBILoyh0B7j4OC-CLcNh7cQV0yQV3RxD778z4lJzEil-FM9eiA-NkT3JCy89-jLYQhB1vyIps1RRR9j/s728-rw-e365/malware.png",
+        "Title": "Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer",
         "Source": "The Hacker News",
         "Timestamp": "Jun 19, 2024"
     },
@@ -136,20 +150,6 @@
         "Link": "https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSkzr0K1n6xihMUQkMJtFmrCqBhD5Sz41x-eK5Kp1Hfp-JhAb7Boi0QpbXLKghrI-RLa8WJd_RiDT14VxAkpC8b8KiNcKmFovfco2kvZD3CTIsWY_GvyTg4nPri5esJARDvwK2VDbOx6tiFbAs5CIWP9zLZd-DWlFdye1v5tiztB5_kyYTEKCGx76HwTi/s728-rw-e365/arrest.png",
         "Title": "Singapore Police Extradites Malaysians Linked to Android Malware Fraud",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/asus-patches-critical-authentication.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWIWsf6lKy8GePpP7Xqk8ZbPKegf1ChQsdpI54tJZw-x9zVnr-SLThmonvuPjvUnObPMZQ9MqGiNNwTlSmJOBGoqKREvyZnS0zxo27gPuZIm5Tfqe3hPeC2Phz9Y0qJQBLVUtnPSGffQQOzHVvRJT68BmliJdnr0Pc4LpTa4Ox3dG8ovrVANKzujx9cxYj/s728-rw-e365/asus.jpg",
-        "Title": "ASUS Patches Critical Authentication Bypass Flaw in Multiple Router Models",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXpnHOoUZ3v-ZiTghNebrIH_eeJ_3X8IYbqZjPSd1AcCwNEAilN3pu6hBwUEpVKEmKnuMJPmZslZe1L16n47ROMY-0i33rxRX6Uz3YMFNnn6G2OhZ__BTONMmC3vXh2sUDbb-fyv71vEzw2TOdS0yOi8eSQVV3HNFy_JO6Zn3wqfJlbZC41ciYI65gkqY/s728-rw-e365/cyberattack.jpg",
-        "Title": "China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jun 19, 2024"
     },
@@ -203,13 +203,6 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
         "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
         "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
@@ -224,6 +217,13 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/6661d02c80ded6bdcf057e1c/3:2/w_1280%2Cc_limit/Snowflake-Data-Breach-Security-GettyImages-559007197.jpg",
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
@@ -231,16 +231,16 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
