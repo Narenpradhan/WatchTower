@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXw60QL28Xq7EBbc0ltu7Zn_zb6LIeUeJMxbecm3s337gGKN-iqxrJahLYb33DLw5DYTdJF95r_hjUOpwHzRkQIaZItePsJ-OUeK4xSaF8qeCHIw90bI-Aaz7_EcuJfC5JCK4lg96YBoc5Z8HP1dEI85rPe-joSvXxDTirngmFCd8QOHgGL6gHC05wdWe/s728-rw-e365/talos.png",
+        "Title": "Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbXwRgpsdr04H7pJ4cx0DZWw2UsOm12Aumr5eST2F5r89yzPS8xIpAMw1AVFkHcBBzmSBif4mjIh39pKFg08oKyE0kGXeAomoFwLsx7ZEngalsZmzagLX7bJQbxjZRyWQzz1zgTygsLL3g-ttw6-I3trv_ABWGeqca5UiW5-wQVuFEkYm98qkdq5xHQTK/s728-rw-e365/email.png",
+        "Title": "Military-themed Email Scam Spreads Malware to Infect Pakistani Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s728-rw-e365/Tines-SOC-Automation-Capability-Matrix-article1.jpg",
         "Title": "How to Use Tines's SOC Automation Capability Matrix",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-saas-discovery",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
+        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Jun 21, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Jun 21, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 21, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s728-rw-e365/kaspersky.png",
         "Title": "U.S. Bans Kaspersky Software, Citing National Security Risks",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s728-rw-e365/intel.png",
         "Title": "Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s728-rw-e365/wing.png",
+        "Title": "Why SaaS Security is Suddenly Hot: Racing to Defend and Comply",
         "Source": "The Hacker News",
         "Timestamp": "Jun 21, 2024"
     },
@@ -56,27 +77,6 @@
         "Timestamp": "Jun 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s728-rw-e365/wing.png",
-        "Title": "Why SaaS Security is Suddenly Hot: Racing to Defend and Comply",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioybnSxI-9QflvNm_HLi4shz_gcXEbNThy8F7WZAdRX6o0NVzJt4Ojn5bUXblR0DH7FILsUmteaS6I5R4506wLdxnSjQSshOoiNn7cuOXukzdrYvacGDgaK5wf9EvyElna7UXa2XaEQK5qa6jTXekIAqF5uHtV-foyeoX38iLPCycgJzBwvnLth1PxCzIr/s728-rw-e365/telecom.png",
-        "Title": "Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s728-rw-e365/malware.png",
-        "Title": "New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 21, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/radaris-home.png",
         "Title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
@@ -84,9 +84,37 @@
         "Timestamp": "Jun 20, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioybnSxI-9QflvNm_HLi4shz_gcXEbNThy8F7WZAdRX6o0NVzJt4Ojn5bUXblR0DH7FILsUmteaS6I5R4506wLdxnSjQSshOoiNn7cuOXukzdrYvacGDgaK5wf9EvyElna7UXa2XaEQK5qa6jTXekIAqF5uHtV-foyeoX38iLPCycgJzBwvnLth1PxCzIr/s728-rw-e365/telecom.png",
+        "Title": "Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s728-rw-e365/malware.png",
+        "Title": "New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s728-rw-e365/wing.png",
+        "Title": "Why SaaS Security is Suddenly Hot: Racing to Defend and Comply",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LbUE7vSJy3jeN_7qMCfC2_B4Nr4W57_P3sA-Esu-nFUKx1HKKOmwHzf2-jA_yzMVhsT2DYuUkZAsrefzVGmolZXGVambmGfKT8lw5qTFC7J0qZi0t9U_3tXqF2KqFh1f1BWG_Wd6M0dYsOIAZdwuIU-L2_iQQrSqxbDXwzLmqgWVkDP12IXOvtQ0ahyphenhypheni/s728-rw-e365/malware.png",
         "Title": "Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wing-saas-discovery",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
+        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Jun 20, 2024"
     },
@@ -98,23 +126,9 @@
         "Timestamp": "Jun 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/why-saas-security-is-suddenly-hot.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s728-rw-e365/wing.png",
-        "Title": "Why SaaS Security is Suddenly Hot: Racing to Defend and Comply",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s728-rw-e365/china.png",
         "Title": "UNC3886 Uses Fortinet, VMware 0-Days and Stealth Tactics in Long-Term Spying",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Jun 20, 2024"
     },
@@ -143,20 +157,6 @@
         "Link": "https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yl4xpsRQlCddnE34H-Qy7y0XdnOL1ar9GL89rTeRP1ZykyrRMI_53L9qXRW0ZP01RnCPMZWKOFw_ySZFMPQ0kwH0vdjgCW1y_Xm8Z9mf-xXMy2gMYvtqgp9CPW54o9oT7xyC535BX13et2DqCt9fZKpU4dygrCCmw-mv0Jy7T05CRlCoRQmKxc3EjYfc/s728-rw-e365/mailcow-hacking.png",
         "Title": "Mailcow Mail Server Flaws Expose Servers to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s728-rw-e365/signal.png",
-        "Title": "Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLaPB-NmzW_Hw0S2_GZu-UAYzAwI8rch3mnu6kah2x2REmGeYz7t3SjiGnXcduErIL0X7XE27kbczfZfNXSPCZ7hyphenhyphen_oBEQw4J0pxB8PfeTsaYiQpBILoyh0B7j4OC-CLcNh7cQV0yQV3RxD778z4lJzEil-FM9eiA-NkT3JCy89-jLYQhB1vyIps1RRR9j/s728-rw-e365/malware.png",
-        "Title": "Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer",
         "Source": "The Hacker News",
         "Timestamp": "Jun 20, 2024"
     },
@@ -217,16 +217,16 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -245,13 +245,6 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
         "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
         "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
@@ -259,16 +252,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
