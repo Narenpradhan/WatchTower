@@ -1,80 +1,87 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaQ1biasforNyKbIFGGgyRp0JCueHHUY75Ose_MzLxnW-r6PQDN922qsWhSEL7LD-gfGKsKMZAaYWR02SxvCaryJAmLAUSzpYT9VuDsjWEGUqR6R-x-0tVYftBvmpF5TbJcrwGaiHUsI1BjnX3EBkgtgFPX8ExPMI89ptoCW4lN1mCXpEq60iDeM1ayz0/s728-rw-e365/cyber.png",
+        "Title": "Ease the Burden with AI-Driven Threat Intelligence Reporting ",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvYsFyJz6Bc73ZrxZRCnchtriTKvKKIL82A10FLfqRdhzt6-M9UNHVEmelusc_OhxDsR0bWPYeOflrEEiyNay-dtP9Ac3yeGtmxk3EKtmr7rc9loxrDySq01d-9-0grI6blkazQvM-NL2zwSppqUjZnSB1XvsK5lkgWAmEqFLrGhstN5ghdXYtaM1rOxUN/s728-rw-e365/vpn.png",
+        "Title": "RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZS8typ_xGW63FQnVvK443QN8ZGbWpZeT-bICpbjpRSO8MeIgRxf2PbLucN4Y5-6zf_EX5ca9ZpavSU4IrSpxbkeYF06SACiiotMipmjNNIGy49A8iOKWLS3ml5fSCSepE0LwXNZBrjo_reMwmWK62vAkjPlY1GbHo-d6vAuw8Dft4QxFi4dt4971w-gAh/s728-rw-e365/android-ransomware.png",
+        "Title": "Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/vanta-soc2-webinar",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIK3WSFadHeOtgHqCc9QQ8ZtkHeyv-ZBQTcYqKDOYhVYZnmiumgGrjV72vkloB_gb47HXJDmv4bXNCbaxRfSSeKikQG-pXeCFabNwQ_LJKzXDuXgD9dvaDfJWnkGcu39Kg5kjiqJtfE1IFlslGkrrPipdLEDC0KIWacVxGX-Y3crNKMEzpuGucE5QQffW3/s728-rw-e365/vanta.png",
+        "Title": "Join the Live Session: How to Automate SOC 2 & ISO 27001 Compliance",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 24, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs_m84boZ85nEuaJyKxnO7LyPHzJma4zuBFAOJFgqHOjaTDfbuIyPC2vTAGr-Fw4F_eOJmw1I6c2loJ17MjHg4I9HItPpWhOD2R_sLeyk9OcbBaj2_29Zz1ZiBAYHTCOneYpuNuXRoplGV93X8SPJL2XdgFEL3F3WMoTsUz-0nFXagdGPS0QP2jhvSg3K/s728-rw-e365/russia.png",
         "Title": "ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/warning-new-adware-campaign-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeenSnr6hMRSmcSB0SzOcl1Rs2sxftKhgL3RAKf3_QGaWvztpAiFdAWsp39al3YNpHCF1aWgKZZ109NGZA1lBCmfW5bYBizmA0yYLf2b1hOYEnwc8D-SC1g5qBxp2eaMPEikJzN1iEBv2thQRzNGPLBohvPCNTuuc_SLgAwdUM2Oavj6OG8Lzf37MEJugo/s728-rw-e365/malspam.png",
         "Title": "Warning: New Adware Campaign Targets Meta Quest App Seekers",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/us-treasury-sanctions-12-kaspersky.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlyO41rKmna6mCDjeeLG0igLaXM4aByx0IbvFWjDEPcciC7yu62sv03TtBXUjYXdeVq4SQAKQCjERcg95AiVeOQXhRr8FfRhX5B9kONQdUq4lLV8gEI0J9KWP5e2X0fg_kNGHhQRuSAXm16llSbCVetDBIpGjL6tHIf8JRf5R4_1x0UrY7pRTgw780HlXN/s728-rw-e365/kaspersky.png",
         "Title": "U.S. Treasury Sanctions 12 Kaspersky Executives Amid Software Ban",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-rw-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXw60QL28Xq7EBbc0ltu7Zn_zb6LIeUeJMxbecm3s337gGKN-iqxrJahLYb33DLw5DYTdJF95r_hjUOpwHzRkQIaZItePsJ-OUeK4xSaF8qeCHIw90bI-Aaz7_EcuJfC5JCK4lg96YBoc5Z8HP1dEI85rPe-joSvXxDTirngmFCd8QOHgGL6gHC05wdWe/s728-rw-e365/talos.png",
         "Title": "Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbXwRgpsdr04H7pJ4cx0DZWw2UsOm12Aumr5eST2F5r89yzPS8xIpAMw1AVFkHcBBzmSBif4mjIh39pKFg08oKyE0kGXeAomoFwLsx7ZEngalsZmzagLX7bJQbxjZRyWQzz1zgTygsLL3g-ttw6-I3trv_ABWGeqca5UiW5-wQVuFEkYm98qkdq5xHQTK/s728-rw-e365/email.png",
-        "Title": "Military-themed Email Scam Spreads Malware to Infect Pakistani Users",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s728-rw-e365/Tines-SOC-Automation-Capability-Matrix-article1.jpg",
-        "Title": "How to Use Tines's SOC Automation Capability Matrix",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s728-rw-e365/software.png",
-        "Title": "Oyster Backdoor Spreading via Trojanized Popular Software Downloads",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s728-rw-e365/ever.png",
         "Title": "Why Regulated Industries are Turning to Military-Grade Cyber Defenses",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilITH9pL3BtOSdbBSKEBBNgIvgCBEFU3ZeqzjMN8rk1kkZU56G2jGZKuw_qewfMHGmLPu-G__1qZ2wZDTtA8o722QQ1nBTfB5w8UfsXYZVfbyXv1dnOnB5uRERhT76eVr53JLjJHlKYiFNgPfzODLilE1spOzst-ggd3cG1qCesrpsHLZooMBsWG_HrcD8/s728-rw-e365/solarwinds.png",
-        "Title": "SolarWinds Serv-U Vulnerability Under Active Attack - Patch Immediately",
+        "Link": "https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbXwRgpsdr04H7pJ4cx0DZWw2UsOm12Aumr5eST2F5r89yzPS8xIpAMw1AVFkHcBBzmSBif4mjIh39pKFg08oKyE0kGXeAomoFwLsx7ZEngalsZmzagLX7bJQbxjZRyWQzz1zgTygsLL3g-ttw6-I3trv_ABWGeqca5UiW5-wQVuFEkYm98qkdq5xHQTK/s728-rw-e365/email.png",
+        "Title": "Military-themed Email Scam Spreads Malware to Infect Pakistani Users",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s728-rw-e365/kaspersky.png",
-        "Title": "U.S. Bans Kaspersky Software, Citing National Security Risks",
+        "Link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s728-rw-e365/Tines-SOC-Automation-Capability-Matrix-article1.jpg",
+        "Title": "How to Use Tines's SOC Automation Capability Matrix",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 22, 2024"
+        "Timestamp": "Jun 24, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ransomware-health-care-assurance-letters/",
+        "Img_URL": "https://media.wired.com/photos/6675d7eaded390021eedeb6b/3:2/w_1280%2Cc_limit/GettyImages-1307656509-3.jpg",
+        "Title": "Red Tape Is Making Hospital Ransomware Attacks Worse",
+        "Source": "WIRED",
+        "Timestamp": "Jun 24, 2024"
     },
     {
         "Link": "https://www.wired.com/story/hospital-hack-300-million-patient-records-leaked/",
@@ -84,87 +91,87 @@
         "Timestamp": "Jun 22, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/radaris-home.png",
-        "Title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jun 20, 2024"
+        "Link": "https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s728-rw-e365/software.png",
+        "Title": "Oyster Backdoor Spreading via Trojanized Popular Software Downloads",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s728-rw-e365/intel.png",
-        "Title": "Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs",
+        "Link": "https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilITH9pL3BtOSdbBSKEBBNgIvgCBEFU3ZeqzjMN8rk1kkZU56G2jGZKuw_qewfMHGmLPu-G__1qZ2wZDTtA8o722QQ1nBTfB5w8UfsXYZVfbyXv1dnOnB5uRERhT76eVr53JLjJHlKYiFNgPfzODLilE1spOzst-ggd3cG1qCesrpsHLZooMBsWG_HrcD8/s728-rw-e365/solarwinds.png",
+        "Title": "SolarWinds Serv-U Vulnerability Under Active Attack - Patch Immediately",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv-tI6H7555jvr1t5aTud-C2e8o6rl1GAFR7gYgqElAi2OLf3LrfM9OLhKDN3syyLxx0Dp_YT-qAj1mhI02RWR7rp5fzLSi1Kqc-eH-CnWsxJL9Ihi7kAej1_mSzsmqpOftao0Xye6HnBQipYIOKV6gFACmPRxc0l7hm-cb13HuVQAUXGihuZAcCNwdSv/s728-rw-e365/hackers.png",
-        "Title": "French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s728-rw-e365/ever.png",
         "Title": "Why Regulated Industries are Turning to Military-Grade Cyber Defenses",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s728-rw-e365/kaspersky.png",
+        "Title": "U.S. Bans Kaspersky Software, Citing National Security Risks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/vanta-soc2-webinar",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIK3WSFadHeOtgHqCc9QQ8ZtkHeyv-ZBQTcYqKDOYhVYZnmiumgGrjV72vkloB_gb47HXJDmv4bXNCbaxRfSSeKikQG-pXeCFabNwQ_LJKzXDuXgD9dvaDfJWnkGcu39Kg5kjiqJtfE1IFlslGkrrPipdLEDC0KIWacVxGX-Y3crNKMEzpuGucE5QQffW3/s728-rw-e365/vanta.png",
+        "Title": "Join the Live Session: How to Automate SOC 2 & ISO 27001 Compliance",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s728-rw-e365/intel.png",
+        "Title": "Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv-tI6H7555jvr1t5aTud-C2e8o6rl1GAFR7gYgqElAi2OLf3LrfM9OLhKDN3syyLxx0Dp_YT-qAj1mhI02RWR7rp5fzLSi1Kqc-eH-CnWsxJL9Ihi7kAej1_mSzsmqpOftao0Xye6HnBQipYIOKV6gFACmPRxc0l7hm-cb13HuVQAUXGihuZAcCNwdSv/s728-rw-e365/hackers.png",
+        "Title": "French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/tool-overload-why-msps-are-still.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtgahvhRvBnzxVHcayme_EH_GIUNB5fBXsqgN1natNXNuHU3iznNBVVgfRZKA3MyNZmybnq1AdYyvbhC3MdYxKF3VHs6MHh-rTCAGNrh7GCRgU9YcgrHZZxixIdtW5JAC74Dja8olsI4_ug1m_nbKg63oBl-3ecvrn2oCr5pKVRgq9ganLM4zAWr_nkQ/s728-rw-e365/gallery.png",
         "Title": "Tool Overload: Why MSPs Are Still Drowning with Countless Cybersecurity Tools in 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wing-saas-discovery",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Iud4fL4y8rqusqL4S3Y7EiQJ1-3Jm5iYqUxeHogif1Q5xTMxWDfVdPfxIr-BYk0g9LYMtCeU5EHyWQMLHlPqewaxcYIQlpyVqZdewQuqMqUlrBlTEKgaEyCqPRRaHGp7gT2u1V8Nc22M7U-w5fzg8Qhv82nKIwrHHuW08ZxEU1rRRBSVWvMievb5iyzQ/s728-rw-e365/wing.png",
-        "Title": "Start With a Free Risk Assessment to Find, Fix, and Fly Through SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioybnSxI-9QflvNm_HLi4shz_gcXEbNThy8F7WZAdRX6o0NVzJt4Ojn5bUXblR0DH7FILsUmteaS6I5R4506wLdxnSjQSshOoiNn7cuOXukzdrYvacGDgaK5wf9EvyElna7UXa2XaEQK5qa6jTXekIAqF5uHtV-foyeoX38iLPCycgJzBwvnLth1PxCzIr/s728-rw-e365/telecom.png",
         "Title": "Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s728-rw-e365/malware.png",
         "Title": "New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LbUE7vSJy3jeN_7qMCfC2_B4Nr4W57_P3sA-Esu-nFUKx1HKKOmwHzf2-jA_yzMVhsT2DYuUkZAsrefzVGmolZXGVambmGfKT8lw5qTFC7J0qZi0t9U_3tXqF2KqFh1f1BWG_Wd6M0dYsOIAZdwuIU-L2_iQQrSqxbDXwzLmqgWVkDP12IXOvtQ0ahyphenhypheni/s728-rw-e365/malware.png",
         "Title": "Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations",
         "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
+        "Timestamp": "Jun 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHgJlqHLiGVaoIa3w7KEj4HNDEaCdWCJ5kt287N2VrM2IN20krWTM6Uy9Wi-x77CXEroCggF-SLE92YIXX0jyVkzUM7q4X4c7_jv5Lj4ikImB9u5G1SCCjq5Ssy3-Fo9UA-Wd89qE6sqr4PyauBCacs1xfJr1Qwy8fh-k45HtStpPA7S08FrBzi0xnD78d/s728-rw-e365/crypto.png",
-        "Title": "Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s728-rw-e365/china.png",
-        "Title": "UNC3886 Uses Fortinet, VMware 0-Days and Stealth Tactics in Long-Term Spying",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s728-rw-e365/main.png",
-        "Title": "New Case Study: Unmanaged GTM Tags Become a Security Nightmare",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/radaris-home.png",
+        "Title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Jun 20, 2024"
     },
     {
@@ -175,17 +182,17 @@
         "Timestamp": "Jun 20, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/",
-        "Img_URL": "https://media.wired.com/photos/66674090b476d817dc719ae7/3:2/w_1280%2Cc_limit/Contractor-Hack-Snowflake-Security-1459969681.jpg",
-        "Title": "Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake",
-        "Source": "WIRED",
-        "Timestamp": "Jun 17, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/tylerb.png",
         "Title": "Alleged Boss of \u2018Scattered Spider\u2019 Hacking Group Arrested",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jun 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/security-news-this-week-ransomware-attacks-are-getting-worse/",
+        "Img_URL": "https://media.wired.com/photos/66674090b476d817dc719ae7/3:2/w_1280%2Cc_limit/Contractor-Hack-Snowflake-Security-1459969681.jpg",
+        "Title": "Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake",
+        "Source": "WIRED",
         "Timestamp": "Jun 15, 2024"
     },
     {
@@ -224,9 +231,9 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -238,9 +245,9 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -252,13 +259,6 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
         "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
         "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
@@ -266,16 +266,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -389,13 +396,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/tunnelvision.png",
         "Title": "Why Your VPN May Not Be As Secure As It Claims",
         "Source": "KrebsonSecurity",
-        "Timestamp": "May 06, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-iphone-spyware-101/",
-        "Img_URL": "https://media.wired.com/photos/66393100588f131dd8d770b0/3:2/w_1280%2Cc_limit/Cyber-Army-of-Russia-Security.jpg",
-        "Title": "A (Strange) Interview With the Russian-Military-Linked Hackers Targeting US Water Utilities",
-        "Source": "WIRED",
         "Timestamp": "May 06, 2024"
     },
     {
