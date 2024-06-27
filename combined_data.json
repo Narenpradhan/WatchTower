@@ -2,7 +2,7 @@
     {
         "Link": "https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWujfa-zIkEKSSZrmJRXr8RYxicsbfk05Dp2v5jIamA7oX8WOyvd40jWPsAT7iE_LigNbqOdLHqD9ViOS1d5Cbuq7rPA5wbt6XZL5WkIsG0FKx5dvpqeFhLe-a0nqCMh23TAKHsabeBEzQtqBhGkhXBlk9Ol63yGqFG-v09rZFDm7L5sG1yOFiwZAZ8s11/s728-rw-e365/move.png",
-        "Title": "New MOVEit Transfer Vulnerability Under Active Exploitation - Patch ASAP!",
+        "Title": "Exploit Attempts Recorded Against New MOVEit Transfer Vulnerability - Patch ASAP!",
         "Source": "The Hacker News",
         "Timestamp": "Jun 26, 2024"
     },
@@ -231,16 +231,16 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
