@@ -105,9 +105,9 @@
         "Timestamp": "Jun 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaQ1biasforNyKbIFGGgyRp0JCueHHUY75Ose_MzLxnW-r6PQDN922qsWhSEL7LD-gfGKsKMZAaYWR02SxvCaryJAmLAUSzpYT9VuDsjWEGUqR6R-x-0tVYftBvmpF5TbJcrwGaiHUsI1BjnX3EBkgtgFPX8ExPMI89ptoCW4lN1mCXpEq60iDeM1ayz0/s728-rw-e365/cyber.png",
-        "Title": "Ease the Burden with AI-Driven Threat Intelligence Reporting ",
+        "Link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s728-rw-e365/CISO.png",
+        "Title": "How to Cut Costs with a Browser Security Platform",
         "Source": "The Hacker News",
         "Timestamp": "Jun 27, 2024"
     },
@@ -245,13 +245,6 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
         "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
         "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
@@ -266,18 +259,18 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/6661d02c80ded6bdcf057e1c/3:2/w_1280%2Cc_limit/Snowflake-Data-Breach-Security-GettyImages-559007197.jpg",
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
         "Timestamp": "Jun 05, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
@@ -287,16 +280,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
