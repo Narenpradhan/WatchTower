@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4XMLqZptCkn7ifIbKGNRWsYao93PQLI_x3x8VZigNo90bYOFGmw4jFFboOxaUu6Qvb2pXPGk_s6FEaz17DOyhSYIQ2ptN60p6yN5WJHX6I5PoAWaZaCHjJTOnsk3QoGzNOp16Nd8dw9C3RRfC4Pis3Ia0Z9jY5TdQ8anlENDdRuRzNGvjfnKayb-rEMJ/s728-rw-e365/Supply-Chain-Attack.gif",
+        "Title": "Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU4ISPkb4I9mBvScSZZXu5z-uFde93jyAL5gTjvqAZYQnBQAPUb8ycK_aMDThGoFkduhSpJJB_c7DUeL9ID-u6-ZCAhWywL2rQyKDoson93LLeg89RVTCBP-wUWoKec2_ivs-z38EpFiGymQENVz55Kb8I2xKUGv0GoglhfQQDvSjOtDyNJLhTrL-k6u4w/s728-rw-e365/android-spyware.png",
+        "Title": "CapraRAT Spyware Disguised as Popular Apps Threatens Android Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3F4I4kTQervEmNdQ9tVrLuQ7z5ZYXephppp4xroXfWj7dh8Od0fhCbyaCIhxkvZ5OkUZpHo7DlRCm5BM3cXa1bIy10yAyU_0HEpMrHQlCqkWpg3KK8krcXJshsW8m-61g4Z5JuJ9PZEdph47pOvk-FSYnywTwh1lGXSUMfi2MfUp-y9_CKs1UNyIAkrH/s728-rw-e365/code.png",
+        "Title": "Indian Software Firm's Products Hacked to Spread Data-Stealing Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
+        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 01, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPDQjFUUw2KlZCfxrfaRWuZmMagyWQDE6oHkUhRpgFozMh5jwlJp6PlGZNniJr8-Y8pOLA8Liyd70BQQ0UNPEfsHQfmnat5uAWgT5DH-txK9SQL_25K1ejGmBMRXfXoEfV-Lt8cNL0Bu1eY6XAyDf6gjsgQvRRDLUIeWMkuDI5ML2uJJ86dcDtRyMFw4/s728-rw-e365/git-key.png",
         "Title": "End-to-End Secrets Security: Making a Plan to Secure Your Machine Identities",
@@ -21,16 +49,16 @@
         "Timestamp": "Jul 01, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
-        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
+        "Link": "https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlMAsddqUjGX7TfV6NLi0fcMXLazmyyxR-Z6bogM2rj73p_wbsGDzWp7mQxPlzpUMhBIhRpqC1mLlYCUSsT8aBEZuPP-wwR8qvAstyWU2NIUNWcWa4RqJYgVNbuO4wvebfKB5LvpjGJvFHh8z3FHSZIIN7QdENWbHmHHrdZ47px7V0hvUjIdPC4pqGjiBx/s728-rw-e365/dv.png",
+        "Title": "Google to Block Entrust Certificates in Chrome Starting November 2024",
         "Source": "The Hacker News",
         "Timestamp": "Jul 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlMAsddqUjGX7TfV6NLi0fcMXLazmyyxR-Z6bogM2rj73p_wbsGDzWp7mQxPlzpUMhBIhRpqC1mLlYCUSsT8aBEZuPP-wwR8qvAstyWU2NIUNWcWa4RqJYgVNbuO4wvebfKB5LvpjGJvFHh8z3FHSZIIN7QdENWbHmHHrdZ47px7V0hvUjIdPC4pqGjiBx/s728-rw-e365/dv.png",
-        "Title": "Google to Block Entrust Certificates in Chrome Starting November 2024",
+        "Link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s728-rw-e365/CISO.png",
+        "Title": "How to Cut Costs with a Browser Security Platform",
         "Source": "The Hacker News",
         "Timestamp": "Jul 01, 2024"
     },
@@ -45,34 +73,6 @@
         "Link": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s728-rw-e365/gitlab.jpg",
         "Title": "GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNP5VH7iT7xWsfwY0p0tRrgM1xbQT9XmK5GRFpP1tjt8LucoW87hg6WmpOGQ04veFKc_j4oJwpQurEVqTH79KmF01OVwHYPKC4ym18vfFhlZmjye-9IU6OPNJ4tc_Bhm5szqjigXAZVtuAi9voCEdLQhyxQQu4fQl_mUihwTEdGDt4mnQSCeWHe4f-5N4A/s728-rw-e365/crypto.png",
-        "Title": "8220 Gang Exploits Oracle WebLogic Server Flaws for Cryptocurrency Mining",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s728-rw-e365/CISO.png",
-        "Title": "How to Cut Costs with a Browser Security Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeTcCiaBYoKyVQNecJEkeGUE_48HAfeL6IMJe7i6ExwR9n1t6lLeUyNl_5NUOdpY3sfWsINJTxUUQ8dTKhDQMnaqm_udWX3TENzJJ6tsJGVIj8JyXlKXr5UMnVnLCvtxi3TVNIRGwdHf9IewHE5JLlQZnDZlzOe9KWRUDgAq-43vA2wGS1l2UH_MW7wO4/s728-rw-e365/main.png",
-        "Title": "Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-snailload-attack-exploits-network.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5-kPenCGvITI1liRFL0ZD7JeVn-s4LFlyH_6eAwApYyXVIhjs75LWrP3vuWjjb1neKTEIxixZf7OXxD-uZd30DrPPTLhWpgcB2in6uDMqpeYrkjFJdFg02D7xYPLuJQSWc-mgBIIVXO7awo-7FDD3K1OsyKKLL8GLpxFNqkf7-KCn2ep2GJgg3bO3BJa/s728-rw-e365/snail-attack.png",
-        "Title": "New SnailLoad Attack Exploits Network Latency to Spy on Users' Web Activities",
         "Source": "The Hacker News",
         "Timestamp": "Jul 01, 2024"
     },
@@ -98,6 +98,41 @@
         "Timestamp": "Jun 29, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNP5VH7iT7xWsfwY0p0tRrgM1xbQT9XmK5GRFpP1tjt8LucoW87hg6WmpOGQ04veFKc_j4oJwpQurEVqTH79KmF01OVwHYPKC4ym18vfFhlZmjye-9IU6OPNJ4tc_Bhm5szqjigXAZVtuAi9voCEdLQhyxQQu4fQl_mUihwTEdGDt4mnQSCeWHe4f-5N4A/s728-rw-e365/crypto.png",
+        "Title": "8220 Gang Exploits Oracle WebLogic Server Flaws for Cryptocurrency Mining",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeTcCiaBYoKyVQNecJEkeGUE_48HAfeL6IMJe7i6ExwR9n1t6lLeUyNl_5NUOdpY3sfWsINJTxUUQ8dTKhDQMnaqm_udWX3TENzJJ6tsJGVIj8JyXlKXr5UMnVnLCvtxi3TVNIRGwdHf9IewHE5JLlQZnDZlzOe9KWRUDgAq-43vA2wGS1l2UH_MW7wO4/s728-rw-e365/main.png",
+        "Title": "Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s728-rw-e365/CISO.png",
+        "Title": "How to Cut Costs with a Browser Security Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/new-snailload-attack-exploits-network.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5-kPenCGvITI1liRFL0ZD7JeVn-s4LFlyH_6eAwApYyXVIhjs75LWrP3vuWjjb1neKTEIxixZf7OXxD-uZd30DrPPTLhWpgcB2in6uDMqpeYrkjFJdFg02D7xYPLuJQSWc-mgBIIVXO7awo-7FDD3K1OsyKKLL8GLpxFNqkf7-KCn2ep2GJgg3bO3BJa/s728-rw-e365/snail-attack.png",
+        "Title": "New SnailLoad Attack Exploits Network Latency to Spy on Users' Web Activities",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
+        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
+        "Source": "The Hacker News",
+        "Timestamp": "Jun 28, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/06/researchers-warn-of-flaws-in-widely.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJKNTLBIOwTuYrceyyTlbm6SmvO5N0hQVCcUEa_wbUr_lrGr0_VbFU3KH23DrKciAYDW7ZFWANT5NOGqRDyb169h80WwRmVJqRBTK_ANzoAXZSjqysTiSeaRrRB8QINYlFmtjAmwSkrmKMWkJljpkQvkYENOV4QKUWzX3pv22ZdcMtWNuGBUV448IX8BI5/s728-rw-e365/gas.png",
         "Title": "Researchers Warn of Flaws in Widely Used Industrial Gas Analysis Equipment",
@@ -112,23 +147,9 @@
         "Timestamp": "Jun 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s728-rw-e365/CISO.png",
-        "Title": "How to Cut Costs with a Browser Security Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 28, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56V_GGsq2WoLqpNDvCvck4OQWUed9D-9bSfjHbcEiN3-IYXI8JZUMp-X55zNGyQ6it9tGkaadcBdqNj9TPnRjwhIMMP4kkKjCJyuXQG6scs8DDqUAv4CRuJH5D-wHBWs15wTNASUL1L-MXSrYL4bIk1RYMKxVlFeTEvVmWKjuBT6UfsfRIaMBFwjJkEie/s728-rw-e365/botnet.png",
         "Title": "Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
-        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jun 28, 2024"
     },
@@ -150,27 +171,6 @@
         "Link": "https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQdFF4NwIupADuemHQsLFYBNZpQ_oQTLiMO_4lqtpIUFwj3Vitd7F0AO520JYFPmGtrm4eNMNFwo6H-taTtw5EYZcbWmT-wGgp8LAfFM3XoEG-x11gUUzAauQQZdahgV5c5rE-pWBq3SF1Hr6x80I3F7rt0-NclOAd6W_5faGLYU1XsLbD_skapxnrq3E/s728-rw-e365/algo.png",
         "Title": "How to Use Python to Build Secure Blockchain Applications",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/russian-national-indicted-for-cyber.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_X2ZnzHQIsDTSS40n9p37vBYLQWpIC6dJ8j3ZE-tn-4STu0vrgsyH0rykQSDimvTKbNN9OlqxV_tM9BcLpmBA5YYoJlz8ktg_wuZhI3orXqZa5fE9NNtSRxWr3W2DY-_s5_9HTJ7H6_Ovb1lVCz839eOxTdFHzIw0FCCNrYtgzhCP6mG9F0SBgfkJq7lo/s728-rw-e365/russian-hacer.png",
-        "Title": "Russian National Indicted for Cyber Attacks on Ukraine Before 2022 Invasion",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbpwi1_RXTxOJ8Yx3CTmrjDiV4wSpGP8vP-4pxWHlZzlQsC_OIaxOJWlAvOm_OxwJ3wu_qHJz5wYW4PdzVxQ84zOQwAM7-H0MHvxyRIlFRTixY4kbvjt5t4dF2doxgv3QYwiBQBujpSURb4P9PnSRKTa3wAezad9f7inB9UFPj2SVNPN25wKuxwYK0OzH/s728-rw-e365/forta.png",
-        "Title": "Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application",
-        "Source": "The Hacker News",
-        "Timestamp": "Jun 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWujfa-zIkEKSSZrmJRXr8RYxicsbfk05Dp2v5jIamA7oX8WOyvd40jWPsAT7iE_LigNbqOdLHqD9ViOS1d5Cbuq7rPA5wbt6XZL5WkIsG0FKx5dvpqeFhLe-a0nqCMh23TAKHsabeBEzQtqBhGkhXBlk9Ol63yGqFG-v09rZFDm7L5sG1yOFiwZAZ8s11/s728-rw-e365/move.png",
-        "Title": "Exploit Attempts Recorded Against New MOVEit Transfer Vulnerability - Patch ASAP!",
         "Source": "The Hacker News",
         "Timestamp": "Jun 28, 2024"
     },
@@ -252,13 +252,6 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
         "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
         "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
@@ -269,6 +262,13 @@
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -294,16 +294,16 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
