@@ -1,38 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaX8oRZJlpsU-XVfbDnvR2bUidQFUHeCaD-0NpVTdWJjRWG74jzNn5EksqT85ohqPHDrYgUxlqLK4DXGDJRmA8KnUVFfs3cd3yVx36UdiRIzvaVYC7P3gqfoG1QBokLtT0ZIC08LGA7T3hF2MEtTL0GqtNbEUYj0XPypmD0Fav6Pg8QkWaWcdXA6pi91Y/s728-rw-e365/ransomware.jpg",
-        "Title": "How MFA Failures are Fueling a 500% Surge in Ransomware Losses",
+        "Link": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s728-rw-e365/sasns.png",
+        "Title": "The Emerging Role of AI in Open-Source Intelligence",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 02, 2024"
+        "Timestamp": "Jul 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0NoU9BsJsrzRqKtOCUdvFRjITrPewugkox1kEcfAJWhM6oY2_GpAW-pNAOYKC5-a-9JRkamRLbLLxCxRnMPtPYThxLwC9liakHVwL07or3h2qGcePO9kKqgzRJu6qKbAGV7H623bqaRWwSgFNSofrLFAkcu6K51l_f0ut3oQDTfygrdebWG1gsgCqW5t/s728-rw-e365/intel.png",
-        "Title": "New Intel CPU Vulnerability 'Indirector' Exposes Sensitive Data",
+        "Link": "https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijyrkOQx5iBJK4Gf1kz466kf43G9p_f0COzSEC7d4h-kz6nWT2jQIbw76Qy33ufdoaXT-aG40iIG1kw3GyeOHqeOE_W2FLYCdq4z1_d-2ov7pftBANOnPnss61wjqxDK275oM9WCQeooftOtR54HVqaPqXh61MKSEJgzr_2cqo8VKrAojAnd4kYFNb7ELX/s728-rw-e365/ms.png",
+        "Title": "Microsoft MSHTML Flaw Exploited to Deliver MerkSpy Spyware Tool",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 02, 2024"
+        "Timestamp": "Jul 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOXS7zkqh97-NanwDxCeE3XohTCVAXEuMqU3QzMiZ6Dp2APqMiPHpXiOfC4ZZRqfkA8fHdvGN2e0S4Ahmr-I6SWVkGDYpu3-MTe87di85k1brXy53xb0Q911V3l1DdJoVpmOfMhC09XRAYfJJ5nhKF_DfKQf5091tqV9oJUUIvCxFjDBMPn0kffooobgi/s728-rw-e365/meta.png",
-        "Title": "Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny",
+        "Link": "https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMv3BzA7GmnnloseKlNcPn5oFH9kg1L8PKXPTATG4agdfp1QgWViFuoNqKxhuQy8IX4x6fPdX-IRu1LuSRbWH0kcekdcBbUI-D72vJIkRgHVQ2qLpJWVtdK9fiaCGmQdS5F7GqaEOck30YHam3eXhekW67jjR-nWcjwfxrWzawh94NGZii2oSFN34Ki7Tz/s728-rw-e365/anudesk.png",
+        "Title": "FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 02, 2024"
+        "Timestamp": "Jul 03, 2024"
     },
     {
         "Link": "https://thehackernews.uk/zerto-recovery-strategy",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
         "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 02, 2024"
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/israeli-entities-targeted-by.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4pGK_9BbTdRoNzwTatgUjVAM8GTxv97j3N9KsrZY_7L3IAGNp4jGx2jgCodT9oPeI1f3u4N3QU64qUrnPAxj4b9h_Lu1rTU_D7lRZp_lprWC934Hgl0BJDJQlGK7O-nUFgVdWTmyzvrY5shyphenhyphennvrbukWnn4rZ0KLRHOXm2VmJHHc859px9CnvFdLmGu0z/s728-rw-e365/cyberattack.png",
+        "Title": "Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizsgaScdnejxu-uXYhSErzx1AabDxqupU2t7dc54_WAqxHqC9uLQqCx4A2vafw7Ma3fTD4REXR8ElJIED4eUMZqbqwSTKnKQfsAWE8OTxOf5LtjbRLyjRis-ToFQYXu9KUqgeVcRCkDKuCzJ5a-rLnd52oYs0XOK9Dewm8tAihl7cUJB9aj25268kyLiKN/s728-rw-e365/hacking.png",
+        "Title": "South Korean ERP Vendor's Server Hacked to Spread Xctdoor Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaX8oRZJlpsU-XVfbDnvR2bUidQFUHeCaD-0NpVTdWJjRWG74jzNn5EksqT85ohqPHDrYgUxlqLK4DXGDJRmA8KnUVFfs3cd3yVx36UdiRIzvaVYC7P3gqfoG1QBokLtT0ZIC08LGA7T3hF2MEtTL0GqtNbEUYj0XPypmD0Fav6Pg8QkWaWcdXA6pi91Y/s728-rw-e365/ransomware.jpg",
+        "Title": "How MFA Failures are Fueling a 500% Surge in Ransomware Losses",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0NoU9BsJsrzRqKtOCUdvFRjITrPewugkox1kEcfAJWhM6oY2_GpAW-pNAOYKC5-a-9JRkamRLbLLxCxRnMPtPYThxLwC9liakHVwL07or3h2qGcePO9kKqgzRJu6qKbAGV7H623bqaRWwSgFNSofrLFAkcu6K51l_f0ut3oQDTfygrdebWG1gsgCqW5t/s728-rw-e365/intel.png",
+        "Title": "New Intel CPU Vulnerability 'Indirector' Exposes Sensitive Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcT9kmNQPK7pvylERwmRIcvH14RjxWFKs8z9oJ3kriSXuCsXNAe7rTzxnPfsLz4lKnLLaC-qMXkdiXoVK2Ji3-HXGBVAuCKho3g9RVWURrjL_7oRHY2Rkw9BgUQKAV4k4ZlaigCLXWagQWS_WGzbUDA3QNRGGIQLGb9hHrXsDLm0VPXb11vPuzFmhJxaU/s728-rw-e365/wing.png",
+        "Title": "The Secrets of Hidden AI Training on Your Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOXS7zkqh97-NanwDxCeE3XohTCVAXEuMqU3QzMiZ6Dp2APqMiPHpXiOfC4ZZRqfkA8fHdvGN2e0S4Ahmr-I6SWVkGDYpu3-MTe87di85k1brXy53xb0Q911V3l1DdJoVpmOfMhC09XRAYfJJ5nhKF_DfKQf5091tqV9oJUUIvCxFjDBMPn0kffooobgi/s728-rw-e365/meta.png",
+        "Title": "Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 03, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFpTKS49jwhfQpcN_DKBjcPukrcV0JRkpZ3zGMovIQLhS5STmUfaIbOfGShamu48xU-aCUkM3CKl_1sYH0ZI_LThJzVhD6fS_xteyR4ra3kJQRCnOvQ9oGqbmaTDWix7W-IgaoEaxrqqwYKLoAM-NrcEFS_yVJw83WvkEt1zW-g8jNGi4x4jKQb0_ofS8/s728-rw-e365/CISCO.png",
         "Title": "Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 02, 2024"
+        "Timestamp": "Jul 03, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html",
@@ -49,6 +91,13 @@
         "Timestamp": "Jul 02, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcT9kmNQPK7pvylERwmRIcvH14RjxWFKs8z9oJ3kriSXuCsXNAe7rTzxnPfsLz4lKnLLaC-qMXkdiXoVK2Ji3-HXGBVAuCKho3g9RVWURrjL_7oRHY2Rkw9BgUQKAV4k4ZlaigCLXWagQWS_WGzbUDA3QNRGGIQLGb9hHrXsDLm0VPXb11vPuzFmhJxaU/s728-rw-e365/wing.png",
+        "Title": "The Secrets of Hidden AI Training on Your Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 02, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU4ISPkb4I9mBvScSZZXu5z-uFde93jyAL5gTjvqAZYQnBQAPUb8ycK_aMDThGoFkduhSpJJB_c7DUeL9ID-u6-ZCAhWywL2rQyKDoson93LLeg89RVTCBP-wUWoKec2_ivs-z38EpFiGymQENVz55Kb8I2xKUGv0GoglhfQQDvSjOtDyNJLhTrL-k6u4w/s728-rw-e365/android-spyware.png",
         "Title": "CapraRAT Spyware Disguised as Popular Apps Threatens Android Users",
@@ -56,9 +105,9 @@
         "Timestamp": "Jul 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcT9kmNQPK7pvylERwmRIcvH14RjxWFKs8z9oJ3kriSXuCsXNAe7rTzxnPfsLz4lKnLLaC-qMXkdiXoVK2Ji3-HXGBVAuCKho3g9RVWURrjL_7oRHY2Rkw9BgUQKAV4k4ZlaigCLXWagQWS_WGzbUDA3QNRGGIQLGb9hHrXsDLm0VPXb11vPuzFmhJxaU/s728-rw-e365/wing.png",
-        "Title": "The Secrets of Hidden AI Training on Your Data",
+        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
+        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jul 02, 2024"
     },
@@ -77,88 +126,39 @@
         "Timestamp": "Jul 02, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/us-state-department-diplomacy-school/",
-        "Img_URL": "https://media.wired.com/photos/66833237a13e28a56c30e7ca/3:2/w_1280%2Cc_limit/The-Tech-Crash-Course-That-Trains-US-Diplomats-to-Spot-Threats.jpg",
-        "Title": "The Tech Crash Course That Trains US Diplomats to Spot Threats",
-        "Source": "WIRED",
-        "Timestamp": "Jul 02, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJZmepRP53Koxe2N6HDYIHwWZgt-biwfTYnO8YtZIrgZU3KS-Yvp55cWLbqM9Byqb8CwpRW022Hk2RVTr8WlOOEA4muPXpqvzF83Ksr49PqjSDFwJ_V1RsduldXkLcBV7aGqfcMv4FCQ-i5qKCLSMB4QmRIStTJQVvIA71YcwuuVWbv9S3CdEOpBXAYS/s728-rw-e365/ssh.png",
         "Title": "New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
+        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/juniper-networks-releases-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-zbcR4_Lvs3PkKZbBO14_dLXYg1cDVrLrfNIppNW9NY7r6c61pm0vfqeNFquENaZmtwh8MxNiIRjLeJPi4eDRx6Im8VBqFXUtYiKkflx4dLhAEhyphenhyphenMZdkCYrKab_HaVoVTwWlpQLixa8bYnRWrRum9V31yZGamztt0G5bG5cOvMFqfj7RfGjGGpPjghBam/s728-rw-e365/juniper.png",
         "Title": "Juniper Networks Releases Critical Security Update for Routers",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcT9kmNQPK7pvylERwmRIcvH14RjxWFKs8z9oJ3kriSXuCsXNAe7rTzxnPfsLz4lKnLLaC-qMXkdiXoVK2Ji3-HXGBVAuCKho3g9RVWURrjL_7oRHY2Rkw9BgUQKAV4k4ZlaigCLXWagQWS_WGzbUDA3QNRGGIQLGb9hHrXsDLm0VPXb11vPuzFmhJxaU/s728-rw-e365/wing.png",
-        "Title": "The Secrets of Hidden AI Training on Your Data",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
+        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlMAsddqUjGX7TfV6NLi0fcMXLazmyyxR-Z6bogM2rj73p_wbsGDzWp7mQxPlzpUMhBIhRpqC1mLlYCUSsT8aBEZuPP-wwR8qvAstyWU2NIUNWcWa4RqJYgVNbuO4wvebfKB5LvpjGJvFHh8z3FHSZIIN7QdENWbHmHHrdZ47px7V0hvUjIdPC4pqGjiBx/s728-rw-e365/dv.png",
         "Title": "Google to Block Entrust Certificates in Chrome Starting November 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/zerto-recovery-strategy",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9uiLViWpHt93at6O48UPNOdAs9crPxig3aUoVgXTY1luRmintUKrkwLfsmWiRiTqxlv-tvje8UThSYOoIaOf7iZF23lKxrhQO4wTlMMpjEOkIeqAJcbyk_tM6Pt6RuSM4Tt97wxN6QaHobFZkdFV23pOQQrMSt7iI5oEce1IUislqPnnF5oEt8tlZaus/s728-rw-e365/repprt.png",
-        "Title": "IDC Spotlight: Creating a Cohesive Disaster Recovery and Cyber Recovery Strategy",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
+        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/06/kimsuky-using-translatext-chrome.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_kwktX1toHL5GllD765RdOWh0ux4KliVGccMGDi1u7dCA0ARZRUxdMCGQVICQ0SY55zIjcF-Sv2zndx2x4ZD1ixjCxkgTVBa8UjucDlTolU38XaDTKNqZZzHehioMzcq7WnzedDugkHzUrJYha_Aab8V3O2wAvELJpWzzOZBTAHG4eGGsXjRx-5WYKMrz/s728-rw-e365/north.png",
         "Title": "Kimsuky Using TRANSLATEXT Chrome Extension to Steal Sensitive Data",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
+        "Timestamp": "Jul 02, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s728-rw-e365/gitlab.jpg",
-        "Title": "GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNP5VH7iT7xWsfwY0p0tRrgM1xbQT9XmK5GRFpP1tjt8LucoW87hg6WmpOGQ04veFKc_j4oJwpQurEVqTH79KmF01OVwHYPKC4ym18vfFhlZmjye-9IU6OPNJ4tc_Bhm5szqjigXAZVtuAi9voCEdLQhyxQQu4fQl_mUihwTEdGDt4mnQSCeWHe4f-5N4A/s728-rw-e365/crypto.png",
-        "Title": "8220 Gang Exploits Oracle WebLogic Server Flaws for Cryptocurrency Mining",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeTcCiaBYoKyVQNecJEkeGUE_48HAfeL6IMJe7i6ExwR9n1t6lLeUyNl_5NUOdpY3sfWsINJTxUUQ8dTKhDQMnaqm_udWX3TENzJJ6tsJGVIj8JyXlKXr5UMnVnLCvtxi3TVNIRGwdHf9IewHE5JLlQZnDZlzOe9KWRUDgAq-43vA2wGS1l2UH_MW7wO4/s728-rw-e365/main.png",
-        "Title": "Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/new-snailload-attack-exploits-network.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5-kPenCGvITI1liRFL0ZD7JeVn-s4LFlyH_6eAwApYyXVIhjs75LWrP3vuWjjb1neKTEIxixZf7OXxD-uZd30DrPPTLhWpgcB2in6uDMqpeYrkjFJdFg02D7xYPLuJQSWc-mgBIIVXO7awo-7FDD3K1OsyKKLL8GLpxFNqkf7-KCn2ep2GJgg3bO3BJa/s728-rw-e365/snail-attack.png",
-        "Title": "New SnailLoad Attack Exploits Network Latency to Spy on Users' Web Activities",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/06/researchers-warn-of-flaws-in-widely.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJKNTLBIOwTuYrceyyTlbm6SmvO5N0hQVCcUEa_wbUr_lrGr0_VbFU3KH23DrKciAYDW7ZFWANT5NOGqRDyb169h80WwRmVJqRBTK_ANzoAXZSjqysTiSeaRrRB8QINYlFmtjAmwSkrmKMWkJljpkQvkYENOV4QKUWzX3pv22ZdcMtWNuGBUV448IX8BI5/s728-rw-e365/gas.png",
-        "Title": "Researchers Warn of Flaws in Widely Used Industrial Gas Analysis Equipment",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 01, 2024"
+        "Link": "https://www.wired.com/story/us-state-department-diplomacy-school/",
+        "Img_URL": "https://media.wired.com/photos/66833237a13e28a56c30e7ca/3:2/w_1280%2Cc_limit/The-Tech-Crash-Course-That-Trains-US-Diplomats-to-Spot-Threats.jpg",
+        "Title": "The Tech Crash Course That Trains US Diplomats to Spot Threats",
+        "Source": "WIRED",
+        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cryptographers-are-discovering-new-rules-for-quantum-encryption/",
@@ -301,16 +301,16 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -336,16 +336,16 @@
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
-        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
-        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
+        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
+        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
+        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cop-cybercriminal-hacker-psyops/",
-        "Img_URL": "https://media.wired.com/photos/664fb498675222084c36175c/3:2/w_1280%2Cc_limit/Crypto-Wallet-Hack-Security-GettyImages-1633746130.jpg",
-        "Title": "How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet",
+        "Link": "https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/",
+        "Img_URL": "https://media.wired.com/photos/6659f26fe7e92474badab6b8/3:2/w_1280%2Cc_limit/Security-Roundup-Router-Attack-GettyImages-517185157.jpg",
+        "Title": "Mysterious Hack Destroyed 600,000 Internet Routers",
         "Source": "WIRED",
         "Timestamp": "May 28, 2024"
     },
