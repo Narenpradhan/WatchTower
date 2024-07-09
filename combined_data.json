@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s728-rw-e365/network.png",
+        "Title": "RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 09, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOnbzRYECVkUz_4H2uSvDmfJFPbElNOnMiAXM4puwhBSUyi3WaZZ7C6ZY57wFse6u2oQw058ctz5VIy_7T4vf3T1hYnrcN5l8xTt4JlKy6lBlJpDHouIDIwPTmAN2Dz0YRVI4DseAWJoJl1HyZ0cIl9LVY_v61NNXxG2ZsfnuffKqjZluwGkyl77U05VAG/s728-rw-e365/access.png",
         "Title": "Hackers Exploiting Jenkins Script Console for Cryptocurrency Mining Attacks",
@@ -14,16 +21,16 @@
         "Timestamp": "Jul 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/guardzoo-malware-targets-over-450.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-6ss9Vpyo8xjQtKFohYRmmxhm0Cbq0_Ys7KcHCDhjeyhgA3FN9iT6UMMSjzYSsUK-PXOMzAOO96OIQpgsNWbSwt20mNSI34JGqt6lUePpwqu7HmDDKS8dFQ9RCPnebjdUUHnVuhaaaseKlTPgP40iSxAp4WLedPmTfpSFxx2oAF901Xog5buNL_qU6uz/s728-rw-e365/spyware.png",
-        "Title": "GuardZoo Malware Targets Over 450 Middle Eastern Military Personnel",
+        "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
+        "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
         "Source": "The Hacker News",
         "Timestamp": "Jul 09, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
-        "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
+        "Link": "https://thehackernews.com/2024/07/guardzoo-malware-targets-over-450.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-6ss9Vpyo8xjQtKFohYRmmxhm0Cbq0_Ys7KcHCDhjeyhgA3FN9iT6UMMSjzYSsUK-PXOMzAOO96OIQpgsNWbSwt20mNSI34JGqt6lUePpwqu7HmDDKS8dFQ9RCPnebjdUUHnVuhaaaseKlTPgP40iSxAp4WLedPmTfpSFxx2oAF901Xog5buNL_qU6uz/s728-rw-e365/spyware.png",
+        "Title": "GuardZoo Malware Targets Over 450 Middle Eastern Military Personnel",
         "Source": "The Hacker News",
         "Timestamp": "Jul 09, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jul 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIOkHrKyHEbR3rAkxvSoNBHkroLChspoB753zfzBzQPGCjJW50KJVlxpq1jOIL6h77FeG68BfXOvU4eLGIUDnu2X9jvM-AgHmAQevkmeizO1AJPRzTNkQzzrleaZKCv-5x29cJOqOXaaf31-F1PHSqYUafXRXcMMBR_7Cuid-WiHMhZiutPZ_ii6J5C3i/s728-rw-e365/phishing.png",
-        "Title": "Dark Web Malware Logs Expose 3,300 Users Linked to Child Abuse Sites",
+        "Link": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s728-rw-e365/sasns.png",
+        "Title": "The Emerging Role of AI in Open-Source Intelligence",
         "Source": "The Hacker News",
         "Timestamp": "Jul 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s728-rw-e365/sasns.png",
-        "Title": "The Emerging Role of AI in Open-Source Intelligence",
+        "Link": "https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIOkHrKyHEbR3rAkxvSoNBHkroLChspoB753zfzBzQPGCjJW50KJVlxpq1jOIL6h77FeG68BfXOvU4eLGIUDnu2X9jvM-AgHmAQevkmeizO1AJPRzTNkQzzrleaZKCv-5x29cJOqOXaaf31-F1PHSqYUafXRXcMMBR_7Cuid-WiHMhZiutPZ_ii6J5C3i/s728-rw-e365/phishing.png",
+        "Title": "Dark Web Malware Logs Expose 3,300 Users Linked to Child Abuse Sites",
         "Source": "The Hacker News",
         "Timestamp": "Jul 09, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
         "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 09, 2024"
+        "Timestamp": "Jul 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/experts-warn-of-mekotio-banking-trojan.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx0_4SV72cNm_F1Sg-TufpIus6M9RnJ65fGJqNhRcRR5WYsO1dLvMXnv9KGEBp95S4BdZwWI2lwZUFYYbcHB69WVZ5HHsdNpORpfA8SvQGsmO06xMtGdGXLUqZ6LQ7hLvjImcc7zArP_HBVtPl2UHLCXOMmLsV2RpWdRJAl_WBJYMJjGij8yYb0AWdgfzR/s728-rw-e365/hackers.png",
         "Title": "Experts Warn of Mekotio Banking Trojan Targeting Latin American Countries",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZSlSdNUZX8YGmOyBqpQdzdGlCvZVE4Tmtxeq9sP_mypbYT50IPItTus60WQ0rwcChxQ1QLnb3ltlAVHrRa-szpXkLk_EBn-A-eeXVy6m3N2U11sVbnzEN9maptC4OR5I1DUlddajxc_0HjaitPQuNyM-iihLYIwlpwYEa7cvlL9aoQTUmYfz5sUMHxn-B/s728-rw-e365/gogs.png",
-        "Title": "Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service",
         "Source": "The Hacker News",
         "Timestamp": "Jul 08, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Jul 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ABnNMPX07wC70mllZBeTVjTh-4Ux6z9miW5TeUc9ti2bIC0aaU8R1gT99CW_jU4knPaDJiEaFpSlOX4C5DhPMNYlQbflMMocShYp6E9e3LvUjL2TlPLoiBZZ4Pv23elETRbrJtDd3otRDJyjk_ibOkAUWQqANXJo7B4avsP8cOmoETcT5LiL3q5wsvNH/s728-rw-e365/vpn.png",
-        "Title": "Apple Removes VPN Apps from Russian App Store Amid Government Pressure",
+        "Link": "https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZSlSdNUZX8YGmOyBqpQdzdGlCvZVE4Tmtxeq9sP_mypbYT50IPItTus60WQ0rwcChxQ1QLnb3ltlAVHrRa-szpXkLk_EBn-A-eeXVy6m3N2U11sVbnzEN9maptC4OR5I1DUlddajxc_0HjaitPQuNyM-iihLYIwlpwYEa7cvlL9aoQTUmYfz5sUMHxn-B/s728-rw-e365/gogs.png",
+        "Title": "Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service",
         "Source": "The Hacker News",
         "Timestamp": "Jul 08, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
         "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ABnNMPX07wC70mllZBeTVjTh-4Ux6z9miW5TeUc9ti2bIC0aaU8R1gT99CW_jU4knPaDJiEaFpSlOX4C5DhPMNYlQbflMMocShYp6E9e3LvUjL2TlPLoiBZZ4Pv23elETRbrJtDd3otRDJyjk_ibOkAUWQqANXJo7B4avsP8cOmoETcT5LiL3q5wsvNH/s728-rw-e365/vpn.png",
+        "Title": "Apple Removes VPN Apps from Russian App Store Amid Government Pressure",
         "Source": "The Hacker News",
         "Timestamp": "Jul 08, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4pLyZRjUlwwDS7wu0RqPqlzJi1UA8JDMf4RM6i-So-sGjvIMDe5rGC15ZdBUUmKX-2_scZUf5Ye3vhNP0QO2MXgfHlTMTbaC4FSSivforoLh_zXAiONEXfQvQZTj0NTk1QyXhjlopQ-Jt9eAZlO0ZAivaJho-m654hIwZs0hjfxG0rfDv5xNqSkZlw6ys/s728-rw-e365/code.png",
         "Title": "Polyfill[.]io Attack Impacts Over 380,000 Hosts, Including Major Companies",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVAOsbCVG11RWVag7PkQYKz7BAzpe9CYvguFuU10P7lGWUrz2Y90zDiQzYVflrXT7cLpMKYAbY6Ot_HOrWmYKJzRMYF8Vds5Q6QKrAhQmC2QHt8bFxobAh27kW0Ly9tHPArgldfXoOmRcNp2Vl0bfMEoBfk2SM9bu9_k-2WTy7FUesfHfaWNQtLBffN2Lh/s728-rw-e365/ddos.png",
-        "Title": "New Golang-Based Zergeca Botnet Capable of Powerful DDoS Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 08, 2024"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -301,13 +301,6 @@
         "Timestamp": "Jun 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
         "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
         "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
@@ -315,16 +308,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
+        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
+        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
         "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
         "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
+        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
+        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
