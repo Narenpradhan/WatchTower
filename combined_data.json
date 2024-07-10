@@ -91,9 +91,9 @@
         "Timestamp": "Jul 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s728-rw-e365/sasns.png",
-        "Title": "The Emerging Role of AI in Open-Source Intelligence",
+        "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
+        "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jul 08, 2024"
     },
@@ -273,13 +273,6 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
@@ -294,18 +287,18 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/registered-agents-north-korean-scam-wmds/",
         "Img_URL": "https://media.wired.com/photos/6661d02c80ded6bdcf057e1c/3:2/w_1280%2Cc_limit/Snowflake-Data-Breach-Security-GettyImages-559007197.jpg",
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
         "Timestamp": "Jun 05, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
@@ -315,16 +308,23 @@
         "Timestamp": "Jun 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
+        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
+        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
+        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
         "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
+        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
         "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
         "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
+        "Source": "WIRED",
+        "Timestamp": "Jun 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
+        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
+        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
@@ -376,6 +376,13 @@
         "Title": "Why Your Wi-Fi Router Doubles as an Apple AirTag",
         "Source": "KrebsonSecurity",
         "Timestamp": "May 21, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/05/patch-tuesday-may-2024-edition/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
+        "Title": "Patch Tuesday, May 2024 Edition",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "May 14, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/patch-tuesday-may-2024-edition/",
@@ -446,12 +453,5 @@
         "Title": "Why CISA is Warning CISOs About a Breach at Sisense",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 11, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png",
-        "Title": "Twitter\u2019s Clumsy Pivot to X.com Is a Gift to Phishers",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 10, 2024"
     }
 ]
