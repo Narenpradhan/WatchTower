@@ -1,86 +1,93 @@
 [
     {
-        "Link": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/03/attbldg.png",
-        "Title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jul 12, 2024"
+        "Link": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s728-rw-e365/att.png",
+        "Title": "AT&T Confirms Data Breach Affecting Nearly All Wireless Customers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s728-rw-e365/cybersecurity.jpg",
         "Title": "DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqltztp_s6W5Vvuwff7T6qzUjBg-xYMDi-Nz-Od6S_CrUibmlQpMCp7VcbfDRgEORynyZnnUmR8VYoFXjm8H0Pr2ure63zaIEU2fqehD7aepzCQFg0h_0KqR1Ql2fK4A3O2RJMAMXaJYur4Zu11agXkozDu2SaREbV6h2uQ-YizTzExK6Q8UfVglMGz8p1/s728-rw-e365/hand.jpg",
         "Title": "Australian Defence Force Private and Husband Charged with Espionage for Russia",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s728-rw-e365/webinar.png",
-        "Title": "Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
         "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s728-rw-e365/webinar.png",
+        "Title": "Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxvxlX1hkMzAut4_TxTsB6_J2H8UKxbpDsqahhh3dMMy-ulkn9NYOEb6Rbhyphenhypheni6v6fllAXnheK3KE_GvzVbgq9lEyBGPNp0OfyCuvv-xQqXCKCOAgSzV1fpNO211HKZ14IonfjLnE3r5zleHp4kNEDQ3m_PvdQwvflbP6vqGscL-Sp_ehFNcIuMeT9ftqlO/s728-rw-e365/exim.jpg",
         "Title": "Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBJy5ifI4zsrmztC33d8M14oiKVq6vVhebOK_FqdZNNQOk-7g6G5eiemabE4kUsiJQRxBZ_cEzqW6ZK3kBrExiGjfSB1EDpCGI9_wpCoVg3eGSm3gfgmqbY0oPbTdcdax7xebaShd60Is047d-sg_gTyIRkkIUE_-zzTLeQka1NZTPWT7vUTx6tPIM9z-/s728-rw-e365/fake-news-bot-farm.png",
         "Title": "U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-siVqYc98XRaBvRCGc41KIhVdA5dDNA0RKWdH_Ity3AraUc4s5Zd7rkzDgGWovHtxLQoHb-bQqZzMe_NpyWWbtNx2pMIz3e2MsTMFKAhV67qTpJZqyqAD7ki6r-sdGCxXJ8QCII_ov8hjR6MU9A12xm7CbW-M8MUekY7oH5oIP6xrTiSo7o3SUcZsfd2t/s728-rw-e365/palo.png",
         "Title": "Palo Alto Networks Patches Critical Flaw in Expedition Migration Tool",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAI5AWPHBqq4TRW5st_IPJKlITC848GP2gRZnE7sADmXyariSsJIKDKGIS_NBprhzAOeMYGXuG207VmmlPP09D702sWpeAc4FUd5JFqonHCOuGrtTi8XLL8DDTJ1lQk-AArEuAcNEDcvhvgaZsdHpENPRaTONqnVwgeGHP_lj1DMNq-wMWkC0d-ueCT1N6/s728-rw-e365/hacking.png",
-        "Title": "60 New Malicious Packages Uncovered in NuGet Supply Chain Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
         "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAI5AWPHBqq4TRW5st_IPJKlITC848GP2gRZnE7sADmXyariSsJIKDKGIS_NBprhzAOeMYGXuG207VmmlPP09D702sWpeAc4FUd5JFqonHCOuGrtTi8XLL8DDTJ1lQk-AArEuAcNEDcvhvgaZsdHpENPRaTONqnVwgeGHP_lj1DMNq-wMWkC0d-ueCT1N6/s728-rw-e365/hacking.png",
+        "Title": "60 New Malicious Packages Uncovered in NuGet Supply Chain Attack",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimkWEQrDMcJoLwqwbS3aJhPZaKxjpj2IdiIfCCZQyvqKqgEwF072u4s8plue2sBsAPm-MJ9f1E-c2TeGUKp8A_NG9l5G6psAsY02QAtOLCmAc8Tw-gv3_GFSxIZs7FNR8zhTYeHq6vRMBzu35gEGZZa-55KqvUHWeDS6oxjdzwfVuNFhqauVkujNQJ6Tyi/s728-rw-e365/chinese-hackers.jpg",
         "Title": "Chinese APT41 Upgrades Malware Arsenal with DodgeBox and MoonWalk",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 12, 2024"
+        "Timestamp": "Jul 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
-        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/spyware-users-exposed-data-breach/",
+        "Img_URL": "https://media.wired.com/photos/66914f232ce801f2e4f0d1e3/3:2/w_1280%2Cc_limit/Spyware-Data-Breach-Roundup-Security-GettyImages-2001010887.jpg",
+        "Title": "Spyware Users Exposed in Major Data Breach",
+        "Source": "WIRED",
+        "Timestamp": "Jul 13, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/03/attbldg.png",
+        "Title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Jul 12, 2024"
     },
     {
@@ -91,9 +98,23 @@
         "Timestamp": "Jul 12, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
+        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 11, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8LNcwmw4vq8SCQBtv0NpgGBZ8g_CrX7-ST2zE7JT_9wAu6TpmypPXtABiWYJvpDfgzQJf4wD3OCiB3KENkqusLzhyphenhyphenpUU-8z59dU2xT3JdgwYTUfyUvoa1i2Rmp2bQjT5dwqFh2n_SqdzDxad2cRDQ2qugqW_Surlw8BJLnM_N7HOPVSEx9fIKWbBxzv3/s728-rw-e365/phishing.png",
         "Title": "New Poco RAT Targets Spanish-Speaking Victims in Phishing Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
+        "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
         "Source": "The Hacker News",
         "Timestamp": "Jul 11, 2024"
     },
@@ -105,9 +126,9 @@
         "Timestamp": "Jul 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
-        "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
+        "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
+        "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
         "Source": "The Hacker News",
         "Timestamp": "Jul 11, 2024"
     },
@@ -115,13 +136,6 @@
         "Link": "https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPHR1y16nNoD9WzEJzNMa3M31xoAMnoItAXcwOhdgVeplTv8LbhOhRvWTj-GYi5pFUtrJ6Ho2pShb666-sW4P8we-ojXe40QtV9wH6rg-lgJpdBftSIRGrv01EPD1f3YGxzkOzSZVvC_slR91M6GzSxYAn0rJ7BgFaEAuDHQ70fYSiiG8ftLAJa8sHpah/s728-rw-e365/software-update.png",
         "Title": "GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Jobs",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/silverfort-itdr-ebook",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNYEe-HsI0dqSJNNkfoAvreONu6jUMdQIRM9vGwWdJgPewGpZjJj_zA2hTDgchWtc7xI11OWMxeGEJHZ9Up63gHbh5Kp175J3lugJ8MIR2HBoBshdh_Oe9-9Cig1f_AIk8zRMkNErpGfccGrS_Jj_3KW2MBXm6-pIXoPbesP1Ezrx8I46LButRQSIKrEA6/s728-rw-e365/ebook.png",
-        "Title": "ITDR: Addressing the Protection Gap of the Identity Attack Surface",
         "Source": "The Hacker News",
         "Timestamp": "Jul 11, 2024"
     },
@@ -161,13 +175,6 @@
         "Timestamp": "Jul 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl1FOtt34fVpB1fa1HbMcpppvcZTy-hxLrtwf9_5AfdsgYyKLEZsGGH5reyoPkZlKqEkvrikfTp3OT1HPaSeD3Ye77yH9VpyiOgSKWQYl5LrFJVMqqf69UZUsnqh5ng_0ZBraB_z3ta_uCu8-WzKGY11iBZeNfXKFQBaaQk5UPfHQVSvNkQ8itV7dNVMUk/s728-rw-e365/cybercrime.png",
-        "Title": "HuiOne Guarantee: The $11 Billion Cybercrime Hub of Southeast Asia",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 11, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/mitre-fin7.png",
         "Title": "The Stark Truth Behind the Resurgence of Russia\u2019s Fin7",
@@ -189,18 +196,18 @@
         "Timestamp": "Jul 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/6688106156e074160df54edc/3:2/w_1280%2Cc_limit/Taylor-Swift-Ticketmaster-GettyImages-1591345225.jpg",
-        "Title": "Hackers Leaking Taylor Swift Tickets? Don\u2019t Get Your Hopes Up",
-        "Source": "WIRED",
-        "Timestamp": "Jul 06, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/01/wbrkb.jpg",
         "Title": "The Not-So-Secret Network Access Broker x999xx",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jul 03, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/us-state-department-diplomacy-school/",
+        "Img_URL": "https://media.wired.com/photos/6688106156e074160df54edc/3:2/w_1280%2Cc_limit/Taylor-Swift-Ticketmaster-GettyImages-1591345225.jpg",
+        "Title": "Hackers Leaking Taylor Swift Tickets? Don\u2019t Get Your Hopes Up",
+        "Source": "WIRED",
+        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cryptographers-are-discovering-new-rules-for-quantum-encryption/",
@@ -210,16 +217,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
@@ -315,16 +322,16 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -353,13 +360,6 @@
         "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
         "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
         "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
-        "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/",
-        "Img_URL": "https://media.wired.com/photos/665b28aa56e2471901238af9/3:2/w_1280%2Cc_limit/1442595277",
-        "Title": "The Ticketmaster Data Breach May Be Just the Beginning",
         "Source": "WIRED",
         "Timestamp": "Jun 01, 2024"
     },
