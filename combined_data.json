@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/",
+        "Img_URL": "https://media.wired.com/photos/669401be433b897879b41841/3:2/w_1280%2Cc_limit/1247531909",
+        "Title": "AT&T Paid a Hacker $370,000 to Delete Stolen Phone Records",
+        "Source": "WIRED",
+        "Timestamp": "Jul 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s728-rw-e365/att.png",
         "Title": "AT&T Confirms Data Breach Affecting Nearly All Wireless Customers",
@@ -56,9 +63,9 @@
         "Timestamp": "Jul 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
-        "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
+        "Link": "https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6qRcBYkvp28RNXFaR-6YtN2-rm7nI8PdO7QVEnYzVy_ApODs1begp2-VNCYGFIF8O0OIChaoFzeHeLaj0p2KJVuVmmCb4PHxA7Mu5_OCthLGHqwjuCSQDK51jmfJNAlDIj2GG0nN5q3Qomlmgznzb8mr0bEG4e1A5XDDilLrMTrSQ2WtxajjsKZ28Yc/s728-rw-e365/cybercrime.png",
+        "Title": "HUMINT: Diving Deep into the Dark Web",
         "Source": "The Hacker News",
         "Timestamp": "Jul 13, 2024"
     },
@@ -112,9 +119,9 @@
         "Timestamp": "Jul 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4pK3rixde0HUazlXafj2ifov6GFsjznVe_Zx2PKo4Fdqnr5ojigqSOl1GqN6tgHb8BUvWdH8J0KIM45DpmQO_09n8Wd36-dV1VwtUVXSiOSmevifLknm9YFo1j4mIgaCk_0ea6nbMhxEO74Ihqa44O0g89t2ukRKgaf7_HDCvp-yhr-CXdpnzqB2u4/s728-rw-e365/main.png",
-        "Title": "5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy",
+        "Link": "https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6qRcBYkvp28RNXFaR-6YtN2-rm7nI8PdO7QVEnYzVy_ApODs1begp2-VNCYGFIF8O0OIChaoFzeHeLaj0p2KJVuVmmCb4PHxA7Mu5_OCthLGHqwjuCSQDK51jmfJNAlDIj2GG0nN5q3Qomlmgznzb8mr0bEG4e1A5XDDilLrMTrSQ2WtxajjsKZ28Yc/s728-rw-e365/cybercrime.png",
+        "Title": "HUMINT: Diving Deep into the Dark Web",
         "Source": "The Hacker News",
         "Timestamp": "Jul 11, 2024"
     },
@@ -182,18 +189,18 @@
         "Timestamp": "Jul 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-passkey-advance-protection-program/",
-        "Img_URL": "https://media.wired.com/photos/668d9d393f91f6f1ef76a42b/3:2/w_1280%2Cc_limit/Google-Passkey-GettyImages-2147843488.jpg",
-        "Title": "Google Is Adding Passkey Support for Its Most Vulnerable Users",
-        "Source": "WIRED",
-        "Timestamp": "Jul 10, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
         "Title": "Microsoft Patch Tuesday, July 2024 Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jul 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/668d9d393f91f6f1ef76a42b/3:2/w_1280%2Cc_limit/Google-Passkey-GettyImages-2147843488.jpg",
+        "Title": "Google Is Adding Passkey Support for Its Most Vulnerable Users",
+        "Source": "WIRED",
+        "Timestamp": "Jul 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/",
@@ -217,16 +224,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
@@ -315,6 +322,13 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Source": "WIRED",
+        "Timestamp": "Jun 06, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
@@ -325,13 +339,6 @@
         "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
         "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
         "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -355,13 +362,6 @@
         "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
         "Source": "WIRED",
         "Timestamp": "Jun 04, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/",
-        "Img_URL": "https://media.wired.com/photos/665f1e8cadeedbca45250ca4/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-967356980.jpg",
-        "Title": "This Hacker Tool Extracts All the Data Collected by Windows\u2019 New Recall AI",
-        "Source": "WIRED",
-        "Timestamp": "Jun 01, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
