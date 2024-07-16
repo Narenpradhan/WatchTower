@@ -1,12 +1,5 @@
 [
     {
-        "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/squarespacelogin.png",
-        "Title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/github-token-leak-exposes-pythons-core.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNOw_vgzN7tDBG29nHUqWtnFHGrFRi0mitSVTQPyQGvKug2tCAAKCyuTlY-VzL_2Lom2yv4ABAPpf2Cdm6tBucws7V1Cbscn370daqjr3qXadHJoqKtASP5cC8WrLlzMkLdRruh-Lgzm3LOPBqMY8N2Zgxm2LvLbrQXQ-groZY3OhY_3cF8heDIjLUJxL/s728-rw-e365/hack.png",
         "Title": "GitHub Token Leak Exposes Python's Core Repositories to Potential Attacks",
@@ -81,6 +74,13 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s728-rw-e365/webinar.png",
         "Title": "Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar",
         "Source": "The Hacker News",
+        "Timestamp": "Jul 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/disney-slack-leak-nullbulge/",
+        "Img_URL": "https://media.wired.com/photos/6691984dcc672d74938c2e0e/3:2/w_1280%2Cc_limit/shutterstock_2242822493.jpg",
+        "Title": "Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages",
+        "Source": "WIRED",
         "Timestamp": "Jul 15, 2024"
     },
     {
@@ -182,17 +182,17 @@
         "Timestamp": "Jul 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/att-phone-records-breach-110-million/",
-        "Img_URL": "https://media.wired.com/photos/669164f405632d701ea952b2/3:2/w_1280%2Cc_limit/AT&T-Data-Breach-Security-GettyImages-2032904960.jpg",
-        "Title": "The Sweeping Danger of the AT&T Phone Records Breach",
-        "Source": "WIRED",
-        "Timestamp": "Jul 12, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/mitre-fin7.png",
         "Title": "The Stark Truth Behind the Resurgence of Russia\u2019s Fin7",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 10, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/google-passkey-advance-protection-program/",
+        "Img_URL": "https://media.wired.com/photos/669164f405632d701ea952b2/3:2/w_1280%2Cc_limit/AT&T-Data-Breach-Security-GettyImages-2032904960.jpg",
+        "Title": "The Sweeping Danger of the AT&T Phone Records Breach",
+        "Source": "WIRED",
         "Timestamp": "Jul 10, 2024"
     },
     {
@@ -329,9 +329,9 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -343,9 +343,9 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -355,13 +355,6 @@
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
         "Timestamp": "Jun 05, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/total-recall-windows-recall-ai/",
-        "Img_URL": "https://media.wired.com/photos/665f4dd415a20414f7882015/3:2/w_1280%2Cc_limit/TikTok-Hack-Security-GettyImages-2155035925.jpg",
-        "Title": "TikTok Hack Targets \u2018High-Profile\u2019 Users via DMs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
@@ -383,6 +376,13 @@
         "Title": "Is Your Computer Part of \u2018The Largest Botnet Ever?\u2019",
         "Source": "KrebsonSecurity",
         "Timestamp": "May 29, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/05/treasury-sanctions-creators-of-911-s5-proxy-botnet/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/s5now.png",
+        "Title": "Treasury Sanctions Creators of 911 S5 Proxy Botnet",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "May 28, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/treasury-sanctions-creators-of-911-s5-proxy-botnet/",
