@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s728-rw-e365/apple.png",
+        "Title": "North Korean Hackers Update BeaverTail Malware to Target MacOS Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s728-rw-e365/everfox.png",
         "Title": "Navigating Insider Risks: Are your Employees Enabling External Threats?",
@@ -14,16 +21,16 @@
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s728-rw-e365/msi.png",
-        "Title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
+        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
+        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
-        "Title": "Top 4 Security Risks of GenAI",
+        "Link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s728-rw-e365/msi.png",
+        "Title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s728-rw-e365/adaptive.png",
-        "Title": "Threat Prevention & Detection in SaaS Environments - 101",
+        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
+        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
-        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
+        "Link": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s728-rw-e365/adaptive.png",
+        "Title": "Threat Prevention & Detection in SaaS Environments - 101",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjaowSwsmpB_Qiu_KM0QwvXB63_jawdh6svm-eRa4J1J8H4C2Fm3jr00dGO7hcuqRwrote3urj7oK21uMdZ3E2nJ3SKwEINhqCi1kupMm_Sd9QbblTteQwF3HJPGxCJRcC0vWYemfyuWpcMOMBdBRLNx3NQbV5yiyjM7KpA9hp7Bs5PnoGrZQ_X9l7wVh/s728-rw-e365/code.png",
-        "Title": "Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 17, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/us-supreme-court-chevron-deference-cybersecurity-policy/",
         "Img_URL": "https://media.wired.com/photos/6696d9e78d3178acac5d59ec/3:2/w_1280%2Cc_limit/The-US-Supreme-Court-Kneecapped-US-Cyber-Strategy-GettyImages-2159325037.jpg",
         "Title": "The US Supreme Court Kneecapped US Cyber Strategy",
@@ -84,16 +84,16 @@
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImhMdPqocAD4SOYzjqLKf_MqvV9ye-Xxip9Lv5qAVPYmMIkWmWGyg2lIFoGFr6Nu1PQN_aXodt2tbZ_opMkusheMkAgGEN_Eay3uOfNLHJU98h9TJkCA2vnTZehPfsPe1fqvWJKE17TwUzhEMbJRpceoKiwXrbEb47tArj0rhZkIkq7gJ5Q9XxUty1Gsw/s728-rw-e365/windows.jpg",
-        "Title": "Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer",
+        "Link": "https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjaowSwsmpB_Qiu_KM0QwvXB63_jawdh6svm-eRa4J1J8H4C2Fm3jr00dGO7hcuqRwrote3urj7oK21uMdZ3E2nJ3SKwEINhqCi1kupMm_Sd9QbblTteQwF3HJPGxCJRcC0vWYemfyuWpcMOMBdBRLNx3NQbV5yiyjM7KpA9hp7Bs5PnoGrZQ_X9l7wVh/s728-rw-e365/code.png",
+        "Title": "Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s728-rw-e365/kaspersky.png",
-        "Title": "Kaspersky Exits U.S. Market Following Commerce Department Ban",
+        "Link": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImhMdPqocAD4SOYzjqLKf_MqvV9ye-Xxip9Lv5qAVPYmMIkWmWGyg2lIFoGFr6Nu1PQN_aXodt2tbZ_opMkusheMkAgGEN_Eay3uOfNLHJU98h9TJkCA2vnTZehPfsPe1fqvWJKE17TwUzhEMbJRpceoKiwXrbEb47tArj0rhZkIkq7gJ5Q9XxUty1Gsw/s728-rw-e365/windows.jpg",
+        "Title": "Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Jul 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rVP0xWyV841AjF1CAqBO5_4xWbs7388BoCkIqkuWTVBD36O0exO9UpYBXrCwbkqKKaD3npJY4ylsCyaweo4ftwdEPrxa9CQzljZicW1eH6IgfNZIbJyv1W7bFaw0P81gnvRoDBDGdLA1qfaveqAYKpRmk6mUzWnBL4ab1mdmIycgpln9JosmMFicbqU_/s728-rw-e365/geoserver.png",
-        "Title": "CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software",
+        "Link": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s728-rw-e365/kaspersky.png",
+        "Title": "Kaspersky Exits U.S. Market Following Commerce Department Ban",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.uk/gartner-genai-security-risks",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
         "Title": "Top 4 Security Risks of GenAI",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rVP0xWyV841AjF1CAqBO5_4xWbs7388BoCkIqkuWTVBD36O0exO9UpYBXrCwbkqKKaD3npJY4ylsCyaweo4ftwdEPrxa9CQzljZicW1eH6IgfNZIbJyv1W7bFaw0P81gnvRoDBDGdLA1qfaveqAYKpRmk6mUzWnBL4ab1mdmIycgpln9JosmMFicbqU_/s728-rw-e365/geoserver.png",
+        "Title": "CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu-mUPcxAvCNombKEdgs_Lazl1FJtHJntEzLfiHUjCVgfhuDlPL7vdy188ezbgMAqGi2j0cFqFGHWd15LhFH0Dg51I1NpERM6KfkXmytBLYsOwO176FbVglq5fVYcn7NB7umuOnwP1_h4IPFRJyhoJlF4MqiXnxHf6C9N7Poe0ou-nux8vPGSbUZ8hiqo1/s728-rw-e365/hardbit-ransomware.png",
         "Title": "New HardBit Ransomware 4.0 Uses Passphrase Protection to Evade Detection",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s728-rw-e365/att.png",
-        "Title": "AT&T Confirms Data Breach Affecting Nearly All Wireless Customers",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
