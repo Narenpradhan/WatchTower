@@ -1,38 +1,87 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/07/konfety-ad-fraud-uses-250-google-play.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3n8LqIZNDzJcuKx7CQUVlR5ZwalOSwtyU4b_lWTC1SkD7n8vL1UShOD5vIX3WUOEYsCCaJ_dXOeHB_Nl2eKgYaqXzfoBGPuIxBWhf5vClfbrILP2Po7ZXdwWIUjlUnAmvxqlHMscjV8KRQ9A7ll8H_FTAK27vSbovoM9KIbJodWWAPhIg5JgtBnZzo23/s728-rw-e365/cyber.png",
-        "Title": "'Konfety' Ad Fraud Uses 250+ Google Play Decoy Apps to Hide Malicious Twins",
+        "Link": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s728-rw-e365/everfox.png",
+        "Title": "Navigating Insider Risks: Are your Employees Enabling External Threats?",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
+        "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s728-rw-e365/adaptive.png",
-        "Title": "Threat Prevention & Detection in SaaS Environments - 101",
+        "Link": "https://thehackernews.com/2024/07/fin7-group-advertises-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s728-rw-e365/malware.png",
+        "Title": "FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
+        "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg913tMY0qhkLlenwXT_Mnu5o-F5fu946nEcS7iNHZA7GPAWCKeIzXBQLEsJ4XwjvAzdhIYr94rLOGMSdtU_zZoJMh7F4wCfbRyCheELaSIsA9FxEVN3borIh0dWWJqoPfPphIlvy7R1uQSAmCA9ieJnemCRi5k_LC6aAloFNmU4vIlldLOJqUeqvjm23uP/s728-rw-e365/code.png",
-        "Title": "Malicious npm Packages Found Using Image Files to Hide Backdoor Code",
+        "Link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s728-rw-e365/msi.png",
+        "Title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
+        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://thehackernews.uk/gartner-genai-security-risks",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
         "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s728-rw-e365/ransomware-attack.png",
+        "Title": "Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwjry-_YHPglQi9B5hiRqMsgAqEGUV57nNtHd5TRTusXFJia73jrazOheg7gGErZnj1ipml-Lxrt_0t009i4g00TjyxWZFkMV-FTcEipIlSC7YAxK41T414Ewg1mciHSR8LCvw3K2CzXKudiV5-bPYVcwCqt3jfVHpyEi91FWx1Dh31YCxCIsyVUU-d4F/s728-rw-e365/hugegrapgh.png",
+        "Title": "Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/konfety-ad-fraud-uses-250-google-play.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3n8LqIZNDzJcuKx7CQUVlR5ZwalOSwtyU4b_lWTC1SkD7n8vL1UShOD5vIX3WUOEYsCCaJ_dXOeHB_Nl2eKgYaqXzfoBGPuIxBWhf5vClfbrILP2Po7ZXdwWIUjlUnAmvxqlHMscjV8KRQ9A7ll8H_FTAK27vSbovoM9KIbJodWWAPhIg5JgtBnZzo23/s728-rw-e365/cyber.png",
+        "Title": "'Konfety' Ad Fraud Uses 250+ Google Play Decoy Apps to Hide Malicious Twins",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s728-rw-e365/adaptive.png",
+        "Title": "Threat Prevention & Detection in SaaS Environments - 101",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
+        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg913tMY0qhkLlenwXT_Mnu5o-F5fu946nEcS7iNHZA7GPAWCKeIzXBQLEsJ4XwjvAzdhIYr94rLOGMSdtU_zZoJMh7F4wCfbRyCheELaSIsA9FxEVN3borIh0dWWJqoPfPphIlvy7R1uQSAmCA9ieJnemCRi5k_LC6aAloFNmU4vIlldLOJqUeqvjm23uP/s728-rw-e365/code.png",
+        "Title": "Malicious npm Packages Found Using Image Files to Hide Backdoor Code",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjaowSwsmpB_Qiu_KM0QwvXB63_jawdh6svm-eRa4J1J8H4C2Fm3jr00dGO7hcuqRwrote3urj7oK21uMdZ3E2nJ3SKwEINhqCi1kupMm_Sd9QbblTteQwF3HJPGxCJRcC0vWYemfyuWpcMOMBdBRLNx3NQbV5yiyjM7KpA9hp7Bs5PnoGrZQ_X9l7wVh/s728-rw-e365/code.png",
         "Title": "Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 16, 2024"
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/us-supreme-court-chevron-deference-cybersecurity-policy/",
+        "Img_URL": "https://media.wired.com/photos/6696d9e78d3178acac5d59ec/3:2/w_1280%2Cc_limit/The-US-Supreme-Court-Kneecapped-US-Cyber-Strategy-GettyImages-2159325037.jpg",
+        "Title": "The US Supreme Court Kneecapped US Cyber Strategy",
+        "Source": "WIRED",
+        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
@@ -49,6 +98,13 @@
         "Timestamp": "Jul 16, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
+        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 16, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rVP0xWyV841AjF1CAqBO5_4xWbs7388BoCkIqkuWTVBD36O0exO9UpYBXrCwbkqKKaD3npJY4ylsCyaweo4ftwdEPrxa9CQzljZicW1eH6IgfNZIbJyv1W7bFaw0P81gnvRoDBDGdLA1qfaveqAYKpRmk6mUzWnBL4ab1mdmIycgpln9JosmMFicbqU_/s728-rw-e365/geoserver.png",
         "Title": "CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software",
@@ -56,9 +112,9 @@
         "Timestamp": "Jul 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6qRcBYkvp28RNXFaR-6YtN2-rm7nI8PdO7QVEnYzVy_ApODs1begp2-VNCYGFIF8O0OIChaoFzeHeLaj0p2KJVuVmmCb4PHxA7Mu5_OCthLGHqwjuCSQDK51jmfJNAlDIj2GG0nN5q3Qomlmgznzb8mr0bEG4e1A5XDDilLrMTrSQ2WtxajjsKZ28Yc/s728-rw-e365/cybercrime.png",
-        "Title": "HUMINT: Diving Deep into the Dark Web",
+        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
+        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 16, 2024"
     },
@@ -77,87 +133,38 @@
         "Timestamp": "Jul 16, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/squarespacelogin.png",
-        "Title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/crystalray-hackers-infect-over-1500.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM3IekPl0FtKFBUIRU11rdAZUiarRY3pyYIOCNF3ZDSqj3xFe1XOgObSONcbvAmlou98By4iFbJh-xoPuiw5_jH1Oj7PCoyBKTW6RuUfngvdE12RHNdQMciqin0I79HCjKdCxmHDxEAxMN89iCOJyEr0CldhRbDvmWz_8Z_HN8JHJG9fUpla-4kY8woNG-/s728-rw-e365/apps.png",
         "Title": "CRYSTALRAY Hackers Infect Over 1,500 Victims Using Network Mapping Tool",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
+        "Timestamp": "Jul 16, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/singapore-banks-to-phase-out-otps-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRRnC-YTp5qDZE2n2UKk48bE0meyOuQNkPqM5yp6bu-AshP_rVCqf0BUgLJSIjAHArWBCHybz-sIvo9A1J1AMft5XRSVrKKDGjOTGfcjE6LzQeC9wX6hEjI3skFm-sya82QNfSZ0RW2WIU5fMx7Mib4oLtHlbL32077PA0ySMmh6OsqwSK_ErEaFL-Irmp/s728-rw-e365/login.png",
         "Title": "Singapore Banks to Phase Out OTPs for Online Logins Within 3 Months",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6qRcBYkvp28RNXFaR-6YtN2-rm7nI8PdO7QVEnYzVy_ApODs1begp2-VNCYGFIF8O0OIChaoFzeHeLaj0p2KJVuVmmCb4PHxA7Mu5_OCthLGHqwjuCSQDK51jmfJNAlDIj2GG0nN5q3Qomlmgznzb8mr0bEG4e1A5XDDilLrMTrSQ2WtxajjsKZ28Yc/s728-rw-e365/cybercrime.png",
-        "Title": "HUMINT: Diving Deep into the Dark Web",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
+        "Timestamp": "Jul 16, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu-mUPcxAvCNombKEdgs_Lazl1FJtHJntEzLfiHUjCVgfhuDlPL7vdy188ezbgMAqGi2j0cFqFGHWd15LhFH0Dg51I1NpERM6KfkXmytBLYsOwO176FbVglq5fVYcn7NB7umuOnwP1_h4IPFRJyhoJlF4MqiXnxHf6C9N7Poe0ou-nux8vPGSbUZ8hiqo1/s728-rw-e365/hardbit-ransomware.png",
         "Title": "New HardBit Ransomware 4.0 Uses Passphrase Protection to Evade Detection",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
-        "Title": "Top 4 Security Risks of GenAI",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
+        "Timestamp": "Jul 16, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s728-rw-e365/att.png",
         "Title": "AT&T Confirms Data Breach Affecting Nearly All Wireless Customers",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
+        "Timestamp": "Jul 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s728-rw-e365/cybersecurity.jpg",
-        "Title": "DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqltztp_s6W5Vvuwff7T6qzUjBg-xYMDi-Nz-Od6S_CrUibmlQpMCp7VcbfDRgEORynyZnnUmR8VYoFXjm8H0Pr2ure63zaIEU2fqehD7aepzCQFg0h_0KqR1Ql2fK4A3O2RJMAMXaJYur4Zu11agXkozDu2SaREbV6h2uQ-YizTzExK6Q8UfVglMGz8p1/s728-rw-e365/hand.jpg",
-        "Title": "Australian Defence Force Private and Husband Charged with Espionage for Russia",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s728-rw-e365/webinar.png",
-        "Title": "Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxvxlX1hkMzAut4_TxTsB6_J2H8UKxbpDsqahhh3dMMy-ulkn9NYOEb6Rbhyphenhypheni6v6fllAXnheK3KE_GvzVbgq9lEyBGPNp0OfyCuvv-xQqXCKCOAgSzV1fpNO211HKZ14IonfjLnE3r5zleHp4kNEDQ3m_PvdQwvflbP6vqGscL-Sp_ehFNcIuMeT9ftqlO/s728-rw-e365/exim.jpg",
-        "Title": "Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBJy5ifI4zsrmztC33d8M14oiKVq6vVhebOK_FqdZNNQOk-7g6G5eiemabE4kUsiJQRxBZ_cEzqW6ZK3kBrExiGjfSB1EDpCGI9_wpCoVg3eGSm3gfgmqbY0oPbTdcdax7xebaShd60Is047d-sg_gTyIRkkIUE_-zzTLeQka1NZTPWT7vUTx6tPIM9z-/s728-rw-e365/fake-news-bot-farm.png",
-        "Title": "U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/squarespacelogin.png",
+        "Title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Jul 15, 2024"
     },
     {
@@ -175,17 +182,17 @@
         "Timestamp": "Jul 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/spyware-users-exposed-data-breach/",
-        "Img_URL": "https://media.wired.com/photos/66914f232ce801f2e4f0d1e3/3:2/w_1280%2Cc_limit/Spyware-Data-Breach-Roundup-Security-GettyImages-2001010887.jpg",
-        "Title": "Spyware Users Exposed in Major Data Breach",
-        "Source": "WIRED",
-        "Timestamp": "Jul 13, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/03/attbldg.png",
         "Title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/att-phone-records-breach-110-million/",
+        "Img_URL": "https://media.wired.com/photos/66914f232ce801f2e4f0d1e3/3:2/w_1280%2Cc_limit/Spyware-Data-Breach-Roundup-Security-GettyImages-2001010887.jpg",
+        "Title": "Spyware Users Exposed in Major Data Breach",
+        "Source": "WIRED",
         "Timestamp": "Jul 12, 2024"
     },
     {
@@ -362,13 +369,6 @@
         "Title": "The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever",
         "Source": "WIRED",
         "Timestamp": "Jun 05, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/tiktok-dm-exploit/",
-        "Img_URL": "https://media.wired.com/photos/665e651e438967c8470f6f37/3:2/w_1280%2Cc_limit/politics_registered_agents_business_north_korea.jpg",
-        "Title": "A US Company Enabled a North Korean Scam That Raised Money for WMDs",
-        "Source": "WIRED",
-        "Timestamp": "Jun 04, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
