@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vsUgwYZu-8gHpGYvC1pB1KM8oWnlBKZah-fgrhWSMo9NWGhPzgyP-duusyHzRwm5U1HWK9tzCOwLV4no_rlsqRCKXfib37teOiQ1Srt-aHuFBFuVxph9M9vTVvyjU80R5Sd3pFd8z-ZUN8QVnUWxCcLc0te5W5QSMXWYR2ZQsOygo9aivaNvsLRzlMz2/s728-rw-e365/shell.png",
+        "Title": "Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
         "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
@@ -14,16 +21,16 @@
         "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisk_E6g6CL2RM_HmqsXni3CeMtuHeC_gleyTSoEUGHG0LenkRuK9QK3pJmc7MLgtOB4bSgbD-OlSEva-ebhiru3rfaS18CL8bx8uXkI0-NUKbeh-b93Xqe09TdiRefRdjhEvTa0GxdK9Tx-Ly5CEAVlePcosSbGHJ-2lo3PPlJeNXByzZfOAKRbKyOoUC8/s728-rw-e365/wiz.png",
-        "Title": "SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks",
+        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
+        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
-        "Title": "Top 4 Security Risks of GenAI",
+        "Link": "https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisk_E6g6CL2RM_HmqsXni3CeMtuHeC_gleyTSoEUGHG0LenkRuK9QK3pJmc7MLgtOB4bSgbD-OlSEva-ebhiru3rfaS18CL8bx8uXkI0-NUKbeh-b93Xqe09TdiRefRdjhEvTa0GxdK9Tx-Ly5CEAVlePcosSbGHJ-2lo3PPlJeNXByzZfOAKRbKyOoUC8/s728-rw-e365/wiz.png",
+        "Title": "SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s728-rw-e365/apple.png",
-        "Title": "North Korean Hackers Update BeaverTail Malware to Target MacOS Users",
+        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
+        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy2LXe3Tv_-iDs-ZlJAp-OwemKfr6qns_bS06GDdlNrc1yerGrbuYAjVaP-RsxTfoOjoVB53UFinVWapjNpTHKvXiurYKxMPcj-pWcZoWbFGcNg1AqEKoeHsjR_B_PF_tC3SUqKHfZboEWZ7tl7FPQm0in-fNX5hSeq9123BTisvfw6_yZskQg9WJ9JcI/s728-rw-e365/one.png",
-        "Title": "Streamlined Security Solutions: PAM for Small to Medium-sized Businesses ",
+        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s728-rw-e365/apple.png",
+        "Title": "North Korean Hackers Update BeaverTail Malware to Target MacOS Users",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s728-rw-e365/malware.png",
         "Title": "FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 18, 2024"
+        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s728-rw-e365/msi.png",
         "Title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s728-rw-e365/ransomware-attack.png",
-        "Title": "Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Jul 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwjry-_YHPglQi9B5hiRqMsgAqEGUV57nNtHd5TRTusXFJia73jrazOheg7gGErZnj1ipml-Lxrt_0t009i4g00TjyxWZFkMV-FTcEipIlSC7YAxK41T414Ewg1mciHSR8LCvw3K2CzXKudiV5-bPYVcwCqt3jfVHpyEi91FWx1Dh31YCxCIsyVUU-d4F/s728-rw-e365/hugegrapgh.png",
-        "Title": "Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP",
+        "Link": "https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s728-rw-e365/ransomware-attack.png",
+        "Title": "Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/gartner-genai-security-risks",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
         "Title": "Top 4 Security Risks of GenAI",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwjry-_YHPglQi9B5hiRqMsgAqEGUV57nNtHd5TRTusXFJia73jrazOheg7gGErZnj1ipml-Lxrt_0t009i4g00TjyxWZFkMV-FTcEipIlSC7YAxK41T414Ewg1mciHSR8LCvw3K2CzXKudiV5-bPYVcwCqt3jfVHpyEi91FWx1Dh31YCxCIsyVUU-d4F/s728-rw-e365/hugegrapgh.png",
+        "Title": "Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImhMdPqocAD4SOYzjqLKf_MqvV9ye-Xxip9Lv5qAVPYmMIkWmWGyg2lIFoGFr6Nu1PQN_aXodt2tbZ_opMkusheMkAgGEN_Eay3uOfNLHJU98h9TJkCA2vnTZehPfsPe1fqvWJKE17TwUzhEMbJRpceoKiwXrbEb47tArj0rhZkIkq7gJ5Q9XxUty1Gsw/s728-rw-e365/windows.jpg",
         "Title": "Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s728-rw-e365/kaspersky.png",
-        "Title": "Kaspersky Exits U.S. Market Following Commerce Department Ban",
         "Source": "The Hacker News",
         "Timestamp": "Jul 17, 2024"
     },
@@ -245,16 +245,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
@@ -343,9 +343,9 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
+        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
+        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -357,9 +357,9 @@
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
