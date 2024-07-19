@@ -1,8 +1,36 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/crowdstrike-bsod.png",
+        "Title": "Global Microsoft Meltdown Tied to Bad Crowdstrike Update",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCd0OiieEqhsfgCpLqSMJi9i34PfDTR8wJst_UcoafjD29g6QFHJT4Ea579Y_ZYNo1nYXZyez4aLC_DQDs_hvpA517u4RA1NxvaW7taf-P-9eK_rA3PrvloNkcUKwX_UVvQxGk-BNEreJfhOpM59b8G06nKrsrh4XFY2xb25wH02l_RZ5hrbBxTxZqaO-a/s728-rw-e365/blue-screen-of-death.png",
+        "Title": "Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s728-rw-e365/lockbit.png",
+        "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
         "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
+        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
@@ -21,13 +49,6 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
-        "Title": "Top 4 Security Risks of GenAI",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiyYccbg9I7Imle_KR7tS9SIyKWpqqLZFPWT5v4s_jGVywDH-j-qp0h1rsO2JJQxgS1ejlzL_v9giUX4gYihn55YPw5_trzBlhpfe0J1uyOp5CZHS0dcpgVrMumIulM92JKPCszm9WEc99ePXuYhHBckK_AGgAsySH5YFluzz9xM8C8RQENjHm5wjPBjA/s728-rw-e365/webinar.png",
         "Title": "Summary of \"AI Leaders Spill Their Secrets\" Webinar",
@@ -37,7 +58,14 @@
     {
         "Link": "https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhkGdjr6XuFyh7zOoiKmBr603BuQRHYn-d89rC76oTUtmPwLIrN8qc3F3Fn0izgij4gk6FQG6DjShN6l69VIrbefNEXWA_HUPAje4FnkrpL8_TUI6rW0nzAW06yGr00p5QhFKK0nFegj1Lg1ZsYou47KqGPj99y5POV2KKEDcSNds6HRiLHPuokpTJ2O3o/s728-rw-e365/solarwinds.png",
-        "Title": "SolarWinds Patches 11 Critical Flaws in Access Rights Manager Software",
+        "Title": "SolarWinds Patches 8 Critical Flaws in Access Rights Manager Software",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CTQDIaegR0JQ8S2VH-bQLVjfGo06y_1DQu727n3zXG9YSm5jcdgS5sC5TyYAm81okDuaUy6pmUoN6sYXzDZWqBctDoKPFXL2HCUS6nMl-lxMdpDgIXyEhzGBYwmLot479ov36pSpIY_SnK4lU8-l25m440cAyKYPbS0FvuVHfhNRzuzVLqHLg6N5y_g/s728-rw-e365/PASSWORDS.png",
+        "Title": "10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
@@ -56,10 +84,10 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CTQDIaegR0JQ8S2VH-bQLVjfGo06y_1DQu727n3zXG9YSm5jcdgS5sC5TyYAm81okDuaUy6pmUoN6sYXzDZWqBctDoKPFXL2HCUS6nMl-lxMdpDgIXyEhzGBYwmLot479ov36pSpIY_SnK4lU8-l25m440cAyKYPbS0FvuVHfhNRzuzVLqHLg6N5y_g/s728-rw-e365/PASSWORDS.png",
-        "Title": "10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
+        "Title": "Huge Microsoft Outage Caused by CrowdStrike Takes Down Computers Around the World",
+        "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
@@ -67,26 +95,33 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
         "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
+        "Timestamp": "Jul 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP4PmWYlX5ORqdH2m7XGMJZ36Qf11sd6sS90V-tIUANxe0wmAlx9IXayCEGmhHFZXVTip41cxu3IMtlrCJpRQGz3uKYv5SPTQKcF0KKEhJHJQWmsjxlUWEVLioZaEZ3jh_dL7XdwpI3PcvVxQWCvX1U7pY3kQmxWBL2iroCDMwQl5lKDj35v-gYusTnrQ/s728-rw-e365/main.png",
         "Title": "Automated Threats Pose Increasing Risk to the Travel Industry",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
+        "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
-        "Title": "Huge Microsoft Outage Linked to CrowdStrike Takes Down Computers Around the World",
-        "Source": "WIRED",
-        "Timestamp": "Jul 19, 2024"
+        "Link": "https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CTQDIaegR0JQ8S2VH-bQLVjfGo06y_1DQu727n3zXG9YSm5jcdgS5sC5TyYAm81okDuaUy6pmUoN6sYXzDZWqBctDoKPFXL2HCUS6nMl-lxMdpDgIXyEhzGBYwmLot479ov36pSpIY_SnK4lU8-l25m440cAyKYPbS0FvuVHfhNRzuzVLqHLg6N5y_g/s728-rw-e365/PASSWORDS.png",
+        "Title": "10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 18, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisk_E6g6CL2RM_HmqsXni3CeMtuHeC_gleyTSoEUGHG0LenkRuK9QK3pJmc7MLgtOB4bSgbD-OlSEva-ebhiru3rfaS18CL8bx8uXkI0-NUKbeh-b93Xqe09TdiRefRdjhEvTa0GxdK9Tx-Ly5CEAVlePcosSbGHJ-2lo3PPlJeNXByzZfOAKRbKyOoUC8/s728-rw-e365/wiz.png",
         "Title": "SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
+        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
@@ -98,23 +133,9 @@
         "Timestamp": "Jul 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CTQDIaegR0JQ8S2VH-bQLVjfGo06y_1DQu727n3zXG9YSm5jcdgS5sC5TyYAm81okDuaUy6pmUoN6sYXzDZWqBctDoKPFXL2HCUS6nMl-lxMdpDgIXyEhzGBYwmLot479ov36pSpIY_SnK4lU8-l25m440cAyKYPbS0FvuVHfhNRzuzVLqHLg6N5y_g/s728-rw-e365/PASSWORDS.png",
-        "Title": "10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqwNpa28te_CinSxfJRP7EqDcCWRcc70W38UyRD6xY-VDlhHj6mxUVfCCiJywnnQ2XOb9MhS_8QTbId6bQiMo6_huObxRn_6dFV1T2bR55PPuIsr4oEh_GNnvST7OAuFxU3Ao6skWGI64dmcwhfEM3eSrUytzxpUxxt2fHMi097Y-YAY_1IZobWw6afrR3/s728-rw-e365/meta-ai.png",
         "Title": "Meta Halts AI Use in Brazil Following Data Protection Authority's Ban",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/gartner-genai-security-risks",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi11W43lUEWLaI18cBvhPEBi_INiZ5f2s-27lWD4fy9896rNb0vN6juuliPY2RkEZ6FVfBgN-HEqgSGrUriNwu_oVRdKa0Vqf6YFTTZOpQ9uUmH-4mkkjGc6On24Bn3GcqqwqRYG9VTCABYrMlNNK5rr7fyjrYvSF7rG49u8strlvpNdWgqv0fr_0g8PRnU/s728-rw-e365/wizgenai.png",
-        "Title": "Top 4 Security Risks of GenAI",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
@@ -143,20 +164,6 @@
         "Link": "https://thehackernews.com/2024/07/fin7-group-advertises-security.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s728-rw-e365/malware.png",
         "Title": "FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s728-rw-e365/msi.png",
-        "Title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s728-rw-e365/ransomware-attack.png",
-        "Title": "Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 18, 2024"
     },
@@ -350,16 +357,16 @@
         "Timestamp": "Jun 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
+        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
+        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
+        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
-        "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
-        "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
+        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
+        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
+        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
@@ -446,12 +453,5 @@
         "Title": "FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data",
         "Source": "KrebsonSecurity",
         "Timestamp": "Apr 29, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/04/russian-fsb-counterintelligence-chief-gets-9-years-in-cybercrime-bribery-scheme/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2017/05/trumpsdumps-580x395.png",
-        "Title": "Russian FSB Counterintelligence Chief Gets 9 Years in Cybercrime Bribery Scheme",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Apr 22, 2024"
     }
 ]
