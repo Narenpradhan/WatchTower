@@ -84,6 +84,13 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Source": "WIRED",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
         "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
         "Title": "Huge Microsoft Outage Caused by CrowdStrike Takes Down Computers Around the World",
@@ -182,11 +189,11 @@
         "Timestamp": "Jul 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/disney-slack-leak-nullbulge/",
+        "Link": "https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/",
         "Img_URL": "https://media.wired.com/photos/6691984dcc672d74938c2e0e/3:2/w_1280%2Cc_limit/shutterstock_2242822493.jpg",
         "Title": "Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages",
         "Source": "WIRED",
-        "Timestamp": "Jul 15, 2024"
+        "Timestamp": "Jul 14, 2024"
     },
     {
         "Link": "https://www.wired.com/story/spyware-users-exposed-data-breach/",
@@ -360,13 +367,6 @@
         "Link": "https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/",
         "Img_URL": "https://media.wired.com/photos/666220e0e0568473537f1e03/3:2/w_1280%2Cc_limit/Microsoft-Recall-Security-GettyImages-1778706503.jpg",
         "Title": "Microsoft\u2019s Recall Feature Is Even More Hackable Than You Thought",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/",
-        "Img_URL": "https://media.wired.com/photos/666106d916423ddde0a11b15/3:2/w_1280%2Cc_limit/Susan-Rice-AI-Secrets-Business-1243253392.jpg",
-        "Title": "US National Security Experts Warn AI Giants Aren't Doing Enough to Protect Their Secrets",
         "Source": "WIRED",
         "Timestamp": "Jun 06, 2024"
     },
