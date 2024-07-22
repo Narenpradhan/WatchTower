@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8HeIEeXXIvChe0v4dgjgW-Zfzj2m-Hx2bElCljRHicEtQQF7OX2ADo4OT0eyTbk5GvbR7sLWxMCXCdfPahF80plHtgsJQ40ffjxFknKDLU0jfuoGP2Z3A1OlsvkJvdHUhwrPGj3SRETPVwxGMJEPCcfQ837ul6pfpploqYjGXhnS_Ixe765mgF0qkm_V/s728-rw-e365/aa.png",
+        "Title": "Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxN548S3lNEFxg88a4otKes9YC08IadM9IcDuIerTjN16IlE0zGFsg_nO_MFIynlAYJYoa6lZVjG2OIvO3qYfn6zvaBMVLprtMgrrEFFLaRng5Xo33w-xa7KY-v6zNntvo1fvfD-VdoQuFe_8XCL9JnnD1-UstA_vvWtM7kz6hK68i8DBDRdfcGU8lXFwn/s728-rw-e365/google-cloud.png",
         "Title": "PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing",
@@ -14,16 +21,16 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s728-rw-e365/smmain.png",
-        "Title": "MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
+        "Link": "https://thehackernews.uk/case-stravito-saasc",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
+        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/case-stravito-saasc",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
-        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
+        "Link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s728-rw-e365/smmain.png",
+        "Title": "MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D-8j89CpYIE76VYF0Eq9A1dDUraqiZTaMvGlkFjZKfXWI0KUIRPqSErEJujZd-AfpQyj6_LtlYexOw_qrukIvmzUzoWmLVaB2LSaUBzFdTJoAExzPuv3nzMjmBo5sH2J4pfM9O_cI_h4KlggSS__rzpMkHgrVqUik64mMptnhxGOEVCcAtDs2cn__LsE/s728-rw-e365/IO.png",
-        "Title": "Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware",
+        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
+        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
-        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
+        "Link": "https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D-8j89CpYIE76VYF0Eq9A1dDUraqiZTaMvGlkFjZKfXWI0KUIRPqSErEJujZd-AfpQyj6_LtlYexOw_qrukIvmzUzoWmLVaB2LSaUBzFdTJoAExzPuv3nzMjmBo5sH2J4pfM9O_cI_h4KlggSS__rzpMkHgrVqUik64mMptnhxGOEVCcAtDs2cn__LsE/s728-rw-e365/IO.png",
+        "Title": "Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s728-rw-e365/lockbit.png",
-        "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 22, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
         "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
@@ -91,16 +91,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
-        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+        "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s728-rw-e365/lockbit.png",
+        "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioNsUu6exJ2mqlsOpWeX3NauL6WdhipzMTVbKY9wKzYbM_LMHzMd0hQETJwMgd8pffifBqMrA5WI8-xUkLhwH73C_NbAdXFh1u3tXs-8DqH04U3w3eFYzxq99p283J1gLcQTq4k0cVtFmRjfD76FJ94T6CPTLxLUam9VhjvO95rBM1q8PKhSH9G1KJ9ZY/s728-rw-e365/android-spyware.png",
-        "Title": "Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware",
+        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
+        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4MhmgNwEL6-gIJONG7CjrNFswX0ynkHfCA78zumQ1urK5-EJpktky4cGCtUJcPN5CxT5b-z_COFxPle8XBfG7J2n3V4w3l5waRgfgHDnNmjCfVllj6AXwIYSYMmVIp4FOpRJiCJEaStZXk8pybI4Dn3HdkvrSr_eTVL4u_jCXg0eJXmthAy3sOjvazyrd/s728-rw-e365/chinese-hackers.png",
-        "Title": "APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.",
+        "Link": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioNsUu6exJ2mqlsOpWeX3NauL6WdhipzMTVbKY9wKzYbM_LMHzMd0hQETJwMgd8pffifBqMrA5WI8-xUkLhwH73C_NbAdXFh1u3tXs-8DqH04U3w3eFYzxq99p283J1gLcQTq4k0cVtFmRjfD76FJ94T6CPTLxLUam9VhjvO95rBM1q8PKhSH9G1KJ9ZY/s728-rw-e365/android-spyware.png",
+        "Title": "Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
@@ -122,6 +122,13 @@
         "Link": "https://thehackernews.uk/case-stravito-saasc",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
         "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4MhmgNwEL6-gIJONG7CjrNFswX0ynkHfCA78zumQ1urK5-EJpktky4cGCtUJcPN5CxT5b-z_COFxPle8XBfG7J2n3V4w3l5waRgfgHDnNmjCfVllj6AXwIYSYMmVIp4FOpRJiCJEaStZXk8pybI4Dn3HdkvrSr_eTVL4u_jCXg0eJXmthAy3sOjvazyrd/s728-rw-e365/chinese-hackers.png",
+        "Title": "APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
@@ -157,13 +164,6 @@
         "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
         "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP4PmWYlX5ORqdH2m7XGMJZ36Qf11sd6sS90V-tIUANxe0wmAlx9IXayCEGmhHFZXVTip41cxu3IMtlrCJpRQGz3uKYv5SPTQKcF0KKEhJHJQWmsjxlUWEVLioZaEZ3jh_dL7XdwpI3PcvVxQWCvX1U7pY3kQmxWBL2iroCDMwQl5lKDj35v-gYusTnrQ/s728-rw-e365/main.png",
-        "Title": "Automated Threats Pose Increasing Risk to the Travel Industry",
         "Source": "The Hacker News",
         "Timestamp": "Jul 19, 2024"
     },
