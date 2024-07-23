@@ -1,29 +1,92 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRhHUp6JDG4MsTgzXDCcSpXCEsEcybx-RwGZEjOItczGtq4c2l7FAK-X8DphUyI9aZTqwsIBQ8So66Qdh2rGsSYBU9ZgWfiUGR449k05_S7XtmXcbMLwpIbcvLXRQH9rPJDSogDVy75Bp_II9jkTh45pZmfxL0A2xiq14sbl8YpEQA0HCo_TaG1NQXjyb/s728-rw-e365/chinese-hackers.png",
+        "Title": "Chinese Hackers Target Taiwan and US NGO with MgBot Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFryrXiANDmpB8inIz_fELJDVlwO2Q-Ec5GKVbb6KNh5agZtAc2rkmoN3CN-9Hmu76XFjhiXgzhW6jslLMWHEn2y3B-2745Vx_QyB4OZByNqjJr43cX5Fmhbs9nCrsk3jb43BCRVKJTAea37QbZKDWgyaWniA3zLegQAnqntGAS1cDcGP1OzUFPnLF-ZHV/s728-rw-e365/ot-security.png",
+        "Title": "New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfCgArDqjK7Z-RcTc1qk6gfH2h_Bb2IhZ8mNb_7bvE654dcpa1Nd3oXBl9gI1cU5JqZY4MEDErf0CVkGSMqV_QGP0DhbAYjd8jyshIvCJDfXaOEuhq2WAip7jWijfjOavymxDbZkz4NHZTDRb95hXoqq7KeyQHAQGUQhdNMsBqmebncOYGgzp31mZFuwE/s728-rw-e365/hello.png",
+        "Title": "How to Securely Onboard New Employees Without Sharing Temporary Passwords ",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/case-stravito-saasc",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
+        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSO5jmSos6aM9bsJYV75jCLcF1pLnCQ1GIm5bT40lQW42AdXd91xvFLMiCCtZ3s8vdt1doOK_JC7ZoM-80JX1oT6ky48vYVv80XSXqxR2CK_fzLJBEE_Dj9-2Gl8nj3MneTKznqurXGlWG9o4OyIgZ7k74Bim_1jGr_WsStE-V8c0b63wk4SXKW9m38DU-/s728-rw-e365/cc-hacker.png",
+        "Title": "Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2QJSjH_ZHwceDMGiohTsJeWoKsVsChcipB5aTi0ShiUcCaniyOxWhmIhXY_vrXZL7axaOcGiyfwLUydRtXhRSkvRX-_0DL-xHCCMrXTdfGqLv0RAEmVLL6Wvj_cqjIr-jXElHpCis02psAckJbdl3LC7jOauom2KOduF8FDlB4Fzb0dvJolD28f9Qy_qv/s728-rw-e365/facebook.png",
+        "Title": "Meta Given Deadline to Address E.U. Concerns Over 'Pay or Consent' Model",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqXIWe1tQxRdlJHXqYh1nBBgPx_o8gPgOiDkdCn1TkDrPrLzK_KFR_yHCIcULxtzocKtTz9M5NOVXKTJk8Iels0GK17ApQE1BnRH6yLe8SRYyXyVguXlpWKWEUBdzwqXiG27XA_xCIcCoDH7S3YabSQCjCCtvPaKZsC-cj00hhvOWwUlSkqFvTz6vB8ot/s728-rw-e365/malware-attack.png",
+        "Title": "Ukrainian Institutions Targeted Using HATVIBE and CHERRYSPY Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
+        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBF5J8-KYdwqxbgp00QVbjwQ6NbbpbuI5bRQC3rYwSx5CtwikQ3r-KXu4iO7JHE6OQmPFafs3gYJqTmO9965rtbKSBAwdm5-Hb5Pm0AFRNBKZUM3Nr0Spuc4AhnS6rBdI9yZ6dQIApRayQqPjYwiOZ1qjsiJTtlyO1PBsXN6E_VfqCJQ_ZakBn4TZwZ63G/s728-rw-e365/google-chrome-cookies.png",
+        "Title": "Google Abandons Plan to Phase Out Third-Party Cookies in Chrome",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8HeIEeXXIvChe0v4dgjgW-Zfzj2m-Hx2bElCljRHicEtQQF7OX2ADo4OT0eyTbk5GvbR7sLWxMCXCdfPahF80plHtgsJQ40ffjxFknKDLU0jfuoGP2Z3A1OlsvkJvdHUhwrPGj3SRETPVwxGMJEPCcfQ837ul6pfpploqYjGXhnS_Ixe765mgF0qkm_V/s728-rw-e365/aa.png",
         "Title": "Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 22, 2024"
+        "Timestamp": "Jul 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxN548S3lNEFxg88a4otKes9YC08IadM9IcDuIerTjN16IlE0zGFsg_nO_MFIynlAYJYoa6lZVjG2OIvO3qYfn6zvaBMVLprtMgrrEFFLaRng5Xo33w-xa7KY-v6zNntvo1fvfD-VdoQuFe_8XCL9JnnD1-UstA_vvWtM7kz6hK68i8DBDRdfcGU8lXFwn/s728-rw-e365/google-cloud.png",
         "Title": "PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 22, 2024"
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/",
+        "Img_URL": "https://media.wired.com/photos/669eaedf0d77a600b9edc671/3:2/w_1280%2Cc_limit/How-Russia-Linked-Malware-Cut-Heating-to-600-Ukrainian-Buildings-Amid-a-Winter-Freeze-GettyImages-1910714939.jpg",
+        "Title": "How Russia-Linked Malware Cut Heat to 600 Ukrainian Buildings in Deep Winter",
+        "Source": "WIRED",
+        "Timestamp": "Jul 23, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVPxZUC39CqjESXijxfTsk9Bn3KAwjeFcSfdsrlDwBnPXIo6uwbj5h7WomhB7BMQNYJFjQxshF2hNGzFE37_wMOQxKPwNilOx5seKtocuflBJwaOBTF9eLSspKctd0nPZ4sNFx5oFR7vui99mc8DL_TTc0mZ6qk6Mr7Xq-Vy1_DIRtOKO-KrCF63dhf8/s728-rw-e365/main.png",
         "Title": "How to Set up an Automated SMS Analysis Service with AI in Tines",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/case-stravito-saasc",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
-        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
@@ -35,6 +98,13 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
+        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07R95O-gI_5Gmnv9-0KQtf31vJnEs_OiP1qXjp7F6zoA6d-NIoQqBaFCxFzqGsPeN3j25QwZQL3LhEXiWTc5hlf5E2ZkY75_w1JHnagYnl8j0ceDaGvyReMCsYfuMnFT6uJ82oIV7RvJsg_Pn1s1427ghDyf_2xFnQD1v3C5vpd2pHitl5a3Am1_vlAz1/s728-rw-e365/malware.png",
         "Title": "SocGholish Malware Exploits BOINC Project for Covert Cyberattacks",
@@ -42,16 +112,16 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1EpNr2IixAgc9YAuhAUOoVi8puDrTI7yCDJkTDOAxO9ga_GwMQGZHHnu8bPiUGzum-GvdWnAdUDzqbS4ghaFOjBSfni8OAgfP_RjgSnORDY4TMqsgyriCr9RUa-lsAgEmq2SOG8gi5F_O-l6xZdF6Ab94uiiJfbnhuZCeO4lFJqR-x9ZBZcOi-njpp1X/s728-rw-e365/linux.png",
-        "Title": "New Linux Variant of Play Ransomware Targeting VMware ESXi Systems",
+        "Link": "https://thehackernews.uk/case-stravito-saasc",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
+        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
-        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
+        "Link": "https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1EpNr2IixAgc9YAuhAUOoVi8puDrTI7yCDJkTDOAxO9ga_GwMQGZHHnu8bPiUGzum-GvdWnAdUDzqbS4ghaFOjBSfni8OAgfP_RjgSnORDY4TMqsgyriCr9RUa-lsAgEmq2SOG8gi5F_O-l6xZdF6Ab94uiiJfbnhuZCeO4lFJqR-x9ZBZcOi-njpp1X/s728-rw-e365/linux.png",
+        "Title": "New Linux Variant of Play Ransomware Targeting VMware ESXi Systems",
         "Source": "The Hacker News",
         "Timestamp": "Jul 22, 2024"
     },
@@ -77,6 +147,20 @@
         "Timestamp": "Jul 22, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s728-rw-e365/lockbit.png",
+        "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
+        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 22, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
         "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
@@ -91,95 +175,18 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s728-rw-e365/lockbit.png",
-        "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
-        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
-        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioNsUu6exJ2mqlsOpWeX3NauL6WdhipzMTVbKY9wKzYbM_LMHzMd0hQETJwMgd8pffifBqMrA5WI8-xUkLhwH73C_NbAdXFh1u3tXs-8DqH04U3w3eFYzxq99p283J1gLcQTq4k0cVtFmRjfD76FJ94T6CPTLxLUam9VhjvO95rBM1q8PKhSH9G1KJ9ZY/s728-rw-e365/android-spyware.png",
-        "Title": "Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/case-stravito-saasc",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmhal1OF47VWCQ0p9fS8826CB9iF1fUESbfawu_d6Fe28M6TWGv1h-7z7oqNBOq2AgmSeMN_cq-hvKVgFD_5_gylcNP3mSZW_-MiuDkV_mxhBbYAm7LhXfJU4-yYTRly0bUvtX5IAmc5cpCl1WOAeCdbiLupvf5_nEhjmpUvgqYPTrER5CoJMhJJx88WF/s728-rw-e365/nudge.png",
-        "Title": "How Can You Strengthen SaaS Security Without Impeding the Pace of Work?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4MhmgNwEL6-gIJONG7CjrNFswX0ynkHfCA78zumQ1urK5-EJpktky4cGCtUJcPN5CxT5b-z_COFxPle8XBfG7J2n3V4w3l5waRgfgHDnNmjCfVllj6AXwIYSYMmVIp4FOpRJiCJEaStZXk8pybI4Dn3HdkvrSr_eTVL4u_jCXg0eJXmthAy3sOjvazyrd/s728-rw-e365/chinese-hackers.png",
-        "Title": "APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiyYccbg9I7Imle_KR7tS9SIyKWpqqLZFPWT5v4s_jGVywDH-j-qp0h1rsO2JJQxgS1ejlzL_v9giUX4gYihn55YPw5_trzBlhpfe0J1uyOp5CZHS0dcpgVrMumIulM92JKPCszm9WEc99ePXuYhHBckK_AGgAsySH5YFluzz9xM8C8RQENjHm5wjPBjA/s728-rw-e365/webinar.png",
-        "Title": "Summary of \"AI Leaders Spill Their Secrets\" Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhkGdjr6XuFyh7zOoiKmBr603BuQRHYn-d89rC76oTUtmPwLIrN8qc3F3Fn0izgij4gk6FQG6DjShN6l69VIrbefNEXWA_HUPAje4FnkrpL8_TUI6rW0nzAW06yGr00p5QhFKK0nFegj1Lg1ZsYou47KqGPj99y5POV2KKEDcSNds6HRiLHPuokpTJ2O3o/s728-rw-e365/solarwinds.png",
-        "Title": "SolarWinds Patches 8 Critical Flaws in Access Rights Manager Software",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiteKPjJEa7aAC9makaTIpncMCFmKEIfWvIvtTvARi_C07SXrM2ABujFQ7KwszyFGD_kgrHU4b6LZ9ahSEP6fvCbNQTw_xiOkdSvWi3BzTbYNcQG9yVLkzJGVdc9hMFReRwCsBbTkqNSsVt4uzMSu6Jxvl4_jD6eurJ7DhSi8ifLy4bmZ7Eyr5Cm-g8Jvg8/s728-rw-e365/wazirx.png",
-        "Title": "WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vsUgwYZu-8gHpGYvC1pB1KM8oWnlBKZah-fgrhWSMo9NWGhPzgyP-duusyHzRwm5U1HWK9tzCOwLV4no_rlsqRCKXfib37teOiQ1Srt-aHuFBFuVxph9M9vTVvyjU80R5Sd3pFd8z-ZUN8QVnUWxCcLc0te5W5QSMXWYR2ZQsOygo9aivaNvsLRzlMz2/s728-rw-e365/shell.png",
-        "Title": "Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s728-rw-e365/mend.jpg",
-        "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
-        "Title": "Huge Microsoft Outage Caused by CrowdStrike Takes Down Computers Around the World",
-        "Source": "WIRED",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
         "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
         "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/us-supreme-court-chevron-deference-cybersecurity-policy/",
+        "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
+        "Title": "Huge Microsoft Outage Caused by CrowdStrike Takes Down Computers Around the World",
+        "Source": "WIRED",
+        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
@@ -369,13 +376,6 @@
         "Title": "Apple Is Coming for Your Password Manager",
         "Source": "WIRED",
         "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/",
-        "Img_URL": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/3:2/w_1280%2Cc_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg",
-        "Title": "Microsoft Will Switch Off Recall by Default After Security Backlash",
-        "Source": "WIRED",
-        "Timestamp": "Jun 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
