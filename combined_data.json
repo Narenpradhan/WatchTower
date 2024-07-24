@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/phishtrap.png",
+        "Title": "Phish-Friendly Domain Registry \u201c.top\u201d Put on Notice",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRhHUp6JDG4MsTgzXDCcSpXCEsEcybx-RwGZEjOItczGtq4c2l7FAK-X8DphUyI9aZTqwsIBQ8So66Qdh2rGsSYBU9ZgWfiUGR449k05_S7XtmXcbMLwpIbcvLXRQH9rPJDSogDVy75Bp_II9jkTh45pZmfxL0A2xiq14sbl8YpEQA0HCo_TaG1NQXjyb/s728-rw-e365/chinese-hackers.png",
         "Title": "Chinese Hackers Target Taiwan and US NGO with MgBot Malware",
@@ -376,13 +383,6 @@
         "Title": "Apple Is Coming for Your Password Manager",
         "Source": "WIRED",
         "Timestamp": "Jun 07, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/endgamestill.png",
-        "Title": "Operation Endgame\u2019 Hits Malware Delivery Platforms",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "May 30, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/is-your-computer-part-of-the-largest-botnet-ever/",
