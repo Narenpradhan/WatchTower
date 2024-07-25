@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkso2IseehQIkEjBOZSfERxkt_7p55GJfYenso5GWCHtnDSDY6d3Awa7lD6dY738heyi1f6xMtcAAj4qcjMPW7DVj4JoWlFP1YHh8fJMEFnsGv5zays94ono8GEiYvQLpt38wyjngdaTq9PqTLkw_qaN2mKu1Fnx93DmpNReTKv3sD9eyj0mowI09u2zp/s728-rw-e365/hacker.png",
+        "Title": "North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 25, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/6-types-of-applications-security.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibvwrvm1YHY5pKNrf2wUaU3ykd0tpoTMK3WT1FWZFMZF6RMLL8RfSfdz6XCa76Yr-AO77PFTYSujgOd60YX3cBHM46vA2FT5v6jahpWKhc6haJOoaNOnDkwB7N8rafCiaq8fT7GeC5_j-WeSgJxRBl7JiawiOEdBP_jmhF145xECxRi8B0EWf0RdBqvTn6/s728-rw-e365/breachlock.png",
         "Title": "6 Types of Applications Security Testing You Must Know About ",
@@ -14,16 +21,16 @@
         "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSm4UxOabMbpRoTyJ_wsFhOltmnVybX9SRTZufAVY5xz7FvuVZGa5CICD4sQ__NbM9LJNNSiEKRKWSLgRN9Zuh6xv8EZ2btcahdlTvtEOX0uWlQWCUkzzcBdsa81I6wkdRuFsaUfJFfzu0iGoxodnNrLDH8_H6xRpZJ2yNMt12qp_yZBtWMDWc1Y8Vnhg/s728-rw-e365/main.jpg",
-        "Title": "Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security",
+        "Link": "https://thehackernews.uk/nudge-snowflake-threat",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt2hcqKmy_VkgPQSiqtVZERQL6KPdyHWPgNbDisvMaMnphvLyjUtudIQvpkMrwYspxMiSrlFaQn0zH7dxhWFfM61zDOwA7xGp7lmLWyyUdHoIo5Vr8eWXsTQJZGopY4qzc0ohzc3j5czlToeBnyobHcKvmRcLKCsa2uZqAoD2uRASYb3IDlbQ6eLXr0-go/s728-rw-e365/nudge.png",
+        "Title": "Why a Threat Campaign Targeting Snowflake Customers isn't Exactly a Special Snowflake",
         "Source": "The Hacker News",
         "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/nudge-snowflake-threat",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt2hcqKmy_VkgPQSiqtVZERQL6KPdyHWPgNbDisvMaMnphvLyjUtudIQvpkMrwYspxMiSrlFaQn0zH7dxhWFfM61zDOwA7xGp7lmLWyyUdHoIo5Vr8eWXsTQJZGopY4qzc0ohzc3j5czlToeBnyobHcKvmRcLKCsa2uZqAoD2uRASYb3IDlbQ6eLXr0-go/s728-rw-e365/nudge.png",
-        "Title": "Why a Threat Campaign Targeting Snowflake Customers isn't Exactly a Special Snowflake",
+        "Link": "https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSm4UxOabMbpRoTyJ_wsFhOltmnVybX9SRTZufAVY5xz7FvuVZGa5CICD4sQ__NbM9LJNNSiEKRKWSLgRN9Zuh6xv8EZ2btcahdlTvtEOX0uWlQWCUkzzcBdsa81I6wkdRuFsaUfJFfzu0iGoxodnNrLDH8_H6xRpZJ2yNMt12qp_yZBtWMDWc1Y8Vnhg/s728-rw-e365/main.jpg",
+        "Title": "Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security",
         "Source": "The Hacker News",
         "Timestamp": "Jul 25, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHh4a9W1ZlAO43aiIWPL1I3pzixjZYWCiVm8cmzwqiyAZb7fP6jXmC1SU44AOCcGPFmrE8ttA3wmPiRHz3_dIGOjIsBCNmYgbnGWYErjApm8KMUihR0xeC3rkedjOYvZ9ITwR8EbnslrjT_9xOx8UDRF3EdbWiqhI1OEm4YbDi_jrf7j7R922pD0rUxtpH/s728-rw-e365/dns.png",
-        "Title": "CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software",
+        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
+        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
         "Source": "The Hacker News",
         "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
-        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+        "Link": "https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHh4a9W1ZlAO43aiIWPL1I3pzixjZYWCiVm8cmzwqiyAZb7fP6jXmC1SU44AOCcGPFmrE8ttA3wmPiRHz3_dIGOjIsBCNmYgbnGWYErjApm8KMUihR0xeC3rkedjOYvZ9ITwR8EbnslrjT_9xOx8UDRF3EdbWiqhI1OEm4YbDi_jrf7j7R922pD0rUxtpH/s728-rw-e365/dns.png",
+        "Title": "CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software",
         "Source": "The Hacker News",
         "Timestamp": "Jul 25, 2024"
     },
@@ -74,19 +81,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipsygFZ3UYHz3MivU0n8mkoC4EisK0AJR63olLHRzxXaY77ZULthfgk6a7Rv4hWz1YFXZRlt_OCf3utmbjFf1OpS-dE14tBSGJ0aihF7vU23un40SQl4sRIefQKqdNswX7WgsEltBUYRcsY28BncZRBLohMq3LgIJ7BHRvk8bGovVqw6Rgst2_TxNYzjA2/s728-rw-e365/telegram.png",
         "Title": "Telegram App Flaw Exploited to Spread Malware Hidden in Videos",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
+        "Timestamp": "Jul 24, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
         "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevbnJ7BjR4QmsyILB4cxtCWSOOrGTbEuBNCxVNbsflG8Ucrp4zBnj9yeB09sWpSi_L5k3h_s3KoZP-e7NjWaPjDt0qu_iRaDnpPA2rshS3Ozm_NZ94aC8HFd_Chu65tuXvWbD7pvErbckhyphenhyphenCPkkmjsPXKVViNUcJKAgm0sj6HXk2U_YksOMc0dSiEMvIo/s728-rw-e365/patchwork.png",
-        "Title": "Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool",
         "Source": "The Hacker News",
         "Timestamp": "Jul 24, 2024"
     },
@@ -98,9 +98,9 @@
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zc429snn06MALdhwBfCgF1eDpztUmBLQL5G2XzeEfi49mgJYbGdvymusuix4w3KIH1jVxXW9UgE_hf-YG6RqP8cUEHc-Gbt0yhg6RW7vPdTgEzsQzWwoka0teYAQtOrpF7B-BGxjLzZHTA35n9FfQzjUjdRcyWReY_QXqyZe7Nm3W3KQH7TP2zBjTG81/s728-rw-e365/windows.png",
-        "Title": "CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices",
+        "Link": "https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevbnJ7BjR4QmsyILB4cxtCWSOOrGTbEuBNCxVNbsflG8Ucrp4zBnj9yeB09sWpSi_L5k3h_s3KoZP-e7NjWaPjDt0qu_iRaDnpPA2rshS3Ozm_NZ94aC8HFd_Chu65tuXvWbD7pvErbckhyphenhyphenCPkkmjsPXKVViNUcJKAgm0sj6HXk2U_YksOMc0dSiEMvIo/s728-rw-e365/patchwork.png",
+        "Title": "Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool",
         "Source": "The Hacker News",
         "Timestamp": "Jul 24, 2024"
     },
@@ -108,6 +108,13 @@
         "Link": "https://thehackernews.uk/nudge-snowflake-threat",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt2hcqKmy_VkgPQSiqtVZERQL6KPdyHWPgNbDisvMaMnphvLyjUtudIQvpkMrwYspxMiSrlFaQn0zH7dxhWFfM61zDOwA7xGp7lmLWyyUdHoIo5Vr8eWXsTQJZGopY4qzc0ohzc3j5czlToeBnyobHcKvmRcLKCsa2uZqAoD2uRASYb3IDlbQ6eLXr0-go/s728-rw-e365/nudge.png",
         "Title": "Why a Threat Campaign Targeting Snowflake Customers isn't Exactly a Special Snowflake",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zc429snn06MALdhwBfCgF1eDpztUmBLQL5G2XzeEfi49mgJYbGdvymusuix4w3KIH1jVxXW9UgE_hf-YG6RqP8cUEHc-Gbt0yhg6RW7vPdTgEzsQzWwoka0teYAQtOrpF7B-BGxjLzZHTA35n9FfQzjUjdRcyWReY_QXqyZe7Nm3W3KQH7TP2zBjTG81/s728-rw-e365/windows.png",
+        "Title": "CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jul 24, 2024"
     },
@@ -143,13 +150,6 @@
         "Link": "https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfCgArDqjK7Z-RcTc1qk6gfH2h_Bb2IhZ8mNb_7bvE654dcpa1Nd3oXBl9gI1cU5JqZY4MEDErf0CVkGSMqV_QGP0DhbAYjd8jyshIvCJDfXaOEuhq2WAip7jWijfjOavymxDbZkz4NHZTDRb95hXoqq7KeyQHAQGUQhdNMsBqmebncOYGgzp31mZFuwE/s728-rw-e365/hello.png",
         "Title": "How to Securely Onboard New Employees Without Sharing Temporary Passwords ",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSO5jmSos6aM9bsJYV75jCLcF1pLnCQ1GIm5bT40lQW42AdXd91xvFLMiCCtZ3s8vdt1doOK_JC7ZoM-80JX1oT6ky48vYVv80XSXqxR2CK_fzLJBEE_Dj9-2Gl8nj3MneTKznqurXGlWG9o4OyIgZ7k74Bim_1jGr_WsStE-V8c0b63wk4SXKW9m38DU-/s728-rw-e365/cc-hacker.png",
-        "Title": "Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files",
         "Source": "The Hacker News",
         "Timestamp": "Jul 24, 2024"
     },
