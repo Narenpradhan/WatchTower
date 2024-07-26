@@ -1,38 +1,87 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8VDNMkHC129-480OXjAFon1OMGQyS4gg2Hdmn3qSJHPOZpp9AnX8nGlnUdITHIyfK_T6LKz9E_mdiQhLt1rb_RBxj65aSFAPe3YFmarX8FwMfwzvRlGvT9AnyZDaTEaWUpQqp0X3-tQFyVS-sbc-2Ez7yN60Nf1H58Ry_iKmNw0Cpgw0h8bkPc7LGuM/s728-rw-e365/sans.png",
+        "Title": "Offensive AI: The Sine Qua Non of Cybersecurity",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlimVUGYGPlwGTEgzjWdEGYhJ7X5vX3gcHlIF9_O8OWAiqWzhGWN65N2jla9TzSuAywczQrulYnmPAfzVRxBL454_T1qgBdWO8ZKwRW5tm8MlJXugaoC2Qv53jNgMkr38NRTicpxy0Q_J60lFSAPAsbkEVMj_i5yga2RUGg_6tNXAz1HqFlKOuligg50O/s728-rw-e365/wanted.png",
+        "Title": "U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7C43DMM8mOa0N-NjcBn5Qm-gRmGw6z119CapcJv50YKTZCOQQTn5TmZ54Vc7pTeMNnxsQEX42FeZ3NYPp6DmMEJszVR5OA-8juH8GnasK-guCL6ePQej3GvrtH9q5I1Oizi-m5JffLwK1SzZXpCRxIzgdz2t5dSrZGAmR4pZGqPlDnJ3lYFNqnL0tVi/s728-rw-e365/wiz.png",
+        "Title": "Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/nudge-oauth-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeTf9Lr6DRkz3e2-JIBXRJBB551P3ZlwahsIRuAHijh98_j1LKMIRwSYH4oxxMXzDAo-xmmopJFod8qdLUCeDoxTXDTapFRWArCrYiFC5VtGNiqvld13hDd2Qfv7ei5Lmj5vm3ULHdDjn4AEW03nV1ILSJ2i9DUInH5hfd16Z9l4xtbeXc9ASy2QJkfpf/s728-rw-e365/nudge.png",
+        "Title": "Free OAuth Investigation Checklist - How to Uncover Risky or Malicious Grants",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0wzC4c52os5T_IzuUdmFgH5XQmKfurpTsHKK_WwxFh7QRF2fTj4Ew8USVmUYPuauNoLwNKYINrUMszxFj9VWNSAe4kQcakeHeqv6cpshxs4BOP5duWbYhsAWYS_JgZpdKkEC-aoCop3qa6Gfc768MqdB4e86tfTH0aAUmoGo9nOgiGnk3nhesF0NKMakE/s728-rw-e365/malware.png",
+        "Title": "CrowdStrike Warns of New Phishing Scam Targeting German Customers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEk5OJde2Bknocbc8Rmu6TJfhCVcS3BpI8I3ypFyGJx4kAPET9FVp7dlkFaC1dQ9qgcZgPlyzgatXR9VaT2oqhwKVkoocz6MuD5cS5QNMRpRL0hAoplG80rQAnElZyhNOXnqfcJCDVy_uU9oF3XyEzIZPyz7-g8qNuDK6AQMC5JxxTRFzPq1q1EG-YxPzL/s728-rw-e365/server.png",
+        "Title": "Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkso2IseehQIkEjBOZSfERxkt_7p55GJfYenso5GWCHtnDSDY6d3Awa7lD6dY738heyi1f6xMtcAAj4qcjMPW7DVj4JoWlFP1YHh8fJMEFnsGv5zays94ono8GEiYvQLpt38wyjngdaTq9PqTLkw_qaN2mKu1Fnx93DmpNReTKv3sD9eyj0mowI09u2zp/s728-rw-e365/hacker.png",
         "Title": "North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
+        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/6-types-of-applications-security.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibvwrvm1YHY5pKNrf2wUaU3ykd0tpoTMK3WT1FWZFMZF6RMLL8RfSfdz6XCa76Yr-AO77PFTYSujgOd60YX3cBHM46vA2FT5v6jahpWKhc6haJOoaNOnDkwB7N8rafCiaq8fT7GeC5_j-WeSgJxRBl7JiawiOEdBP_jmhF145xECxRi8B0EWf0RdBqvTn6/s728-rw-e365/breachlock.png",
         "Title": "6 Types of Applications Security Testing You Must Know About ",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
+        "Timestamp": "Jul 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzpTtBGeYva6Jc9-GoWBlSTllnilbRwifp-QmOcBuXFcdlJFFF_-LSc2ADgSHAfTzN0A7iO2wV6a3XO7SWfp5GMltpuHauu9yfyE0sw9E6rzlHvNexhVtVuspn6exEjS13VQ-HYkQehfVckzzpv6ZvVRQhXr4-sJADovqBCRSCHCzno7CvPzmbnEkDYgTf/s728-rw-e365/instagram-scams.png",
         "Title": "Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/nudge-snowflake-threat",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt2hcqKmy_VkgPQSiqtVZERQL6KPdyHWPgNbDisvMaMnphvLyjUtudIQvpkMrwYspxMiSrlFaQn0zH7dxhWFfM61zDOwA7xGp7lmLWyyUdHoIo5Vr8eWXsTQJZGopY4qzc0ohzc3j5czlToeBnyobHcKvmRcLKCsa2uZqAoD2uRASYb3IDlbQ6eLXr0-go/s728-rw-e365/nudge.png",
-        "Title": "Why a Threat Campaign Targeting Snowflake Customers isn't Exactly a Special Snowflake",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
+        "Timestamp": "Jul 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSm4UxOabMbpRoTyJ_wsFhOltmnVybX9SRTZufAVY5xz7FvuVZGa5CICD4sQ__NbM9LJNNSiEKRKWSLgRN9Zuh6xv8EZ2btcahdlTvtEOX0uWlQWCUkzzcBdsa81I6wkdRuFsaUfJFfzu0iGoxodnNrLDH8_H6xRpZJ2yNMt12qp_yZBtWMDWc1Y8Vnhg/s728-rw-e365/main.jpg",
         "Title": "Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 25, 2024"
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/north-korean-hacker-hired-ecurity-company-malware/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Source": "WIRED",
+        "Timestamp": "Jul 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/experts-expose-confusedfunction.html",
@@ -63,6 +112,13 @@
         "Timestamp": "Jul 25, 2024"
     },
     {
+        "Link": "https://thehackernews.uk/nudge-oauth-checklist",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeTf9Lr6DRkz3e2-JIBXRJBB551P3ZlwahsIRuAHijh98_j1LKMIRwSYH4oxxMXzDAo-xmmopJFod8qdLUCeDoxTXDTapFRWArCrYiFC5VtGNiqvld13hDd2Qfv7ei5Lmj5vm3ULHdDjn4AEW03nV1ILSJ2i9DUInH5hfd16Z9l4xtbeXc9ASy2QJkfpf/s728-rw-e365/nudge.png",
+        "Title": "Free OAuth Investigation Checklist - How to Uncover Risky or Malicious Grants",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 25, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh2yEQVZo-75oYcocxSdkh_9ENH0aeHbq0x5ipKQKquwlaIQIcK2DcCWc7AEix2ow20N3LCKRa_NLJBiJ6SN5JIRVMoKHMzgeHmxLCMfpNf4EwDGK4ja0Vpq6BliuMDMsf7rdxIqIHVlQzR-67eYOdh0eDsshoYKRxjtjS4-I7oOmEA6iu9I7I6yeZegZm/s728-rw-e365/google-chrome-zip-files.png",
         "Title": "New Chrome Feature Scans Password-Protected Files for Malicious Content",
@@ -81,89 +137,40 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipsygFZ3UYHz3MivU0n8mkoC4EisK0AJR63olLHRzxXaY77ZULthfgk6a7Rv4hWz1YFXZRlt_OCf3utmbjFf1OpS-dE14tBSGJ0aihF7vU23un40SQl4sRIefQKqdNswX7WgsEltBUYRcsY28BncZRBLohMq3LgIJ7BHRvk8bGovVqw6Rgst2_TxNYzjA2/s728-rw-e365/telegram.png",
         "Title": "Telegram App Flaw Exploited to Spread Malware Hidden in Videos",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
+        "Timestamp": "Jul 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
         "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXi2RyRNWwpI_5YqBKhqtothR4OfVpXeK-KPD44kroFB8Dp6qxUGJRjvFqP_Ox9B1ZwM5bD85Cqqf5img4WaV7l2aGw53Ewmx-VbvfMUsHQ-vz2NVZBETAclh5EGvdjsZX54bnuA3W0F_DlHL-BK-in8cuNgDZuc-rmL7pncnyO1i8veTlgUiPOLNPMa8/s728-rw-e365/darkweb.png",
-        "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
+        "Timestamp": "Jul 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevbnJ7BjR4QmsyILB4cxtCWSOOrGTbEuBNCxVNbsflG8Ucrp4zBnj9yeB09sWpSi_L5k3h_s3KoZP-e7NjWaPjDt0qu_iRaDnpPA2rshS3Ozm_NZ94aC8HFd_Chu65tuXvWbD7pvErbckhyphenhyphenCPkkmjsPXKVViNUcJKAgm0sj6HXk2U_YksOMc0dSiEMvIo/s728-rw-e365/patchwork.png",
         "Title": "Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/nudge-snowflake-threat",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt2hcqKmy_VkgPQSiqtVZERQL6KPdyHWPgNbDisvMaMnphvLyjUtudIQvpkMrwYspxMiSrlFaQn0zH7dxhWFfM61zDOwA7xGp7lmLWyyUdHoIo5Vr8eWXsTQJZGopY4qzc0ohzc3j5czlToeBnyobHcKvmRcLKCsa2uZqAoD2uRASYb3IDlbQ6eLXr0-go/s728-rw-e365/nudge.png",
-        "Title": "Why a Threat Campaign Targeting Snowflake Customers isn't Exactly a Special Snowflake",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
+        "Timestamp": "Jul 25, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zc429snn06MALdhwBfCgF1eDpztUmBLQL5G2XzeEfi49mgJYbGdvymusuix4w3KIH1jVxXW9UgE_hf-YG6RqP8cUEHc-Gbt0yhg6RW7vPdTgEzsQzWwoka0teYAQtOrpF7B-BGxjLzZHTA35n9FfQzjUjdRcyWReY_QXqyZe7Nm3W3KQH7TP2zBjTG81/s728-rw-e365/windows.png",
         "Title": "CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
+        "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizz0kaqXAhW3u-1lEWYqMLjQMgigcohlWLxEte1RBeNSGXJNwFimDy4drLl4KrxY7omTHZ-TF2khRWK7JG9hEzE7nT4BglpE-zcyxQ-5_U3_GOEn7lz7fn-VCbVvC1_kGeHBEI8qqcqKp4VuQamXitAIt99Pnm5fHv6T72JBMu1jZfgqay99hXEo0EcC1M/s728-rw-e365/hacing.png",
-        "Title": "Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoiIBnjqDe8Am7EBHqLdyTux0f0Tx8INnWxI63i-zfWOl7PqPjRiGDrrZNSGFJhY3tp16BwRsVTemn4zfNeunNjlyIYNEh83lns64LDB_yUrm0JbFNOSCccJVYa4YTfJrEd17_p0HCQR6cvQM7Xb8ZfdiWl4_vLgrM4xF6zXH9ntQLYQ8vTm7OiiM3AU6q/s728-rw-e365/cisa.jpg",
-        "Title": "CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRhHUp6JDG4MsTgzXDCcSpXCEsEcybx-RwGZEjOItczGtq4c2l7FAK-X8DphUyI9aZTqwsIBQ8So66Qdh2rGsSYBU9ZgWfiUGR449k05_S7XtmXcbMLwpIbcvLXRQH9rPJDSogDVy75Bp_II9jkTh45pZmfxL0A2xiq14sbl8YpEQA0HCo_TaG1NQXjyb/s728-rw-e365/chinese-hackers.png",
-        "Title": "Chinese Hackers Target Taiwan and U.S. NGO with MgBot and MACMA Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFryrXiANDmpB8inIz_fELJDVlwO2Q-Ec5GKVbb6KNh5agZtAc2rkmoN3CN-9Hmu76XFjhiXgzhW6jslLMWHEn2y3B-2745Vx_QyB4OZByNqjJr43cX5Fmhbs9nCrsk3jb43BCRVKJTAea37QbZKDWgyaWniA3zLegQAnqntGAS1cDcGP1OzUFPnLF-ZHV/s728-rw-e365/ot-security.png",
-        "Title": "New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfCgArDqjK7Z-RcTc1qk6gfH2h_Bb2IhZ8mNb_7bvE654dcpa1Nd3oXBl9gI1cU5JqZY4MEDErf0CVkGSMqV_QGP0DhbAYjd8jyshIvCJDfXaOEuhq2WAip7jWijfjOavymxDbZkz4NHZTDRb95hXoqq7KeyQHAQGUQhdNMsBqmebncOYGgzp31mZFuwE/s728-rw-e365/hello.png",
-        "Title": "How to Securely Onboard New Employees Without Sharing Temporary Passwords ",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/66a0c4b6473ac06ecbb29e81/3:2/w_1280%2Cc_limit/GettyImages-2031352512.jpg",
+        "Title": "A Hacker \u2018Ghost\u2019 Network Is Quietly Spreading Malware on GitHub",
+        "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
         "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
         "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
         "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
-        "Source": "WIRED",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/66a0c4b6473ac06ecbb29e81/3:2/w_1280%2Cc_limit/GettyImages-2031352512.jpg",
-        "Title": "A Hacker \u2018Ghost\u2019 Network Is Quietly Spreading Malware on GitHub",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -175,11 +182,11 @@
         "Timestamp": "Jul 23, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/",
+        "Link": "https://www.wired.com/story/carr-hackers-sanctioned-security-roundup/",
         "Img_URL": "https://media.wired.com/photos/669eaedf0d77a600b9edc671/3:2/w_1280%2Cc_limit/How-Russia-Linked-Malware-Cut-Heating-to-600-Ukrainian-Buildings-Amid-a-Winter-Freeze-GettyImages-1910714939.jpg",
         "Title": "How Russia-Linked Malware Cut Heat to 600 Ukrainian Buildings in Deep Winter",
         "Source": "WIRED",
-        "Timestamp": "Jul 23, 2024"
+        "Timestamp": "Jul 20, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/",
@@ -189,16 +196,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
-        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
-        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
+        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
@@ -376,13 +383,6 @@
         "Title": "Patch Tuesday, June 2024 \u201cRecall\u201d Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jun 11, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/state-of-ransomware-2024/",
-        "Img_URL": "https://media.wired.com/photos/6668cdc711ad16a3af80160e/3:2/w_1280%2Cc_limit/Screenshot%25202024-06-11%2520at%25206.20.07%25E2%2580%25AFPM.png",
-        "Title": "Medical-Targeted Ransomware Is Breaking Records After Change Healthcare\u2019s $22M Payout",
-        "Source": "WIRED",
-        "Timestamp": "Jun 10, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/",
