@@ -77,6 +77,13 @@
         "Timestamp": "Jul 27, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/x-grok-ai-training-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/66a42a0afcd6369d908d0d6b/3:2/w_1280%2Cc_limit/1564298467",
+        "Title": "Stop X\u2019s Grok AI From Training on Your Tweets",
+        "Source": "WIRED",
+        "Timestamp": "Jul 27, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/signinwithgoogle.png",
         "Title": "Crooks Bypassed Google\u2019s Email Verification to Create Workspace Accounts, Access 3rd-Party Services",
@@ -168,13 +175,6 @@
         "Timestamp": "Jul 25, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/66a0c4b6473ac06ecbb29e81/3:2/w_1280%2Cc_limit/GettyImages-2031352512.jpg",
-        "Title": "A Hacker \u2018Ghost\u2019 Network Is Quietly Spreading Malware on GitHub",
-        "Source": "WIRED",
-        "Timestamp": "Jul 24, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
         "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
         "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
@@ -186,6 +186,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/phishtrap.png",
         "Title": "Phish-Friendly Domain Registry \u201c.top\u201d Put on Notice",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 23, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/",
+        "Img_URL": "https://media.wired.com/photos/66a0c4b6473ac06ecbb29e81/3:2/w_1280%2Cc_limit/GettyImages-2031352512.jpg",
+        "Title": "A Hacker \u2018Ghost\u2019 Network Is Quietly Spreading Malware on GitHub",
+        "Source": "WIRED",
         "Timestamp": "Jul 23, 2024"
     },
     {
@@ -315,16 +322,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
@@ -376,13 +383,6 @@
         "Title": "Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake",
         "Source": "WIRED",
         "Timestamp": "Jun 15, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/change-healthcare-22-million-payment-ransomware-spike/",
-        "Img_URL": "https://media.wired.com/photos/666cba1ac17a33038a481cc1/3:2/w_1280%2Cc_limit/Ransomware-Attacks-Are-Getting-Worse-GettyImages-880947624.jpg",
-        "Title": "Ransomware Attacks Are Getting Worse",
-        "Source": "WIRED",
-        "Timestamp": "Jun 12, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/patch-tuesday-june-2024-recall-edition/",
