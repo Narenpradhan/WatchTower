@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqCVPCrVr1CkTDfHBh9iDnVfAljIllPcjk_E_nGs0en7npZXsWx64C7U5VhKk3fakk5H6lGXfE2OzlIz_zDjVtK5A0WlyondCkwVMxjMs6Gxp3PYvO8MYDj5LYVYf34E9xKw36FvVPCqf8rusoO5j5j-fwSE8m3lHtr_m_X0_lQnEex5FsTTK6EIj6esxe/s728-rw-e365/cyber.png",
+        "Title": "Critical Flaw in Acronis Cyber Infrastructure Exploited in the Wild",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWl-4JTye6YcCvawEBwOPsctzhyphenhyphen6thkpskk83zkBafBi7TNCbs4E11b26jb8KhsuEpZKIkk3pMgr5Jmpkw_FCPHeYV1CKxFS2MuxWZMoPRkiLr2ZDUCLw4N3BRVxUlpPppftgp8XbayNj4FKXkxPytILs75XqDDGcDs0SY7_Nmd0xWup7uLLRvWtqL4Nx8/s728-rw-e365/pp.png",
+        "Title": "Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 29, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaNFfZoX58KrOoNAln3Gcc2jtXo1cc6BSpmTM4PPfOweryzPVPpxWTbi87vUxQDyFxvjjt1OhIuKxU1lPhz-iJAvp2EoLKjb9EPC5b4I4tFR-Jp18eUUFm0PENSfj-EyuNXOo4hMrfknF0rRUb-hlzB5ZcmUZ6fVdGkwR7uKRSV31R4cyl0LgGlFTYicA/s1700/main.png",
         "Title": "How Searchable Encryption Changes the Data Security Game",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
+        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
         "Source": "The Hacker News",
         "Timestamp": "Jul 29, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Jul 29, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
-        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Link": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKgnWtD3Y7COMdbD-p6qwsKxDFtOLGrnjMojMJ40wuYiIwL49grtr-MvUH7x65M9ypPVY5KVRuxDy9FzzhqgncIfpxo0OoxHEZ_pTKuq04zdpqSi53jHJ14NRs9Up3siWV7MOUDnEEK25BWDGwhHrq8t253bIKapyKk59YeGbC11HbMvIsxvv4-GsJHiw/s728-rw-e365/france.png",
+        "Title": "French Authorities Launch Operation to Remove PlugX Malware from Infected Systems",
         "Source": "The Hacker News",
         "Timestamp": "Jul 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKgnWtD3Y7COMdbD-p6qwsKxDFtOLGrnjMojMJ40wuYiIwL49grtr-MvUH7x65M9ypPVY5KVRuxDy9FzzhqgncIfpxo0OoxHEZ_pTKuq04zdpqSi53jHJ14NRs9Up3siWV7MOUDnEEK25BWDGwhHrq8t253bIKapyKk59YeGbC11HbMvIsxvv4-GsJHiw/s728-rw-e365/france.png",
-        "Title": "French Authorities Launch Operation to Remove PlugX Malware from Infected Systems",
+        "Link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s728-rw-e365/smmain.png",
+        "Title": "How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
         "Source": "The Hacker News",
         "Timestamp": "Jul 29, 2024"
     },
@@ -43,15 +64,8 @@
     },
     {
         "Link": "https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfBi4u67nrpP6XeY0hFleULqlLppGYh2uh4pTdpgq_i-kC9KRZmJRNW_JwTGkASO5MMin3AAO-3GiXc3QtkeC8tpKU3yfQ25JwZgnDAyRYFFnwYLQaxg9GrjpM0XzMhiucrPh9n44N2nL47hhHOsjZkY_AXZ42ATDDlOvBpbZSh2Dmy3FbF7G5AvqRyXs/s728-rw-e365/phishing-attack.png",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLKo_LGCsCEOZJNz1k7P9H6J-Q_xdXe28x6AehAnZ44nOnXILTuAvHnd0ujsHibaTLYXTC8MvLeIDvZEjQJT5p31HRCN6yI7s5vZ9l2px4GWHC8MGR_11puBibVSVcuzpviIaoZObdv8HFGqqYY1EL-ONGY54z4qlznn_cKCfqKLjubgNAEFIxVJnvxyS4/s1700/gib.png",
         "Title": "This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s728-rw-e365/smmain.png",
-        "Title": "How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
         "Source": "The Hacker News",
         "Timestamp": "Jul 29, 2024"
     },
@@ -59,20 +73,6 @@
         "Link": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8VDNMkHC129-480OXjAFon1OMGQyS4gg2Hdmn3qSJHPOZpp9AnX8nGlnUdITHIyfK_T6LKz9E_mdiQhLt1rb_RBxj65aSFAPe3YFmarX8FwMfwzvRlGvT9AnyZDaTEaWUpQqp0X3-tQFyVS-sbc-2Ez7yN60Nf1H58Ry_iKmNw0Cpgw0h8bkPc7LGuM/s728-rw-e365/sans.png",
         "Title": "Offensive AI: The Sine Qua Non of Cybersecurity",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlimVUGYGPlwGTEgzjWdEGYhJ7X5vX3gcHlIF9_O8OWAiqWzhGWN65N2jla9TzSuAywczQrulYnmPAfzVRxBL454_T1qgBdWO8ZKwRW5tm8MlJXugaoC2Qv53jNgMkr38NRTicpxy0Q_J60lFSAPAsbkEVMj_i5yga2RUGg_6tNXAz1HqFlKOuligg50O/s728-rw-e365/wanted.png",
-        "Title": "U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7C43DMM8mOa0N-NjcBn5Qm-gRmGw6z119CapcJv50YKTZCOQQTn5TmZ54Vc7pTeMNnxsQEX42FeZ3NYPp6DmMEJszVR5OA-8juH8GnasK-guCL6ePQej3GvrtH9q5I1Oizi-m5JffLwK1SzZXpCRxIzgdz2t5dSrZGAmR4pZGqPlDnJ3lYFNqnL0tVi/s728-rw-e365/wiz.png",
-        "Title": "Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining",
         "Source": "The Hacker News",
         "Timestamp": "Jul 29, 2024"
     },
@@ -98,16 +98,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0wzC4c52os5T_IzuUdmFgH5XQmKfurpTsHKK_WwxFh7QRF2fTj4Ew8USVmUYPuauNoLwNKYINrUMszxFj9VWNSAe4kQcakeHeqv6cpshxs4BOP5duWbYhsAWYS_JgZpdKkEC-aoCop3qa6Gfc768MqdB4e86tfTH0aAUmoGo9nOgiGnk3nhesF0NKMakE/s728-rw-e365/malware.png",
-        "Title": "CrowdStrike Warns of New Phishing Scam Targeting German Customers",
+        "Link": "https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlimVUGYGPlwGTEgzjWdEGYhJ7X5vX3gcHlIF9_O8OWAiqWzhGWN65N2jla9TzSuAywczQrulYnmPAfzVRxBL454_T1qgBdWO8ZKwRW5tm8MlJXugaoC2Qv53jNgMkr38NRTicpxy0Q_J60lFSAPAsbkEVMj_i5yga2RUGg_6tNXAz1HqFlKOuligg50O/s728-rw-e365/wanted.png",
+        "Title": "U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals",
         "Source": "The Hacker News",
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEk5OJde2Bknocbc8Rmu6TJfhCVcS3BpI8I3ypFyGJx4kAPET9FVp7dlkFaC1dQ9qgcZgPlyzgatXR9VaT2oqhwKVkoocz6MuD5cS5QNMRpRL0hAoplG80rQAnElZyhNOXnqfcJCDVy_uU9oF3XyEzIZPyz7-g8qNuDK6AQMC5JxxTRFzPq1q1EG-YxPzL/s728-rw-e365/server.png",
-        "Title": "Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk",
+        "Link": "https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7C43DMM8mOa0N-NjcBn5Qm-gRmGw6z119CapcJv50YKTZCOQQTn5TmZ54Vc7pTeMNnxsQEX42FeZ3NYPp6DmMEJszVR5OA-8juH8GnasK-guCL6ePQej3GvrtH9q5I1Oizi-m5JffLwK1SzZXpCRxIzgdz2t5dSrZGAmR4pZGqPlDnJ3lYFNqnL0tVi/s728-rw-e365/wiz.png",
+        "Title": "Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining",
         "Source": "The Hacker News",
         "Timestamp": "Jul 26, 2024"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkso2IseehQIkEjBOZSfERxkt_7p55GJfYenso5GWCHtnDSDY6d3Awa7lD6dY738heyi1f6xMtcAAj4qcjMPW7DVj4JoWlFP1YHh8fJMEFnsGv5zays94ono8GEiYvQLpt38wyjngdaTq9PqTLkw_qaN2mKu1Fnx93DmpNReTKv3sD9eyj0mowI09u2zp/s728-rw-e365/hacker.png",
-        "Title": "North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks",
+        "Link": "https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0wzC4c52os5T_IzuUdmFgH5XQmKfurpTsHKK_WwxFh7QRF2fTj4Ew8USVmUYPuauNoLwNKYINrUMszxFj9VWNSAe4kQcakeHeqv6cpshxs4BOP5duWbYhsAWYS_JgZpdKkEC-aoCop3qa6Gfc768MqdB4e86tfTH0aAUmoGo9nOgiGnk3nhesF0NKMakE/s728-rw-e365/malware.png",
+        "Title": "CrowdStrike Warns of New Phishing Scam Targeting German Customers",
         "Source": "The Hacker News",
         "Timestamp": "Jul 26, 2024"
     },
@@ -129,6 +129,20 @@
         "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
         "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEk5OJde2Bknocbc8Rmu6TJfhCVcS3BpI8I3ypFyGJx4kAPET9FVp7dlkFaC1dQ9qgcZgPlyzgatXR9VaT2oqhwKVkoocz6MuD5cS5QNMRpRL0hAoplG80rQAnElZyhNOXnqfcJCDVy_uU9oF3XyEzIZPyz7-g8qNuDK6AQMC5JxxTRFzPq1q1EG-YxPzL/s728-rw-e365/server.png",
+        "Title": "Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkso2IseehQIkEjBOZSfERxkt_7p55GJfYenso5GWCHtnDSDY6d3Awa7lD6dY738heyi1f6xMtcAAj4qcjMPW7DVj4JoWlFP1YHh8fJMEFnsGv5zays94ono8GEiYvQLpt38wyjngdaTq9PqTLkw_qaN2mKu1Fnx93DmpNReTKv3sD9eyj0mowI09u2zp/s728-rw-e365/hacker.png",
+        "Title": "North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jul 26, 2024"
     },
@@ -157,20 +171,6 @@
         "Link": "https://thehackernews.com/2024/07/experts-expose-confusedfunction.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HhHko45XBTpWMKyyC94Vjpn_56Nzol_MqFoc77JzpCtxvEqEd1cScv4LyIbDWLAKPtei6ysFI-PiYGfTvqelPxnk2ETmCCMdsxdDpId1q-M7MfkP9W17KudVIv70uTm2XI14G4OAGGMQxDG5lNpZwniFmITFE02YWZ0Z43EAcwt_ZtPYZv3YgxmZPCay/s728-rw-e365/PrivilegeEscalationVulnerability.gif",
         "Title": "Researchers Reveal ConfusedFunction Vulnerability in Google Cloud Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlnZVFYjopuxKbFc07dCazoDwkhl54bva_olPKxfsX8g972NfAyU0R6SXIbcAO7R4IolGtcWbHm_QTDkB10uVSGFQII2fO-bZydd2dMCcBKc1LebLgeuLhwIoFf6tQK7M9qKl4jQ8-1ganVP4Xcd4MTnHcgTNlRpnanGY7-SRAVuXh-pZpc_1emR1SXU9/s728-rw-e365/docker.png",
-        "Title": "Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHh4a9W1ZlAO43aiIWPL1I3pzixjZYWCiVm8cmzwqiyAZb7fP6jXmC1SU44AOCcGPFmrE8ttA3wmPiRHz3_dIGOjIsBCNmYgbnGWYErjApm8KMUihR0xeC3rkedjOYvZ9ITwR8EbnslrjT_9xOx8UDRF3EdbWiqhI1OEm4YbDi_jrf7j7R922pD0rUxtpH/s728-rw-e365/dns.png",
-        "Title": "CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software",
         "Source": "The Hacker News",
         "Timestamp": "Jul 26, 2024"
     },
@@ -329,16 +329,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
