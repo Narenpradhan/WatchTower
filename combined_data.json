@@ -1,8 +1,36 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/duckstarget.png",
+        "Title": "Don\u2019t Let Your Domain Name Become a \u201cSitting Duck\u201d",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSKYvS6C2tA6QuQ2EgSv6V2lCs-WzvKUe-PATLOFI62WrmhWrW6RYoB_1nvrnRf8-P8hRQqOoJaWCL9i3OiZlqX7a9ewv7viU9etVVxmRQSByWpRYxw6xxVhXdIwwLW_HWJh0Z0j6Ilg7y5ywzKXrxvkTICzwMCUnpQH5J77LJFlg7ku01Omva-mInWHt/s728-rw-e365/ssl.png",
+        "Title": "DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii9dymi_0_TCHCHjO7uzWh3GLtdAZf_pLYnzG4M8PJRzovrY7fWG8SqfVxJ7TPVx9uqCImEKiuTyCk5NCj0MokjBB2ianbbcqLBhwpiIstZ9GGBJpUe6l5_fxgA372nuCIl0PkAMYBm06sfs8U0YcgoDg3jZs580nUrzijCee35Ht3ZoxMyH57Mgj-dc1d/s728-rw-e365/hack.png",
+        "Title": "North Korea-Linked Malware Targets Developers on Windows, Linux, and macOS",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizy76J-dAi-Dj7lYtZh6E83lyancxK9cRYHgP4SycvdsvImULBYDbI2OHrTgDh4VL3o1lpvduEDUjqSF0XkdFNGbniKkITuTt9ajPY0dCo3tjyaJst2wWr_zpa5k56pJOty_6nRuszAYf81bDXxDDpQsoOH3_SF9xj2U7_TQXScPrfXMOgyUGE65r2z3G/s728-rw-e365/pc.png",
         "Title": "Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
+        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
         "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
@@ -21,16 +49,16 @@
         "Timestamp": "Jul 31, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
-        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Link": "https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiIRNJotCRCmOzAPY6Fu2qXnZXYZoODmPDFy9qAe9db1RkorDAPM2DGfY3HJRjBt4GNuuMqs57nfmYlWwfCZzb5wWhC1nG3i2QnRGT3YjmDQJ97MDvwaHDwQBrAljDpyITa65LaRafp4_zUfBFzO1ljuNtVdkaQoKBiewx24OWWENId-Cf7Qkrmf-ZgGM/s728-rw-e365/hackers.png",
+        "Title": "Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova",
         "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiIRNJotCRCmOzAPY6Fu2qXnZXYZoODmPDFy9qAe9db1RkorDAPM2DGfY3HJRjBt4GNuuMqs57nfmYlWwfCZzb5wWhC1nG3i2QnRGT3YjmDQJ97MDvwaHDwQBrAljDpyITa65LaRafp4_zUfBFzO1ljuNtVdkaQoKBiewx24OWWENId-Cf7Qkrmf-ZgGM/s728-rw-e365/hackers.png",
-        "Title": "Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova",
+        "Link": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVPxZUC39CqjESXijxfTsk9Bn3KAwjeFcSfdsrlDwBnPXIo6uwbj5h7WomhB7BMQNYJFjQxshF2hNGzFE37_wMOQxKPwNilOx5seKtocuflBJwaOBTF9eLSspKctd0nPZ4sNFx5oFR7vui99mc8DL_TTc0mZ6qk6Mr7Xq-Vy1_DIRtOKO-KrCF63dhf8/s728-rw-e365/main.png",
+        "Title": "How to Set up an Automated SMS Analysis Service with AI in Tines",
         "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
@@ -49,13 +77,6 @@
         "Timestamp": "Jul 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVPxZUC39CqjESXijxfTsk9Bn3KAwjeFcSfdsrlDwBnPXIo6uwbj5h7WomhB7BMQNYJFjQxshF2hNGzFE37_wMOQxKPwNilOx5seKtocuflBJwaOBTF9eLSspKctd0nPZ4sNFx5oFR7vui99mc8DL_TTc0mZ6qk6Mr7Xq-Vy1_DIRtOKO-KrCF63dhf8/s728-rw-e365/main.png",
-        "Title": "How to Set up an Automated SMS Analysis Service with AI in Tines",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/the-power-and-peril-of-rmm-tools.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVsEmMhcvcq75qU6Eqio1WRmZuA1IMIaR3979YNtorLL3vJnm2lQ0rp6bXCsTEVmD1UIZZLLcUGyqo4qpG7ETt94QwUcoWftl832uvPDOx-zqSxrKg4SbWIW9B1niui1fziI9ZIU_ysSssnZKkJHxA_fyVlg05a872NzATTIDCxhDqc6teTBZXicN3MoQ/s728-rw-e365/main.png",
         "Title": "The Power and Peril of RMM Tools ",
@@ -67,26 +88,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5XbF4XBjAvcao1vstm5w5JQfNY_TqUv9ck076AHbXHBx_8qnazJSd8Kefm35XjRc-PlJeeplYVWh453XvWhfYLATJi_hOsujO7PZp2npP9VkAd2jlp0FLgkiccgeSUMeykBnHfcMV5Q-SKhQTBTCZotdW8H8E_vGOUKbxant2BczUXHUWgtT3Ws27zWf/s728-rw-e365/malware.png",
         "Title": "Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
+        "Timestamp": "Jul 30, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2dXe6uhLrSA5G33VqT2MeP335Qc2ViLEu-WhqIgY5g8ESZ76BpQ36zw3blPEsAfMrERq_yo6Pa4oF4Vku4I-awdi_eFtUNvA0MSQXzbfWLxkq7bXNci-hB6pmSj-93-NEnVDgcB4Y6KKVMCK-FV1KZvvWUwH4fD28ZEFSMzAY1ILEoDkUf0kQ30PnsQ/s728-rw-e365/cyber.png",
         "Title": "Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhffqOyqjZOhe7FPCybsN1P17DVC4wzMK9_bYDaoYRWA_EDGk2YjSE3axZyrU1vPmfF1TsEyIuHfinAqGRy_FVugLwZuPcfeDRS3T-BL5d6IMnOHCYwsiMH07op3T1Qx4APJs0URzZQxmgGG5dHj1n3xyuXHT-QctmR8ug_eofzi4Ia_Z5RJK8cpWKBiZpB/s728-rw-e365/port.png",
-        "Title": "New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix0XfsY-0wZPr2_Yi8a79zevrySzlxI-CwIdApE5nY6G6aNV8Lk1XHnBZeco3n1ZZ6-rUMXMXgDbSxMu1tXg3yEi119jW178oCBRpxPPSVPXExJuJaCPvuLXI1pe6fj8Q6Xgzzwmat54qjDcTSOEuQUtqfOKQbhGS0EBHQjHDXjzeMuPoqK3saYMjm2att/s728-rw-e365/windws.png",
-        "Title": "OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script",
         "Source": "The Hacker News",
         "Timestamp": "Jul 30, 2024"
     },
@@ -98,9 +105,9 @@
         "Timestamp": "Jul 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvIfLIgWbqvnhMMoAsYYPHPQqhRCLP6bpuP1k2lvnxpbUey29zMUcl6FwHrd_jLYKnOP1bugNfyFfoVWdbQaZVpKfHteXZ5W2OAC1bo2aqnh1D5Ua_OFhCOwEE5tHStysk0NGoe1xeewUNbvYmyYwiaXR1f5zOA9ik7zJbtAAQxv0IVAfCcEP99T70eAx/s728-rw-e365/qqbot.png",
-        "Title": "VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access",
+        "Link": "https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhffqOyqjZOhe7FPCybsN1P17DVC4wzMK9_bYDaoYRWA_EDGk2YjSE3axZyrU1vPmfF1TsEyIuHfinAqGRy_FVugLwZuPcfeDRS3T-BL5d6IMnOHCYwsiMH07op3T1Qx4APJs0URzZQxmgGG5dHj1n3xyuXHT-QctmR8ug_eofzi4Ia_Z5RJK8cpWKBiZpB/s728-rw-e365/port.png",
+        "Title": "New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries",
         "Source": "The Hacker News",
         "Timestamp": "Jul 30, 2024"
     },
@@ -108,6 +115,20 @@
         "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
         "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix0XfsY-0wZPr2_Yi8a79zevrySzlxI-CwIdApE5nY6G6aNV8Lk1XHnBZeco3n1ZZ6-rUMXMXgDbSxMu1tXg3yEi119jW178oCBRpxPPSVPXExJuJaCPvuLXI1pe6fj8Q6Xgzzwmat54qjDcTSOEuQUtqfOKQbhGS0EBHQjHDXjzeMuPoqK3saYMjm2att/s728-rw-e365/windws.png",
+        "Title": "OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvIfLIgWbqvnhMMoAsYYPHPQqhRCLP6bpuP1k2lvnxpbUey29zMUcl6FwHrd_jLYKnOP1bugNfyFfoVWdbQaZVpKfHteXZ5W2OAC1bo2aqnh1D5Ua_OFhCOwEE5tHStysk0NGoe1xeewUNbvYmyYwiaXR1f5zOA9ik7zJbtAAQxv0IVAfCcEP99T70eAx/s728-rw-e365/qqbot.png",
+        "Title": "VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access",
         "Source": "The Hacker News",
         "Timestamp": "Jul 30, 2024"
     },
@@ -136,20 +157,6 @@
         "Link": "https://thehackernews.com/2024/07/stargazer-goblin-creates-3000-fake.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOy24oCE5bLtrv_tbzFba9G5GtqAS_sLnW1HsaVjwzL8yRfnatgju63fsx6bMMjjJajdMR_KcQMVQg5p15lf7po9VApKqy8yGO60IgaVzvgRDz3D8r6OYWhfxTsAK4fN2d4EcNJ5ZKcw5tIurdEgy5gkErm3RrLZoo3O_Rfvr3BoPfcFZv0toNlWScDdB/s728-rw-e365/github.png",
         "Title": "'Stargazer Goblin' Creates 3,000 Fake GitHub Accounts for Malware Spread",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1Wxw1hsNYSIpz3tvigMAvgNAar9L_kre1q_wzh3FpbhfzM7SpqmEOtJGefuzjidGf5LdfSMWpAXnQKGefKhJHprlf_BtnfKaZv3wTRdZb6f1jKIv_-bpJcqW4pCplqnxR3qwmm-erlV8Elw_5hfCKvP8c980mSDcneg6SW9v1MMcH9f-aa0ucsN-2Z9H/s728-rw-e365/chrome.png",
-        "Title": "Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKgnWtD3Y7COMdbD-p6qwsKxDFtOLGrnjMojMJ40wuYiIwL49grtr-MvUH7x65M9ypPVY5KVRuxDy9FzzhqgncIfpxo0OoxHEZ_pTKuq04zdpqSi53jHJ14NRs9Up3siWV7MOUDnEEK25BWDGwhHrq8t253bIKapyKk59YeGbC11HbMvIsxvv4-GsJHiw/s728-rw-e365/france.png",
-        "Title": "French Authorities Launch Operation to Remove PlugX Malware from Infected Systems",
         "Source": "The Hacker News",
         "Timestamp": "Jul 30, 2024"
     },
@@ -224,16 +231,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
-        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
-        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
+        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
@@ -376,13 +383,6 @@
         "Title": "A Catastrophic Hospital Hack Ends in a Leak of 300M Patient Records",
         "Source": "WIRED",
         "Timestamp": "Jun 20, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/tylerb.png",
-        "Title": "Alleged Boss of \u2018Scattered Spider\u2019 Hacking Group Arrested",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jun 15, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/",
