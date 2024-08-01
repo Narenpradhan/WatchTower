@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhhnkpBltf8eiRERnidnvbignuAJNzXkC1wxLIk0-ti6m-IP__y27HsfTleGPzIQVbB8R_Rgs3neAcEBVp-7FC3CtJnx58VsF84XQCdJExUi-ooRJO3SQRseKse6oueKjv5eKifXFCr_lQySQiQmyD4Bwx69IXwMvu8HtnUht3c6gUEB3RVrRpQfmxqVl/s728-rw-e365/domain.png",
+        "Title": "Over 1 Million Domains at Risk of 'Sitting Ducks' Domain Hijacking Technique",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTWOhYPMK5s_mOHnqsux82Yn3yBGcMq9oLB_KjkrP3lnJBmz6YsDKtnOP1lQw9DJtf0g9ufeTXtMoZIBfIyb2lnYPAS7ptIoeflOeFt7vcTjs7RDVriB18cK7KbV5Ps8yl3RxiK63sTW0ITtd8KTmiv-tmcbJ3F8S_koaAOjbUrvWNAcEC-vzYAUwyXm0t/s728-rw-e365/stack.png",
+        "Title": "Hackers Distributing Malicious Python Packages via Popular Developer Q&A Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4aWKfJLWV9AOViLHLcGQL06kJTWjVn-qAWKWmh3MqnZE5DwQaElj3xTk4n11WaR5jeAeTZTUxlvCID5goZgaNN8VmyXHUi4bfzEquem6fTX31rXWLMrTM7RatunGBIRJyV4pqQboRxAegWHq8sLl7wUkfNSzxAA6nQ6VHWxhUGtCj_8xmas_PW9ceRISl/s728-rw-e365/android.gif",
+        "Title": "New Android Banking Trojan BingoMod Steals Money, Wipes Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
+        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 01, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuibIKr_EZglopVDflWwLwmqAdebgA4HhUECXzmvNoEqlYodvNTEkzcE5MtFmZJQeoBeAa5RGtiLhGy5kgmvx2hkspSSyJWDk-Xjg6VnNuP2QX46JfczLNvu3VBwAwlygjxTDwp5h_b2j1Kj5yYNsggMAVDMDIJcdOxRQd2KsVzrOTmga6IcARWarSzDQ/s728-rw-e365/main.png",
         "Title": "Obfuscation: There Are Two Sides To Everything",
@@ -21,9 +49,9 @@
         "Timestamp": "Aug 01, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
-        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
+        "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
         "Source": "The Hacker News",
         "Timestamp": "Aug 01, 2024"
     },
@@ -49,37 +77,9 @@
         "Timestamp": "Aug 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
-        "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
-        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDlNv83K2Fk9JRUmUzj7vTxGe0G2GJEOQ3qujpqVxnpPRHhXSNiXQg-BS44bN-hSva8piPrSPZFpj4SlzDzbC2LKaA2iySvT7-vMkg3uiWXdODznr3RqlJPsB5eiMSeaTfpby_2k1enXFQXlvGCXM7-RNx07zJE45ciM_lalUqmH3mFROjErqPiCcmWTf/s728-rw-e365/anroid.png",
-        "Title": "Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiIRNJotCRCmOzAPY6Fu2qXnZXYZoODmPDFy9qAe9db1RkorDAPM2DGfY3HJRjBt4GNuuMqs57nfmYlWwfCZzb5wWhC1nG3i2QnRGT3YjmDQJ97MDvwaHDwQBrAljDpyITa65LaRafp4_zUfBFzO1ljuNtVdkaQoKBiewx24OWWENId-Cf7Qkrmf-ZgGM/s728-rw-e365/hackers.png",
-        "Title": "Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 01, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/",
         "Img_URL": "https://media.wired.com/photos/66aaa5916c948a65a868380b/3:2/w_1280%2Cc_limit/security-microchip-laser-hacking.jpg",
-        "Title": "A $500 Open-Source Tool Lets Anyone Hack Computer Chips With Lasers",
+        "Title": "A $500 Open Source Tool Lets Anyone Hack Computer Chips With Lasers",
         "Source": "WIRED",
         "Timestamp": "Aug 01, 2024"
     },
@@ -88,6 +88,41 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/duckstarget.png",
         "Title": "Don\u2019t Let Your Domain Name Become a \u201cSitting Duck\u201d",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
+        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDlNv83K2Fk9JRUmUzj7vTxGe0G2GJEOQ3qujpqVxnpPRHhXSNiXQg-BS44bN-hSva8piPrSPZFpj4SlzDzbC2LKaA2iySvT7-vMkg3uiWXdODznr3RqlJPsB5eiMSeaTfpby_2k1enXFQXlvGCXM7-RNx07zJE45ciM_lalUqmH3mFROjErqPiCcmWTf/s728-rw-e365/anroid.png",
+        "Title": "Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
+        "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiIRNJotCRCmOzAPY6Fu2qXnZXYZoODmPDFy9qAe9db1RkorDAPM2DGfY3HJRjBt4GNuuMqs57nfmYlWwfCZzb5wWhC1nG3i2QnRGT3YjmDQJ97MDvwaHDwQBrAljDpyITa65LaRafp4_zUfBFzO1ljuNtVdkaQoKBiewx24OWWENId-Cf7Qkrmf-ZgGM/s728-rw-e365/hackers.png",
+        "Title": "Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova",
+        "Source": "The Hacker News",
+        "Timestamp": "Jul 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
+        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
+        "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
     {
@@ -105,23 +140,9 @@
         "Timestamp": "Jul 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUAZRqAapSqgqgUfnwizKRUetLLcTHoYXDuRua00ktT-1tfkTVEVbtMxaYIqnzVY8ncevizYCHy7wTP4ovXTJFG2iR0-FlrZqJab7GLn86CKnGMMUw84KgXzOJHKsrkDonN3s2WqgONRyZKi6j-0WrlNX2zD61u-PzYroWdAxEvwnggZslQZsQTtiuFm0/s1700/nudge.png",
-        "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/07/the-power-and-peril-of-rmm-tools.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVsEmMhcvcq75qU6Eqio1WRmZuA1IMIaR3979YNtorLL3vJnm2lQ0rp6bXCsTEVmD1UIZZLLcUGyqo4qpG7ETt94QwUcoWftl832uvPDOx-zqSxrKg4SbWIW9B1niui1fziI9ZIU_ysSssnZKkJHxA_fyVlg05a872NzATTIDCxhDqc6teTBZXicN3MoQ/s728-rw-e365/main.png",
         "Title": "The Power and Peril of RMM Tools ",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/tines-workflow-automation-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK44PWl1P-Lq01ZET6m_mej42Cz8p6fuhbjiEfYE_UU3uyYHiqWNUswU94g6Rn9XE7BiS0KJbguEKI_VVJFFLKtjpbaiCHQfzVe81omscRtLZFI8Eki02Z_t8HWdG0nipsa1b_57_EEprOC37GbHt9pekQechXsq7lh_IbhqHSvABG11j7XXMsnvqtlD2d/s728-rw-e365/tines.png",
-        "Title": "The Essential Guide to Secure Workflow Automation for Security Teams",
         "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
@@ -143,27 +164,6 @@
         "Link": "https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhffqOyqjZOhe7FPCybsN1P17DVC4wzMK9_bYDaoYRWA_EDGk2YjSE3axZyrU1vPmfF1TsEyIuHfinAqGRy_FVugLwZuPcfeDRS3T-BL5d6IMnOHCYwsiMH07op3T1Qx4APJs0URzZQxmgGG5dHj1n3xyuXHT-QctmR8ug_eofzi4Ia_Z5RJK8cpWKBiZpB/s728-rw-e365/port.png",
         "Title": "New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix0XfsY-0wZPr2_Yi8a79zevrySzlxI-CwIdApE5nY6G6aNV8Lk1XHnBZeco3n1ZZ6-rUMXMXgDbSxMu1tXg3yEi119jW178oCBRpxPPSVPXExJuJaCPvuLXI1pe6fj8Q6Xgzzwmat54qjDcTSOEuQUtqfOKQbhGS0EBHQjHDXjzeMuPoqK3saYMjm2att/s728-rw-e365/windws.png",
-        "Title": "OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/vmware-esxi-flaw-exploited-by.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvIfLIgWbqvnhMMoAsYYPHPQqhRCLP6bpuP1k2lvnxpbUey29zMUcl6FwHrd_jLYKnOP1bugNfyFfoVWdbQaZVpKfHteXZ5W2OAC1bo2aqnh1D5Ua_OFhCOwEE5tHStysk0NGoe1xeewUNbvYmyYwiaXR1f5zOA9ik7zJbtAAQxv0IVAfCcEP99T70eAx/s728-rw-e365/qqbot.png",
-        "Title": "VMware ESXi Flaw Exploited by Ransomware Groups for Admin Access",
-        "Source": "The Hacker News",
-        "Timestamp": "Jul 31, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqCVPCrVr1CkTDfHBh9iDnVfAljIllPcjk_E_nGs0en7npZXsWx64C7U5VhKk3fakk5H6lGXfE2OzlIz_zDjVtK5A0WlyondCkwVMxjMs6Gxp3PYvO8MYDj5LYVYf34E9xKw36FvVPCqf8rusoO5j5j-fwSE8m3lHtr_m_X0_lQnEex5FsTTK6EIj6esxe/s728-rw-e365/cyber.png",
-        "Title": "Critical Flaw in Acronis Cyber Infrastructure Exploited in the Wild",
         "Source": "The Hacker News",
         "Timestamp": "Jul 31, 2024"
     },
@@ -196,16 +196,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
-        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
+        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
-        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
-        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
+        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -238,16 +238,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
-        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
-        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
+        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
