@@ -196,16 +196,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
-        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
-        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
+        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
-        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
+        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -238,16 +238,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
+        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
-        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
-        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
@@ -350,16 +350,16 @@
         "Timestamp": "Jun 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
+        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
+        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
+        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/667f0d8f543996e188b2a4e3/3:2/w_1280%2Cc_limit/%2520Science%2520-%2520Conversation%2520pickup%2520-%2520June%252029_GettyImages-498696374.jpg",
-        "Title": "The US Wants to Integrate the Commercial Space Industry With Its Military to Prevent Cyber Attacks",
+        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
+        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
+        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
         "Source": "WIRED",
         "Timestamp": "Jun 29, 2024"
     },
@@ -376,6 +376,13 @@
         "Title": "Red Tape Is Making Hospital Ransomware Attacks Worse",
         "Source": "WIRED",
         "Timestamp": "Jun 22, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/06/radaris-home.png",
+        "Title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jun 20, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
@@ -446,12 +453,5 @@
         "Title": "How Did Authorities Identify the Alleged Lockbit Boss?",
         "Source": "KrebsonSecurity",
         "Timestamp": "May 13, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/05/u-s-charges-russian-man-as-boss-of-lockbit-ransomware-group/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/lockbitsupp-nca.png",
-        "Title": "U.S. Charges Russian Man as Boss of LockBit Ransomware Group",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "May 07, 2024"
     }
 ]
