@@ -1,8 +1,8 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
-        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
+        "Link": "https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tpEjr4e5FdSHBmR7eORC-zCMZQx06KAMUWlI5ItVy8AiPp27A5grLLDkzmEE99N0htD4u096fWEsAortG4XDOHjPLvDjgWnKO3Y8_NvYeYs2t5KePPQ2c82YuEytAr9nerrPJW1uzLpFSjSTLCHm7__cFflrkwM3QJgBRagVYLoxv37f7w3Mk53llMHF/s728-rw-e365/bec-scam.png",
+        "Title": "INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -14,9 +14,9 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s728-rw-e365/russian-android-spuware.png",
-        "Title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
+        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
+        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -24,6 +24,13 @@
         "Link": "https://thehackernews.uk/sans-sec24",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTEWAacZPuy404O2A35KHnQX1tQz_Xd00aVrpYDZqNxDkkp8TTuFUymRUmaHyy2nRkfYKd4WiMqC-c9d6V0NjATlSRWXLhbRHNTA2y-9gyCHFfGM7ZvPj2fsVgmeAfQwfeWeMAMBQJ-Fo1N-kye1pwwEcABQGgn81YOceDLlqS47nbgSQUQqSX38Sazacr/s728-rw-e365/ai.jpg",
         "Title": "AI: The Next Era at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s728-rw-e365/russian-android-spuware.png",
+        "Title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXiN_wHw29eVvLZ_BeHWja7GnNOg3w8h1EoqpDHCIJtz7pDb5LfYw5KOCe6E6bSwDhFY8hTq0JOtbwxJA-Ux1mLGOYeJptc5XgRR2Vp2CL8o-DYoCrg2fX4B1X1Cx2lLfmauI-fL65mQQtMlN6LuUwxzV6Nya2KBeClK3aN_8FwPtpB-Y37oBqgRiN-h7P/s728-rw-e365/main.gif",
-        "Title": "Researchers Uncover Flaws in Windows Smart App Control and SmartScreen",
+        "Link": "https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2dXe6uhLrSA5G33VqT2MeP335Qc2ViLEu-WhqIgY5g8ESZ76BpQ36zw3blPEsAfMrERq_yo6Pa4oF4Vku4I-awdi_eFtUNvA0MSQXzbfWLxkq7bXNci-hB6pmSj-93-NEnVDgcB4Y6KKVMCK-FV1KZvvWUwH4fD28ZEFSMzAY1ILEoDkUf0kQ30PnsQ/s728-rw-e365/cyber.png",
+        "Title": "Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2dXe6uhLrSA5G33VqT2MeP335Qc2ViLEu-WhqIgY5g8ESZ76BpQ36zw3blPEsAfMrERq_yo6Pa4oF4Vku4I-awdi_eFtUNvA0MSQXzbfWLxkq7bXNci-hB6pmSj-93-NEnVDgcB4Y6KKVMCK-FV1KZvvWUwH4fD28ZEFSMzAY1ILEoDkUf0kQ30PnsQ/s728-rw-e365/cyber.png",
-        "Title": "Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground",
+        "Link": "https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXiN_wHw29eVvLZ_BeHWja7GnNOg3w8h1EoqpDHCIJtz7pDb5LfYw5KOCe6E6bSwDhFY8hTq0JOtbwxJA-Ux1mLGOYeJptc5XgRR2Vp2CL8o-DYoCrg2fX4B1X1Cx2lLfmauI-fL65mQQtMlN6LuUwxzV6Nya2KBeClK3aN_8FwPtpB-Y37oBqgRiN-h7P/s728-rw-e365/main.gif",
+        "Title": "Researchers Uncover Flaws in Windows Smart App Control and SmartScreen",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -70,10 +77,10 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9NwD-fiZU0v-u5doUURpTICI9gZoP3Ope0LrAM6E6rjoVY7NVmao7UIxCZxjWdj8XWg5wvSefC1QrVCwyH25tnGAkgkJQJ-WtTnNX8XoYxeqizMYR8DY199pHeWpxwi8dd4nJqI4aCTNPbdXC4qfqtNya4_LFdNq32hf4rrsnHSTq3uHPTeiWialCgUs/s728-rw-e365/main.png",
-        "Title": "Enhancing Incident Response Readiness with Wazuh",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/",
+        "Img_URL": "https://media.wired.com/photos/66b11af649278b80a9ae107c/3:2/w_1280%2Cc_limit/Water-Infrastructure-Sec-2099928666.jpg",
+        "Title": "A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks",
+        "Source": "WIRED",
         "Timestamp": "Aug 06, 2024"
     },
     {
@@ -84,16 +91,16 @@
         "Timestamp": "Aug 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzBxWR-N8RKouruXd91MW-8Th8N7whDQ4qrhX4o0cRpdOYtkgST2VKhB0QclGZsKPZF68oJI-Uc9-4S-qZaCrZ80JREEjFMCbv8cPb9ZbZbxcBdscNSBgXuzAjnUxF868f3NpMUfbyym7b7tgpKeMzdqGDHXxid7T_haXAguGOwuEsR3JSdKm6oPE9BtmF/s728-rw-e365/card.png",
-        "Title": "Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access",
+        "Link": "https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9NwD-fiZU0v-u5doUURpTICI9gZoP3Ope0LrAM6E6rjoVY7NVmao7UIxCZxjWdj8XWg5wvSefC1QrVCwyH25tnGAkgkJQJ-WtTnNX8XoYxeqizMYR8DY199pHeWpxwi8dd4nJqI4aCTNPbdXC4qfqtNya4_LFdNq32hf4rrsnHSTq3uHPTeiWialCgUs/s728-rw-e365/main.png",
+        "Title": "Enhancing Incident Response Readiness with Wazuh",
         "Source": "The Hacker News",
         "Timestamp": "Aug 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyXNU7iyswUzrdKBOu4F8poERd5FcDJwbCH2bV6UKJhVtvpaTqdgg4efREVrJnmOmUecS1yU2JqpKxLq-ab2okl4m8YLAMCWOEky57fbjHshwgaLTu3JlZ8haHrPqym0-8TDYzX5ZQPxvnBhIiEVadl_rY4uHsv74VsPjHUQv5G99mD4uJHaiKYxhnBeI/s728-rw-e365/android.png",
-        "Title": "New Android Trojan \"BlankBot\" Targets Turkish Users' Financial Data",
+        "Link": "https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzBxWR-N8RKouruXd91MW-8Th8N7whDQ4qrhX4o0cRpdOYtkgST2VKhB0QclGZsKPZF68oJI-Uc9-4S-qZaCrZ80JREEjFMCbv8cPb9ZbZbxcBdscNSBgXuzAjnUxF868f3NpMUfbyym7b7tgpKeMzdqGDHXxid7T_haXAguGOwuEsR3JSdKm6oPE9BtmF/s728-rw-e365/card.png",
+        "Title": "Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access",
         "Source": "The Hacker News",
         "Timestamp": "Aug 05, 2024"
     },
@@ -105,9 +112,9 @@
         "Timestamp": "Aug 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimrhEOuQiEQinmVWEYwNS_p8MGLOk5lFKhLjDsUEXrP6NSzkkRQXulI9v0L0MhfXY3_Qb4Q5Vel0GkfnmRP_q4rIwsC7lLGiSwhdduY62S1esLKGX1wHQM3czZPoE5u7BZ9Vf9xmZtelNr_NExxPFX_iUWlZiCH4mXcqG39fP2qXRAObTELBDbASpvk22y/s728-rw-e365/dns.png",
-        "Title": "China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates",
+        "Link": "https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyXNU7iyswUzrdKBOu4F8poERd5FcDJwbCH2bV6UKJhVtvpaTqdgg4efREVrJnmOmUecS1yU2JqpKxLq-ab2okl4m8YLAMCWOEky57fbjHshwgaLTu3JlZ8haHrPqym0-8TDYzX5ZQPxvnBhIiEVadl_rY4uHsv74VsPjHUQv5G99mD4uJHaiKYxhnBeI/s728-rw-e365/android.png",
+        "Title": "New Android Trojan \"BlankBot\" Targets Turkish Users' Financial Data",
         "Source": "The Hacker News",
         "Timestamp": "Aug 05, 2024"
     },
@@ -115,6 +122,13 @@
         "Link": "https://thehackernews.uk/sans-sec24",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTEWAacZPuy404O2A35KHnQX1tQz_Xd00aVrpYDZqNxDkkp8TTuFUymRUmaHyy2nRkfYKd4WiMqC-c9d6V0NjATlSRWXLhbRHNTA2y-9gyCHFfGM7ZvPj2fsVgmeAfQwfeWeMAMBQJ-Fo1N-kye1pwwEcABQGgn81YOceDLlqS47nbgSQUQqSX38Sazacr/s728-rw-e365/ai.jpg",
         "Title": "AI: The Next Era at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimrhEOuQiEQinmVWEYwNS_p8MGLOk5lFKhLjDsUEXrP6NSzkkRQXulI9v0L0MhfXY3_Qb4Q5Vel0GkfnmRP_q4rIwsC7lLGiSwhdduY62S1esLKGX1wHQM3czZPoE5u7BZ9Vf9xmZtelNr_NExxPFX_iUWlZiCH4mXcqG39fP2qXRAObTELBDbASpvk22y/s728-rw-e365/dns.png",
+        "Title": "China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates",
         "Source": "The Hacker News",
         "Timestamp": "Aug 05, 2024"
     },
@@ -154,13 +168,6 @@
         "Timestamp": "Aug 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_n-aAUdNG2xPD3vIMSH5jU0RqRIMvXHxfYws1ZOPbnWxprnCuXiH3oEzyVfpnJkAAx_NUk-__x8zlYCBJgw04LDCqupAgShcH2Rw1kC-hgpZ4T_ihzIKxYfEj3netTOMrDwVgR-NKhtpFypZwVVvscla0Eb3JF021LAMbjMhnXr7XgfGAoy1puE22_m0/s728-rw-e365/sans.jpg",
-        "Title": "Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 05, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/",
         "Img_URL": "https://media.wired.com/photos/66abf037a5ad3066e443d9c7/3:2/w_1280%2Cc_limit/Trump-Project2025-Sec-2164164244.jpg",
         "Title": "How Project 2025 Would Put US Elections at Risk",
@@ -175,17 +182,17 @@
         "Timestamp": "Aug 03, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/illinois-voter-databases-exposed/",
-        "Img_URL": "https://media.wired.com/photos/66aac4ca185cc55cbf740a9d/3:2/w_1280%2Cc_limit/Security_DeKalb_Voter_Alamy_2CTP9M8.jpg",
-        "Title": "Sensitive Illinois Voter Data Exposed by Contractor\u2019s Unsecured Databases",
-        "Source": "WIRED",
-        "Timestamp": "Aug 02, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/u-s-trades-cybercriminals-to-russia-in-prisoner-swap/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2017/12/seleznevcash.png",
         "Title": "U.S. Trades Cybercriminals to Russia in Prisoner Swap",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Aug 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/",
+        "Img_URL": "https://media.wired.com/photos/66aac4ca185cc55cbf740a9d/3:2/w_1280%2Cc_limit/Security_DeKalb_Voter_Alamy_2CTP9M8.jpg",
+        "Title": "Sensitive Illinois Voter Data Exposed by Contractor\u2019s Unsecured Databases",
+        "Source": "WIRED",
         "Timestamp": "Aug 01, 2024"
     },
     {
@@ -231,16 +238,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
-        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
-        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
+        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
-        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
+        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -273,16 +280,16 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
-        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
-        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
+        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
+        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
+        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
+        "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
+        "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "The Tech Crash Course That Trains US Diplomats to Spot Threats",
         "Source": "WIRED",
         "Timestamp": "Jun 30, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/space-cyber-attacks-security/",
-        "Img_URL": "https://media.wired.com/photos/667efb289b8fa3919fa24796/3:2/w_1280%2Cc_limit/Science%2520-%2520Quanta%2520pickup%2520-%2520June%252030A.jpg",
-        "Title": "Cryptographers Are Discovering New Rules for Quantum Encryption",
-        "Source": "WIRED",
-        "Timestamp": "Jun 29, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
