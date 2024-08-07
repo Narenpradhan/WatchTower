@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5HgscA6NcRSdqThvAd7WSnWKhJzqKi7tyd2e3oR12b3st44NcW8_Ot-uorerFP2EC2lHjnRdOcfe7ePnhdXdfY2WR5_7C1XsuVc-0_R9n9pDJ9GVwaTMwcsAAmLRW3goTGRIRK3rxesCqNJ1vvIsYdS7qi5Sg_-P8zxaFWEtS8Hr4hLGkCly6Kr34OHDF/s728-rw-e365/linux.png",
+        "Title": "New Linux Kernel Exploit Technique 'SLUBStick' Discovered by Researchers",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5YB3bwk3OIyl0ZqBULKUWDGb2Gn3XnAD8Jfl5qBUs1xnAhZbxOKJOVyE4eB5DXQI-XjbyCRbwRxhiByayenxBRBMuw9wgS8KFgnWleSHGoElMGmc9LsoADNYzY9KkG5LHYOIAilfrttbrReBAEg6yDJe0VOn-6fmCtUb0aYUZXfzI5XfMSyZ85kT1TT-/s728-rw-e365/roundcube.png",
+        "Title": "Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s728-rw-e365/cyberattack.png",
         "Title": "New Go-based Backdoor GoGra Targets South Asian Media Organization",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/sans-sec-train24",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVm95Orc1r1fNYkpUgL4h_wwUgeT0CG6JI1e8shED5WJ5i8HB_OiCwi76xdbZmDfOQkyJMxFUnlgzZbxmI32W5_0dzRvoPUU67DyaUll5lhPiu8Rvg_OSdo3nHXYH05jrRBGqSWkxbnMb7baozDOPNLr8z3p9c4A87anHkwwGlK3CsAh-02ZM_vbQ8GB7J/s728-rw-e365/sans.jpg",
+        "Title": "Limited, One Time Training Offer! SANS 35th Anniversary Complimentary Cyber Bundle at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 07, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/sans-sec-train24",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVm95Orc1r1fNYkpUgL4h_wwUgeT0CG6JI1e8shED5WJ5i8HB_OiCwi76xdbZmDfOQkyJMxFUnlgzZbxmI32W5_0dzRvoPUU67DyaUll5lhPiu8Rvg_OSdo3nHXYH05jrRBGqSWkxbnMb7baozDOPNLr8z3p9c4A87anHkwwGlK3CsAh-02ZM_vbQ8GB7J/s728-rw-e365/sans.jpg",
-        "Title": "Limited, One Time Training Offer! SANS 35th Anniversary Complimentary Cyber Bundle at Network Security 2024",
+        "Link": "https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9d8yTLTJnOvdNy8_qXR9qDsL4tV6oF2t-dwU5dvl2FGMF-M5KD9MsmT5FsgbwJIwMiOwuPtiVEAIatteJtlDvXjrkQ0tZ27mxq2sF5cZWiOfX1nJPayXdFuVGg9X5C-t2kyLtQ_EiE5ae_Nj09fgSpxNV56eccp9jDbQd5HaK1zNFI9Atg-r_o53X-4Xc/s728-rw-e365/apple.png",
+        "Title": "Apple's New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software",
         "Source": "The Hacker News",
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9d8yTLTJnOvdNy8_qXR9qDsL4tV6oF2t-dwU5dvl2FGMF-M5KD9MsmT5FsgbwJIwMiOwuPtiVEAIatteJtlDvXjrkQ0tZ27mxq2sF5cZWiOfX1nJPayXdFuVGg9X5C-t2kyLtQ_EiE5ae_Nj09fgSpxNV56eccp9jDbQd5HaK1zNFI9Atg-r_o53X-4Xc/s728-rw-e365/apple.png",
-        "Title": "Apple's New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software",
+        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
+        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
         "Source": "The Hacker News",
         "Timestamp": "Aug 07, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
-        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
         "Title": "Suspicious Minds: Insider Threats in The SaaS World",
@@ -63,17 +77,10 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s728-rw-e365/russian-android-spuware.png",
-        "Title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/google-patches-new-android-kernel.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOmWBoSLADmnp2MP1-aZFr69TZSINQ7dmf-QTCg3MG8xKF5Hs7jqV35vdeKAYawTV8KouFMFBVonwkibIGPSaLQCvxB9qbQlxHy2qAU6VnhzXu0JnHacxW16YNDeS5wKgQBeahR1cY-LGPSZqIXQ0vh5Hv5eHkAa_nNyUUy7CYWdPdtOXAODGaBH-iMxFm/s728-rw-e365/android.png",
-        "Title": "Google Patches New Android Kernel Vulnerability Exploited in the Wild",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
+        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
+        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
+        "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
     {
@@ -84,9 +91,37 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s728-rw-e365/russian-android-spuware.png",
+        "Title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/google-patches-new-android-kernel.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOmWBoSLADmnp2MP1-aZFr69TZSINQ7dmf-QTCg3MG8xKF5Hs7jqV35vdeKAYawTV8KouFMFBVonwkibIGPSaLQCvxB9qbQlxHy2qAU6VnhzXu0JnHacxW16YNDeS5wKgQBeahR1cY-LGPSZqIXQ0vh5Hv5eHkAa_nNyUUy7CYWdPdtOXAODGaBH-iMxFm/s728-rw-e365/android.png",
+        "Title": "Google Patches New Android Kernel Vulnerability Exploited in the Wild",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
+        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 06, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6z03tPT6k-6mpiOgUoksJJxdNimYFqqogPJiPVpjyJ5GGSA3I-NhvltV2FinTF0mfVbQUdlAKR9vOnmfU5j3BkA8cuK2ls7p2-bpurEsJRUalWbP1YqInS-o1G73Qza8BHDLY2xYBaRezSRQdRItCrVtb1WbsxPkJDlG9GT_b0aQAOiCqsoGjD32aJMoZ/s728-rw-e365/apache.png",
         "Title": "New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/sans-sec-train24",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVm95Orc1r1fNYkpUgL4h_wwUgeT0CG6JI1e8shED5WJ5i8HB_OiCwi76xdbZmDfOQkyJMxFUnlgzZbxmI32W5_0dzRvoPUU67DyaUll5lhPiu8Rvg_OSdo3nHXYH05jrRBGqSWkxbnMb7baozDOPNLr8z3p9c4A87anHkwwGlK3CsAh-02ZM_vbQ8GB7J/s728-rw-e365/sans.jpg",
+        "Title": "Limited, One Time Training Offer! SANS 35th Anniversary Complimentary Cyber Bundle at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -98,23 +133,9 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
-        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 06, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/08/kazakh-organizations-targeted-by-bloody.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUArKFGqz0fnu0Yi29T2v8clRM79HzFDfT4G8DyOr2x9mnVnPETT4wK3Xdi3oah27YPuXAs97oYhnkAy5eybIyf1LNd6LlSQTjk5k5YE9JiA20InmUkMBueEByTdEI2m8TXKtOcTgkVWF6sVcCj8DH-nAxj3P9tXQJKwxoNi6nt0_M7RAL7FY3nm5GaJ8V/s728-rw-e365/cyberattack.png",
         "Title": "Kazakh Organizations Targeted by 'Bloody Wolf' Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/sans-sec-train24",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVm95Orc1r1fNYkpUgL4h_wwUgeT0CG6JI1e8shED5WJ5i8HB_OiCwi76xdbZmDfOQkyJMxFUnlgzZbxmI32W5_0dzRvoPUU67DyaUll5lhPiu8Rvg_OSdo3nHXYH05jrRBGqSWkxbnMb7baozDOPNLr8z3p9c4A87anHkwwGlK3CsAh-02ZM_vbQ8GB7J/s728-rw-e365/sans.jpg",
-        "Title": "Limited, One Time Training Offer! SANS 35th Anniversary Complimentary Cyber Bundle at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 06, 2024"
     },
@@ -147,20 +168,6 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimrhEOuQiEQinmVWEYwNS_p8MGLOk5lFKhLjDsUEXrP6NSzkkRQXulI9v0L0MhfXY3_Qb4Q5Vel0GkfnmRP_q4rIwsC7lLGiSwhdduY62S1esLKGX1wHQM3czZPoE5u7BZ9Vf9xmZtelNr_NExxPFX_iUWlZiCH4mXcqG39fP2qXRAObTELBDbASpvk22y/s728-rw-e365/dns.png",
-        "Title": "China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibELbB2Z42Pn0N9bE6WCaBQ0xqHePTdB8PUmj42hLzpeu0Ch1LhbcDb3eCNkoyK0o5Px2y-CZJipJiRfu-KPipIqlr-vYL5NSFu9wged_-0VR8WlF57NUszw6DgtPw2xTxXySN89ZwZgOF3VCtcuvP1nDrn4_4Oi76h886K0N9O2yzpsgx4uIMMF3SOGX0/s728-rw-e365/tiktok.jpg",
-        "Title": "DoJ and FTC Sue TikTok for Violating Children's Privacy Laws",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 06, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/",
         "Img_URL": "https://media.wired.com/photos/66b11af649278b80a9ae107c/3:2/w_1280%2Cc_limit/Water-Infrastructure-Sec-2099928666.jpg",
         "Title": "A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks",
@@ -175,11 +182,11 @@
         "Timestamp": "Aug 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/",
+        "Link": "https://www.wired.com/story/russia-cybercriminal-us-prisoner-swap/",
         "Img_URL": "https://media.wired.com/photos/66abf037a5ad3066e443d9c7/3:2/w_1280%2Cc_limit/Trump-Project2025-Sec-2164164244.jpg",
         "Title": "How Project 2025 Would Put US Elections at Risk",
         "Source": "WIRED",
-        "Timestamp": "Aug 05, 2024"
+        "Timestamp": "Aug 03, 2024"
     },
     {
         "Link": "https://www.wired.com/story/illinois-voter-databases-exposed/",
@@ -245,16 +252,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
-        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
-        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
+        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
-        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
+        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "The Not-So-Secret Network Access Broker x999xx",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jul 03, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/us-state-department-diplomacy-school/",
-        "Img_URL": "https://media.wired.com/photos/6688106156e074160df54edc/3:2/w_1280%2Cc_limit/Taylor-Swift-Ticketmaster-GettyImages-1591345225.jpg",
-        "Title": "Hackers Leaking Taylor Swift Tickets? Don\u2019t Get Your Hopes Up",
-        "Source": "WIRED",
-        "Timestamp": "Jul 02, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
