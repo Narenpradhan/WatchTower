@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
+        "Title": "Cybercrime Rapper Sues Bank over Fraud Investigation",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/new-linux-kernel-exploit-technique.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5HgscA6NcRSdqThvAd7WSnWKhJzqKi7tyd2e3oR12b3st44NcW8_Ot-uorerFP2EC2lHjnRdOcfe7ePnhdXdfY2WR5_7C1XsuVc-0_R9n9pDJ9GVwaTMwcsAAmLRW3goTGRIRK3rxesCqNJ1vvIsYdS7qi5Sg_-P8zxaFWEtS8Hr4hLGkCly6Kr34OHDF/s728-rw-e365/linux.png",
         "Title": "New Linux Kernel Exploit Technique 'SLUBStick' Discovered by Researchers",
@@ -77,6 +84,13 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
+        "Img_URL": "https://media.wired.com/photos/66b27b013f9281db1c3dc85b/3:2/w_1280%2Cc_limit/Crowdstrike-Lawsuits-Business.jpg",
+        "Title": "CrowdStrike Faces a Potential Tsunami of Lawsuits. Only the Fine Print Can Save It, Experts Say",
+        "Source": "WIRED",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
         "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
         "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
@@ -84,9 +98,9 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
-        "Img_URL": "https://media.wired.com/photos/66b27b013f9281db1c3dc85b/3:2/w_1280%2Cc_limit/Crowdstrike-Lawsuits-Business.jpg",
-        "Title": "CrowdStrike Faces a Potential Tsunami of Lawsuits. Only the Fine Print Can Save It, Experts Say",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
+        "Title": "Inside the Dark World of Doxing for Profit",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
@@ -168,17 +182,17 @@
         "Timestamp": "Aug 06, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/",
-        "Img_URL": "https://media.wired.com/photos/66b11af649278b80a9ae107c/3:2/w_1280%2Cc_limit/Water-Infrastructure-Sec-2099928666.jpg",
-        "Title": "A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks",
-        "Source": "WIRED",
-        "Timestamp": "Aug 06, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/low-drama-dark-angels-reap-record-ransoms/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/darkfeathers.png",
         "Title": "Low-Drama \u2018Dark Angels\u2019 Reap Record Ransoms",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Aug 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/",
+        "Img_URL": "https://media.wired.com/photos/66b11af649278b80a9ae107c/3:2/w_1280%2Cc_limit/Water-Infrastructure-Sec-2099928666.jpg",
+        "Title": "A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks",
+        "Source": "WIRED",
         "Timestamp": "Aug 05, 2024"
     },
     {
@@ -369,20 +383,6 @@
         "Title": "The Sweeping Danger of the AT&T Phone Records Breach",
         "Source": "WIRED",
         "Timestamp": "Jul 10, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
-        "Title": "Microsoft Patch Tuesday, July 2024 Edition",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Jul 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/",
-        "Img_URL": "https://media.wired.com/photos/668d9d393f91f6f1ef76a42b/3:2/w_1280%2Cc_limit/Google-Passkey-GettyImages-2147843488.jpg",
-        "Title": "Google Is Adding Passkey Support for Its Most Vulnerable Users",
-        "Source": "WIRED",
-        "Timestamp": "Jul 06, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/",
