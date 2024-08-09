@@ -1,66 +1,94 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/doj-charges-nashville-man-for-helping.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwQL2FOp-ommLLVMYzfs9rrEHJSsCcy1fa9jeBTAPG4zyRT9YnES446P0NxGaGxa8DQK15KGCQ7vjPKE6zYPPjiWiqysrJW0sm66RzAFoysTElTxi3qraNPnbV_tHQklTgIWLNHMsVBXEjGT4mQ_-m76AXNNHu2khXQf9AHFmUji0fjrxJjx6LWzBwV-A0/s728-rw-e365/hacker.png",
+        "Title": "DOJ Charges Nashville Man for Helping North Koreans Get U.S. Tech Jobs",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QhwTjW9K4dtnQ7Ss5T6SuD5gqPku4ltmONs8_8QpHN3MxQVSwWWcHn1-znNnwMfq8SAtys8P2xJY_nRCx-IUsX4OO08TPk5I2IoXGC2AqBdh5zh4t3Lq9CC2z2EvwLQTT5p7U4KAqOKIMjxyJAi_lCFym58ALvNKOiWEpQt_6Z9g8Ykr18ulwCYaYZMW/s728-rw-e365/cisco.png",
+        "Title": "CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/university-professors-targeted-by-north.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3KecarZnV5rt-KFqvSsLMq9IYHU5oKhPIEAJV5VlH-fMOqkYDDQtwkCjXQ5ECcrVPR0H7kIZD-2RbuqYJdvits1yOcGo2cnjVNVmwHcUQ_0vHrVwDCgMxaYDrlSPmA93RlbUknIEP8YkO6C-DvYdSx9Wr4EDEpefJkYgbYyABJkwODiMZ8IzreCMYuPA/s728-rw-e365/hackers.png",
         "Title": "University Professors Targeted by North Korean Cyber Espionage Group",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3mqFe9_EhIPEvV1F6Rvw3xe0KVtUplq4V4LkAjCqo-KuQsKqxzf5-K6Oe2sHtiuzEbuPWVA_peOCIc4-n9HkKix62BJUKqkFFEUcoyPt37onIkPLDk4vxmsrXVWG2BSFbdqaQfJlfI08d5UcBeJciUN7V_YXzd-4aYOKfLrVFbckhMrHPmT38fXWoIoF/s728-rw-e365/0.0.0.0.png",
-        "Title": "0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s728-rw-e365/main.png",
-        "Title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.uk/sans-sec-train24",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
         "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3mqFe9_EhIPEvV1F6Rvw3xe0KVtUplq4V4LkAjCqo-KuQsKqxzf5-K6Oe2sHtiuzEbuPWVA_peOCIc4-n9HkKix62BJUKqkFFEUcoyPt37onIkPLDk4vxmsrXVWG2BSFbdqaQfJlfI08d5UcBeJciUN7V_YXzd-4aYOKfLrVFbckhMrHPmT38fXWoIoF/s728-rw-e365/0.0.0.0.png",
+        "Title": "0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s728-rw-e365/main.png",
+        "Title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsF46KZGI-hSDWkASuDbwEwzuR21UeY2be82XnPFMpSUH43rg2Xx8l3zwWWK7ydvAyMDfqVd7aGirhQHdnE2tw6xXPrcpqM3SluO2ShiYQJqIAkxjrl70aRXlT7tPcs3yrjzFb6QJnJLHTByEDrkrW28IJARoJvSQDWZJh7koSIifrnvOpZfH6w6Ztxt-/s728-rw-e365/windows-update.png",
         "Title": "Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuibIKr_EZglopVDflWwLwmqAdebgA4HhUECXzmvNoEqlYodvNTEkzcE5MtFmZJQeoBeAa5RGtiLhGy5kgmvx2hkspSSyJWDk-Xjg6VnNuP2QX46JfczLNvu3VBwAwlygjxTDwp5h_b2j1Kj5yYNsggMAVDMDIJcdOxRQd2KsVzrOTmga6IcARWarSzDQ/s728-rw-e365/main.png",
+        "Title": "Obfuscation: There Are Two Sides To Everything",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4OgDh09bPA_FgxXE8hKpVe8JmMfWB09MFzTF9bMel2QCIevXnMgdigiyL5hfzMCBJy6Muf0G0CCi1FStrZ_CSF4xw0RVOzww6zb-ykNrjCn9kQuggqLHLI8vWU9cfMGUQMNO_Z6xvF0LdjDWFyoatxBKrCHAMprBHZJdugMnDXoTEpf3Dok5T5fUwXg/s728-rw-e365/amazon.png",
         "Title": "New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFHLcLE4xGXn5KjXCdXbrSrbsDitzdKDmvLr8kP2ggDQR_gcjlR7RDJEtYwD5Ycu8KUE9H5t3NRxFxto1Eu6EniH_JjgUne8xs8pUVuOJIQtZMzWjRC9NjJLbZkxSqyvEZhMlNvE7jO3d2ABgFyzvzD6h8tXun9rRoJq_MVVBfgrymAsxUZdj7bv6m9s/s728-rw-e365/main.png",
         "Title": "Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
-        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/fbi-and-cisa-warn-of-blacksuit.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipk6CQW76vWIOlOm7KdPmMPoELjQkHf7Qp6MX7ImiibVuAUqDJYrqV2pubsEahwe_pBrGTepJcdX82BOnYqNa5AEkln-e8LSpH_lyMpOw4WDcxqOgm22cL4hZTfIlJHCY6bK-TwNJzyK3g70xwazLXYfjp8bDE_gYgTto9BG9QzsV1UPGKKbPuQkhzxrLE/s728-rw-e365/ransomware.png",
         "Title": "FBI and CISA Warn of BlackSuit Ransomware That Demands Up to $500 Million",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/critical-security-flaw-in-whatsup-gold.html",
@@ -77,16 +105,86 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
-        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Link": "https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuibIKr_EZglopVDflWwLwmqAdebgA4HhUECXzmvNoEqlYodvNTEkzcE5MtFmZJQeoBeAa5RGtiLhGy5kgmvx2hkspSSyJWDk-Xjg6VnNuP2QX46JfczLNvu3VBwAwlygjxTDwp5h_b2j1Kj5yYNsggMAVDMDIJcdOxRQd2KsVzrOTmga6IcARWarSzDQ/s728-rw-e365/main.png",
+        "Title": "Obfuscation: There Are Two Sides To Everything",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5YB3bwk3OIyl0ZqBULKUWDGb2Gn3XnAD8Jfl5qBUs1xnAhZbxOKJOVyE4eB5DXQI-XjbyCRbwRxhiByayenxBRBMuw9wgS8KFgnWleSHGoElMGmc9LsoADNYzY9KkG5LHYOIAilfrttbrReBAEg6yDJe0VOn-6fmCtUb0aYUZXfzI5XfMSyZ85kT1TT-/s728-rw-e365/roundcube.png",
+        "Title": "Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/sans-sec-train24",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s728-rw-e365/cyberattack.png",
+        "Title": "New Go-based Backdoor GoGra Targets South Asian Media Organization",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-x3BuKhJJZfpYpFbt1Av2bF8bIJVj_x5hn7CAmzHPMB_EVe7b1TIpyG_-FFWoxx_kKjfiekCEkopm9EST_AwXGfJlzKmDmttVpaS55ipVGwAwWs1D2lLsXCCZPwLGhTZiIVLE5ma7OluQuQXUX3UfwMokiDEIb0W_RVaLRePyA5tVimD1qDToxg7xtSw/s728-rw-e365/crash.png",
+        "Title": "CrowdStrike Reveals Root Cause of Global System Outages",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__D-FkusoGmCGUYPI4XFzZ09qUAKQZHhQZ5xVREHFZ28GfYKZse_LbdAJRUrp6yFacH37UBX8ps3-XYRRrgQ4U_QjMPj2hh8OfmFGvMQyAeJlNnhvMiL83qbQuQercRN8cSBn-rhFvJS9hD69k_OWzucuW4ogf15nPTlA9o4FnMvSB8UaA97jT8Pty8Qd/s728-rw-e365/android.png",
+        "Title": "Chameleon Android Banking Trojan Targets Users Through Fake CRM App",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9d8yTLTJnOvdNy8_qXR9qDsL4tV6oF2t-dwU5dvl2FGMF-M5KD9MsmT5FsgbwJIwMiOwuPtiVEAIatteJtlDvXjrkQ0tZ27mxq2sF5cZWiOfX1nJPayXdFuVGg9X5C-t2kyLtQ_EiE5ae_Nj09fgSpxNV56eccp9jDbQd5HaK1zNFI9Atg-r_o53X-4Xc/s728-rw-e365/apple.png",
+        "Title": "Apple's New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tpEjr4e5FdSHBmR7eORC-zCMZQx06KAMUWlI5ItVy8AiPp27A5grLLDkzmEE99N0htD4u096fWEsAortG4XDOHjPLvDjgWnKO3Y8_NvYeYs2t5KePPQ2c82YuEytAr9nerrPJW1uzLpFSjSTLCHm7__cFflrkwM3QJgBRagVYLoxv37f7w3Mk53llMHF/s728-rw-e365/bec-scam.png",
+        "Title": "INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/north-korean-hackers-moonstone-sleet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlz59vQU4Xf_etL3k_9DIQH3sug8cvmLvK38yezMtVd3D321wlGuQJLr_De53d6uu4bOFRKkK-JjVhpTW8EUsnIToBYTOGIvyN4awSe4MkNCk6Tlw4AqihodN4jNrDpF-dvpr4CAy6GNFMJfwx8QK5_MuaWyuUuNskA4o-wyNQOdxfkOCbPYuAJIB_vvQf/s728-rw-e365/c2.png",
+        "Title": "North Korean Hackers Moonstone Sleet Push Malicious JS Packages to npm Registry",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
+        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
-        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -98,13 +196,6 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
         "Title": "Cybercrime Rapper Sues Bank over Fraud Investigation",
@@ -112,80 +203,10 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/roundcube-webmail-flaws-allow-hackers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5YB3bwk3OIyl0ZqBULKUWDGb2Gn3XnAD8Jfl5qBUs1xnAhZbxOKJOVyE4eB5DXQI-XjbyCRbwRxhiByayenxBRBMuw9wgS8KFgnWleSHGoElMGmc9LsoADNYzY9KkG5LHYOIAilfrttbrReBAEg6yDJe0VOn-6fmCtUb0aYUZXfzI5XfMSyZ85kT1TT-/s728-rw-e365/roundcube.png",
-        "Title": "Roundcube Webmail Flaws Allow Hackers to Steal Emails and Passwords",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s728-rw-e365/cyberattack.png",
-        "Title": "New Go-based Backdoor GoGra Targets South Asian Media Organization",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s728-rw-e365/main.png",
-        "Title": "How To Get the Most From Your Security Team's Email Alert Budget",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-x3BuKhJJZfpYpFbt1Av2bF8bIJVj_x5hn7CAmzHPMB_EVe7b1TIpyG_-FFWoxx_kKjfiekCEkopm9EST_AwXGfJlzKmDmttVpaS55ipVGwAwWs1D2lLsXCCZPwLGhTZiIVLE5ma7OluQuQXUX3UfwMokiDEIb0W_RVaLRePyA5tVimD1qDToxg7xtSw/s728-rw-e365/crash.png",
-        "Title": "CrowdStrike Reveals Root Cause of Global System Outages",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/sans-sec-train24",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__D-FkusoGmCGUYPI4XFzZ09qUAKQZHhQZ5xVREHFZ28GfYKZse_LbdAJRUrp6yFacH37UBX8ps3-XYRRrgQ4U_QjMPj2hh8OfmFGvMQyAeJlNnhvMiL83qbQuQercRN8cSBn-rhFvJS9hD69k_OWzucuW4ogf15nPTlA9o4FnMvSB8UaA97jT8Pty8Qd/s728-rw-e365/android.png",
-        "Title": "Chameleon Android Banking Trojan Targets Users Through Fake CRM App",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9d8yTLTJnOvdNy8_qXR9qDsL4tV6oF2t-dwU5dvl2FGMF-M5KD9MsmT5FsgbwJIwMiOwuPtiVEAIatteJtlDvXjrkQ0tZ27mxq2sF5cZWiOfX1nJPayXdFuVGg9X5C-t2kyLtQ_EiE5ae_Nj09fgSpxNV56eccp9jDbQd5HaK1zNFI9Atg-r_o53X-4Xc/s728-rw-e365/apple.png",
-        "Title": "Apple's New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tpEjr4e5FdSHBmR7eORC-zCMZQx06KAMUWlI5ItVy8AiPp27A5grLLDkzmEE99N0htD4u096fWEsAortG4XDOHjPLvDjgWnKO3Y8_NvYeYs2t5KePPQ2c82YuEytAr9nerrPJW1uzLpFSjSTLCHm7__cFflrkwM3QJgBRagVYLoxv37f7w3Mk53llMHF/s728-rw-e365/bec-scam.png",
-        "Title": "INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/north-korean-hackers-moonstone-sleet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlz59vQU4Xf_etL3k_9DIQH3sug8cvmLvK38yezMtVd3D321wlGuQJLr_De53d6uu4bOFRKkK-JjVhpTW8EUsnIToBYTOGIvyN4awSe4MkNCk6Tlw4AqihodN4jNrDpF-dvpr4CAy6GNFMJfwx8QK5_MuaWyuUuNskA4o-wyNQOdxfkOCbPYuAJIB_vvQf/s728-rw-e365/c2.png",
-        "Title": "North Korean Hackers Moonstone Sleet Push Malicious JS Packages to npm Registry",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
-        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s728-rw-e365/russian-android-spuware.png",
-        "Title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
+        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
+        "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
     {
@@ -199,13 +220,6 @@
         "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
         "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
         "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
-        "Source": "WIRED",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
-        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
-        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
@@ -343,25 +357,11 @@
         "Timestamp": "Jul 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/",
-        "Img_URL": "https://media.wired.com/photos/669acb7748630ecbaf12ecf7/3:2/w_1280%2Cc_limit/Crowdstrike-Scams-Security-GettyImages-2162041873.jpg",
-        "Title": "Don\u2019t Fall for CrowdStrike Outage Scams",
-        "Source": "WIRED",
-        "Timestamp": "Jul 19, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/crowdstrike-outage-support-scams/",
         "Img_URL": "https://media.wired.com/photos/669b056788f4d25938ae0ecb/3:2/w_1280%2Cc_limit/Security-Water-Hack.jpg",
         "Title": "The Feds Say These Are the Russian Hackers Who Attacked US Water Utilities",
         "Source": "WIRED",
         "Timestamp": "Jul 19, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/us-supreme-court-chevron-deference-cybersecurity-policy/",
-        "Img_URL": "https://media.wired.com/photos/669a258264b85e7aa204a439/3:2/w_1280%2Cc_limit/071924_IT-Outage-ASAP-2.jpg",
-        "Title": "Huge Microsoft Outage Caused by CrowdStrike Takes Down Computers Around the World",
-        "Source": "WIRED",
-        "Timestamp": "Jul 17, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
