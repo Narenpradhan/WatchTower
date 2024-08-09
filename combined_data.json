@@ -77,6 +77,13 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
         "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
         "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
@@ -84,16 +91,16 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
         "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
         "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
-        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
-        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
+        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -182,6 +189,13 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
+        "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
+        "Title": "Inside the Dark World of Doxing for Profit",
+        "Source": "WIRED",
+        "Timestamp": "Aug 07, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
         "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
         "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
@@ -189,9 +203,9 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
-        "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
-        "Title": "Inside the Dark World of Doxing for Profit",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
+        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
@@ -287,16 +301,16 @@
         "Timestamp": "Jul 26, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
-        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
-        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
+        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
+        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
-        "Img_URL": "https://media.wired.com/photos/669e79092095eeaf9f3dd6d0/3:2/w_1280%2Cc_limit/Crowdstrike-Problems-GettyImages-2162028160.jpg",
-        "Title": "How IT Departments Scrambled to Address the CrowdStrike Chaos",
+        "Link": "https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/",
+        "Img_URL": "https://media.wired.com/photos/66a2cd58a827f8f46ba24ad8/3:2/w_1280%2Cc_limit/Hacker%2520Tricked%2520a%2520US%2520Security%2520Vendor%2520Into%2520Hiring%2520Him.jpg",
+        "Title": "A North Korean Hacker Tricked a US Security Vendor Into Hiring Him\u2014and Immediately Tried to Hack Them",
         "Source": "WIRED",
         "Timestamp": "Jul 24, 2024"
     },
@@ -355,20 +369,6 @@
         "Title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
         "Source": "KrebsonSecurity",
         "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/disney-slack-leak-nullbulge/",
-        "Img_URL": "https://media.wired.com/photos/6696d9e78d3178acac5d59ec/3:2/w_1280%2Cc_limit/The-US-Supreme-Court-Kneecapped-US-Cyber-Strategy-GettyImages-2159325037.jpg",
-        "Title": "The US Supreme Court Kneecapped US Cyber Strategy",
-        "Source": "WIRED",
-        "Timestamp": "Jul 15, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/",
-        "Img_URL": "https://media.wired.com/photos/6691984dcc672d74938c2e0e/3:2/w_1280%2Cc_limit/shutterstock_2242822493.jpg",
-        "Title": "Hackers Claim to Have Leaked 1.1 TB of Disney Slack Messages",
-        "Source": "WIRED",
-        "Timestamp": "Jul 14, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/",
