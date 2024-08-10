@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/new-malware-hits-300000-users-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1WivkuwcHryKyHHDghdgBZLImYjlUTTLHtAdj8twrvZxJi2Gn3PTZmJV8TJ1KB0sKjt3I4-WbG6RsPYL1vv3JNeh8smhdf8aqHrwDKyVFk_UdSd0nPakF_en0k_LtCi1cXARm-l-UVZAeHOc9yUhyEqhjtxXU2Ag9v-rvEdmXAB1M-hFJJ5R3HQh-dVhu/s728-rw-e365/chrome.png",
+        "Title": "New Malware Hits 300,000 Users with Rogue Chrome and Edge Extensions",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 10, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QFK82ejsIsfAldP_CvpNepnl4MOdRBGQkVYkz_HUCioqMKCFVhXSgxQtlw1aVhPrLKu0hKQvkXAZnPnNFp0Z7OZHPcmEEs0HTOshi9EL3o7HjCo7j83AZL7I1dWW9TyEfpS42CQ6FcPR-ZEFZSd9j41jR8t5JC1NJZ6JNKu_gAwm0W2O-afEtqJhIJAU/s728-rw-e365/ms.png",
         "Title": "Microsoft Warns of Unpatched Office Vulnerability Leading to Data Exposure",
@@ -14,16 +21,16 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s728-rw-e365/openvpn.png",
-        "Title": "Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE",
+        "Link": "https://thehackernews.uk/sans-sec-train24",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/sans-sec-train24",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Link": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s728-rw-e365/openvpn.png",
+        "Title": "Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE",
         "Source": "The Hacker News",
         "Timestamp": "Aug 10, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QhwTjW9K4dtnQ7Ss5T6SuD5gqPku4ltmONs8_8QpHN3MxQVSwWWcHn1-znNnwMfq8SAtys8P2xJY_nRCx-IUsX4OO08TPk5I2IoXGC2AqBdh5zh4t3Lq9CC2z2EvwLQTT5p7U4KAqOKIMjxyJAi_lCFym58ALvNKOiWEpQt_6Z9g8Ykr18ulwCYaYZMW/s728-rw-e365/cisco.png",
-        "Title": "CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature",
+        "Link": "https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuibIKr_EZglopVDflWwLwmqAdebgA4HhUECXzmvNoEqlYodvNTEkzcE5MtFmZJQeoBeAa5RGtiLhGy5kgmvx2hkspSSyJWDk-Xjg6VnNuP2QX46JfczLNvu3VBwAwlygjxTDwp5h_b2j1Kj5yYNsggMAVDMDIJcdOxRQd2KsVzrOTmga6IcARWarSzDQ/s728-rw-e365/main.png",
+        "Title": "Obfuscation: There Are Two Sides To Everything",
         "Source": "The Hacker News",
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuibIKr_EZglopVDflWwLwmqAdebgA4HhUECXzmvNoEqlYodvNTEkzcE5MtFmZJQeoBeAa5RGtiLhGy5kgmvx2hkspSSyJWDk-Xjg6VnNuP2QX46JfczLNvu3VBwAwlygjxTDwp5h_b2j1Kj5yYNsggMAVDMDIJcdOxRQd2KsVzrOTmga6IcARWarSzDQ/s728-rw-e365/main.png",
-        "Title": "Obfuscation: There Are Two Sides To Everything",
+        "Link": "https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QhwTjW9K4dtnQ7Ss5T6SuD5gqPku4ltmONs8_8QpHN3MxQVSwWWcHn1-znNnwMfq8SAtys8P2xJY_nRCx-IUsX4OO08TPk5I2IoXGC2AqBdh5zh4t3Lq9CC2z2EvwLQTT5p7U4KAqOKIMjxyJAi_lCFym58ALvNKOiWEpQt_6Z9g8Ykr18ulwCYaYZMW/s728-rw-e365/cisco.png",
+        "Title": "CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature",
         "Source": "The Hacker News",
         "Timestamp": "Aug 10, 2024"
     },
@@ -70,16 +77,9 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s728-rw-e365/main.png",
-        "Title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 10, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
-        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -91,23 +91,23 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
+        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s728-rw-e365/main.png",
+        "Title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNsF46KZGI-hSDWkASuDbwEwzuR21UeY2be82XnPFMpSUH43rg2Xx8l3zwWWK7ydvAyMDfqVd7aGirhQHdnE2tw6xXPrcpqM3SluO2ShiYQJqIAkxjrl70aRXlT7tPcs3yrjzFb6QJnJLHTByEDrkrW28IJARoJvSQDWZJh7koSIifrnvOpZfH6w6Ztxt-/s728-rw-e365/windows-update.png",
         "Title": "Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4OgDh09bPA_FgxXE8hKpVe8JmMfWB09MFzTF9bMel2QCIevXnMgdigiyL5hfzMCBJy6Muf0G0CCi1FStrZ_CSF4xw0RVOzww6zb-ykNrjCn9kQuggqLHLI8vWU9cfMGUQMNO_Z6xvF0LdjDWFyoatxBKrCHAMprBHZJdugMnDXoTEpf3Dok5T5fUwXg/s728-rw-e365/amazon.png",
-        "Title": "New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links",
         "Source": "The Hacker News",
         "Timestamp": "Aug 08, 2024"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFHLcLE4xGXn5KjXCdXbrSrbsDitzdKDmvLr8kP2ggDQR_gcjlR7RDJEtYwD5Ycu8KUE9H5t3NRxFxto1Eu6EniH_JjgUne8xs8pUVuOJIQtZMzWjRC9NjJLbZkxSqyvEZhMlNvE7jO3d2ABgFyzvzD6h8tXun9rRoJq_MVVBfgrymAsxUZdj7bv6m9s/s728-rw-e365/main.png",
-        "Title": "Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024",
+        "Link": "https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk4OgDh09bPA_FgxXE8hKpVe8JmMfWB09MFzTF9bMel2QCIevXnMgdigiyL5hfzMCBJy6Muf0G0CCi1FStrZ_CSF4xw0RVOzww6zb-ykNrjCn9kQuggqLHLI8vWU9cfMGUQMNO_Z6xvF0LdjDWFyoatxBKrCHAMprBHZJdugMnDXoTEpf3Dok5T5fUwXg/s728-rw-e365/amazon.png",
+        "Title": "New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links",
         "Source": "The Hacker News",
         "Timestamp": "Aug 08, 2024"
     },
@@ -129,6 +129,13 @@
         "Link": "https://thehackernews.uk/sans-sec-train24",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt92auIXzhPbK4Z_vxVS7AmGq8fLWb6lEisTLvtw72LBrGsISJF7e184ec5Pks_Bi15c4Gr5jgLTt-jZGsMX3Mokfn-03Oj-hKWqrRJLPj4KiMLAJKdzOHIa9VTKTCrftQ2SEhgTDIRhq2aevd_WCyfqzSibp1WpvecRs31F_h-y2W545-iFUnsuixDTsi/s728-rw-e365/sans-1.jpg",
         "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFHLcLE4xGXn5KjXCdXbrSrbsDitzdKDmvLr8kP2ggDQR_gcjlR7RDJEtYwD5Ycu8KUE9H5t3NRxFxto1Eu6EniH_JjgUne8xs8pUVuOJIQtZMzWjRC9NjJLbZkxSqyvEZhMlNvE7jO3d2ABgFyzvzD6h8tXun9rRoJq_MVVBfgrymAsxUZdj7bv6m9s/s728-rw-e365/main.png",
+        "Title": "Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 08, 2024"
     },
@@ -168,13 +175,6 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-x3BuKhJJZfpYpFbt1Av2bF8bIJVj_x5hn7CAmzHPMB_EVe7b1TIpyG_-FFWoxx_kKjfiekCEkopm9EST_AwXGfJlzKmDmttVpaS55ipVGwAwWs1D2lLsXCCZPwLGhTZiIVLE5ma7OluQuQXUX3UfwMokiDEIb0W_RVaLRePyA5tVimD1qDToxg7xtSw/s728-rw-e365/crash.png",
-        "Title": "CrowdStrike Reveals Root Cause of Global System Outages",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
         "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
         "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
@@ -185,13 +185,6 @@
         "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
         "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
         "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
-        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
-        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -210,6 +203,13 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
+        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
+        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
         "Title": "Cybercrime Rapper Sues Bank over Fraud Investigation",
@@ -217,9 +217,9 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
-        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
-        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
+        "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
+        "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
+        "Title": "Inside the Dark World of Doxing for Profit",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
@@ -231,9 +231,9 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
-        "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
-        "Title": "Inside the Dark World of Doxing for Profit",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
+        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
+        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
