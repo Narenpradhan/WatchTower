@@ -91,9 +91,9 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
+        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
-        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
+        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -189,13 +189,6 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
         "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
         "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
@@ -203,9 +196,9 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
-        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
-        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
+        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -213,6 +206,13 @@
         "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
         "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
         "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
+        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
