@@ -168,13 +168,6 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
         "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
         "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
@@ -189,30 +182,16 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
-        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
-        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
+        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
         "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
         "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
-        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -224,6 +203,27 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
+        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/01/punchmadecardskim.png",
         "Title": "Cybercrime Rapper Sues Bank over Fraud Investigation",
@@ -231,16 +231,16 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
-        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
-        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
+        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
-        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
-        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
+        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
+        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
@@ -385,6 +385,13 @@
         "Timestamp": "Jul 10, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/mitre-fin7.png",
+        "Title": "The Stark Truth Behind the Resurgence of Russia\u2019s Fin7",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jul 10, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
         "Title": "Microsoft Patch Tuesday, July 2024 Edition",
@@ -446,12 +453,5 @@
         "Title": "Stark Industries Solutions: An Iron Hammer in the Cloud",
         "Source": "KrebsonSecurity",
         "Timestamp": "May 23, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/05/phoneloc.png",
-        "Title": "Why Your Wi-Fi Router Doubles as an Apple AirTag",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "May 21, 2024"
     }
 ]
