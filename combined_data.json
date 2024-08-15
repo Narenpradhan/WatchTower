@@ -1,31 +1,87 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s728-rw-e365/ransomware.png",
-        "Title": "Black Basta-Linked Attackers Target Users with SystemBC Malware",
+        "Link": "https://thehackernews.com/2024/08/russian-linked-hackers-target-eastern.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Cvw8T2CXosi0Qh9NEbCcP3hVp-TAqq1nDQj-7T4d2YhFP7mBqpQgrwf3tc5gc-WLtZft0xEbyjXrWKtWFNo9QRxhD-VooXNu2kZrHU1qRQrHu8Imnzv1RUMdepCtqsMlbMJU7kIzsJoAxADWbKUrAsO2hZae8UbJOI0xLfXWqEYfWLLK_URoAFel8y1q/s728-rw-e365/hacking.png",
+        "Title": "Russian-Linked Hackers Target Eastern European NGOs and Media",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s728-rw-e365/hacker.jpg",
-        "Title": "Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges",
+        "Link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s728-rw-e365/permiso.png",
+        "Title": "Identity Threat Detection and Response Solution Guide",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
-        "Title": "How to Augment Your Password Security with EASM ",
+        "Link": "https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkvMRdgdYiNd3kiBTIudu8V7y7qV9U5XWyS55nMHJ_6vgBTmtK-ohlr3btHImwtMLV4RFWLfXxn4iJeiSf39bnoUa8BYYU2ULw1L0PsStsEuaPpwhpNSsEBe1vQJI8iAUjxsSaX_A1GM0Z-QXqGwrWlSwCEGJaig4PCAouAoH98GCJseBu4DNshnZr6Fk/s728-rw-e365/edr-killer.png",
+        "Title": "RansomHub Group Deploys New EDR-Killing Tool in Latest Cyber Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
     },
     {
         "Link": "https://thehackernews.uk/sans-netsec-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVCvH7V0xpFzTnrOKrH0Oyb9T6r0XFRNjV93rcxycWslyjVn7LecQWQ4Sdf0d1Za6KRjLur4Sj5UbMRzqMrXhMbf6tgCJsqhvx4zfDuuEabTgYRgMq6pG74_JzJAfKwGzaIr1imxP1P4pM65fiddKo1JmgPp2T2JpFj_u_pggD_gPO0g1GwN1ab9rZVBN/s728-rw-e365/sans-2.jpg",
         "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi617tOhQfCEgCMHVT1sj1jhauvd-GbvTjK7uYMiy9REowwnutaB-EC67GY8ffjMQTcy5AH6K5mHYu3QyVuHxbz3Na4dnumV_fclLMqupV5SVvGdyclZ5RBSbVcCJthDvIeEIPV9e7CFCO61tU0jeac0XHJnkpkE5omYj8w6ex4Dm2iuc8giJwO-1j7IJU4/s728-rw-e365/git.png",
+        "Title": "GitHub Vulnerability 'ArtiPACKED' Exposes Repositories to Potential Takeover",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-cyber-threat-targets-azerbaijan-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiv8fPALFIlsVGUSdQqvKBUBgCT-svByqAzkZRllTvEi4Ddq5ksxC3SA3SzN1ErP3Eqjeg8OQUa9jQSxrcQPg-yGg3NWbmWg-NHlxOM7jhUKM9g4vwnfEfM523oMWAFEWbdgHU2r0C79llWKxCI36kFYzOzeBAzhxc3FHYl_eHI4_lh1WHtDXP7xXMErNN/s728-rw-e365/cyber-threat.png",
+        "Title": "New Cyber Threat Targets Azerbaijan and Israel Diplomats, Stealing Sensitive Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01KpOk9BP4WCswcnjH0Hx3VybKX3HCRux5wlsdWVN446ujuJ86-LoTD9bPx86HyAFUE05hS9CSTJ9AD3aHQIviVN42vX82EohGYEX0v_D7Gw3LQBH4YmqcXMjIxorb_c8ijZWf1ojW9E9eR9T9SiZe81mxIr2O8nOkem1vEYsbjXgUtQ6k3BKJZxCgboG/s728-rw-e365/mining.png",
+        "Title": "New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
+        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s728-rw-e365/ransomware.png",
+        "Title": "Black Basta-Linked Attackers Target Users with SystemBC Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s728-rw-e365/hacker.jpg",
+        "Title": "Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
+        "Title": "How to Augment Your Password Security with EASM ",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Source": "WIRED",
+        "Timestamp": "Aug 15, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html",
@@ -42,6 +98,13 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
+        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqnO6WnMT_4-piVtykIE145Mjfp-i7_QQ7VxC8F6UurgVCRUxyKvX_83Vgvc-erAQdhzJ1t_LcEGU0GPfKdL2T_PChvoEYPFmBxXpPJa-3aB4JxGfXKGvjaNOSdnfV2U3mEZntaGrnA-CLxo2u43V0-iOSTMGCpIkM4KVMNmodGdw8Rz9VNTeNs30TgDE/s728-rw-e365/network-traffic.png",
         "Title": "Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access",
@@ -49,9 +112,9 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
-        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
+        "Link": "https://thehackernews.uk/sans-netsec-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVCvH7V0xpFzTnrOKrH0Oyb9T6r0XFRNjV93rcxycWslyjVn7LecQWQ4Sdf0d1Za6KRjLur4Sj5UbMRzqMrXhMbf6tgCJsqhvx4zfDuuEabTgYRgMq6pG74_JzJAfKwGzaIr1imxP1P4pM65fiddKo1JmgPp2T2JpFj_u_pggD_gPO0g1GwN1ab9rZVBN/s728-rw-e365/sans-2.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 14, 2024"
     },
@@ -77,6 +140,27 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxjOUehLQNDndKDY7lGb-rLN54krMCWQ5cqJ4cgGZQVeS3S2BrQpmmZ_ZUx1qBtdze_nLG1FSukXPi8KzXt_nOCn9GoxzfrtodZOS5px3tI4QBdWZXzTDsNH8nbLNIboDrrjH-K1xZJCcfAMtxtOO2CvY9IwUbZeGyCNVMGESxISOnMtQlDtvEighsVOg/s728-rw-e365/hardsec.jpg",
+        "Title": "Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5P2-8xtm94X7dbQtzJUV_bHBOBRScaCMlchyphenhyphenIl0wCQlZSP0LcqL8focacyZzKhcJkF4_74TAJ33mzGeDBHvlWWsZPxsrqzJvxTq5jztBbDiNnNoyuiVzIy81UuyUm9575QRFKOBn3hqeOlu-VlnOtYzAW4Lk7Ys5ARbVdjxQCUxqNyrewHkpJDrhDkcWj/s728-rw-e365/ransomware.png",
+        "Title": "FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXvaZx9kN0pvawsiZIu9lZjRIHWTHjwaCMfGrSu-haQ5K-quMGzo5Hi_Z42jMnEIf-5Z4jlyyNLGTwhOCrIYwBmY3wTisrjDHzjlE4a30s6rFwVSTlE93IOuN4vxbHTfoBQPROxkDa-2XLkt-hGUiYcQdTGURIW7ZBLdtYQD5IpT9vMATk4bFAHvHUjSZ/s728-rw-e365/aa.png",
+        "Title": "Ukraine Warns of New Phishing Campaign Targeting Government Computers",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
         "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
         "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
@@ -91,13 +175,6 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
-        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
-        "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/clicktofix.png",
         "Title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
@@ -105,81 +182,11 @@
         "Timestamp": "Aug 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxjOUehLQNDndKDY7lGb-rLN54krMCWQ5cqJ4cgGZQVeS3S2BrQpmmZ_ZUx1qBtdze_nLG1FSukXPi8KzXt_nOCn9GoxzfrtodZOS5px3tI4QBdWZXzTDsNH8nbLNIboDrrjH-K1xZJCcfAMtxtOO2CvY9IwUbZeGyCNVMGESxISOnMtQlDtvEighsVOg/s728-rw-e365/hardsec.jpg",
-        "Title": "Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5P2-8xtm94X7dbQtzJUV_bHBOBRScaCMlchyphenhyphenIl0wCQlZSP0LcqL8focacyZzKhcJkF4_74TAJ33mzGeDBHvlWWsZPxsrqzJvxTq5jztBbDiNnNoyuiVzIy81UuyUm9575QRFKOBn3hqeOlu-VlnOtYzAW4Lk7Ys5ARbVdjxQCUxqNyrewHkpJDrhDkcWj/s728-rw-e365/ransomware.png",
-        "Title": "FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBUjhr5yf1ovtmjr2We6CFCCyf-RnC9PzvYQx4GE0PLVi2lYXQGNDFgYs0NMP0qFaq4iXHQaq5buAPYSux4_s7BUiPYqIRgeSyxWmkqPb1VPr-Cd5N5pwJrikmckdu7WTwLxNjuFMeiAeWWyhrYyx6k0DiUuVR5OfoiRY4-hLWYPb-8hPukt7fDmgPJo/s728-rw-e365/adaptive-main.png",
-        "Title": "Suspicious Minds: Insider Threats in The SaaS World",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXvaZx9kN0pvawsiZIu9lZjRIHWTHjwaCMfGrSu-haQ5K-quMGzo5Hi_Z42jMnEIf-5Z4jlyyNLGTwhOCrIYwBmY3wTisrjDHzjlE4a30s6rFwVSTlE93IOuN4vxbHTfoBQPROxkDa-2XLkt-hGUiYcQdTGURIW7ZBLdtYQD5IpT9vMATk4bFAHvHUjSZ/s728-rw-e365/aa.png",
-        "Title": "Ukraine Warns of New Phishing Campaign Targeting Government Computers",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/sans-netsec-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVCvH7V0xpFzTnrOKrH0Oyb9T6r0XFRNjV93rcxycWslyjVn7LecQWQ4Sdf0d1Za6KRjLur4Sj5UbMRzqMrXhMbf6tgCJsqhvx4zfDuuEabTgYRgMq6pG74_JzJAfKwGzaIr1imxP1P4pM65fiddKo1JmgPp2T2JpFj_u_pggD_gPO0g1GwN1ab9rZVBN/s728-rw-e365/sans-2.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_dusVojgKiFF_EncyzY-Q5YFF8bwwVPSnYdLlv_nZusb_qU-kE4sN9Dd3ayg4iljWZS4wIzGqRKtDNxSbYgHHPWKTKYiMlx7w9NZ5PVrmIsDhvend6pBVDhp5EPPA8nEOCs6DkpWIjmGySXLXictsNBHVuD1ZHX4xbNt6RZzlj12yFj3_3PO4fuQnn6Q/s2000/cyber-main.png",
-        "Title": "How Phishing Attacks Adapt Quickly to Capitalize on Current Events",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwis5FB4jU1PMRQWQdbKm7jQVTPWvNr8sfV6w2jNxRXfmvmttxc83YcUn_m71DuqXSUvtVRzPYN4rc74t9SD3EPeNyCSKtR0cCdmdm02K7zuyCvUDDQh4eoyE0Ovp-Lx2Ty7fxUj3CsQWOJTdpK6b1IFyDfUyKRoxSv6heN3z_xt3Rpo-kFojwXeeNMvI/s728-rw-e365/solar.png",
-        "Title": "Researchers Uncover Vulnerabilities in Solarman and Deye Solar Systems",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/the-ai-hangover-is-here-end-of-beginning.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggFH1vkPuZiHIYWi_0VDZhBM8CHc89WcpVTqtvn-wemhyphenhyphen2Ux9iIFd-xdrWy97nY9mYUSzktZozNFmqxZam-PEwY0wyuA0KilynnVbWrtHamVPH5LV_58vBfdpfh_WlOF23oGFUIfUbBMQQddv1uu7exVa2lRuPo_2-kaPh1B8lw9oQcDt9GNX0STMOnCk/s728-rw-e365/one-main.jpg",
-        "Title": "The AI Hangover is Here \u2013 The End of the Beginning ",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/freebsd-releases-urgent-patch-for-high.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmZoC1ijpOl0gacbCvlBm9np-3FOGUCYhhp_Vk7BtFVoVksnV_2znF8-beEMjs451hlU1lND-1KNweThPPg3b9cqFSEEwI1YST1DtMJyQZcsT9kJi5sWlNW60gsNBOkhy1zsUOW4eFZdLMpWpualtC6tG2LT9ZYprbPw1ynmHBArvht-7L2GPJSzLDXRf/s728-rw-e365/hacker.png",
-        "Title": "FreeBSD Releases Urgent Patch for High-Severity OpenSSH Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3KGbOxXWZDQzkNs_x6p5DMABHqaFg5OyRAsnnh31alpUrYxxT24vuSP8o1d_ACi7UY2SelmhWn6n7DZNv3kG3CMH8gNjdtfz6TrYYhKXhgkE7Ts208SWiGAPQMiXUy_hy-9wqKAW0lXmn2IXf8X3tye1BbFLHjVRBNSPXGg3dJt83Sgc6u2vti51IC_zH/s728-rw-e365/hacking.png",
-        "Title": "Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/russian-government-hit-by-eastwind.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Cb5W2uk9n6yF4-4U4dn5wsWhrPfn1iwGeBL5KushSPHbRdPwe-23V9SpWR41-kJ2OlAoF1Wlknv14aqlsiHCE6HHGJjULlSnzN7tDCds7QeriaDRe3eojJL9agzS64-HqPKKGJEQW9JaqAvZBZ6DQjztk-1X-Hi14-EKRatL_3iFSJm4LPSliiGFFkay/s728-rw-e365/russia.png",
-        "Title": "EastWind Attack Deploys PlugY and GrewApacha Backdoors Using Booby-Trapped LNK Files",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 13, 2024"
+        "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
+        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
+        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
+        "Source": "WIRED",
+        "Timestamp": "Aug 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
@@ -187,13 +194,6 @@
         "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
-        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
@@ -210,25 +210,18 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
+        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
         "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
         "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
-        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
@@ -248,6 +241,20 @@
         "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
         "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
         "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -341,13 +348,6 @@
         "Title": "A $500 Open Source Tool Lets Anyone Hack Computer Chips With Lasers",
         "Source": "WIRED",
         "Timestamp": "Jul 30, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/infostealer-malware-password-theft/",
-        "Img_URL": "https://media.wired.com/photos/66a810b1ba1b338ccbfd93ac/3:2/w_1280%2Cc_limit/Voting%2520Machine%2520b_GettyImages-1434792666.jpg",
-        "Title": "A Senate Bill Would Radically Improve Voting Machine Security",
-        "Source": "WIRED",
-        "Timestamp": "Jul 29, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/",
