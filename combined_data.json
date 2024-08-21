@@ -1,38 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1d3SbzIoJjAFg_97lxzDYqRjvEdA8tYkLBFaYQ_BaA4HOxoTByqgpkNabrsfwBPD8YlcvYv959I-LcsQ7AQxIPX8lXZreeQrcX6NImDNbiSS7Ew3f7F4qhml2715kzNrkwxUAn4ySav_ZQmjlR4-00HWaVkDA9OPMuyJYRK2wZfF9yjTL49kgEN9vkc/s728-rw-e365/sans-3.jpg",
-        "Title": "Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys",
+        "Link": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s728-rw-e365/main.png",
+        "Title": "It's Time To Untangle the SaaS Ball of Yarn",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 20, 2024"
+        "Timestamp": "Aug 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/czech-mobile-users-targeted-in-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKB2knSk0AvxOzZB-SD1rO8OBCzisRCpgehXYtyG7yVMkQ02mW97PSJkoZgbbsDtm_btidEub1V4imaWpbQK5mz4Oys4_JJUZJO3fEBUhhaLPFPQ4fjxSO1AwixJkv1jL39ZaLib0mgGsWlMVWBcSN0j519xJ4-kyEmhE1-Sd0DMXkhUT2yI-seVCREpSr/s728-rw-e365/hacker.png",
-        "Title": "Czech Mobile Users Targeted in New Banking Credential Theft Scheme",
+        "Link": "https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ye1Nq5DpfzUb6eUUtkmqPTPzN-J6D6d3_V3LFRcSfexJs7iBqJRAqQw16g-g3T5vcLDNKSR_PjsG9WP4dpUZAXdKpxQIkB_8S-M0sTWFCWS8r7OL8EUPf9Lr0GSPYOjLQMVUjT8gkkiM7_mvDhx70TUYBlzBdc0lGQONMXA73IwxA3i96SHqSf3CIuh7/s728-rw-e365/code.png",
+        "Title": "Styx Stealer Creator's OPSEC Fail Leaks Client List and Profit Details",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 20, 2024"
+        "Timestamp": "Aug 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUWsZNOreAdgvj-xKIuQccnrXUDt99Ud09fJifvhAvZ5XgfHp4UsdicXtwwrc2ewEUHJwLCVzrm0UcugeHRCZWEB_igoSpcdQlhKlZxaZ_GeqA-mv9dZcqXsM0LqwDNgMMgex4_2Vop4KXl0gQhlz7WU-elg-k8C4xf01Fx4X7-jyn0YUVIiTaY3Oo1Rml/s728-rw-e365/php.png",
-        "Title": "Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor",
+        "Link": "https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFLwDLNBW-jJkkPA08bSFlhUfY3AQoKr2m9UnjVHKfmXbgIrot0sd5ds19lokZGhcYsOEFFQKThHIBF_-WFYcNDFOBSajh6gsH5v0Jd4HDsooxJEQ-YeXi1CUW_QdhmTCqWLeDiDRlCv5i68zC81z63FxzqDHcTbdwxx4RcW0ncM4n9COeGI5MqIcomxa9/s728-rw-e365/north-korea.png",
+        "Title": "New macOS Malware TodoSwift Linked to North Korean Hacking Groups",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 20, 2024"
+        "Timestamp": "Aug 21, 2024"
     },
     {
         "Link": "https://thehackernews.uk/netsec-2024-sans",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
         "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 20, 2024"
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHHJyiApAXFtVeUmIz6pxUacd79KcGS3Y33T37pIs8WnwM1ntLf8VvdJfVZRjU0SQ0Djup_I41meEti3utA28kuKaGi4ILL9tyxMUX1VddmIhyphenhyphenTf2A7Gc34ARkq5NQBVlMi44hdNyyEnZVXXmo1DPr25LpAOKj4pxVDkSCokp4EJ-Lqk_0gv4wDnVgRG2/s728-rw-e365/card.png",
+        "Title": "CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRyWKTh3blayDASteLVTEr5yZeuY0B3MBHviO2l1dXAE-ikQ0lJwEyB1FUwKSJRHmb5mHd61DBLXOvYEwpPEhMJxS-1DC1jlpttpLnylFllP9JV_LELduV62ElF61CxBcm4Wf3reLfgRwDuxHxsUy2KdSV981s2NfSXTfVfsvg7hAZ3TDR9bP0bl7pugd/s728-rw-e365/wordpress.png",
+        "Title": "GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1d3SbzIoJjAFg_97lxzDYqRjvEdA8tYkLBFaYQ_BaA4HOxoTByqgpkNabrsfwBPD8YlcvYv959I-LcsQ7AQxIPX8lXZreeQrcX6NImDNbiSS7Ew3f7F4qhml2715kzNrkwxUAn4ySav_ZQmjlR4-00HWaVkDA9OPMuyJYRK2wZfF9yjTL49kgEN9vkc/s728-rw-e365/sans-3.jpg",
+        "Title": "Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for Stolen API Keys",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxjOUehLQNDndKDY7lGb-rLN54krMCWQ5cqJ4cgGZQVeS3S2BrQpmmZ_ZUx1qBtdze_nLG1FSukXPi8KzXt_nOCn9GoxzfrtodZOS5px3tI4QBdWZXzTDsNH8nbLNIboDrrjH-K1xZJCcfAMtxtOO2CvY9IwUbZeGyCNVMGESxISOnMtQlDtvEighsVOg/s728-rw-e365/hardsec.jpg",
+        "Title": "Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/czech-mobile-users-targeted-in-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKB2knSk0AvxOzZB-SD1rO8OBCzisRCpgehXYtyG7yVMkQ02mW97PSJkoZgbbsDtm_btidEub1V4imaWpbQK5mz4Oys4_JJUZJO3fEBUhhaLPFPQ4fjxSO1AwixJkv1jL39ZaLib0mgGsWlMVWBcSN0j519xJ4-kyEmhE1-Sd0DMXkhUT2yI-seVCREpSr/s728-rw-e365/hacker.png",
+        "Title": "Czech Mobile Users Targeted in New Banking Credential Theft Scheme",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUWsZNOreAdgvj-xKIuQccnrXUDt99Ud09fJifvhAvZ5XgfHp4UsdicXtwwrc2ewEUHJwLCVzrm0UcugeHRCZWEB_igoSpcdQlhKlZxaZ_GeqA-mv9dZcqXsM0LqwDNgMMgex4_2Vop4KXl0gQhlz7WU-elg-k8C4xf01Fx4X7-jyn0YUVIiTaY3Oo1Rml/s728-rw-e365/php.png",
+        "Title": "Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/anatomy-of-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwxwUnXF9PSm01BZvI6qAW038AG_WEeIxbN-TE1xpwyJAW1ZMEevKiPE6QbzWzG9YK-jHrd_4btRPxuxXzt5Cy3bzlk2L7y0Qb3KAg4MYGmL3S_I7M5CwFy2X60oTdUAalNm5ZseypHMDh6KaLH06NBCcx7qPIwCKSyRjI138lXFRmoyadZb2RCK319-7u/s728-rw-e365/chipset_monster_728x380.jpg",
         "Title": "Anatomy of an Attack",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 20, 2024"
+        "Timestamp": "Aug 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html",
@@ -63,6 +105,13 @@
         "Timestamp": "Aug 20, 2024"
     },
     {
+        "Link": "https://thehackernews.uk/netsec-2024-sans",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4s-cid3VsxVmEYlGPKkLJXI6iwtQ0-xtNnf2fXxzP0FTXoedzXMQtL4Cw-HDYqDB1bAnaiiAA2HMSXP-VHjnaOGqfvGVm6hweYuYlbJq1WjWhn1eum43xhOhOWI-9dQW4lsbkm0MIZGY0e2ueGY71Kwx9eOE9Cak20LTU2aOQkZVaDlVy6vaLINPchJSS/s728-rw-e365/oracle.png",
         "Title": "Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information",
@@ -73,6 +122,34 @@
         "Link": "https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnZmTHpxloKcJO06yzh7h0iUH9sfV6cHsFvb6lMhI5f6I-6o_HBWhT-HvntmAUhO47HnBgteP_L58h_BdghIJ4WJLuj3pPgbeIQzCZ9qN8gyHn8FILIMTXuBtm4ub3pQQhyxtRqSnij22wXKc9ebXe4GNFasrzsSaNnPK6-wdB6fUiZ5c4inQ1R3tzEoE/s728-rw-e365/ransomware.png",
         "Title": "CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s728-rw-e365/chinese-korea.png",
+        "Title": "New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s728-rw-e365/hacking.gif",
+        "Title": "Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvu6tO1L8Grcxs6kzmHhbzYgi1WClM2WQRoNyrNSIL8nggtk0BlYUEuCJeOk9s3r-hSdKCRRKG9V2u4b0UgMaOTxaGH5mzpCJffseGzkh-q_JYMaob7ah1pW45jx6wZZ0suNEUs5gaVItQh0kMO4fSV7Rnkd_siC881DkHr3ySmvlvMgbF-dAru6qfPE/s728-rw-e365/nudge.jpg",
+        "Title": "How to Automate the Hardest Parts of Employee Offboarding",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgl2Arh7P4C-OTsvWnTH5Cx0o7gZl_8yPTZWHkCO4qc4bmq7kbWP3TbE07hPc-uUAXIDmZCkWwDg76NCnDXnr5kOG4OCf_BXKylz13hizYsyqXMZJfoRipaLp8DbcwTOhbBxFtAn_mqNxexBLDSgLwdg54QmkQdzgazq4R1QPMorQtwx5aSdb1GISZ9yg/s728-rw-e365/svg.png",
+        "Title": "Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Aug 20, 2024"
     },
@@ -88,83 +165,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/nationalpublicdata.png",
         "Title": "National Public Data Published Its Own Passwords",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s728-rw-e365/chinese-korea.png",
-        "Title": "New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s728-rw-e365/hacking.gif",
-        "Title": "Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxjOUehLQNDndKDY7lGb-rLN54krMCWQ5cqJ4cgGZQVeS3S2BrQpmmZ_ZUx1qBtdze_nLG1FSukXPi8KzXt_nOCn9GoxzfrtodZOS5px3tI4QBdWZXzTDsNH8nbLNIboDrrjH-K1xZJCcfAMtxtOO2CvY9IwUbZeGyCNVMGESxISOnMtQlDtvEighsVOg/s728-rw-e365/hardsec.jpg",
-        "Title": "Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvu6tO1L8Grcxs6kzmHhbzYgi1WClM2WQRoNyrNSIL8nggtk0BlYUEuCJeOk9s3r-hSdKCRRKG9V2u4b0UgMaOTxaGH5mzpCJffseGzkh-q_JYMaob7ah1pW45jx6wZZ0suNEUs5gaVItQh0kMO4fSV7Rnkd_siC881DkHr3ySmvlvMgbF-dAru6qfPE/s728-rw-e365/nudge.jpg",
-        "Title": "How to Automate the Hardest Parts of Employee Offboarding",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgl2Arh7P4C-OTsvWnTH5Cx0o7gZl_8yPTZWHkCO4qc4bmq7kbWP3TbE07hPc-uUAXIDmZCkWwDg76NCnDXnr5kOG4OCf_BXKylz13hizYsyqXMZJfoRipaLp8DbcwTOhbBxFtAn_mqNxexBLDSgLwdg54QmkQdzgazq4R1QPMorQtwx5aSdb1GISZ9yg/s728-rw-e365/svg.png",
-        "Title": "Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmgKqJVkQhyiEPpoyAg2JvkYil5Ra9vctDcjje2kIDHatv6LissIZ8tXL07XbfwN53qTv4eaRSbqd9WYNwK27CViYPnPhkhgzfgyr1eBoMA7DOD_0mZ0p9I_4QZl8PyevDKJ1uIez96CCbr5e86K3791QtjBObDO7TTMOY2X8TuOpEup2wjN4ouGHWrVky/s728-rw-e365/northkorean-hackers.png",
-        "Title": "Microsoft Patches Zero-Day Flaw Exploited by North Korea's Lazarus Group",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0LrNQY3kfPDBRjB8L2ILvKSBPpNzf3vA3JBZIT9eed-64o45ao3yEkLdJJtv1Rc09ndpOtE3-5zceEtXuOhOXMK79Lbw6YrZ7JrCOtGbdHHOHMf1XGozWsl_52OBeIO_EuCegX-nC2TidlLvxH_7jjYx_MU6y_LN8Bb96B0eVpNu-pP2FGe8H5jlbEAk/s728-rw-e365/cybercrim.png",
-        "Title": "Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKv9uasNsw28qTYlQnEanUTlerknejVI09Ht0AM8f2mo_L9ySGQT5CSdSawy0TzIpwDEm-OgZ7qqIcezxAH2F51rN6jtmGczKX3k1xuyHA_8fVrpCE59GuM2wQz-wBZjs7EPNuocXaGHWLG4oZ7KiQgjcYG4Fha6xUR-JBPm54HofDpjwx7ckXQ8uBaQz/s728-rw-e365/iran.png",
-        "Title": "OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPzBsIN7k09qnc6QNqhRSrzxZwbh1ZcdqmXhW4Kc7VQTvL-aet5eOH0yNyvujouS7W07uAcwNpjB1GkLtfDjJzKDB26eJrZdL6qaYs4Kz_3w5wzM3CNRKU4ZqTRa79VbRKC2EXmp8ZcWAk9gMwn4paGovr9zJJSnpMX0rPtHunb0sRj7XPJPYxqdvrUIl/s728-rw-e365/aws.png",
-        "Title": "Attackers Exploit Public .env Files to Breach Cloud Accounts in Extortion Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/russian-hacker-jailed-3-years-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT_tPK-1d8KqqwWRVgwp06sPyRuNB1P-IAgJHPolJF8DEqldBiQqX6RDGbTPHRky-GshO1QRbI7iGpdguUkBg7bwjtLFrqzJyyI0_C9XTXYsUFhVDEFOl2gtyyWUS-UlCdkI7o-phk-2VSHzI8Tjyeivg9h3ll_zFHuJYPYq80kjpAX6QMckf5cOt4SIjo/s728-rw-e365/darkweb.png",
-        "Title": "Russian Hacker Jailed 3+ Years for Selling Stolen Credentials on Dark Web",
-        "Source": "The Hacker News",
         "Timestamp": "Aug 19, 2024"
     },
     {
@@ -196,16 +196,16 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
+        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
-        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -224,16 +224,16 @@
         "Timestamp": "Aug 13, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
-        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
-        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
+        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
+        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
+        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
+        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
+        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
     },
@@ -252,16 +252,16 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
+        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -308,16 +308,16 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
-        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
-        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
+        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
+        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
+        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/",
-        "Img_URL": "https://media.wired.com/photos/66b27a7010eb23fdb7e1636e/3:2/w_1280%2Cc_limit/Windows-downgrade-sec-1238265324.jpg",
-        "Title": "A Flaw in Windows Update Opens the Door to Zombie Exploits",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
+        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
         "Source": "WIRED",
         "Timestamp": "Aug 07, 2024"
     },
