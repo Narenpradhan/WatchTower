@@ -1,5 +1,89 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/cisa-urges-federal-agencies-to-patch.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPbx9n4YMc5dqBzc4EaCsvyuR5jKoCHZ-8LYUGQ0D3CVQMiJHiAbxlPXfb3fSFQ-TD1jgKbkFdEJF5f98GG-bERHylfQR7zjGzN4gzhFaDjJRc1CmGnYhPatOiySIuUeZPyJDaKL-kvNG5g1FuxUq6qetWZW2F0FuiusUhNAmswj04AfkluDVO2gzWfalR/s728-rw-e365/cisa.png",
+        "Title": "CISA Urges Federal Agencies to Patch Versa Director Vulnerability by September",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/meta-exposes-iranian-hacker-group.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKevur2EO98Hpd8HwNeCmpx8YHJLojNuG3EtGBa02Py2xC05fbWrozcFf2AXTZNE3t6wc8utAHzv4xHGn_CmpTw7F656H9kgrfX_WlHU9qMAF4MSFHtz4pZNPaUeNmxV6wCpM8l9WfXzVnmLMoPzam_XtpD3iyVhCU1FKE6RRq6fAPmQzwCqsqmLofvWn/s728-rw-e365/whatsapp.png",
+        "Title": "Meta Exposes Iranian Hacker Group Targeting Global Political Figures on WhatsApp",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s728-rw-e365/main.jpg",
+        "Title": "PEAKLIGHT Downloader Deployed in Attacks Targeting Windows with Malicious Movie Downloads",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/netsec-2024-sans",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1200/cybersecurity.png",
+        "Title": "Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qhAsVOjvSI7Mzmewyz75eboTgbj2frqh-MDInY2261ud1cTapBvZ70rjJpPpADJhRNM8UUc_ICA-zIC92u27nEOt6VmbnMK627Fvw2LQUWK6XAkYWLR7JYenNTkk9sn_9pz6mLf6LriENkWfBCV_jN1qDeChlOAGWVe6SLXtLuLxD7i9Xx3DdMjX4uw/s728-rw-e365/INTRUDR.png",
+        "Title": "Focus on What Matters Most: Exposure Management and Your Attack Surface",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6dV6h2dVU_94IVAKtyaL17vKHQQ6Ie8ljr3oBylLNLt5X9byIO_gL45RliOkbvwVkLacPNU_E3T2XoL2w2RWRrFn6o9vbaeo2k5ckOk6rcK-Vsr21886N7PbC3AqVnsdWgsxL04VIx7loCM68A5ef6fh4oDhtri095YqQoUFUbCDA1tnt_cYjRE_rZj9/s728-rw-e365/chrome.png",
+        "Title": "New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s728-rw-e365/permiso.png",
+        "Title": "Identity Threat Detection and Response Solution Guide",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhThsCrjuTkp1t9sdLUb5d2BV-RUenqkr7uffb-IGlqYRwlYdNjmrQcsb16dAu4qb8hkK7olzyatif4wRJ-N2LB6P5R06WzRg7vfASWZXIB2_N_c38UshFviqwQrXEeipgaPaGNXYGxTlhSOTNvgZBTLyoRjPolzKCqhLOBNtRpJQY1rr-V0Kv2j6Xs5Rwa/s728-rw-e365/macos-malware.png",
+        "Title": "New macOS Malware \"Cthulhu Stealer\" Targets Apple Users' Data",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GehAxhHswXBYvYk0x_EDVwRMSUEotBvQrPoWFjwZFyhKOSuXv0oVqTTfO6ZgdC77GlSlNQgm7itMrxucu5N6UkwgGblkJOq720vu30oToPZjyPgv44T8tkludJYy9zoP0jlWmTBcsayhEP5ruCdjpuP_mLNRm1P5uSVAMoriZ3faVZmPbeLScqGa61c_/s728-rw-e365/hacker-arrested.png",
+        "Title": "Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s728-rw-e365/rfid.png",
+        "Title": "Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/the-us-navy-has-run-out-of-pants/",
+        "Img_URL": "https://media.wired.com/photos/66c8b0df71b2aab2f13857f5/3:2/w_1280%2Cc_limit/navy-no-pants-biz.jpg",
+        "Title": "The US Navy Has Run Out of Pants",
+        "Source": "WIRED",
+        "Timestamp": "Aug 24, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/tld-cloud.png",
         "Title": "Local Networks Go Global When Domain Names Collide",
@@ -7,86 +91,37 @@
         "Timestamp": "Aug 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s728-rw-e365/main.jpg",
-        "Title": "New PEAKLIGHT Dropper Deployed in Attacks Targeting Windows with Malicious Movie Downloads",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1200/cybersecurity.png",
-        "Title": "Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qhAsVOjvSI7Mzmewyz75eboTgbj2frqh-MDInY2261ud1cTapBvZ70rjJpPpADJhRNM8UUc_ICA-zIC92u27nEOt6VmbnMK627Fvw2LQUWK6XAkYWLR7JYenNTkk9sn_9pz6mLf6LriENkWfBCV_jN1qDeChlOAGWVe6SLXtLuLxD7i9Xx3DdMjX4uw/s728-rw-e365/INTRUDR.png",
-        "Title": "Focus on What Matters Most: Exposure Management and Your Attack Surface",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6dV6h2dVU_94IVAKtyaL17vKHQQ6Ie8ljr3oBylLNLt5X9byIO_gL45RliOkbvwVkLacPNU_E3T2XoL2w2RWRrFn6o9vbaeo2k5ckOk6rcK-Vsr21886N7PbC3AqVnsdWgsxL04VIx7loCM68A5ef6fh4oDhtri095YqQoUFUbCDA1tnt_cYjRE_rZj9/s728-rw-e365/chrome.png",
-        "Title": "New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhThsCrjuTkp1t9sdLUb5d2BV-RUenqkr7uffb-IGlqYRwlYdNjmrQcsb16dAu4qb8hkK7olzyatif4wRJ-N2LB6P5R06WzRg7vfASWZXIB2_N_c38UshFviqwQrXEeipgaPaGNXYGxTlhSOTNvgZBTLyoRjPolzKCqhLOBNtRpJQY1rr-V0Kv2j6Xs5Rwa/s728-rw-e365/macos-malware.png",
-        "Title": "New macOS Malware \"Cthulhu Stealer\" Targets Apple Users' Data",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GehAxhHswXBYvYk0x_EDVwRMSUEotBvQrPoWFjwZFyhKOSuXv0oVqTTfO6ZgdC77GlSlNQgm7itMrxucu5N6UkwgGblkJOq720vu30oToPZjyPgv44T8tkludJYy9zoP0jlWmTBcsayhEP5ruCdjpuP_mLNRm1P5uSVAMoriZ3faVZmPbeLScqGa61c_/s728-rw-e365/hacker-arrested.png",
-        "Title": "Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s728-rw-e365/permiso.png",
-        "Title": "Identity Threat Detection and Response Solution Guide",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s728-rw-e365/rfid.png",
-        "Title": "Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/08/hardcoded-credential-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBPMsJw5aWxh01h9vTo-rHRITJrn8Yc6TCJKhOaV0XjasNwtRQ7ft_jbJ3GlwH5Fe51gPI_6oJLKgonrURVmA4SJoy2KR3LS4E4rJWY3Xy4Zws79H5YHbknVHyT9DJ7uXb7NdUJGwU2Dg-n9-mCpHccI7gHothyGYoeg6_rT23F-4CCUwAJMkoHK_7hvvX/s728-rw-e365/solarwinds.png",
         "Title": "Hardcoded Credential Vulnerability Found in SolarWinds Web Help Desk",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
+        "Timestamp": "Aug 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6XWpYws2dOW80uSy4fmXkLO7pv-HAVa_5Zyf5YDT-2Ym-9Z2HNaTAigVhozKez9-nKSHI2yXYQ838lrRjj3JwRHgo0aUHk-0v8e4cL88bgqOtPD3mVDeKdQ0XHBv7uzbj9GHvxXW7XxVglReGwD_ko4S2ci5ndbyurlOyIA0rQhJhtvpQj9Znu5p8hN1/s728-rw-e365/cisco.png",
         "Title": "Chinese Hackers Exploit Zero-Day Cisco Switch Flaw to Gain System Control",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 23, 2024"
+        "Timestamp": "Aug 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s728-rw-e365/permiso.png",
+        "Title": "Identity Threat Detection and Response Solution Guide",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 22, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6k0N7bqs3T4R7FPHi-N0_uYWqGnQvrN7J94ZxTS4GOHjK9_FRrBmLfHhtUJ-K5kdfLmAjrX_zp8SwtZUIIUL2EaD6hB2sRLv5qEnQKeDlvBfz1PT996-nRK_Sg16FUfilyFI6_TufyAG3O2o8lqwaApZivdaLVCBE9Ch7rJPtZmpOeObOj-QTl_KoSkm/s728-rw-e365/aws.gif",
         "Title": "New 'ALBeast' Vulnerability Exposes Weakness in AWS Application Load Balancer",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/netsec-2024-sans",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 22, 2024"
     },
@@ -98,23 +133,9 @@
         "Timestamp": "Aug 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s728-rw-e365/permiso.png",
-        "Title": "Identity Threat Detection and Response Solution Guide",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 22, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa438cNI-kWRUazsdQsCFYzJHBvtDGViCVLxQMwWs3S9TQvl4rodqbv_bJpC5ASdjZGmlfi0canStydrfK3riuNCHw20xH09i3yKj8UCl9SFGlOQ99dzoDIACsRpbgUFLsR7FFsmkQE1bBS0XA-ZqTbJOXJkidiiEEo6RlbGJ-SkkhBZpBvzDhxoyYsud/s728-rw-e365/chrome.png",
         "Title": "Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBM2A6lXlbMtBF4Fyh-gZ21Tx-7-t41kUdGhqPi6Ah0HudF42czEQQf-wG3aYPZQt7dADvalr-Mm9bhRqe7X4DgMYDmWJUz2s_h6Mah9gFN3GbkFXdbZEeMW4YsAOBhEcuE3xz-PHP24Tgx8cX9dAPdn3hM0yG3Hrw29LyMSTkynqd_64T_GWYjE1lmon6/s728-rw-e365/sans-3.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 22, 2024"
     },
@@ -147,20 +168,6 @@
         "Timestamp": "Aug 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/north-korean-hackers-deploy-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6O5VVJRO_ykPp_XGDmggfq6ceilNzvPj8QVMLu-t7xb311-CrWgBWS7xat89vPUn9nYqSNx0mTgcE0jfmVdZAYQvdJtjXhgJLWPohjizdnHL7vHitCnZpcUz6VRueiLlvo9UXbKMGuotO_ojEyo9_nCaU1L_D8QQJDLJxVHW9NN-7MSWWhtbdkrt98Aga/s728-rw-e365/northkorean.png",
-        "Title": "North Korean Hackers Deploy New MoonPeak Trojan in Cyber Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s728-rw-e365/main.png",
-        "Title": "It's Time To Untangle the SaaS Ball of Yarn",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 22, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/",
         "Img_URL": "https://media.wired.com/photos/66c5ef3e9ae4b3e6dcdfb46c/3:2/w_1280%2Cc_limit/ai-flaws-hunt-sec-1136381089.jpg",
         "Title": "The US Government Wants You\u2014Yes, You\u2014to Hunt Down Generative AI Flaws",
@@ -182,11 +189,11 @@
         "Timestamp": "Aug 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/geofence-warrants-ruled-unconstitutional-tmobile-fine-deepfake-nudes-lawsuit/",
+        "Link": "https://www.wired.com/story/national-public-data-breach-leak/",
         "Img_URL": "https://media.wired.com/photos/66bf663a1d205fe2883920be/3:2/w_1280%2Cc_limit/Geofence-Warrants-Sec-1757877521.jpg",
         "Title": "Geofence Warrants Ruled Unconstitutional\u2014but That\u2019s Not the End of It",
         "Source": "WIRED",
-        "Timestamp": "Aug 17, 2024"
+        "Timestamp": "Aug 16, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/",
@@ -252,16 +259,16 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
+        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -280,16 +287,16 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
-        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
+        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
+        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -301,9 +308,9 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
-        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
-        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -329,13 +336,6 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
-        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
-        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
-        "Source": "WIRED",
-        "Timestamp": "Aug 07, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/windows-update-downdate-exploit/",
         "Img_URL": "https://media.wired.com/photos/66b25553199305b86ee72542/3:2/w_1280%2Cc_limit/080624-security-doxbin.jpg",
         "Title": "Inside the Dark World of Doxing for Profit",
@@ -343,11 +343,11 @@
         "Timestamp": "Aug 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/",
-        "Img_URL": "https://media.wired.com/photos/66b27b013f9281db1c3dc85b/3:2/w_1280%2Cc_limit/Crowdstrike-Lawsuits-Business.jpg",
-        "Title": "CrowdStrike Faces a Potential Tsunami of Lawsuits. Only the Fine Print Can Save It, Experts Say",
+        "Link": "https://www.wired.com/story/doxing-extortion-violence-as-service/",
+        "Img_URL": "https://media.wired.com/photos/66b3ef6bed705b9278666827/3:2/w_1280%2Cc_limit/20240804_Wired_Defcon_SamyKamkar_003.jpg",
+        "Title": "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes",
         "Source": "WIRED",
-        "Timestamp": "Aug 06, 2024"
+        "Timestamp": "Aug 07, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/low-drama-dark-angels-reap-record-ransoms/",
