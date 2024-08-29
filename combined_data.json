@@ -1,5 +1,82 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPe_n8YxPhw_S9Bx-W16TInTWtxAccBIFMImF8erCisqZQDPG9QBZTTliTUUaX0AwSCmhlt1GKqtpvxVvWW5iU2qG1PWUlYW3iMhyapyuaNOANouXiwogDiAIUZbkxtQAGgZ9hIPxhhoYFy6zPjIKqQfRc35oBqiIaXpI4MU9hGGtBB_sUAeyag6oUuKp9/s728-rw-e365/iran-hackers.png",
+        "Title": "U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNBBgTuCUTvvb2i-7H0n4K2g_5iSW-hzyh_FG1Y7YWdtT1suSemyMWWABitQmomg9yCgYM3_Zk3yeMFzmgSb4-FBwaVAu46-R6TEe7hyrTe3_3e-FRbDaw4af482bUK7IpCOVcy0aJGhozhZs97CoruNWPwc5RGVyIj2r1tOJs4VU90dpW8G0oEYB48Mg/s728-rw-e365/main.png",
+        "Title": "How AitM Phishing Attacks Bypass MFA and EDR\u2014and How to Fight Back",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmCAXc8tLDN2Yogg2y5YYov2WtgAYIGpudEEWoC3IXLdyHzRjwFrTTGom275gndIRlEcfdEtpXN_6Z1-AHdseNE7vf7DHCS6N0zNzwBBx66u1BuhFmPk4VNBtu7LJClJnuyITIhAerkKoRgjVaui31yQ5EqL_Jbr2HR_vO_o2RfccSfhBTNhl7i7e_6JXf/s728-rw-e365/cctv.png",
+        "Title": "Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZn5ZhxM6T8iyHA3RpR6Gy1ubf27aghXLU5orhOfO1ZzSlcN5jNXKA921vRDfegK65KJUDNz_00_056ecgGntm9em-hlvPDVbqe_jtnR3NVr15q_W-oJ3RrzyazyNWQ746tz852be_PxZITQ2zf5r4hRuQpjMwF8wJ_5MoJ4Tr6aRbypsBmXPUw_1BDLX/s728-rw-e365/telegram.png",
+        "Title": "French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhll4nRqffZM1r4q0orn0bZUqeogqwx2e-Hs0O7SPV3CK1p1B8DsLmFE40P9ggDpokbkaMKF2DlnYxqGO9pGzlHl3qINJSNsCvhEqrmDUtHNKTiP43Dte7Q2ozTQAuJjhKSRY-OE2mtKXOxWnoq-MdlBi51eAPwyVH4n7tCdn6WXKARIP2PVeHqLjOy0c8p/s728-rw-e365/password.png",
+        "Title": "Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s728-rw-e365/hackers.png",
+        "Title": "APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
+        "Title": "How to Augment Your Password Security with EASM ",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s728-rw-e365/ransomware.png",
+        "Title": "BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyeWV0KedUYiO2TCZNEIWpKk1ZYizkOD1ai6fK83UNWCu1fB-RuTrTibzN9tnVQJDxQsLCibB0BoZVgG5THQv5ObfTA-LmaXQCkutEmO5Cu1tqRuAjyGOJxkdM2NTHI0_9O-n5GSPcE8rdFQqRIKxV3jWomAal0fjmuysLejfLIujHGnMAzmiuw521_QB/s728-rw-e365/apache.jpg",
+        "Title": "CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5wpqpPcY7kI-K4vfQ_dgFzkKIaNrud0Te2goLNzmbkQKJqtq0bqd_0kv13hyphenhyphenwZMLUVSIdn2lpHjLHfReGAzyJmp0NG_Oc7HEprtuacIZ-W63gOgxtA2fsYPJIwbGNizqnWgOkYCvHtnhGNssjltw8MTwKbxJ6m9dd7p5qkHf8gPPES7c7zcXwTrN62Ne/s728-rw-e365/phishing.png",
+        "Title": "New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/08/when-get-out-the-vote-efforts-look-like-phishing/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/wdiv-sms.png",
         "Title": "When Get-Out-The-Vote Efforts Look Like Phishing",
@@ -7,58 +84,9 @@
         "Timestamp": "Aug 28, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhll4nRqffZM1r4q0orn0bZUqeogqwx2e-Hs0O7SPV3CK1p1B8DsLmFE40P9ggDpokbkaMKF2DlnYxqGO9pGzlHl3qINJSNsCvhEqrmDUtHNKTiP43Dte7Q2ozTQAuJjhKSRY-OE2mtKXOxWnoq-MdlBi51eAPwyVH4n7tCdn6WXKARIP2PVeHqLjOy0c8p/s728-rw-e365/password.png",
-        "Title": "Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s728-rw-e365/hackers.png",
-        "Title": "APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s728-rw-e365/ransomware.png",
-        "Title": "BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyeWV0KedUYiO2TCZNEIWpKk1ZYizkOD1ai6fK83UNWCu1fB-RuTrTibzN9tnVQJDxQsLCibB0BoZVgG5THQv5ObfTA-LmaXQCkutEmO5Cu1tqRuAjyGOJxkdM2NTHI0_9O-n5GSPcE8rdFQqRIKxV3jWomAal0fjmuysLejfLIujHGnMAzmiuw521_QB/s728-rw-e365/apache.jpg",
-        "Title": "CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5wpqpPcY7kI-K4vfQ_dgFzkKIaNrud0Te2goLNzmbkQKJqtq0bqd_0kv13hyphenhyphenwZMLUVSIdn2lpHjLHfReGAzyJmp0NG_Oc7HEprtuacIZ-W63gOgxtA2fsYPJIwbGNizqnWgOkYCvHtnhGNssjltw8MTwKbxJ6m9dd7p5qkHf8gPPES7c7zcXwTrN62Ne/s728-rw-e365/phishing.png",
-        "Title": "New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TdktyLZv9Not7fvAbH1YMEOa3_jfRPrj6fkxeFwFb1Ab2Qk0URwsIqzOH6SyneAULR4PqHVPlb4ftiP5CnR3Jy3CeXW-VYRaV5s5Hcw9IYpWG1EnBtRo3gnA4BrFE6YnVfMPZbckpNz5fz4JnDjK7JznjsETjn3Esw9ArRNgW14k4IrNEBCmMGhpuDEA/s728-rw-e365/wpml.png",
         "Title": "Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
-        "Title": "How to Augment Your Password Security with EASM ",
         "Source": "The Hacker News",
         "Timestamp": "Aug 28, 2024"
     },
@@ -70,6 +98,13 @@
         "Timestamp": "Aug 28, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
+        "Title": "How to Augment Your Password Security with EASM ",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn-hvoXJcgFcTy0Hn5fvPZiFjjo2T9S2mATPzg0AJpOpHERf0rc-7X1hEex2TlNXbH3CfK7LOux_gkZjmNFlGEEf5IOuhj8LlLbhviX8V7bPbIHRn8cG1UcoPv46c-sqryXzWeVzkkp0EMZERswpwVXFi1UfoFbniRZUQwNv9yjfstLipCUhEUnFEQSN7J/s728-rw-e365/versa.png",
         "Title": "Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors",
@@ -77,9 +112,51 @@
         "Timestamp": "Aug 28, 2024"
     },
     {
+        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/08/ctem-in-spotlight-how-gartners-new.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7t4nmUMSvjzkh6_lMnhskHklV1UrqxlB-VCbN8aU-ANnt70HQJrxhtMtaiV4MFFBCDVzht0NPnEJqYgO7lZgYAFLcKYR2TpwiaQaVLEE033WH6XY_Jlj6r5h67T9qdL8SfnOdYQ-ApcaAGIQgdfjBsGF34Enc1nk50onpl5eLdsna-73YS6SzvOVZFT8/s728-rw-e365/pentera.png",
         "Title": "CTEM in the Spotlight: How Gartner's New Categories Help to Manage Exposures",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s728-rw-e365/ms.png",
+        "Title": "Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s728-rw-e365/chrome.png",
+        "Title": "Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_E4LUK0YF-ig9M9pBoT67TAwZ_EzcZ2sYtFmzhIow9hXpx5A16jE5zkc9aXH0Bd7BdyNYmTDzEs1NnMvog-KgTlDRJw4Tfn1LX-0HBXpixC_qm2Z_0-aInNUMr8BnPDGGltxHtwJ3vMuBkzC3OFDmfEp1MXs1QmUMhui-LaqDgWWfSJqJ1dNGQSgxo1cu/s728-rw-e365/sonic.jpg",
+        "Title": "SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxsQTTiXQzZa0E3sRFj5kg95PFamXiK_e14EjTGgqYqB0J4YYdDecYS4NUlG6j7D-s6F-WfxIjnImbNssOObVnU3SUNgsBbzWA2lW5sgjl2q1JSP-s61TTlCORLhxKjR1J7-_5g8D_FK-HsxlWrNqNoxlWSK0ps8vzC5kFtitGfgrpWrQdGOWbg0QsOAEv/s728-rw-e365/Uber.png",
+        "Title": "Dutch Regulator Fines Uber \u20ac290 Million for GDPR Violations in Data Transfers to U.S.",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 28, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qmf7urqgOsvOOciibdKfjy8AcehS_-_JQeND3megK5AkjphlY6yszBi1xDpB4RXwf21v__D5_OU0OSXM1Tc10Ic0invGpOx3bP4BNfLVH6RseGx7rkMQNfxBgD8mY0rO-AwmIDva4_aJk4ugj6D6cb4iNfNUQEMoD1rwAQwnFJ0ynvLffLWjTctyXfMY/s728-rw-e365/slack.png",
+        "Title": "Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration",
         "Source": "The Hacker News",
         "Timestamp": "Aug 28, 2024"
     },
@@ -95,83 +172,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/ss-dissolvingsphere.png",
         "Title": "New 0-Day Attacks Linked to China\u2019s \u2018Volt Typhoon\u2019",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s728-rw-e365/ms.png",
-        "Title": "Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s728-rw-e365/chrome.png",
-        "Title": "Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s728-rw-e365/outpost24.png",
-        "Title": "How to Augment Your Password Security with EASM ",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_E4LUK0YF-ig9M9pBoT67TAwZ_EzcZ2sYtFmzhIow9hXpx5A16jE5zkc9aXH0Bd7BdyNYmTDzEs1NnMvog-KgTlDRJw4Tfn1LX-0HBXpixC_qm2Z_0-aInNUMr8BnPDGGltxHtwJ3vMuBkzC3OFDmfEp1MXs1QmUMhui-LaqDgWWfSJqJ1dNGQSgxo1cu/s728-rw-e365/sonic.jpg",
-        "Title": "SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxsQTTiXQzZa0E3sRFj5kg95PFamXiK_e14EjTGgqYqB0J4YYdDecYS4NUlG6j7D-s6F-WfxIjnImbNssOObVnU3SUNgsBbzWA2lW5sgjl2q1JSP-s61TTlCORLhxKjR1J7-_5g8D_FK-HsxlWrNqNoxlWSK0ps8vzC5kFtitGfgrpWrQdGOWbg0QsOAEv/s728-rw-e365/Uber.png",
-        "Title": "Dutch Regulator Fines Uber \u20ac290 Million for GDPR Violations in Data Transfers to U.S.",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qmf7urqgOsvOOciibdKfjy8AcehS_-_JQeND3megK5AkjphlY6yszBi1xDpB4RXwf21v__D5_OU0OSXM1Tc10Ic0invGpOx3bP4BNfLVH6RseGx7rkMQNfxBgD8mY0rO-AwmIDva4_aJk4ugj6D6cb4iNfNUQEMoD1rwAQwnFJ0ynvLffLWjTctyXfMY/s728-rw-e365/slack.png",
-        "Title": "Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/researchers-identify-over-20-supply.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqO9WE1xCBsO_HgoHbRLs5HnSu_3-EGbtyIWpwv-1sNkXsUcR9oWmxpSjr6ecg29Qea9A9hdspar1y1tZ0xp_e4xF-1tp8rugbcgxA-b99gV44HcIDFGBqUTxiJtrOVJi8f8eHdGUGMubL9QjrJrJoW-YX3gBouOlX_0jqvONRZljNdxPXOcPX2qV-tG2/s728-rw-e365/aiml.png",
-        "Title": "Researchers Identify Over 20 Supply Chain Vulnerabilities in MLOps Platforms",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/critical-flaws-in-traccar-gps-system.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEAueQ83P-n8Tb9-uc6BdnNm1XMf_BNle-Wwl-btR74oHrOPZ7m-WmhcLE3kuBPtsZyBIlNwk6xYyDdu5ZQXuM4PEAB7s9APUiqSqHByjestjSPfM4VtiNp-agkgVCLMmp7nffQTPNS00KtRsAIVtRrWovaKq97IwiwMZ7tj6RqSQ7Smr2O6nrVXJghNq/s728-rw-e365/gps.png",
-        "Title": "Critical Flaws in Traccar GPS System Expose Users to Remote Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4NAE5gthGZlwYKMUsU45byy41qnNcncWQ_McraIO4ssnvYilPp3xZvTi4YPSkBRTKMj_P6HJL-5eFHztdMNQmii9pwtetK49mDSeWFzB182Bw1GS0moPdls_3PZOM-D5fCDUt5a-Mc-Kwz94JPVpb0_bLYM9D37-ImNlQqA9vCsXFVWEM08MjOTaIDNr/s728-rw-e365/card.png",
-        "Title": "New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSMPZF8oXQ93q7y-oUZyicawvgH1srb4wu8B2PRA4XJMkdW86DE0W60RsX5f8VxpnlsZFnmmtaBnH308uMc-4sfpBmNK98ZuU-Hg7doQgbIarZseTMHiMyMnJVW2Fwhzip6luKlL1zV6o7GV9Li7Fo8RwGRCcBJ_8MUE2d5jkrdnjzR3Z0wa1CmOXSWiD/s728-rw-e365/telegram.png",
-        "Title": "Telegram Founder Pavel Durov Arrested in France for Content Moderation Failures",
-        "Source": "The Hacker News",
         "Timestamp": "Aug 27, 2024"
     },
     {
@@ -238,6 +238,13 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Source": "WIRED",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
         "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
         "Title": "Your Gym Locker May Be Hackable",
@@ -252,18 +259,18 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
-        "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/clicktofix.png",
         "Title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 13, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
+        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
+        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Source": "WIRED",
+        "Timestamp": "Aug 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
@@ -273,11 +280,11 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
-        "Timestamp": "Aug 10, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
@@ -294,18 +301,32 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
         "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
         "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
+        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
+        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
@@ -318,27 +339,6 @@
         "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
         "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
         "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
-        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
-        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
