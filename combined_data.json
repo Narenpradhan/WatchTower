@@ -1,9 +1,9 @@
 [
     {
-        "Link": "https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/",
-        "Img_URL": "https://media.wired.com/photos/66d1fcac2ba140b3146024f6/3:2/w_1280%2Cc_limit/Roundup-Cancelled-TaylorSwift-Shows-Vienna-Security-2163973554.jpg",
-        "Title": "Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKrQY2GczDoiblC6rudv5vqGubelyNus27VfYdNAQQfU7NifRTM4xpmzpFpv3Hdv8s0qxxWqMZMeQBb7GXtFlwIObKm28RlU8e83QONNqHRfzRCPDq0FACnsdB5_SU1_zo5YQPsQILDGoJQc42qA5ugyJZBsbGA7YJWCA4hT1e93mOveGF06SPiR29hep/s728-rw-e365/chrome.jpg",
+        "Title": "North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit",
+        "Source": "The Hacker News",
         "Timestamp": "Aug 31, 2024"
     },
     {
@@ -11,82 +11,96 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZM1I_1IammsLAPBtXux2xk8jKq8tNh3mcMIve7U5xQtVw8X5cAOgfx8YBREl82jG3eQK0iqiJPOGYdS3jRLTldnGmyXjiC39H4UM8nHqr6b6vg009HtAi6Fw2u9FbK3kV2GfJUt2TzQ-HZh1SnVAoSG6KgQbmELMjVOitXqoW1maKDHouooZIrEaVocbu/s728-rw-e365/hackers.jpg",
         "Title": "Cyberattackers Exploit Google Sheets for Malware Control in Likely Espionage Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvkDJKVf4Rgrv1AF3icXmTkauTUUnJoGXCsA7YlZdIUAJvEfSRHY8cDMAm65kULJsZR8MVVo2zMnS3DCMvBnMcVvgz4ra_jSWXwGQ69HMnU7DcYEjVi71Ayb3LxSqYOvtvqfvPpP3dMSbANp2Ddl1uf7Zy_OpY78AldwT7vcASgdOygX7ZXm-QJs0GpcD3/s728-rw-e365/Iranianhackers.jpg",
         "Title": "Iranian Hackers Set Up New Network to Target U.S. Political Campaigns",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YTUlWPmUtsZzTzgJa4oOCvHRip6kcEvUB4wDHPdngVxIba5xBGopEcGhTyTI0vrUUu_XYWaUrFfUsfhcLlXdldRMRR7137eLwURg03bh1ISSCvQ_HyPVZAvCVMvroBRgGbQVE6LpKdzkJx-YwJ8bz9lt_BJqxGUNU1P0SzatRhZSMWMhuw9gnysJCzQ/s728-rw-e365/main.png",
-        "Title": "Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.uk/netsec-2024-sans-2",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
         "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YTUlWPmUtsZzTzgJa4oOCvHRip6kcEvUB4wDHPdngVxIba5xBGopEcGhTyTI0vrUUu_XYWaUrFfUsfhcLlXdldRMRR7137eLwURg03bh1ISSCvQ_HyPVZAvCVMvroBRgGbQVE6LpKdzkJx-YwJ8bz9lt_BJqxGUNU1P0SzatRhZSMWMhuw9gnysJCzQ/s728-rw-e365/main.png",
+        "Title": "Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZ_yHeNmoOwsprS42dp4qmfJXGtprrtVR0znNbYkZOswx3hEuujgjOisNDe_KxllgyxpJnrPlxSDw4mtgOgwwBB3HEak2l2PvRzSCdCU4d3wWCGCLLjkPMjXjUDRxqiHqiTg8vRj0y9L2Ao6MTA81H9OgNq9kKpwj_0PV_0xyHmPXZwCBL0dDpsWxCtsT/s728-rw-e365/tm%20%281%29.jpg",
         "Title": "New Malware Masquerades as Palo Alto VPN Targeting Middle East Users",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/north-korean-hackers-target-developers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIpR87w3MZzu3tokB-OtMJ8c8lZGfO0E5AK6xJpWlKFjH5q3OlkKo1bDpp45nFMMi-DbSl_VmO-Lc3IkmZv5ZJQDOhiR9Sv001aIAo3pfiDoe65VswkeNBAfWXYovZ11pYgAXM_4URIYGiBJrRP0_rj2qel7cNWTaP3zY_Jo4YXFDxds6OuMr3AtS3fW9T/s728-rw-e365/crypto.png",
         "Title": "North Korean Hackers Target Developers with Malicious npm Packages",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qmf7urqgOsvOOciibdKfjy8AcehS_-_JQeND3megK5AkjphlY6yszBi1xDpB4RXwf21v__D5_OU0OSXM1Tc10Ic0invGpOx3bP4BNfLVH6RseGx7rkMQNfxBgD8mY0rO-AwmIDva4_aJk4ugj6D6cb4iNfNUQEMoD1rwAQwnFJ0ynvLffLWjTctyXfMY/s728-rw-e365/slack.png",
+        "Title": "Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/sans-institute-unveils-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiY7HE8tXcRdTwvMa7G_3goWsXh6ysfcWaLJNcEy_zs4bN4NRURTbfPIw-80NxPeZhj1KWKshZhrc1wEp4ph0OGXGWZOe7xhPx5pkg0hJDQR8WIOlkdIm7gAYJ0c0LXWbH_ZrA58q2Bb_8sxrW7059k8FKMpcVFf91dOhARP9Jo6-oqnXFsJxaIjmEnOw/s728-rw-e365/sans.jpg",
         "Title": "SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s728-rw-e365/main.png",
-        "Title": "It's Time To Untangle the SaaS Ball of Yarn",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/new-cyberattack-targets-chinese.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7PUbwqT9X9WjONn09hHtsNvtLKUEBE1HerAB7PtK0JuCClv6nm7l3CKrhaWe-LQDEj0zV7eU8DjutbIMs5U2uQWfLXYCl5Y0MBeoaVAg4ji7KNq6Z8pKLgdo6OxNDleZ0dTeUs020v68v0k-1N5_C1L5w2m5FIfko6BNyUeicHzwHgrWPK-EZjzyz7Jx3/s728-rw-e365/malware.png",
         "Title": "New Cyberattack Targets Chinese-Speaking Businesses with Cobalt Strike Payloads",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/atlassian-confluence-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil8TUj1EsSi8qTkWEeZRcLoaEeWcHe9nS3we3kpLGWRJT4bPan_uj_3U4Gk6HuGd2koMTJKnN2R8ZBJQTze7SzMimOAY1q-1WnnGwSJhWY1Du7SLSmfPlcrGLFRx6IelQTzB6VlceLxIjrPc4z-7n0dC_t6a_l9MoljUaH3T7ssBNGsaFrFaR2qKAzZvlj/s728-rw-e365/at.jpg",
         "Title": "Atlassian Confluence Vulnerability Exploited in Crypto Mining Campaigns",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 31, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/",
+        "Img_URL": "https://media.wired.com/photos/66d1fcac2ba140b3146024f6/3:2/w_1280%2Cc_limit/Roundup-Cancelled-TaylorSwift-Shows-Vienna-Security-2163973554.jpg",
+        "Title": "Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip",
+        "Source": "WIRED",
+        "Timestamp": "Aug 31, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1TK5Fhs03GTUwEItgP_qrkAVv5gukRmUE7mkvYQBgUmbq9NGziq9Vju0BHcU1e-7zWOYenRfXo4EXgyXP_Qsuo_nKMaTOTvf_CvzPyZof-vv3ShHMYTudzkGTNh-1fow3LMYI2Ed1ULo1F6I2bQcOU1SUl7CY3HMyUlunODkNulMMcgv3A3X0V1BEjiRR/s728-rw-e365/code.png",
         "Title": "Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32",
         "Source": "The Hacker News",
-        "Timestamp": "Aug 30, 2024"
+        "Timestamp": "Aug 29, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoD_miYC3jjngBIC4D2ne0i3fBjP4QjredBmaemfSYpQwgBPcWqAY9dwdGU0AIS9wnqqdBFnil5OpTsIUUtPD494pDu6CFSKSN8NWl2-1J6KelhumdHEf1j5GUT9iq40xn8Z-BxFEKAA8XLWqKM3B4hC-hXZb3Cx-z9goT3eMhgx_kTrgiAPPXL_zX6QJ/s728-rw-e365/chrome.png",
         "Title": "Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack",
+        "Source": "The Hacker News",
+        "Timestamp": "Aug 29, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qmf7urqgOsvOOciibdKfjy8AcehS_-_JQeND3megK5AkjphlY6yszBi1xDpB4RXwf21v__D5_OU0OSXM1Tc10Ic0invGpOx3bP4BNfLVH6RseGx7rkMQNfxBgD8mY0rO-AwmIDva4_aJk4ugj6D6cb4iNfNUQEMoD1rwAQwnFJ0ynvLffLWjTctyXfMY/s728-rw-e365/slack.png",
+        "Title": "Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration",
         "Source": "The Hacker News",
         "Timestamp": "Aug 29, 2024"
     },
@@ -98,9 +112,9 @@
         "Timestamp": "Aug 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s728-rw-e365/main.png",
-        "Title": "It's Time To Untangle the SaaS Ball of Yarn",
+        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
+        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 29, 2024"
     },
@@ -108,13 +122,6 @@
         "Link": "https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNBBgTuCUTvvb2i-7H0n4K2g_5iSW-hzyh_FG1Y7YWdtT1suSemyMWWABitQmomg9yCgYM3_Zk3yeMFzmgSb4-FBwaVAu46-R6TEe7hyrTe3_3e-FRbDaw4af482bUK7IpCOVcy0aJGhozhZs97CoruNWPwc5RGVyIj2r1tOJs4VU90dpW8G0oEYB48Mg/s728-rw-e365/main.png",
         "Title": "How AitM Phishing Attacks Bypass MFA and EDR\u2014and How to Fight Back",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/netsec-2024-sans-2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidRc4vz4YFxI7PebVPFs7iEk8Ph4GvthQuQok-szpfD2WJ9Zfri7EdoBaAJ7KrUYBpMBMMo3YA1W3272zy6867spRRObArVp_PP1W549_0L3asUG6x2DlCQt0luEtashU9zpiVPx3ZG2RzLRR7_JUgvqOWvpmHdejBwiGCXX_cQ3HX-9HVqHHUcGrWQAZI/s728-rw-e365/sans-4.jpg",
-        "Title": "SANS Institute 35th Anniversary Complimentary Cyber Bundle ($1700 Value) at Network Security 2024",
         "Source": "The Hacker News",
         "Timestamp": "Aug 29, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s728-rw-e365/ransomware.png",
         "Title": "BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave",
-        "Source": "The Hacker News",
-        "Timestamp": "Aug 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyeWV0KedUYiO2TCZNEIWpKk1ZYizkOD1ai6fK83UNWCu1fB-RuTrTibzN9tnVQJDxQsLCibB0BoZVgG5THQv5ObfTA-LmaXQCkutEmO5Cu1tqRuAjyGOJxkdM2NTHI0_9O-n5GSPcE8rdFQqRIKxV3jWomAal0fjmuysLejfLIujHGnMAzmiuw521_QB/s728-rw-e365/apache.jpg",
-        "Title": "CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports",
         "Source": "The Hacker News",
         "Timestamp": "Aug 29, 2024"
     },
@@ -252,6 +252,13 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Source": "WIRED",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
         "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
         "Title": "Your Gym Locker May Be Hackable",
@@ -266,25 +273,11 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
-        "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/clicktofix.png",
         "Title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
-        "Source": "WIRED",
-        "Timestamp": "Aug 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
@@ -294,16 +287,16 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
+        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
+        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Source": "WIRED",
+        "Timestamp": "Aug 10, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
         "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -322,16 +315,16 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
+        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
         "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
-        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
-        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
+        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
+        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -350,9 +343,16 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
-        "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+        "Img_URL": "https://media.wired.com/photos/66b3ded5029c500caa827e33/3:2/w_1280%2Cc_limit/Copilot-Hack-Sec-2153247591.jpg",
+        "Title": "Microsoft\u2019s AI Can Be Turned Into an Automated Phishing Machine",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
