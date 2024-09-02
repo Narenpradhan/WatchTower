@@ -252,16 +252,16 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
+        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
-        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -294,23 +294,9 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
         "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
         "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
-        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -322,11 +308,18 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
-        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
-        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
+        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
         "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
+        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
+        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
@@ -336,9 +329,16 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
+        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
+        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/",
+        "Img_URL": "https://media.wired.com/photos/66b23be658e822bdb4b6476c/3:2/w_1280%2Cc_limit/Post-Office-Scam-Sec-182159999.jpg",
+        "Title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -350,9 +350,9 @@
         "Timestamp": "Aug 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
