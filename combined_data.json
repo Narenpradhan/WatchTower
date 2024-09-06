@@ -315,16 +315,9 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
-        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
-        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -336,9 +329,16 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
+        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
+        "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
+        "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
