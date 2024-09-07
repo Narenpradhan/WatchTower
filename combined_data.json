@@ -287,13 +287,6 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
-        "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
         "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
@@ -308,18 +301,18 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
+        "Source": "WIRED",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/clicktofix.png",
         "Title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
-        "Source": "WIRED",
-        "Timestamp": "Aug 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
@@ -329,9 +322,16 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
+        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
+        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
+        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Source": "WIRED",
+        "Timestamp": "Aug 10, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
+        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
@@ -350,23 +350,23 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
-        "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
+        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
     },
     {
         "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
         "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
         "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
+        "Source": "WIRED",
+        "Timestamp": "Aug 08, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
