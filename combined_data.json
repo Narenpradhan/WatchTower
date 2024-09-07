@@ -1,80 +1,87 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjXzEvofsRELc9uMuaCspjBDrSO4GYQQ5QCRNiPTQBT9xnnioKyNCWawpm2hj_Nmr7nbbT5PHCOVW5dfP8QjvdiSBX2qYM2N6xQZo-IeVNoC6Gj_BxXPF1yNNo0cnzSfEg5bIrc2OAvUeNx5grTcM1Ma6O8-fqfKrkY6dhThjrTscKp9BGmOx2A1xU_fS/s728-rw-e365/korea.jpg",
+        "Title": "North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifuI_x48Er0D9SFvrtTfGGQKIqz_oxxqP08_ytxErYALyUK3jTxJd14X_8sqULhQBmE1cTYt_ohBDrj1dkB0xEoljMpocYbWGutKmZ_V5chpb8hqbZIJfOawxYW9UOTs8yvX_yFrMpDfUvz1k91RDGe5l2g7iX7wIwjpsM1k_xf_oUQJMDvZwwmBXvH7o/s728-rw-e365/lock.jpg",
+        "Title": "FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94kQNq2UxVgyM5omAODW5nu1F0SKZEl96UDoPrEPj-p-rl2q_LIr9YEBm3cpdFCuLY_hGhBwewN1p_Q1t1AbnFCHACNyTobW7UtcY_iLfEyeKKrI48cUGODgJ3OGcWxnM9QwNOPwGUyckvGhMD2gMfj9Mom8yL-v08T95UOqA6qrODsJEtYB8RRw0_0Yh/s728-rw-e365/sonic.jpg",
         "Title": "SonicWall Urges Users to Patch Critical Firewall Flaw Amid Possible Exploitation",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s728-rw-e365/jeo.jpg",
-        "Title": "GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/github-actions-vulnerable-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ouqKcDvZSytTquetMMAV8KwtIzuMmRC7FzZZbe3eFjobkEPNOJkrLZyIOL_p8Cvljb1dSlf9QtwnDU5sruAJNAStOu1dFI9D07wjJJGiDGJXc0-8KK5l_sGE6OKQJK_iGA5jx5k7oAOShKXmfTLRRPLqwq4-iqu_18WGN6mNR1yrpk1jOGL9RbR7XSep/s728-rw-e365/Code.jpg",
-        "Title": "GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://thehackernews.uk/hkn-infostealers-webinar",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj54XiB-eIRt6EwK81vCBAENtvmoBcTZ_fEXmao8KSapJaaZPXLqSMFQLKDyOA6w9lrNQZ_uO3JFqC16x9U4l6NM8zTNns7SUPe-zZ7cF-cpnw39WRi50JWWdTG8zIHBzDrv5Ppy6NhgBnyM2fUCT4CCi_gwIgpxIZenGK42j8diI8gljags5uUy0da_EAj/s728-rw-e365/info.png",
         "Title": "Infostealers: How Attackers Are Stealing Your Cookies and Bypassing MFA",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s728-rw-e365/jeo.jpg",
+        "Title": "GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/github-actions-vulnerable-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ouqKcDvZSytTquetMMAV8KwtIzuMmRC7FzZZbe3eFjobkEPNOJkrLZyIOL_p8Cvljb1dSlf9QtwnDU5sruAJNAStOu1dFI9D07wjJJGiDGJXc0-8KK5l_sGE6OKQJK_iGA5jx5k7oAOShKXmfTLRRPLqwq4-iqu_18WGN6mNR1yrpk1jOGL9RbR7XSep/s728-rw-e365/Code.jpg",
+        "Title": "GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-JzOxEtjlUyLJ5JwDHgO4iXpieUP81digrVVZRcEd1QLK7cP4ebH-mxVkLE4VnKNT7e4zTxCM9FWFxIS0MRpSfTKTw2TYkekfxPw0Q1R8Aos_QrSzQlTqygjGuXxPONe-7a_6Sp0iydaxr0QRmrRV-ZcuJmDl9wAU2gbZb0Ro2RMGA6Zi1eBNiBeLlk/s728-rw-e365/cynomi.jpg",
         "Title": "The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2025",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQSpPMGyIKr93U-s5wnbjTCCdtaYQIRbD5OgwB7QOCXLBgt9dpooR4vyuZIb9DYfte4rkxeiG-WpkBUnZMgozRTLtXq0EqN_bBf_KLtEPCPDMmWIRa0FhQUz2D2szGP_yfBQM1pKQX6uqmY74U8wfKyU4D8oWVufd_DBKhV_TOpqesKZD6Za0_fCcrP8Q/s728-rw-e365/lightspeed.jpg",
-        "Title": "Critical Security Flaw Found in LiteSpeed Cache Plugin for WordPress",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWHmqqU7IY8lGXVl0blicq17FHTd_BrWSZqgB9wacCMWtpTlzi-I5BAwGw1Cu1Vf7_RsKvZq1QLk941EluSbsuPPH-bgUZ7yCyd_mzGPEvuwSWsXoZNNPtRtEeajFQVdm7HrzZ386gHdpl9fN7oRj6TTr1UUVFiV3G_fLgazfaqGtHz46A4oLyCbeQzmu8/s728-rw-e365/apache.jpg",
-        "Title": "Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/08/sans-institute-unveils-critical.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiY7HE8tXcRdTwvMa7G_3goWsXh6ysfcWaLJNcEy_zs4bN4NRURTbfPIw-80NxPeZhj1KWKshZhrc1wEp4ph0OGXGWZOe7xhPx5pkg0hJDQR8WIOlkdIm7gAYJ0c0LXWbH_ZrA58q2Bb_8sxrW7059k8FKMpcVFf91dOhARP9Jo6-oqnXFsJxaIjmEnOw/s728-rw-e365/sans.jpg",
         "Title": "SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQSpPMGyIKr93U-s5wnbjTCCdtaYQIRbD5OgwB7QOCXLBgt9dpooR4vyuZIb9DYfte4rkxeiG-WpkBUnZMgozRTLtXq0EqN_bBf_KLtEPCPDMmWIRa0FhQUz2D2szGP_yfBQM1pKQX6uqmY74U8wfKyU4D8oWVufd_DBKhV_TOpqesKZD6Za0_fCcrP8Q/s728-rw-e365/lightspeed.jpg",
+        "Title": "Critical Security Flaw Found in LiteSpeed Cache Plugin for WordPress",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWHmqqU7IY8lGXVl0blicq17FHTd_BrWSZqgB9wacCMWtpTlzi-I5BAwGw1Cu1Vf7_RsKvZq1QLk941EluSbsuPPH-bgUZ7yCyd_mzGPEvuwSWsXoZNNPtRtEeajFQVdm7HrzZ386gHdpl9fN7oRj6TTr1UUVFiV3G_fLgazfaqGtHz46A4oLyCbeQzmu8/s728-rw-e365/apache.jpg",
+        "Title": "Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/paul-durov-criticizes-outdated-laws.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqqJhfoi747T8nNmO7pR47iTtf5bQ7EywCZesQqTXCLwulDmidEqK0M8tdPfDChESUJiRQARlURKcjQSlakNEzjcOPb0rsEHocTYMRkItd-8jBOT80InKHeChOZzfk03uB2WndTLPAEBXyryeA4fr8_YT7gj7E9_dqu7lmMV6C2T3x9xJNl9iT9YlXsiM/s728-rw-e365/telegram-ceo.jpg",
         "Title": "Pavel Durov Criticizes Outdated Laws After Arrest Over Telegram Criminal Activity",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s728-rw-e365/chinese-hackers.jpg",
-        "Title": "Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s728-rw-e365/veeam.jpg",
-        "Title": "Veeam Releases Security Updates to Fix 18 Flaws, Including 5 Critical Issues",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 06, 2024"
+        "Link": "https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/",
+        "Img_URL": "https://media.wired.com/photos/66db309b6f71f9df4e4fc4c9/3:2/w_1280%2Cc_limit/PP-sec-roundup-1147032405.jpg",
+        "Title": "Hackers Threaten to Leak Planned Parenthood Data",
+        "Source": "WIRED",
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://www.wired.com/story/confidant-health-therapy-records-database-exposure/",
@@ -84,9 +91,37 @@
         "Timestamp": "Sep 06, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s728-rw-e365/chinese-hackers.jpg",
+        "Title": "Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s728-rw-e365/veeam.jpg",
+        "Title": "Veeam Releases Security Updates to Fix 18 Flaws, Including 5 Critical Issues",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/08/sans-institute-unveils-critical.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiY7HE8tXcRdTwvMa7G_3goWsXh6ysfcWaLJNcEy_zs4bN4NRURTbfPIw-80NxPeZhj1KWKshZhrc1wEp4ph0OGXGWZOe7xhPx5pkg0hJDQR8WIOlkdIm7gAYJ0c0LXWbH_ZrA58q2Bb_8sxrW7059k8FKMpcVFf91dOhARP9Jo6-oqnXFsJxaIjmEnOw/s728-rw-e365/sans.jpg",
+        "Title": "SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 05, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebs5cmH5AJR4EA9q7ZJmD4qvvHNbnDXP5-fR0uBQRiDMtUKV_ciqWBZ3fsz-JYT95lNd83t9GLeB6yP6YSRaUdL1jMK8XMCELh1sNlf76a4unNpKLY75VsBxdOaRi7NYL2sL9fL4Wm2r9Z1hTVE7sqaqcTzefp-CYCzTCV5S_tb2DOUAac1fhsYq6F9SV/s728-rw-e365/fakenews.jpg",
         "Title": "U.S. Seizes 32 Pro-Russian Propaganda Domains in Major Disinformation Crackdown",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-infostealers-webinar",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj54XiB-eIRt6EwK81vCBAENtvmoBcTZ_fEXmao8KSapJaaZPXLqSMFQLKDyOA6w9lrNQZ_uO3JFqC16x9U4l6NM8zTNns7SUPe-zZ7cF-cpnw39WRi50JWWdTG8zIHBzDrv5Ppy6NhgBnyM2fUCT4CCi_gwIgpxIZenGK42j8diI8gljags5uUy0da_EAj/s728-rw-e365/info.png",
+        "Title": "Infostealers: How Attackers Are Stealing Your Cookies and Bypassing MFA",
         "Source": "The Hacker News",
         "Timestamp": "Sep 05, 2024"
     },
@@ -98,23 +133,9 @@
         "Timestamp": "Sep 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/08/sans-institute-unveils-critical.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiY7HE8tXcRdTwvMa7G_3goWsXh6ysfcWaLJNcEy_zs4bN4NRURTbfPIw-80NxPeZhj1KWKshZhrc1wEp4ph0OGXGWZOe7xhPx5pkg0hJDQR8WIOlkdIm7gAYJ0c0LXWbH_ZrA58q2Bb_8sxrW7059k8FKMpcVFf91dOhARP9Jo6-oqnXFsJxaIjmEnOw/s728-rw-e365/sans.jpg",
-        "Title": "SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024: A Call to Action for Securing ICS/OT Environments",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 05, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaP_XZ8zY6oVEzwRJ1ZdOpFh7_gfB22B2mu6nRf2w9r3A4iD9TjOcDBQ4aD6hCCj7dfeyFGZBcoukAuZHTu-o6PSPXc-P0guW4ZZGpbsp62hca5ONjTLHqlBajOD7HUK7sbeWfDQyBHsJxIiLapN070cIyUPjzP6n130hVotnJrQE1OnuWGk9eDnJEi_G/s728-rw-e365/talos.jpg",
         "Title": "Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-infostealers-webinar",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj54XiB-eIRt6EwK81vCBAENtvmoBcTZ_fEXmao8KSapJaaZPXLqSMFQLKDyOA6w9lrNQZ_uO3JFqC16x9U4l6NM8zTNns7SUPe-zZ7cF-cpnw39WRi50JWWdTG8zIHBzDrv5Ppy6NhgBnyM2fUCT4CCi_gwIgpxIZenGK42j8diI8gljags5uUy0da_EAj/s728-rw-e365/info.png",
-        "Title": "Infostealers: How Attackers Are Stealing Your Cookies and Bypassing MFA",
         "Source": "The Hacker News",
         "Timestamp": "Sep 05, 2024"
     },
@@ -147,20 +168,6 @@
         "Timestamp": "Sep 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Hel-8ANHTua9rNhRLRWwf_lWbIrRqnJICcLADWnyPcH-6Lt7nO_FLlyA3rv3jZJZNS-fwVLlVWBvJLEBursDobXtXZn9_YkCe8Sjy0z8hYWA4vS0Lu0CwHX7UlwSRaPqgjtJxUUshj2FwrbfXfiF7R4w2Q8iAwsHiKSuPwKpjxf3rJFfIqK2R-SPXIJR/s728-rw-e365/pipy.jpg",
-        "Title": "Researchers Find Over 22,000 Removed PyPI Packages at Risk of Revival Hijack",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK_r3anov1AcRNGaTL9V8GV4bafj49gjKYHWEuFc0aUkdnEpQBtelQp-iSCtB2duIyQOkLXMt5nlW1m-W6Zy-5cawC8Zl07vmiQLw_TQNkKg6NCNv7bKcKtPJ-VTm-HW6XwOsxiUp9V6YlclABSJoDa_uWt5SktpPTRU0nH1Ln9J-5R571G-F7R9ZNcxqP/s728-rw-e365/router.jpg",
-        "Title": "Zyxel Patches Critical OS Command Injection Flaw in Access Points and Routers",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 05, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/russia-gru-unit-29155-hacker-team/",
         "Img_URL": "https://media.wired.com/photos/66d8cc98a6495f9e6355ff87/3:2/w_1280%2Cc_limit/090424-security-russia-special-forces-unit.jpg",
         "Title": "Russia\u2019s Most Notorious Special Forces Unit Now Has Its Own Cyber Warfare Team",
@@ -182,11 +189,11 @@
         "Timestamp": "Sep 02, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/taylor-swift-terrorist-attack-cia-tip/",
+        "Link": "https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/",
         "Img_URL": "https://media.wired.com/photos/66d1fcac2ba140b3146024f6/3:2/w_1280%2Cc_limit/Roundup-Cancelled-TaylorSwift-Shows-Vienna-Security-2163973554.jpg",
         "Title": "Taylor Swift Concert Terror Plot Was Thwarted by Key CIA Tip",
         "Source": "WIRED",
-        "Timestamp": "Aug 31, 2024"
+        "Timestamp": "Aug 29, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/when-get-out-the-vote-efforts-look-like-phishing/",
@@ -287,16 +294,16 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
+        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
-        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -322,6 +329,13 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
+        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
+        "Source": "WIRED",
+        "Timestamp": "Aug 09, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
         "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
         "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
@@ -336,13 +350,6 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
         "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
@@ -350,9 +357,9 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/",
-        "Img_URL": "https://media.wired.com/photos/66b3d8afd56fa91cfdf78433/3:2/w_1280%2Cc_limit/Web-Timing-Attacks-Sec-501041959.jpg",
-        "Title": "Tricky Web Timing Attacks Are Getting Easier to Use\u2014and Abuse",
+        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
+        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
+        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
@@ -360,13 +367,6 @@
         "Link": "https://www.wired.com/story/web-timing-attacks-black-hat-2024/",
         "Img_URL": "https://media.wired.com/photos/66b3cac3a922a7712a7c43e0/3:2/w_1280%2Cc_limit/Crash-Reports-Sec-140000036.jpg",
         "Title": "Computer Crash Reports Are an Untapped Hacker Gold Mine",
-        "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
         "Source": "WIRED",
         "Timestamp": "Aug 08, 2024"
     },
