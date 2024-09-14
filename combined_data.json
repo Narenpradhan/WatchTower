@@ -1,5 +1,89 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdyzjGgfvSQnPqXU4PJfrmx3sqRgAJ7DFwfrIBK9MeAfOd-n2kpNSJWRmLGe8DGsQGTr1buw8zmOwA3QByMNON1iEX7mbu49Z0KMpsIyycniRK-YbSx2LnVJnOk9nY-k7lEpcfSYUDmmsnUT3_lm6xh5smYRoH8z-hZOdldgjKxYTALny7XBgWKoxsYRCm/s728-rw-e365/it-admin.png",
+        "Title": "Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFZtARTwuk4omtzRI6uJB2HW4roNb12rVKbkQ3nVtk4un0rVCXr9PCzl4KuXxltsD5ffGuIHh_WXGSUKo17tpl0t74Bozkv7VAlPklW4geKvD-tjNH8OTOYrZhwf515qjVxKXvohg5IuN_bKF-bpNh_WFlwBXS3KBPuHhfhcixIpW4iaPNh4fn_9MW8UX/s728-rw-e365/vision.png",
+        "Title": "Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/17-year-old-arrested-in-connection-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk6fS5fXGhwym8qKIdBzz5ExXqAkrmgeJcBanIQA7BPOiE0yB9n5n-AU8aZI7MMiJHg8Y8odfZtugZWRrUqaFHUQ9UVpAP1mLx_oPkRoic0__PvhyUnO9tcarIS9NuzlFDDSljpTrUyO-Q-zTIOnTYL5vyrmZUaYsg0448NyF6MU-Wk_xhD8rhRpMGlwCH/s728-rw-e365/teen-hacker.png",
+        "Title": "17-Year-Old Arrested in Connection with Cyber Attack Affecting Transport for London",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-blue-report-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGF18rMCiKPvEA2ISuKTrwTbGyeAJddKUJY-vORnakJnYagJ4y3aoMtZ2a3ka6r4ZFCEmK1spYOupVN3gMvwjEMGxE4HfRRzZ57Ii7-KoGKj2O8jpa2zTCvBZP0tw66tkdVEjAORZ0jhjB4w1YjjjZ-wZbSfu9T95ZPHixuEJ__5JJPbLsAMYwo1P0uyCE/s728-rw-e365/picus.png",
+        "Title": "Secure Your Network: 40% Face Full Takeover Risk",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
+        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s728-rw-e365/android.png",
+        "Title": "TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwsCKnKbm_k5Z4LYVTzJRb2JJVbADj2n7Gv8g1Peqss7CBJDnW6s-lzg9_gOKD4cNKkuNUvMC6P-bTIgBMnauQGCTRlEv6eY6ES3FDD117tPlNs8kVW6Mr-eOmTjt9Yf08zQZVlOuBELFpPAYhHcds8L2Z9qI3MNN21C7ejC93Mmr8eKfM9k9hGLmRFMw/s728-rw-e365/whats.png",
+        "Title": "Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s728-rw-e365/wing.jpg",
+        "Title": "Wing Security SaaS Pulse: Continuous Security & Actionable Insights \u2014 For Free",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSdOH_iG3-1pFOkL8O_raEWS93M8dHveWyFuvo_D8ZAooK9EZ-CH9THrmsxexvLhbj8-uhU7EbIg09Zop6vhjxXLNgQbUpbzgj91MsdFCkV1V0Z5B6d7aq8ByHbjqhnphBD1zGCxFfRJEX6fRvgb29ZukgHUI_uBPi6UKJaTwD8kJTIWbZkh1n4BLu9iW/s728-rw-e365/oracle.png",
+        "Title": "New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ODgGIxS3ijPM5o-TnCXrn-eoiR8b31L_BQRE65hFvpt_Unrc2vIuPJcRs9FMTgtqkCbKfLJ93e3z-HWkEgQaZLZJQDz38_gnlxZHoj_TjZ0f-oi2fDc4C4sT_3a2Jpi89NTdf28D7Gkyp1OtJoIdHYJ3E48JdgrDiYQEEgZZwOOuzz_O6MhAVla1XCT8/s728-rw-e365/android-malware.png",
+        "Title": "New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioB9Ryjdgxq6OnvFZsKxR77bV8pwXXQ-UZ7jf8S-CQHLhppawUgx3eeazyD48dBUyaaEFXAp-Bpg8DBwDKLjGfKc2eKPcE20ejmb4mRwM5NbLg_tRNeh5vAKviBJTBcCSazZ7_bfrZfzs9q40C1Zk3Ind29mQG_I7ZYXRT0osmPYHzZi99U2fsuzGJ-mTH/s728-rw-e365/gitlab.png",
+        "Title": "Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/",
+        "Img_URL": "https://media.wired.com/photos/66e49db3c547018981902ffc/3:2/w_1280%2Cc_limit/Security_ChatGPT_Bomb_GettyImages-1434753385.jpg",
+        "Title": "Security News This Week: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions",
+        "Source": "WIRED",
+        "Timestamp": "Sep 14, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/vegasnight-ss.png",
         "Title": "The Dark Nexus Between Harm Groups and \u2018The Com\u2019",
@@ -7,86 +91,23 @@
         "Timestamp": "Sep 13, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFZtARTwuk4omtzRI6uJB2HW4roNb12rVKbkQ3nVtk4un0rVCXr9PCzl4KuXxltsD5ffGuIHh_WXGSUKo17tpl0t74Bozkv7VAlPklW4geKvD-tjNH8OTOYrZhwf515qjVxKXvohg5IuN_bKF-bpNh_WFlwBXS3KBPuHhfhcixIpW4iaPNh4fn_9MW8UX/s728-rw-e365/vision.png",
-        "Title": "Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/17-year-old-arrested-in-connection-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk6fS5fXGhwym8qKIdBzz5ExXqAkrmgeJcBanIQA7BPOiE0yB9n5n-AU8aZI7MMiJHg8Y8odfZtugZWRrUqaFHUQ9UVpAP1mLx_oPkRoic0__PvhyUnO9tcarIS9NuzlFDDSljpTrUyO-Q-zTIOnTYL5vyrmZUaYsg0448NyF6MU-Wk_xhD8rhRpMGlwCH/s728-rw-e365/teen-hacker.png",
-        "Title": "17-Year-Old Arrested in Connection with Cyber Attack Affecting Transport for London",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
-        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-blue-report-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGF18rMCiKPvEA2ISuKTrwTbGyeAJddKUJY-vORnakJnYagJ4y3aoMtZ2a3ka6r4ZFCEmK1spYOupVN3gMvwjEMGxE4HfRRzZ57Ii7-KoGKj2O8jpa2zTCvBZP0tw66tkdVEjAORZ0jhjB4w1YjjjZ-wZbSfu9T95ZPHixuEJ__5JJPbLsAMYwo1P0uyCE/s728-rw-e365/picus.png",
-        "Title": "Secure Your Network: 40% Face Full Takeover Risk",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s728-rw-e365/android.png",
-        "Title": "TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwsCKnKbm_k5Z4LYVTzJRb2JJVbADj2n7Gv8g1Peqss7CBJDnW6s-lzg9_gOKD4cNKkuNUvMC6P-bTIgBMnauQGCTRlEv6eY6ES3FDD117tPlNs8kVW6Mr-eOmTjt9Yf08zQZVlOuBELFpPAYhHcds8L2Z9qI3MNN21C7ejC93Mmr8eKfM9k9hGLmRFMw/s728-rw-e365/whats.png",
-        "Title": "Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmSdOH_iG3-1pFOkL8O_raEWS93M8dHveWyFuvo_D8ZAooK9EZ-CH9THrmsxexvLhbj8-uhU7EbIg09Zop6vhjxXLNgQbUpbzgj91MsdFCkV1V0Z5B6d7aq8ByHbjqhnphBD1zGCxFfRJEX6fRvgb29ZukgHUI_uBPi6UKJaTwD8kJTIWbZkh1n4BLu9iW/s728-rw-e365/oracle.png",
-        "Title": "New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s728-rw-e365/wing.jpg",
-        "Title": "Wing Security SaaS Pulse: Continuous Security & Actionable Insights \u2014 For Free",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ODgGIxS3ijPM5o-TnCXrn-eoiR8b31L_BQRE65hFvpt_Unrc2vIuPJcRs9FMTgtqkCbKfLJ93e3z-HWkEgQaZLZJQDz38_gnlxZHoj_TjZ0f-oi2fDc4C4sT_3a2Jpi89NTdf28D7Gkyp1OtJoIdHYJ3E48JdgrDiYQEEgZZwOOuzz_O6MhAVla1XCT8/s728-rw-e365/android-malware.png",
-        "Title": "New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioB9Ryjdgxq6OnvFZsKxR77bV8pwXXQ-UZ7jf8S-CQHLhppawUgx3eeazyD48dBUyaaEFXAp-Bpg8DBwDKLjGfKc2eKPcE20ejmb4mRwM5NbLg_tRNeh5vAKviBJTBcCSazZ7_bfrZfzs9q40C1Zk3Ind29mQG_I7ZYXRT0osmPYHzZi99U2fsuzGJ-mTH/s728-rw-e365/gitlab.png",
-        "Title": "Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VFlOkmjocz2dKdk8IKDlmp_ZwBbjvkass15qNPHFMz1AglZZNj_EuAocNOqbuZ-ziDooNpodC7-_AFHmn29BWCd3jmdlB1NKPMnaWivd1c0EXdnStcV2m_degVOqX1NQeQ_i9RqWV5Q0KqEz2dsuUcWi68-5o2X_LAU3SIY_98PQqr3b3sM9RkaXpq6k/s728-rw-e365/android-tv-hacked.png",
         "Title": "Beware: New Vo1d Malware Infects 1.3 Million Android-based TV Boxes Worldwide",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 13, 2024"
+        "Timestamp": "Sep 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoGuKEpZPKqpXBEZT4m-90_NLm-CmkYZO4pnu41ogEtQo1IdLp9TdRSbjX9iGoBSrxxy8-d1DA_sMwZtsumx-XUWvsiohNA4tYTkYYkVNxxBL3CRE5ZkMsgGFUDnSp_mbLmG4El44nz7UmIoYHC_822B_lYrrnt6XkhKxePkMD1ZiR7qAt7VkKZhUQJOxJ/s728-rw-e365/crypto.png",
         "Title": "Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s728-rw-e365/wing.jpg",
+        "Title": "Wing Security SaaS Pulse: Continuous Security & Actionable Insights \u2014 For Free",
         "Source": "The Hacker News",
         "Timestamp": "Sep 12, 2024"
     },
@@ -98,9 +119,9 @@
         "Timestamp": "Sep 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s728-rw-e365/wing.jpg",
-        "Title": "Wing Security SaaS Pulse: Continuous Security & Actionable Insights \u2014 For Free",
+        "Link": "https://thehackernews.uk/hkn-blue-report-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGF18rMCiKPvEA2ISuKTrwTbGyeAJddKUJY-vORnakJnYagJ4y3aoMtZ2a3ka6r4ZFCEmK1spYOupVN3gMvwjEMGxE4HfRRzZ57Ii7-KoGKj2O8jpa2zTCvBZP0tw66tkdVEjAORZ0jhjB4w1YjjjZ-wZbSfu9T95ZPHixuEJ__5JJPbLsAMYwo1P0uyCE/s728-rw-e365/picus.png",
+        "Title": "Secure Your Network: 40% Face Full Takeover Risk",
         "Source": "The Hacker News",
         "Timestamp": "Sep 12, 2024"
     },
@@ -108,13 +129,6 @@
         "Link": "https://thehackernews.com/2024/09/iranian-cyber-group-oilrig-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnAO3xprXWLipJ1WTQ37Ks193mLtUAX3ay3ax49HS8rEwld_SS-nclbMM84I6eRqtwt63Ns_czeFSfxL0pohWwzi3kvSNCmAEXp2ew77_QLPSk5d0VBtfS8juTKPiqUZdNWObwTv-952Rh0L6m860rHpFf5IQrZMmQxg240Nrb-68-lBNQW2ufRAhKOq7/s728-rw-e365/iran.png",
         "Title": "Iranian Cyber Group OilRig Targets Iraqi Government in Sophisticated Malware Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-blue-report-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGF18rMCiKPvEA2ISuKTrwTbGyeAJddKUJY-vORnakJnYagJ4y3aoMtZ2a3ka6r4ZFCEmK1spYOupVN3gMvwjEMGxE4HfRRzZ57Ii7-KoGKj2O8jpa2zTCvBZP0tw66tkdVEjAORZ0jhjB4w1YjjjZ-wZbSfu9T95ZPHixuEJ__5JJPbLsAMYwo1P0uyCE/s728-rw-e365/picus.png",
-        "Title": "Secure Your Network: 40% Face Full Takeover Risk",
         "Source": "The Hacker News",
         "Timestamp": "Sep 12, 2024"
     },
@@ -154,13 +168,6 @@
         "Timestamp": "Sep 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlYV3jOdKLqTA0SAT1kiUA489XiUJFp3lz1DGHSOo6XAD0AJ63kPKoSducyBr8JdG-IKwf9-38FIdIc4uU6CXI15gPGGU5lj2xqwkVPTn2-QPY_i0L3W0RMHm_kvID2CAixW6mHJDaXpixSMPasg8UwN16WQth-W4iibuWLY-8pzsjTXgnZwOUxrqwBv8/s728-rw-e365/passwordless.png",
-        "Title": "Why Is It So Challenging to Go Passwordless?",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 12, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/apple-private-cloud-compute-ai/",
         "Img_URL": "https://media.wired.com/photos/66e1f2f13153e32af5cd679a/3:2/w_1280%2Cc_limit/2156402014",
         "Title": "Apple Intelligence Promises Better AI Privacy. Here\u2019s How It Actually Works",
@@ -182,11 +189,11 @@
         "Timestamp": "Sep 07, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/confidant-health-therapy-records-database-exposure/",
+        "Link": "https://www.wired.com/story/russia-gru-unit-29155-hacker-team/",
         "Img_URL": "https://media.wired.com/photos/66d9e57ff7f1ee72477cac9b/3:2/w_1280%2Cc_limit/090524-virtual-medical-company-therapy-notes-leak.jpg",
         "Title": "Therapy Sessions Exposed by Mental Health Care Firm\u2019s Unsecured Database",
         "Source": "WIRED",
-        "Timestamp": "Sep 06, 2024"
+        "Timestamp": "Sep 05, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/",
@@ -294,13 +301,6 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/3:2/w_1280%2Cc_limit/Data-Leak-Sec-129310449.jpg",
-        "Title": "The Slow-Burn Nightmare of the National Public Data Breach",
-        "Source": "WIRED",
-        "Timestamp": "Aug 15, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/",
         "Img_URL": "https://media.wired.com/photos/6640f1f0f59145e49d5e32e1/3:2/w_1280%2Cc_limit/Google-Pixel-8A-Back-View-Hand-Reviewer-Photo-SOURCE-Julian-Chokkattu.png",
         "Title": "Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App",
@@ -308,11 +308,11 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Link": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/3:2/w_1280%2Cc_limit/Data-Leak-Sec-129310449.jpg",
+        "Title": "The Slow-Burn Nightmare of the National Public Data Breach",
         "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
     },
     {
         "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
@@ -325,6 +325,13 @@
         "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
         "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
+        "Source": "WIRED",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -350,13 +357,6 @@
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66b5958604fd2c5b86fd5ce3/3:2/w_1280%2Cc_limit/Security_DEFCON_AMD_20240808_Wired_AMD_010.jpg",
         "Title": "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections",
@@ -378,11 +378,11 @@
         "Timestamp": "Aug 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/crash-reports-vulnerability-data/",
-        "Img_URL": "https://media.wired.com/photos/66b588d07809e5aed75f01ca/3:2/w_1280%2Cc_limit/Security_HID_20240808_Wired_Keycard_018.jpg",
-        "Title": "How Hackers Extracted the \u2018Keys to the Kingdom\u2019 to Clone HID Keycards",
+        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
+        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
+        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
         "Source": "WIRED",
-        "Timestamp": "Aug 08, 2024"
+        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
