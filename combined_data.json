@@ -77,6 +77,13 @@
         "Timestamp": "Sep 17, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/pager-explosion-hezbollah/",
+        "Img_URL": "https://media.wired.com/photos/66e9a494b0d98af92f9a7398/3:2/w_1280%2Cc_limit/hazbollah-pagers-2171810466.jpg",
+        "Title": "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers",
+        "Source": "WIRED",
+        "Timestamp": "Sep 17, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/master-your-pci-dss-v4-compliance-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgciGs8IzcblKq25O4TDjwJ0HSx3-J8gDg684-BngQVGTWW3pvI5URxwuN8ChR4AsdSCMoLjyfzaP8jknQWm4BqF6JdUviUC50-OgO4WsVTM6eLzDaNIr-HrXtWyUQlYWjqw0A1Umyp_dLboZfNwIN0Jv0WAqTg6GWzrgsZnwbez6vUtFzi87f2Ft5ay60/s728-rw-e365/main.png",
         "Title": "Master Your PCI DSS v4 Compliance with Innovative Smart Approvals",
@@ -175,18 +182,18 @@
         "Timestamp": "Sep 13, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-private-cloud-compute-ai/",
-        "Img_URL": "https://media.wired.com/photos/66e1f2f13153e32af5cd679a/3:2/w_1280%2Cc_limit/2156402014",
-        "Title": "Apple Intelligence Promises Better AI Privacy. Here\u2019s How It Actually Works",
-        "Source": "WIRED",
-        "Timestamp": "Sep 11, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
         "Title": "Bug Left Some Windows PCs Dangerously Unpatched",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 10, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/",
+        "Img_URL": "https://media.wired.com/photos/66e1f2f13153e32af5cd679a/3:2/w_1280%2Cc_limit/2156402014",
+        "Title": "Apple Intelligence Promises Better AI Privacy. Here\u2019s How It Actually Works",
+        "Source": "WIRED",
+        "Timestamp": "Sep 07, 2024"
     },
     {
         "Link": "https://www.wired.com/story/confidant-health-therapy-records-database-exposure/",
@@ -322,9 +329,9 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
-        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -336,9 +343,9 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
+        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -350,16 +357,16 @@
         "Timestamp": "Aug 13, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
+        "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
+        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
+        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
-        "Img_URL": "https://media.wired.com/photos/66bbe01d46c43f797c9265e6/3:2/w_1280%2Cc_limit/security_bike_race_shimano_shifters_dv843023.jpg",
-        "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
+        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
+        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
+        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
     },
@@ -374,13 +381,6 @@
         "Link": "https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/",
         "Img_URL": "https://media.wired.com/photos/66b4ec4f6854b340cc3c07c8/3:2/w_1280%2Cc_limit/Qualcomm-GPU-Sec-2024689931.jpg",
         "Title": "Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/amd-chip-sinkclose-flaw/",
-        "Img_URL": "https://media.wired.com/photos/66b61b5c2e4be3e6f5e33d06/3:2/w_1280%2Cc_limit/ATM-Hack-Sec-1032687466.jpg",
-        "Title": "ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look",
         "Source": "WIRED",
         "Timestamp": "Aug 09, 2024"
     },
