@@ -1,5 +1,40 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEW90pkil285v8c8sQ5HUgxr87_gf0wc-PTQnLeFDeA3MT1A9qjswqQDbeJVDcxCceRR6iWCi49nzWX1Gxy_-Sy1qnISnINr2faz-mVHVtN6rogpuC77jN0uU6OIkt6DMayxDt9U0jC4FXX-iTv_21ODuPgWZzpiZ-aFtyKmNMRinHp9dz3PoeLnB1M4/s728-rw-e365/ransomware.png",
+        "Title": "Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s728-rw-e365/hacking.png",
+        "Title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujXDb6oqH-O0kJpddR0GkqHEcPlL0RQ0K0tVLK-GnO_LM0dSTLmqqbfwehFaEJKSgYlUU7gkKj8O4JR_X4953WIP9QYyGCHWwWpfdnDZzmRL5FAaePfFosQDpTH7P8rKchXb2PALeTzRszFQEBZJbkIHFHaN_k8dNUu__hosjbffSzgpQW2_ArKSyAhoD/s728-rw-e365/CYBERATTAC.png",
+        "Title": "New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
+        "Title": "DevOps Security Best Practices",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQJdANNLf6jZ3svP-n1iRIY6amvjG4FFO6IkcI0CXXXNgyGKbAVQQfFFhC7zVwFaFBRcBDgLKFVqFmi0_MUyN3RUTcGy_fPxzz-diwOSHHZXaddIg72oh72RYbLDTxiNU5WksFs8a253IbKeLM64Du0RBLs16MzwdJKWFrnH77InBXvlV4_Buz4sFVoRs/s728-rw-e365/servers.png",
+        "Title": "New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ge961EidZCr0GSb_CLQiYwhAqXsf9rdu5S_k4E8ZFLl2SuwFAhO8NpbhmG3MagvwORfilmb8GUuMCL7ugn1KDTK02GT0s5EnXMCjPmh0tv0c1EegXPLSKElVDih7IrkxuZy4vjWfdsgHFPFRLB5UvU7G6IgsqQ7N6vfUX7bZyOBVdNwlVQyWbQrbSQI/s728-rw-e365/MAIN.png",
         "Title": "Healthcare's Diagnosis is Critical: The Cure is Cybersecurity Hygiene",
@@ -14,16 +49,16 @@
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s728-rw-e365/git.png",
-        "Title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
+        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
+        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
-        "Title": "DevOps Security Best Practices",
+        "Link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s728-rw-e365/git.png",
+        "Title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -42,38 +77,10 @@
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/why-pay-pentester.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdYxL7FIM5Frxlo41vhViTa20ABR6GQcWCgXi8vkFMqxYDrTuCFYfRceID9W7FF75WOuDrqPuCU1vmcWpJ5QoNDJ4ehQnUSxjpuRSxiIrVm-jo8ZwIXqUHDL-gXPYBq9ssW96U0UO4sAa_Q_jYZ0OWhXPSj75Fgs3GFFMLRYal1GxDJ2Q3Awd1rzUCC-z/s728-rw-e365/pentera.png",
-        "Title": "Why Pay A Pentester?",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
-        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZVk0j3SSHDWbBjq04CJsvU70D2emwrRaWsT9V9gkq80elsgzoDGETPYaG1rca60xV39TIyoP-s1RxHtaTKk_PXamb1KBHsuzeC5mzBZoF3ivj80ov-imrZ5pakcsYx7MWmtVr3TZ2JzxL6l94RTWDyk0ZUSYDRH2oD1tkFWaMD2xL1IxqlhzG9wFJihY/s728-rw-e365/cyberattacl.png",
-        "Title": "North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0M11BNajJNu8Gu3OIB5T9xzuJaEu0fp3XoTR0tMIwXPM2LhxzAurugV3i0bttULXPG5bFGXUa47bZeYm66W2QFBQOyLpUx2mVhZ0hJRr_WvbBihFDT30zVEIB3Uk3zMrDEke9wX3ha5ZpJVRS2HhU8FcY0aBNK_ZAbQhrMVXRvBNHjaErrsNMid46k5VK/s728-rw-e365/chrome.png",
-        "Title": "Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s728-rw-e365/mobile.png",
-        "Title": "GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/exploding-pagers-hezbollah-phones/",
+        "Img_URL": "https://media.wired.com/photos/66eae101f43a9a740db3b967/3:2/w_1280%2Cc_limit/hazbollah-pagers-2171995947.jpg",
+        "Title": "Your Phone Won\u2019t Be the Next Exploding Pager",
+        "Source": "WIRED",
         "Timestamp": "Sep 19, 2024"
     },
     {
@@ -81,6 +88,48 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/fakebookfuneral.png",
         "Title": "Scam \u2018Funeral Streaming\u2019 Groups Thrive on Facebook",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/why-pay-pentester.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0gXfpgX18N9G4716hbOSSMpmny74gFFgVXYpEZZY3UIGK5URGNU0KFo07mQCGfTGOpX-535S9Wif4_wofNFBFablBYedeySZWNlwX-hwaFF7-gAjZNKXwJyJ3J6wWJOksJh6dDVpUvyFYjmUpLYhsOQY9l5H_oQE6RMs3xfuD7zpmgg1qQ6asxbcO2gjy/s728-rw-e365/pentester.png",
+        "Title": "Why Pay A Pentester?",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZVk0j3SSHDWbBjq04CJsvU70D2emwrRaWsT9V9gkq80elsgzoDGETPYaG1rca60xV39TIyoP-s1RxHtaTKk_PXamb1KBHsuzeC5mzBZoF3ivj80ov-imrZ5pakcsYx7MWmtVr3TZ2JzxL6l94RTWDyk0ZUSYDRH2oD1tkFWaMD2xL1IxqlhzG9wFJihY/s728-rw-e365/cyberattacl.png",
+        "Title": "North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
+        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0M11BNajJNu8Gu3OIB5T9xzuJaEu0fp3XoTR0tMIwXPM2LhxzAurugV3i0bttULXPG5bFGXUa47bZeYm66W2QFBQOyLpUx2mVhZ0hJRr_WvbBihFDT30zVEIB3Uk3zMrDEke9wX3ha5ZpJVRS2HhU8FcY0aBNK_ZAbQhrMVXRvBNHjaErrsNMid46k5VK/s728-rw-e365/chrome.png",
+        "Title": "Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
+        "Title": "DevOps Security Best Practices",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s728-rw-e365/mobile.png",
+        "Title": "GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging",
+        "Source": "The Hacker News",
         "Timestamp": "Sep 18, 2024"
     },
     {
@@ -98,23 +147,9 @@
         "Timestamp": "Sep 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s728-rw-e365/beyond.png",
-        "Title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ji8bweiMtp0NR_s6gTZcOsJTGXE3AWO5Xbt7n7B2esfISGbha_ezpvigJlZbQmYztGc-DvNxirq95_dCu6tWVQUWEN0nGtO-lQ9gwenBbJkGPMLewyoYAHiZSG_ejSXMnT5DEW5HGxEoUPVOGVxWrJI60KxANmhiOTnq-cy-zeyuZboVs4bPolCt7DOk/s728-rw-e365/spyware.png",
         "Title": "U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
-        "Title": "DevOps Security Best Practices",
         "Source": "The Hacker News",
         "Timestamp": "Sep 18, 2024"
     },
@@ -133,34 +168,6 @@
         "Timestamp": "Sep 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTGOsN7JQV461GH89gqnmJZStk0ZpPYrQX6NEtdE9bvrc5VyLsxNTeA6D5qaHzybqd4ijrDjlUisdv01yQUmnvsCXZlmMBnD-AwNV77WT3KbWQkOS79JLnMLCXrmtGkgmksiAp3pFeckVwrskf9YetFRPuS5Bbdu2J_5ARZ27q1nbMIgMHZgwhJnsp-ZqO/s728-rw-e365/bitcoin.png",
-        "Title": "Binance Warns of Rising Clipper Malware Attacks Targeting Cryptocurrency Users",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHud_Vtkl2QnIs5jTOatvm-n4z13vtPq6N3PvUqZCn30R06AkamFLJHEN85Lo-fM-sjLKC3VVATnPfdEXrvwS78iXxrDRjnRg6mELFsclnir-iPVCDc6o7C8HnZkYhj9ARrmCx4mM4uoKEuusAMKuDSGv_81LHEF9J5Mpt5Bd_JfleMPMeS323sG7KWMEa/s728-rw-e365/solarwinds.png",
-        "Title": "SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoDBfOdQJn_bHwmkL_f-lZ8TS1G0P_O06R2XrqEe9IdgoN3PVWkadlX-sra6zB-0PeKmsVNQlGbE5J-sNQ92P1txkhE0CXR61mdSh0fQVwyz98uERjUlT-I9ArEhakZ3QV6YUUrwUKnbYg7Q9xJgpd-qXLAvpydWvbRJt930wMu7JFvz4b9lCeIyovQoy/s728-rw-e365/flaw.png",
-        "Title": "Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/north-korean-hackers-target.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMpF5rba8-SS0l3whfpajn8Yer55Vebq3pT85ohjYqTIPLqvN2_sROCYdIR20V8-4A03uqcVjJHxq6DtBBTtRlO-Yl4buRGTD_c-jlezgjYeyZApqa3ol-xf1XxcXr8Dsi6RVH6bs0I_5A6tvIWiV7SHWQDH8DPojvGpCVwzSFZ1bcoIHI61dADRerfGc0/s728-rw-e365/linkedin.png",
-        "Title": "North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 18, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/china-hacking-competition-real-victim/",
         "Img_URL": "https://media.wired.com/photos/66e9e677674cbda93dc3bb31/3:2/w_1280%2Cc_limit/Security_China_Hacking_Competition_GettyImages-671058250.jpg",
         "Title": "Did a Chinese University Hacking Competition Target a Real Victim?",
@@ -175,11 +182,11 @@
         "Timestamp": "Sep 17, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/apple-password-app-ios-18/",
+        "Link": "https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/",
         "Img_URL": "https://media.wired.com/photos/66e35f14e7fd2f784bb46ecc/3:2/w_1280%2Cc_limit/Security_Apple_Password_Manager_GettyImages-1618511059.jpg",
         "Title": "Apple\u2019s New Passwords App May Solve Your Login Nightmares",
         "Source": "WIRED",
-        "Timestamp": "Sep 16, 2024"
+        "Timestamp": "Sep 14, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/",
@@ -343,9 +350,9 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -357,9 +364,9 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
         "Source": "WIRED",
         "Timestamp": "Aug 10, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/",
-        "Img_URL": "https://media.wired.com/photos/66b629eeb2a442a63ed28083/3:2/w_1280%2Cc_limit/Rogue-Device-Sec-466054650.jpg",
-        "Title": "Apple Prototypes and Corporate Secrets Are for Sale Online\u2014If You Know Where to Look",
-        "Source": "WIRED",
-        "Timestamp": "Aug 09, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/",
