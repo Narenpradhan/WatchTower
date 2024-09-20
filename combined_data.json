@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s728-rw-e365/cybercrime.png",
+        "Title": "Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 20, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfHcvdCB-5xGGsFdT9NF048-Q6Em3XVl9BMWYyfOhYd0GAz6Us5A5BdmjUSjYRSwQMBm8_qEYEFJ-s9VR5sajQvQCgjVwXZVVyVsJ-sNPoJ6BFJOyZ1X81DUMh8UNX1tuf_azCgxSWlyKN_tk4w6ahydym-ov9o_5y0w8CwIOlJT0ptTG0sU2gWq0FlY/s728-rw-e365/ssh-main.png",
         "Title": "Passwordless AND Keyless: The Future of (Privileged) Access Management",
@@ -14,16 +21,16 @@
         "Timestamp": "Sep 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s728-rw-e365/passkey.gif",
-        "Title": "Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature",
+        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
+        "Title": "DevOps Security Best Practices",
         "Source": "The Hacker News",
         "Timestamp": "Sep 20, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
-        "Title": "DevOps Security Best Practices",
+        "Link": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s728-rw-e365/passkey.gif",
+        "Title": "Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature",
         "Source": "The Hacker News",
         "Timestamp": "Sep 20, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Sep 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s728-rw-e365/hacking.png",
-        "Title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
+        "Link": "https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jilvDJHd2bwsb_Ofx0gjEF79L6v4D10VHAmrVVK0NM3iRqerSez398zBuf0Ned7KVuFXDsi58BuaZM8ZrGU2kZYMea0KR-03CXsKtKdopGghC_xRXEQb9_kffJ6oiV-mky7Di2sjTzr3ueaHF6Ihv0ZBMlvU8Ceke-f9nH5kWfzAMUnuAVqNp2Lu2y4/s1500/nudge.png",
+        "Title": "How to Investigate ChatGPT activity in Google Workspace",
         "Source": "The Hacker News",
         "Timestamp": "Sep 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jilvDJHd2bwsb_Ofx0gjEF79L6v4D10VHAmrVVK0NM3iRqerSez398zBuf0Ned7KVuFXDsi58BuaZM8ZrGU2kZYMea0KR-03CXsKtKdopGghC_xRXEQb9_kffJ6oiV-mky7Di2sjTzr3ueaHF6Ihv0ZBMlvU8Ceke-f9nH5kWfzAMUnuAVqNp2Lu2y4/s1500/nudge.png",
-        "Title": "How to Investigate ChatGPT activity in Google Workspace",
+        "Link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s728-rw-e365/hacking.png",
+        "Title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
         "Source": "The Hacker News",
         "Timestamp": "Sep 20, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Sep 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ge961EidZCr0GSb_CLQiYwhAqXsf9rdu5S_k4E8ZFLl2SuwFAhO8NpbhmG3MagvwORfilmb8GUuMCL7ugn1KDTK02GT0s5EnXMCjPmh0tv0c1EegXPLSKElVDih7IrkxuZy4vjWfdsgHFPFRLB5UvU7G6IgsqQ7N6vfUX7bZyOBVdNwlVQyWbQrbSQI/s728-rw-e365/MAIN.png",
-        "Title": "Healthcare's Diagnosis is Critical: The Cure is Cybersecurity Hygiene",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/powerphish.png",
         "Title": "This Windows PowerShell Phish Has Scary Potential",
@@ -84,16 +84,16 @@
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEgfwa-6xAfi-etxBXGJKj6LYK-n_7lJZ6KDdQ0E-1WktOGT47C6ZC2g0lWke7FqICvZEm2XSpt8r2n1TURjSuVphonD1sZOQYM9AbRtXY3WzoEEa5HXjBWD5KZXWodHge1L1B-PFUkjxR5OG40fVWhl-P7IGG0aQ21NFFRedvlNcJ39kwraY3NmRG2cs/s728-rw-e365/rasomware.png",
-        "Title": "Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector",
+        "Link": "https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ge961EidZCr0GSb_CLQiYwhAqXsf9rdu5S_k4E8ZFLl2SuwFAhO8NpbhmG3MagvwORfilmb8GUuMCL7ugn1KDTK02GT0s5EnXMCjPmh0tv0c1EegXPLSKElVDih7IrkxuZy4vjWfdsgHFPFRLB5UvU7G6IgsqQ7N6vfUX7bZyOBVdNwlVQyWbQrbSQI/s728-rw-e365/MAIN.png",
+        "Title": "Healthcare's Diagnosis is Critical: The Cure is Cybersecurity Hygiene",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s728-rw-e365/git.png",
-        "Title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
+        "Link": "https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEgfwa-6xAfi-etxBXGJKj6LYK-n_7lJZ6KDdQ0E-1WktOGT47C6ZC2g0lWke7FqICvZEm2XSpt8r2n1TURjSuVphonD1sZOQYM9AbRtXY3WzoEEa5HXjBWD5KZXWodHge1L1B-PFUkjxR5OG40fVWhl-P7IGG0aQ21NFFRedvlNcJ39kwraY3NmRG2cs/s728-rw-e365/rasomware.png",
+        "Title": "Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXz9TOfv93Ndqmr5_lX60979DgYHZPNx5x8TWp73bJmLig64jnYTQ6BsKIvRC7qZJIboPSCVrm5VYk1LXJ6HmI_oZQL-DlIbxjakNVXRhN_yvymcViq61XXYMHCh2KX3t3mdLn1QgEjOE2PPEqIy_nMx1FH-FSgKMcid_ks1DlL6YP8Edir7OK7L2RKZqs/s728-rw-e365/botnet.png",
-        "Title": "New \"Raptor Train\" IoT Botnet Compromises Over 200,000 Devices Worldwide",
+        "Link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s728-rw-e365/git.png",
+        "Title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -115,6 +115,13 @@
         "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
         "Title": "DevOps Security Best Practices",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXz9TOfv93Ndqmr5_lX60979DgYHZPNx5x8TWp73bJmLig64jnYTQ6BsKIvRC7qZJIboPSCVrm5VYk1LXJ6HmI_oZQL-DlIbxjakNVXRhN_yvymcViq61XXYMHCh2KX3t3mdLn1QgEjOE2PPEqIy_nMx1FH-FSgKMcid_ks1DlL6YP8Edir7OK7L2RKZqs/s728-rw-e365/botnet.png",
+        "Title": "New \"Raptor Train\" IoT Botnet Compromises Over 200,000 Devices Worldwide",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s728-rw-e365/mobile.png",
         "Title": "GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMC2DXqJkT9gUlSpCnH6er3vRFfu4PXM_XPALdbscs9PO53KS6LIajmxqL9OU6ASd9YqCONOEZOmQ9bysok7a3CQTA7Rbth8qQZhN-_dFZBsl6_F9WYiqcSq6zU-EK0-vVCNhOCmPYkAh-AMhndzm476610sCoREdf5GoS8OgGPxceUC7N1LU2T_rtnsuN/s728-rw-e365/vmware.png",
-        "Title": "Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -343,6 +343,13 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/",
+        "Img_URL": "https://media.wired.com/photos/6640f1f0f59145e49d5e32e1/3:2/w_1280%2Cc_limit/Google-Pixel-8A-Back-View-Hand-Reviewer-Photo-SOURCE-Julian-Chokkattu.png",
+        "Title": "Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App",
+        "Source": "WIRED",
+        "Timestamp": "Aug 15, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
         "Img_URL": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/3:2/w_1280%2Cc_limit/Data-Leak-Sec-129310449.jpg",
         "Title": "The Slow-Burn Nightmare of the National Public Data Breach",
@@ -350,11 +357,11 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/",
-        "Img_URL": "https://media.wired.com/photos/6640f1f0f59145e49d5e32e1/3:2/w_1280%2Cc_limit/Google-Pixel-8A-Back-View-Hand-Reviewer-Photo-SOURCE-Julian-Chokkattu.png",
-        "Title": "Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App",
+        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
+        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
-        "Timestamp": "Aug 15, 2024"
+        "Timestamp": "Aug 14, 2024"
     },
     {
         "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
@@ -367,13 +374,6 @@
         "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
         "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
         "Title": "Your Gym Locker May Be Hackable",
-        "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66bd1e74cf6232ff4521bd73/3:2/w_1280%2Cc_limit/Campaign-Hack-Trump-Harris-Biden-Security.jpg",
-        "Title": "A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google Says",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
