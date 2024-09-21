@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://www.wired.com/story/iran-hackers-trump-democrats-emails/",
+        "Img_URL": "https://media.wired.com/photos/66ed82cf42ad37094e1a41eb/3:2/w_1280%2Cc_limit/GettyImages-2172740225.jpg",
+        "Title": "Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems",
+        "Source": "WIRED",
+        "Timestamp": "Sep 21, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s728-rw-e365/cybercrime.png",
         "Title": "Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials",
@@ -182,11 +189,11 @@
         "Timestamp": "Sep 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/pager-explosion-hezbollah/",
+        "Link": "https://www.wired.com/story/apple-password-app-ios-18/",
         "Img_URL": "https://media.wired.com/photos/66e9a494b0d98af92f9a7398/3:2/w_1280%2Cc_limit/hazbollah-pagers-2171810466.jpg",
         "Title": "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers",
         "Source": "WIRED",
-        "Timestamp": "Sep 17, 2024"
+        "Timestamp": "Sep 16, 2024"
     },
     {
         "Link": "https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/",
@@ -357,9 +364,9 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
+        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
+        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -371,9 +378,9 @@
         "Timestamp": "Aug 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
-        "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
-        "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 13, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-prototypes-corporate-data/",
-        "Img_URL": "https://media.wired.com/photos/66b6dbf403cf03ee058958e1/3:2/w_1280%2Cc_limit/Security_DEFCON_Demirkapi_F19A6994-Edit.jpg",
-        "Title": "Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All",
-        "Source": "WIRED",
-        "Timestamp": "Aug 10, 2024"
     },
     {
         "Link": "https://www.wired.com/story/secret-hunting-bill-demirkapi/",
