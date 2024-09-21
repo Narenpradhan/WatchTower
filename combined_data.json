@@ -1,9 +1,30 @@
 [
     {
-        "Link": "https://www.wired.com/story/iran-hackers-trump-democrats-emails/",
-        "Img_URL": "https://media.wired.com/photos/66ed82cf42ad37094e1a41eb/3:2/w_1280%2Cc_limit/GettyImages-2172740225.jpg",
-        "Title": "Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV8s8iCxxGc014vYriCca8z2Q_Uc_rt0Qp-WrYa_UizO6qrbu0ObAUPc34Wm6k8vG8zEjOh-wSMksUj6YnAkbqPkXd8mwspMSbzsA37G2sTag_rKFXHbC1ybht3CsVBJ2rU0pH8-6DfPL88T2Zy8j9DDp00_hOoqiZGu89P9ZXp5kJYVNnYcAAi3mbFdF/s728-rw-e365/malware.png",
+        "Title": "Hacktivist Group Twelve Targets Russian Entities with Destructive Cyber Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfAyfevX3yh1P26cyGrOgKYRZh-xWYaqZCLjIe2BLFX16mJRBC-3WnTAsv18PzztYjDduQiwcT8sInFpO9LUBG3xcbICvni6u81Tq36FJ4rVcrVYDBcLs7UYhEflZwLDn3Ie2ov5M2nHj-Z1HlezZVqxcwVB4HrnI5T6IBjSUoK4e3ocn3WCoX_XyvDyd/s728-rw-e365/linkedin.png",
+        "Title": "LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCEWlFX41p4OGq5wJoAy8U5bE7lUSu7St3FFLpo8spx9yIj92K0QZJ-IIaZN-t7ouj0_mWPRzVUrQEalqVbjX2zY1fAUcOeJrfoVtL-142G26BlEChpYBc2GG9lh175UZwnS7Ss0o9arj8Ub6sKyCI0E0EiKKnJKAQ_PTImRSd-KQOYyf9NJNYW1qOvqX/s728-rw-e365/telegram.png",
+        "Title": "Ukraine Bans Telegram Use for Government and Military Personnel",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
+        "Title": "DevOps Security Best Practices",
+        "Source": "The Hacker News",
         "Timestamp": "Sep 21, 2024"
     },
     {
@@ -11,83 +32,97 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s728-rw-e365/cybercrime.png",
         "Title": "Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfHcvdCB-5xGGsFdT9NF048-Q6Em3XVl9BMWYyfOhYd0GAz6Us5A5BdmjUSjYRSwQMBm8_qEYEFJ-s9VR5sajQvQCgjVwXZVVyVsJ-sNPoJ6BFJOyZ1X81DUMh8UNX1tuf_azCgxSWlyKN_tk4w6ahydym-ov9o_5y0w8CwIOlJT0ptTG0sU2gWq0FlY/s728-rw-e365/ssh-main.png",
         "Title": "Passwordless AND Keyless: The Future of (Privileged) Access Management",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwq3ADvdE9FnCsinHydEesuesu7cOi5yllg4Pmzi00lOON5UP-49K7M5SJ8ZFobT6g5FkCgu-itJYe2v7Usy6uk1cmrMiqGPZdekj7_AwPfs8Bpn1kK-9_Bx3E-GAzne98Dcb29q3suuEg3SAPGKNONWPbpfiZb-a0-3n1nn8URX4WK2y6Bp7dy9yUbaz9/s728-rw-e365/iran-hackers.png",
         "Title": "Iranian APT UNC1860 Linked to MOIS Facilitates Cyber Intrusions in Middle East",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
-        "Title": "DevOps Security Best Practices",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s728-rw-e365/passkey.gif",
-        "Title": "Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvGi8xFlKuvTDhKv3a-nc2BDjhbLSW04PBDqxEOPJXPrhOCQlF_EwG5jlZR2OUWZMgvhB97zJIWDUPsc8TkBbfUu_diODbDSHsinfFZvPAfwDVXa3Zs81uKCdrxOuQI588gwHLMLt1kEr5aogVlWbKnmKEfYWd8e93hkjcPDYm5kf30qhChRH8Y0iK3VJ/s728-rw-e365/ivanti.jpg",
-        "Title": "Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEW90pkil285v8c8sQ5HUgxr87_gf0wc-PTQnLeFDeA3MT1A9qjswqQDbeJVDcxCceRR6iWCi49nzWX1Gxy_-Sy1qnISnINr2faz-mVHVtN6rogpuC77jN0uU6OIkt6DMayxDt9U0jC4FXX-iTv_21ODuPgWZzpiZ-aFtyKmNMRinHp9dz3PoeLnB1M4/s728-rw-e365/ransomware.png",
-        "Title": "Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jilvDJHd2bwsb_Ofx0gjEF79L6v4D10VHAmrVVK0NM3iRqerSez398zBuf0Ned7KVuFXDsi58BuaZM8ZrGU2kZYMea0KR-03CXsKtKdopGghC_xRXEQb9_kffJ6oiV-mky7Di2sjTzr3ueaHF6Ihv0ZBMlvU8Ceke-f9nH5kWfzAMUnuAVqNp2Lu2y4/s1500/nudge.png",
         "Title": "How to Investigate ChatGPT activity in Google Workspace",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s728-rw-e365/hacking.png",
-        "Title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
+        "Link": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s728-rw-e365/passkey.gif",
+        "Title": "Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujXDb6oqH-O0kJpddR0GkqHEcPlL0RQ0K0tVLK-GnO_LM0dSTLmqqbfwehFaEJKSgYlUU7gkKj8O4JR_X4953WIP9QYyGCHWwWpfdnDZzmRL5FAaePfFosQDpTH7P8rKchXb2PALeTzRszFQEBZJbkIHFHaN_k8dNUu__hosjbffSzgpQW2_ArKSyAhoD/s728-rw-e365/CYBERATTAC.png",
-        "Title": "New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails",
+        "Link": "https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvGi8xFlKuvTDhKv3a-nc2BDjhbLSW04PBDqxEOPJXPrhOCQlF_EwG5jlZR2OUWZMgvhB97zJIWDUPsc8TkBbfUu_diODbDSHsinfFZvPAfwDVXa3Zs81uKCdrxOuQI588gwHLMLt1kEr5aogVlWbKnmKEfYWd8e93hkjcPDYm5kf30qhChRH8Y0iK3VJ/s728-rw-e365/ivanti.jpg",
+        "Title": "Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQJdANNLf6jZ3svP-n1iRIY6amvjG4FFO6IkcI0CXXXNgyGKbAVQQfFFhC7zVwFaFBRcBDgLKFVqFmi0_MUyN3RUTcGy_fPxzz-diwOSHHZXaddIg72oh72RYbLDTxiNU5WksFs8a253IbKeLM64Du0RBLs16MzwdJKWFrnH77InBXvlV4_Buz4sFVoRs/s728-rw-e365/servers.png",
-        "Title": "New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit",
+        "Link": "https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEW90pkil285v8c8sQ5HUgxr87_gf0wc-PTQnLeFDeA3MT1A9qjswqQDbeJVDcxCceRR6iWCi49nzWX1Gxy_-Sy1qnISnINr2faz-mVHVtN6rogpuC77jN0uU6OIkt6DMayxDt9U0jC4FXX-iTv_21ODuPgWZzpiZ-aFtyKmNMRinHp9dz3PoeLnB1M4/s728-rw-e365/ransomware.png",
+        "Title": "Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?",
         "Source": "The Hacker News",
-        "Timestamp": "Sep 20, 2024"
+        "Timestamp": "Sep 21, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/iran-hackers-trump-democrats-emails/",
+        "Img_URL": "https://media.wired.com/photos/66ed82cf42ad37094e1a41eb/3:2/w_1280%2Cc_limit/GettyImages-2172740225.jpg",
+        "Title": "Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems",
+        "Source": "WIRED",
+        "Timestamp": "Sep 21, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/powerphish.png",
         "Title": "This Windows PowerShell Phish Has Scary Potential",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s728-rw-e365/hacking.png",
+        "Title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujXDb6oqH-O0kJpddR0GkqHEcPlL0RQ0K0tVLK-GnO_LM0dSTLmqqbfwehFaEJKSgYlUU7gkKj8O4JR_X4953WIP9QYyGCHWwWpfdnDZzmRL5FAaePfFosQDpTH7P8rKchXb2PALeTzRszFQEBZJbkIHFHaN_k8dNUu__hosjbffSzgpQW2_ArKSyAhoD/s728-rw-e365/CYBERATTAC.png",
+        "Title": "New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jilvDJHd2bwsb_Ofx0gjEF79L6v4D10VHAmrVVK0NM3iRqerSez398zBuf0Ned7KVuFXDsi58BuaZM8ZrGU2kZYMea0KR-03CXsKtKdopGghC_xRXEQb9_kffJ6oiV-mky7Di2sjTzr3ueaHF6Ihv0ZBMlvU8Ceke-f9nH5kWfzAMUnuAVqNp2Lu2y4/s1500/nudge.png",
+        "Title": "How to Investigate ChatGPT activity in Google Workspace",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQJdANNLf6jZ3svP-n1iRIY6amvjG4FFO6IkcI0CXXXNgyGKbAVQQfFFhC7zVwFaFBRcBDgLKFVqFmi0_MUyN3RUTcGy_fPxzz-diwOSHHZXaddIg72oh72RYbLDTxiNU5WksFs8a253IbKeLM64Du0RBLs16MzwdJKWFrnH77InBXvlV4_Buz4sFVoRs/s728-rw-e365/servers.png",
+        "Title": "New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
+        "Title": "DevOps Security Best Practices",
+        "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
     {
@@ -105,23 +140,9 @@
         "Timestamp": "Sep 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jilvDJHd2bwsb_Ofx0gjEF79L6v4D10VHAmrVVK0NM3iRqerSez398zBuf0Ned7KVuFXDsi58BuaZM8ZrGU2kZYMea0KR-03CXsKtKdopGghC_xRXEQb9_kffJ6oiV-mky7Di2sjTzr3ueaHF6Ihv0ZBMlvU8Ceke-f9nH5kWfzAMUnuAVqNp2Lu2y4/s1500/nudge.png",
-        "Title": "How to Investigate ChatGPT activity in Google Workspace",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s728-rw-e365/git.png",
         "Title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/hkn-devops-security-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcsCMwGwb3VO_gih2-o3y1A__z9pCBhbAALnhsMSKJ-m0b4HfK7Qha5XuOAsbr_WKR1l36gPiB2uTdH3WzFUscW8bVFl3mIbWRpLd_ixZNVuGcCOD3PG5x3pKXchmOuvPR3K_Lxz_8NKbeSgCR3WlKZiOzq-qHhQOSx-9fUDoq6ShqgZZ8SkTalmQtUR_/s728-rw-e365/wiz.png",
-        "Title": "DevOps Security Best Practices",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
@@ -143,27 +164,6 @@
         "Link": "https://thehackernews.com/2024/09/why-pay-pentester.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0gXfpgX18N9G4716hbOSSMpmny74gFFgVXYpEZZY3UIGK5URGNU0KFo07mQCGfTGOpX-535S9Wif4_wofNFBFablBYedeySZWNlwX-hwaFF7-gAjZNKXwJyJ3J6wWJOksJh6dDVpUvyFYjmUpLYhsOQY9l5H_oQE6RMs3xfuD7zpmgg1qQ6asxbcO2gjy/s728-rw-e365/pentester.png",
         "Title": "Why Pay A Pentester?",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZVk0j3SSHDWbBjq04CJsvU70D2emwrRaWsT9V9gkq80elsgzoDGETPYaG1rca60xV39TIyoP-s1RxHtaTKk_PXamb1KBHsuzeC5mzBZoF3ivj80ov-imrZ5pakcsYx7MWmtVr3TZ2JzxL6l94RTWDyk0ZUSYDRH2oD1tkFWaMD2xL1IxqlhzG9wFJihY/s728-rw-e365/cyberattacl.png",
-        "Title": "North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0M11BNajJNu8Gu3OIB5T9xzuJaEu0fp3XoTR0tMIwXPM2LhxzAurugV3i0bttULXPG5bFGXUa47bZeYm66W2QFBQOyLpUx2mVhZ0hJRr_WvbBihFDT30zVEIB3Uk3zMrDEke9wX3ha5ZpJVRS2HhU8FcY0aBNK_ZAbQhrMVXRvBNHjaErrsNMid46k5VK/s728-rw-e365/chrome.png",
-        "Title": "Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s728-rw-e365/mobile.png",
-        "Title": "GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging",
         "Source": "The Hacker News",
         "Timestamp": "Sep 19, 2024"
     },
