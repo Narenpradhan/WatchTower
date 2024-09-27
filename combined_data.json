@@ -1,22 +1,22 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html",
+        "Link": "https://thehackernews.com/2024/09/progress-software-releases-patches-for.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboGhjf_YGf5CbzW5lNPUxvNhYxjsN6fISH1hkBoWi9DSaZ7fKRDGHd-DYYruJorAymDHRCVfMO6E9BrmFcZFzyVXzDZnlHOmF6nnWXgEhRBR3kFB-dbLM2MrrxJWQEGXMZSPUdANtn44q47SMyctty5i1uGSRp7cbFEnYLxBFiMdJ4wHNqglCF3vPaXMC/s250-rw-e100/pregress.png",
+        "Title": "Progress Software Releases Patches for 6 Flaws in WhatsUp Gold \u2013 Patch Now",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw61OcqJmIxtfVOx_GGXRPn4z5_xvpDi3FhDM6NcPa915RqdOGjpFno7B7DKNRT6QiwIcWgWZg72sidA6r0tuqAsVfnBeLRZ3g0VC8yikw0sGEQLovz21BG4fBqfAc_e9TCZP47MFLloAreLHMsMnfl6P8HYW6g6UhkgGGI19AiBRnv7DWkvw0wc5RrKt/s250-rw-e100/linux-printer.png",
+        "Title": "Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRgwFIQfUfeEMkwMz17AEhVbn8aoWoNCMvUqlvqn8Ruk5Vfg8M9uR1vNZUR2jTRmJ2z1o6HDYSlBLUzPcgp0rKfitAA4I1MieUYZ23denyOPO-ndXngJZcrtT9SqqbiTH1fA6Fp4iMz2vLWFA5dV1omDjLnSZQTo9LBAzCJ3bCVBxOTYPkK9NVaIo4-Q/s250-rw-e100/breachlock.png",
         "Title": "How to Plan and Prepare for Penetration Testing",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/microsoft-identifies-storm-0501-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLoJxoEp_DnlEt9CrbBKOycsaGbj6JOhBSUZ28iu8EXRfU3RR-ghbTzkm2DD2NrPu7YbFU6yHQz-vNaUvO2VZ_BRbu8Hjbi_fijtMHCbqRCVpHHmsquaTMUPbRNP7RFRAj1_bvmBDIUYmHhaSLtWzJaKt4Bk9Q6JQ9_WmfD3q7w_YjVuCQwfWp1bWiJ-G/s250-rw-e100/ransomware.png",
-        "Title": "Microsoft Identifies Storm-0501 as Major Threat in Hybrid Cloud Ransomware Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpWA3X92QncEHGeoI5oUPNP6pPz2JK3NSV9UzuFZTbfXrUBBr5P6QfmTS2AJB0dLej-9PVwb1uBGKjC3-yEtjaDHkdniWLForRf1rn_YVNRUCtjXiF30QyB8ezLfIGN6CHClVfDXDGUuMoc6IjAg4t7e1UNgSy5acgkTpTVRVLAQ4gbjk5YD3Jtz-5Pg/s250-rw-e100/sans.png",
-        "Title": "Cybersecurity Certifications: The Gateway to Career Advancement",
         "Source": "The Hacker News",
         "Timestamp": "Sep 27, 2024"
     },
@@ -28,23 +28,23 @@
         "Timestamp": "Sep 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/new-html-smuggling-campaign-delivers.html",
+        "Link": "https://thehackernews.com/2024/09/microsoft-identifies-storm-0501-as.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLoJxoEp_DnlEt9CrbBKOycsaGbj6JOhBSUZ28iu8EXRfU3RR-ghbTzkm2DD2NrPu7YbFU6yHQz-vNaUvO2VZ_BRbu8Hjbi_fijtMHCbqRCVpHHmsquaTMUPbRNP7RFRAj1_bvmBDIUYmHhaSLtWzJaKt4Bk9Q6JQ9_WmfD3q7w_YjVuCQwfWp1bWiJ-G/s250-rw-e100/ransomware.png",
+        "Title": "Microsoft Identifies Storm-0501 as Major Threat in Hybrid Cloud Ransomware Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpWA3X92QncEHGeoI5oUPNP6pPz2JK3NSV9UzuFZTbfXrUBBr5P6QfmTS2AJB0dLej-9PVwb1uBGKjC3-yEtjaDHkdniWLForRf1rn_YVNRUCtjXiF30QyB8ezLfIGN6CHClVfDXDGUuMoc6IjAg4t7e1UNgSy5acgkTpTVRVLAQ4gbjk5YD3Jtz-5Pg/s250-rw-e100/sans.png",
+        "Title": "Cybersecurity Certifications: The Gateway to Career Advancement",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/new-html-smuggling-campaign-delivers.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3l1eX6blDXV4sNgETBT9M9yKm9q5Yh_hQFlBkQSodYBvL4A-dlDk0FUD6NXlO9Fi86A9GUnWKC-VsQV-G8xi0Uh9O1Ul5Zh5zR0O_K5WbxPBJ7HjryjTV_8fOzuzYvSm0jrMjcclOzqhi-BsbUoYvCjJN4fnESI7uvS6tQlonltwzAxka7lQyDhDaAHg/s250-rw-e100/html.png",
         "Title": "New HTML Smuggling Campaign Delivers DCRat Malware to Russian-Speaking Users",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/us-sanctions-two-crypto-exchanges-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3AxVqZ3fcZTYfpt4wh5RAR14s0G2CgFrUYwNF7tw-SnzDhYpALD0Hxqb4iEBkym4MzcEQXsqepqYDOwR4gE5WYMw6_5k3ulSuv9dhG1OzNKjpfxszEZKxycJVV6tk-WXP6g3UliINztYgNsKvPdbgrR1KBR-LTDT7kn5z4ILNvma4DHi9Yyty3zF1Jssh/s250-rw-e100/hackers.png",
-        "Title": "U.S. Sanctions Two Crypto Exchanges for Facilitating Cybercrime and Money Laundering",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s250-rw-e100/nvidia.png",
-        "Title": "Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers",
         "Source": "The Hacker News",
         "Timestamp": "Sep 27, 2024"
     },
@@ -56,23 +56,23 @@
         "Timestamp": "Sep 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html",
+        "Link": "https://thehackernews.com/2024/09/us-sanctions-two-crypto-exchanges-for.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3AxVqZ3fcZTYfpt4wh5RAR14s0G2CgFrUYwNF7tw-SnzDhYpALD0Hxqb4iEBkym4MzcEQXsqepqYDOwR4gE5WYMw6_5k3ulSuv9dhG1OzNKjpfxszEZKxycJVV6tk-WXP6g3UliINztYgNsKvPdbgrR1KBR-LTDT7kn5z4ILNvma4DHi9Yyty3zF1Jssh/s250-rw-e100/hackers.png",
+        "Title": "U.S. Sanctions Two Crypto Exchanges for Facilitating Cybercrime and Money Laundering",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s250-rw-e100/nvidia.png",
+        "Title": "Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4J0FR2e4kHb37iD_Iyl_IjRaKxWiYM8d8aoCLLoj2u7_661Q-5ru3LTUWERYr1GpuYRUbC4X70Q-FrxWFBRereox_n6L4PlsdGAPUsQofO7fqVx-6lstjGkRuciH2XF40b44GEWzNpyOY3lMm5D52wuipwG9eifHrYAvGZed1L-ex2Yt0rq0Yx2AkDUk/s250-rw-e100/car-hacking.png",
         "Title": "Hackers Could Have Remotely Controlled Kia Cars Using Only License Plates",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8gaxBhyphenhyphen-R_UskMrPzRcd2cJmioE1336rqhgvvwY-o4wGgI3B4WBnQTAx4lg95seOtZrxDKptEhpmYDLD3u04vCE-D9FUN7v5hs4_U_WAEIqhvmM8vWf-GWZC7DDuM1fzX27FtHqfmKwTFS26q2BRQxyO6k5QYyYXNPYuBt_hmMurm0eReksG_hp6ZeKt/s250-rw-e100/malware.png",
-        "Title": "N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf6rjL3SYLXgbDi1fwjWVPHE-o-LVn9aVSjmaphgM82OTtbHIXWJAIMPAdr71ZJHdxzHKgoBl0ijE6kr_kJ0c7bSgF0pstV5AP_wCgz-c5Liyw0rUx8yKzlorho7pa4Omixxoda1hDBBR1Jlp8A6wbhjp8CFPMtmfoPqWdiKsZlJDMwiBmRT6J_vi3tXi1/s250-rw-e100/siem.png",
-        "Title": "Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar",
         "Source": "The Hacker News",
         "Timestamp": "Sep 27, 2024"
     },
@@ -84,16 +84,16 @@
         "Timestamp": "Sep 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaayKkTn1vYFNyXPEZlwz8kt2ss5AFti1YkSuj6Dep20lyZGODUQMt8ik5B8PL4bCr3Jp65pIZoYIBnh2pVEi4_3ypC4Vpgbg_YLiaCfNALLoDmbpgZzPEqP5m6j8QwMbps36mx60hUCXbNEZ6A6j-TJVQCNESAdch6fab0RS-SGpmbjmNIQ93-MdV59k/s250-rw-e100/intruder.png",
-        "Title": "EPSS vs. CVSS: What's the Best Approach to Vulnerability Prioritization?",
+        "Link": "https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8gaxBhyphenhyphen-R_UskMrPzRcd2cJmioE1336rqhgvvwY-o4wGgI3B4WBnQTAx4lg95seOtZrxDKptEhpmYDLD3u04vCE-D9FUN7v5hs4_U_WAEIqhvmM8vWf-GWZC7DDuM1fzX27FtHqfmKwTFS26q2BRQxyO6k5QYyYXNPYuBt_hmMurm0eReksG_hp6ZeKt/s250-rw-e100/malware.png",
+        "Title": "N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Sep 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLoeDUd-f2G2z1AYj_j-dpGidcB6ya1bo3YQOe0xYnWY4_Vfcd6-bBTMpuoy8iM-jierVUiWUVCyrUJICup7j8dSUGfWE12F5ngH5dvTz2OOtf1AXrVr8AUsdTr4Ydgw50Kn4DpHzHRAQTmddzfWp2rP6CYh43Vft-Qt-MqA-MFPhRwC49virspsJGyfUB/s250-rw-e100/android.png",
-        "Title": "Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware",
+        "Link": "https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf6rjL3SYLXgbDi1fwjWVPHE-o-LVn9aVSjmaphgM82OTtbHIXWJAIMPAdr71ZJHdxzHKgoBl0ijE6kr_kJ0c7bSgF0pstV5AP_wCgz-c5Liyw0rUx8yKzlorho7pa4Omixxoda1hDBBR1Jlp8A6wbhjp8CFPMtmfoPqWdiKsZlJDMwiBmRT6J_vi3tXi1/s250-rw-e100/siem.png",
+        "Title": "Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar",
         "Source": "The Hacker News",
         "Timestamp": "Sep 26, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Sep 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnUG8d-PvfJUUjmw-yRAkOZs44gbZ_6HpuO-fWQu819YbmNYqewqhCzMUfx8WQVn4T932krG26_2WoAmcZLFNSqYqVWuOjjgUxwsu6m73oEzorVmrEuXTIl0ylIMUuM07dk3I3wCgq9rZEIuBCDwDaJ_2JaTdMepCpM72Yh5Rk9-f3hGqx9hKM3BDlEIk/s250-rw-e100/indian0-hackers.png",
-        "Title": "Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities",
+        "Link": "https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaayKkTn1vYFNyXPEZlwz8kt2ss5AFti1YkSuj6Dep20lyZGODUQMt8ik5B8PL4bCr3Jp65pIZoYIBnh2pVEi4_3ypC4Vpgbg_YLiaCfNALLoDmbpgZzPEqP5m6j8QwMbps36mx60hUCXbNEZ6A6j-TJVQCNESAdch6fab0RS-SGpmbjmNIQ93-MdV59k/s250-rw-e100/intruder.png",
+        "Title": "EPSS vs. CVSS: What's the Best Approach to Vulnerability Prioritization?",
         "Source": "The Hacker News",
         "Timestamp": "Sep 26, 2024"
     },
@@ -115,6 +115,20 @@
         "Link": "https://thehackernews.uk/adaptive-sspm-kit",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirsJDqwYOpr1xDospn3Ntd-AGiD-4D0FqSQiba2cqxL37P9_uQukwCtcdQeMvqpNkw6IOXS990Q4fxqhIDa7StPT4DPECHvrPfYpoN12IREuyXWZkF4u-78Fhyphenhypheno6XckQ7MaajyXlFI86b3zbt3_-gYHXzT5diGF0y5Ff2U6IZAtRroPjreHzAo4Ir559hO/s728-rw-e365/as-newsfeed.png",
         "Title": "The SSPM Justification Kit",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLoeDUd-f2G2z1AYj_j-dpGidcB6ya1bo3YQOe0xYnWY4_Vfcd6-bBTMpuoy8iM-jierVUiWUVCyrUJICup7j8dSUGfWE12F5ngH5dvTz2OOtf1AXrVr8AUsdTr4Ydgw50Kn4DpHzHRAQTmddzfWp2rP6CYh43Vft-Qt-MqA-MFPhRwC49virspsJGyfUB/s250-rw-e100/android.png",
+        "Title": "Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware",
+        "Source": "The Hacker News",
+        "Timestamp": "Sep 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqnUG8d-PvfJUUjmw-yRAkOZs44gbZ_6HpuO-fWQu819YbmNYqewqhCzMUfx8WQVn4T932krG26_2WoAmcZLFNSqYqVWuOjjgUxwsu6m73oEzorVmrEuXTIl0ylIMUuM07dk3I3wCgq9rZEIuBCDwDaJ_2JaTdMepCpM72Yh5Rk9-f3hGqx9hKM3BDlEIk/s250-rw-e100/indian0-hackers.png",
+        "Title": "Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities",
         "Source": "The Hacker News",
         "Timestamp": "Sep 26, 2024"
     },
@@ -143,20 +157,6 @@
         "Link": "https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivIUFaqYClnCCCd931zR7KSCdQMkvmwBkMnu5i95H6QI8UI5D8NpSAQtsBkHunIwaJQR0IWP2O9tI2dWcCLqfCPBhxSVaFHAA9ma9D9SLac_8tFJoQehTGHC0bH9Q0OHwsqrFRNnBBIC2C2dHIcP_nfGzf9RA2zE7lCh5voxrH_5e279JTYNncnqAQCGXk/s250-rw-e100/hacking-tool.png",
         "Title": "Cybersecurity Researchers Warn of New Rust-Based Splinter Post-Exploitation Tool",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s250-rw-e100/macos.png",
-        "Title": "ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function",
-        "Source": "The Hacker News",
-        "Timestamp": "Sep 26, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiap34YgSqDEZgDHE5VKeQQEPPqTNk1gaS3oHRaGSZs-0xdjJ5QGciRC3kGemZe_T7eYU2-nFaiknuHgrev6xSSHVRwtfdB8CeWxm6oyMs7zstomxxM2_XbbHTnrV1-YjU-UtC3FjczucChIhTzKurRBVccwK_6VLr0NeBj5PvawXu8gwefjsXEfDap8ys/s250-rw-e100/main.png",
-        "Title": "Expert Tips on How to Spot a Phishing Link",
         "Source": "The Hacker News",
         "Timestamp": "Sep 26, 2024"
     },
@@ -371,13 +371,6 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
-        "Img_URL": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/3:2/w_1280%2Cc_limit/Data-Leak-Sec-129310449.jpg",
-        "Title": "The Slow-Burn Nightmare of the National Public Data Breach",
-        "Source": "WIRED",
-        "Timestamp": "Aug 15, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/",
         "Img_URL": "https://media.wired.com/photos/6640f1f0f59145e49d5e32e1/3:2/w_1280%2Cc_limit/Google-Pixel-8A-Back-View-Hand-Reviewer-Photo-SOURCE-Julian-Chokkattu.png",
         "Title": "Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android App",
@@ -385,11 +378,11 @@
         "Timestamp": "Aug 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
-        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
-        "Title": "Your Gym Locker May Be Hackable",
+        "Link": "https://www.wired.com/story/google-android-pixel-showcase-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/3:2/w_1280%2Cc_limit/Data-Leak-Sec-129310449.jpg",
+        "Title": "The Slow-Burn Nightmare of the National Public Data Breach",
         "Source": "WIRED",
-        "Timestamp": "Aug 14, 2024"
+        "Timestamp": "Aug 15, 2024"
     },
     {
         "Link": "https://www.wired.com/story/electronic-locker-vulnerability/",
@@ -402,6 +395,13 @@
         "Link": "https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/",
         "Img_URL": "https://media.wired.com/photos/66b672dfac41fce4dfe0b8a2/3:2/w_1280%2Cc_limit/business_google_suing_hackers-homepage.jpg",
         "Title": "Google Has Unleashed Its Legal Fury on Hackers and Scammers",
+        "Source": "WIRED",
+        "Timestamp": "Aug 14, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/",
+        "Img_URL": "https://media.wired.com/photos/66bce7ee815226740b5de179/3:2/w_1280%2Cc_limit/081424-defcon-digilock.jpg",
+        "Title": "Your Gym Locker May Be Hackable",
         "Source": "WIRED",
         "Timestamp": "Aug 14, 2024"
     },
