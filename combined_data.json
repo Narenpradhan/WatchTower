@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/10/us-and-microsoft-seize-107-russian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxa81zahAbjofn3e3bt7RIMGiybRlQpLPr9gGLRwcF9padRhzlzdOQUM9Zg2iBXandPaJf7ApgC6nHQyutSeQB4KHu5vHQTnN2BcCnr1zfeWRn5fEbWFbIp12wBAdEo5KPOn1oRBzKbg6K6wZR648aXdS0r7MFsA8mvLyOs5IuV-pIy_mfdn9MQSdS7Xsf/s250-rw-e100/hacker.png",
+        "Title": "U.S. and Microsoft Seize 107 Russian Domains in Major Cyber Fraud Crackdown",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 04, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqP8jOtRRaaMyN6Krsfpqa79yLFCMw2HXkdf9kQ_vJr26RltHtS1MVX4hLQyGwrJ0xIbbXIUzwQ9ZJd1rjhAQT12LQtsPY0zMPfAHAHmvtteOZB9jnTWRlPWe8gvduZLPchboD7sFVogZTX6SqhX_hu5oYmwZK2RGNSN4_H5im5NvISYzH-iTop-xGqM/s250-rw-e100/xm.jpg",
         "Title": "How to Get Going with CTEM When You Don't Know Where to Start",
@@ -14,16 +21,16 @@
         "Timestamp": "Oct 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhApXXlu88uIGKrb9s4u3kebscc93US3xfLMrozvKyHASsUEQGpUzb39ERMLUUWYQcYZnyyRsKqBbZB8B9kPThc3Vq5tnxDBEk0GZCVqr3-oaba43GxKdQ9e1OcN15npiI2C-CtwhRPAkd22ddkWVGu7GuEBeiG1rMMVWfSfE9zNXFwktjGlrJFizU62BwF/s250-rw-e100/wordpress.png",
-        "Title": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks",
+        "Link": "https://thehackernews.uk/wing-saas-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmteXE5kVamiWfoIRIgDlS_Id4hNjd5NA-RJAiqG2a0fx8XnL4lugVr85f3fLZOfpRsdZ0i8CK068tfRdHUa8lo2TWLoHoAqtyl6BEQ7bCtWTJp6OtYOyzg4LEsNgz0QKuK0PYGgA0uIAun9HpJ3t7JtxdiBtLt50QOIucr5VnzgEVB8QhNW6o-4H2Wboo/s728-rw-e100/saas.png",
+        "Title": "2024 State of SaaS Security Report eBook",
         "Source": "The Hacker News",
         "Timestamp": "Oct 04, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-nf-2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmteXE5kVamiWfoIRIgDlS_Id4hNjd5NA-RJAiqG2a0fx8XnL4lugVr85f3fLZOfpRsdZ0i8CK068tfRdHUa8lo2TWLoHoAqtyl6BEQ7bCtWTJp6OtYOyzg4LEsNgz0QKuK0PYGgA0uIAun9HpJ3t7JtxdiBtLt50QOIucr5VnzgEVB8QhNW6o-4H2Wboo/s728-rw-e100/saas.png",
-        "Title": "2024 State of SaaS Security Report eBook",
+        "Link": "https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhApXXlu88uIGKrb9s4u3kebscc93US3xfLMrozvKyHASsUEQGpUzb39ERMLUUWYQcYZnyyRsKqBbZB8B9kPThc3Vq5tnxDBEk0GZCVqr3-oaba43GxKdQ9e1OcN15npiI2C-CtwhRPAkd22ddkWVGu7GuEBeiG1rMMVWfSfE9zNXFwktjGlrJFizU62BwF/s250-rw-e100/wordpress.png",
+        "Title": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Oct 04, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Oct 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJw7Q07iDxSYKZGOleUKzwvyIhyphenhyphenBgpJy5yH2S-Sw1X6fGhv5eOAB1DW-7kyKBl-_qDzYCun2mp9VOt7xPNYNOF8XXltkRSPFcLvZxlTDG2-GpteWvkuI8YlDQxKJ0WwNmzhk9ZHwmmdxPFV5eq1AzT6Sbz2btnHBYm9jfS2m5r3kdPoShq8hQAcbVEO7A/s250-rw-e100/linux.png",
-        "Title": "New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking",
+        "Link": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s250-rw-e100/layerx.png",
+        "Title": "5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage",
         "Source": "The Hacker News",
         "Timestamp": "Oct 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s250-rw-e100/layerx.png",
-        "Title": "5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage",
+        "Link": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJw7Q07iDxSYKZGOleUKzwvyIhyphenhyphenBgpJy5yH2S-Sw1X6fGhv5eOAB1DW-7kyKBl-_qDzYCun2mp9VOt7xPNYNOF8XXltkRSPFcLvZxlTDG2-GpteWvkuI8YlDQxKJ0WwNmzhk9ZHwmmdxPFV5eq1AzT6Sbz2btnHBYm9jfS2m5r3kdPoShq8hQAcbVEO7A/s250-rw-e100/linux.png",
+        "Title": "New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking",
         "Source": "The Hacker News",
         "Timestamp": "Oct 04, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Oct 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUU91vFx2aVHhl1OcCIXRn4EdVZRqHIHA_ikaeIIxokfbtqswHncexVh3yz00QWOGIaES-4XWXoA1VVEwsdxRE-rhyEwDR-RMPtkatVI9XT2JLdwm0CuDqrX5EWoQxWnbMwNc1vU9RLNyaOqV7ubskmdB88VNdIa0_rKQ6Tecm0TAvkRcfVQy6myULBbmX/s250-rw-e100/evilcorp.png",
-        "Title": "LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/bedrock.png",
         "Title": "A Single Cloud Compromise Can Feed an Army of AI Sex Bots",
@@ -84,16 +84,16 @@
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWWN8VTFXWw3fh58oD48h7VhRHQ1gzvqqBljobZRPiyMKaoRjRT0tFT9sXjy0TgQ7uZhLlrqd58GejjwIzqfjd41uUd_Oopqr2jwKm0kjblziaNofgYYkpZTkBT4Xd-59mhiO6BA76eD83kWUJaASzpT40XBBKhz0SIBW9FnuFblsAHCvESYdoO4G70jz/s250-rw-e100/ivanti.jpg",
-        "Title": "Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch",
+        "Link": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUU91vFx2aVHhl1OcCIXRn4EdVZRqHIHA_ikaeIIxokfbtqswHncexVh3yz00QWOGIaES-4XWXoA1VVEwsdxRE-rhyEwDR-RMPtkatVI9XT2JLdwm0CuDqrX5EWoQxWnbMwNc1vU9RLNyaOqV7ubskmdB88VNdIa0_rKQ6Tecm0TAvkRcfVQy6myULBbmX/s250-rw-e100/evilcorp.png",
+        "Title": "LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort",
         "Source": "The Hacker News",
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjUcTHwzhgzgNWBa3iVrbYOs2sHx35Jeyd6aieMDfT7qGlSXP8JpjVjzlWzUq7JM0gQiYNgVMeXL7bZyDZfid-B25p4e6LDJVT0kDZCzHq-iJTZkgnvY65ohEXaNv048VhgZBckkSyeMP-4EuQEvGuUKGSu5pGGd_ULmuPYpV4IR6wXPCHdhas0QXzASyv/s250-rw-e100/trading.png",
-        "Title": "Fake Trading Apps Target Victims Globally via Apple App Store and Google Play",
+        "Link": "https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWWN8VTFXWw3fh58oD48h7VhRHQ1gzvqqBljobZRPiyMKaoRjRT0tFT9sXjy0TgQ7uZhLlrqd58GejjwIzqfjd41uUd_Oopqr2jwKm0kjblziaNofgYYkpZTkBT4Xd-59mhiO6BA76eD83kWUJaASzpT40XBBKhz0SIBW9FnuFblsAHCvESYdoO4G70jz/s250-rw-e100/ivanti.jpg",
+        "Title": "Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch",
         "Source": "The Hacker News",
         "Timestamp": "Oct 03, 2024"
     },
@@ -105,16 +105,23 @@
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIm4nR9-Ey_LMAKdmk2FDEbQyEWQmmcERixyaYQxLA4EcwISk0GHUxvH67ILILJct59dd65xKWqTdXRNV0jm4a_gqiQ1e__IYdWYTEtbOmmq7QzjM7vKmU7QBLXpDGDe4BrH6Q-uuEdgoUoGezhjcYV2euex-1Xjlq5OX78beXixhHquY7W599tG31ZZ4P/s250-rw-e100/chinese-hackers.png",
-        "Title": "China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration",
+        "Link": "https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjUcTHwzhgzgNWBa3iVrbYOs2sHx35Jeyd6aieMDfT7qGlSXP8JpjVjzlWzUq7JM0gQiYNgVMeXL7bZyDZfid-B25p4e6LDJVT0kDZCzHq-iJTZkgnvY65ohEXaNv048VhgZBckkSyeMP-4EuQEvGuUKGSu5pGGd_ULmuPYpV4IR6wXPCHdhas0QXzASyv/s250-rw-e100/trading.png",
+        "Title": "Fake Trading Apps Target Victims Globally via Apple App Store and Google Play",
         "Source": "The Hacker News",
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wing-nf-2",
+        "Link": "https://thehackernews.uk/wing-saas-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmteXE5kVamiWfoIRIgDlS_Id4hNjd5NA-RJAiqG2a0fx8XnL4lugVr85f3fLZOfpRsdZ0i8CK068tfRdHUa8lo2TWLoHoAqtyl6BEQ7bCtWTJp6OtYOyzg4LEsNgz0QKuK0PYGgA0uIAun9HpJ3t7JtxdiBtLt50QOIucr5VnzgEVB8QhNW6o-4H2Wboo/s728-rw-e100/saas.png",
         "Title": "2024 State of SaaS Security Report eBook",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 03, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIm4nR9-Ey_LMAKdmk2FDEbQyEWQmmcERixyaYQxLA4EcwISk0GHUxvH67ILILJct59dd65xKWqTdXRNV0jm4a_gqiQ1e__IYdWYTEtbOmmq7QzjM7vKmU7QBLXpDGDe4BrH6Q-uuEdgoUoGezhjcYV2euex-1Xjlq5OX78beXixhHquY7W599tG31ZZ4P/s250-rw-e100/chinese-hackers.png",
+        "Title": "China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration",
         "Source": "The Hacker News",
         "Timestamp": "Oct 03, 2024"
     },
@@ -150,13 +157,6 @@
         "Link": "https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3teJKN9bINOJDTtTd7nW7F4_-BBSDbYxGEKm7M4JTYUOZ5wt1dDFTaDqaP2oEMwMTShRnp13LKuyLPKWHLof_KD9SOVwAChHXnEO9ub25BuIJSqVJf-55ge70jC2B3IOjyryUpM22cI7U1Eztb6MxWp85Z59Th54Heb_-PK-qqTjBF7ha6LCmOfAqSeY/s250-rw-e100/hacker.png",
         "Title": "Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/researchers-sound-alarm-on-active.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAPE5KyAMcglupmQK5DETWPc_Y_vVyJrDit9dmNZkB9HdW4qmtzrEok6LTGlS5JvdIqVEoYB6sXq6opPOaMz7OC_F4FzS6uJ-C3BCpcPVox0hfMgIFk38oTMkqp9VM1Qmdptp7xx_HhsKESsYVoNXrAkIkV5x8TkliuUbgiCS-QXOC8vOel1bWuwoSodQ/s250-rw-e100/email--code.png",
-        "Title": "Researchers Warn of Ongoing Attacks Exploiting Critical Zimbra Postjournal Flaw",
         "Source": "The Hacker News",
         "Timestamp": "Oct 03, 2024"
     },
