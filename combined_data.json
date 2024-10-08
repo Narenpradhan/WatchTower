@@ -1,31 +1,80 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_LXe3apUde3JYajQXc8w82tHJjS4Blw81Sa8XaTSiwtCHvbHKFnXDqIgFJnIgxY9I22Q6gJpV6KJq5qI-TtcwgkAs4jG3DN2JLBlpSXgE5YeximF1FHrc_Zwv3_biwyLM7n2_USOwctGxQJpLGtaSeNJPfHzGnbUY0egTtKnBkEMHjCPTZbk8LDrO1u3/w500/botnet.png",
-        "Title": "New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries",
+        "Link": "https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglX-UW5Ck4vfzKKues9bXi1LUD98bO6cbV9P7QqoU5dTlYPs8FEjVKH544_eRaxDdrPf_nQo6yuX54aTMiUrv_jhCZpGNG3M7FcgIsdOEHTpKKH8HXoV0q9V-tgfpjvtmkQY-z-UlJRLKCkHkBjR3SnYeDWO-766H2bG5Ak921TaQy3c3huiO3Dut4VbpA/w500/russia.png",
+        "Title": "Cyberattack Group 'Awaken Likho' Targets Russian Government with Advanced Tools",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 07, 2024"
+        "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaaC9RPdTJisqSdZZUBfBwoa3lO5aheS7SdCNOcHKNfbogDt31eMWKwB0AYgvKVW_fmel6hTPQIffMguA97oo_hnA7Yqtcqqt5ScaRjCkysRu61ho3zJxrBRrRVBGKcwtUnIWJuCzrqT4PGP37npU39zktfvk8c3ifY_JR-GL8LloqKRRUJ0VKqVrtac/w500/main.png",
-        "Title": "Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually",
+        "Link": "https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaglwx0pyOw_P9JGIaYOi9vQyzL_1Az1oltDHFdt6VBI2TBcVo1SslqeiFqR5WyxjfOUoIkvMEw951zGdDy6OXgrLYugEc-ut2Id6v74mRoLV7_bKiBzhDb7seZJMBYyZ7wOiS78gkFwRInt7NHmya6YuIIogZwHpQ8DnlGHPm_myjx3T2EECv7Qmt40/w500/min.png",
+        "Title": "New Case Study: The Evil Twin Checkout Page ",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 07, 2024"
+        "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCs3oCu2yRna0vJyPTl0f-crEVRLEPQWWHn6VKxmAvIZXVa-lbw3Ro2w8UieiBRSUQmNjQB_q536cd7-MNKjISYqRRDIExunWHuuiW8Nj3yFbN83vzJdBgxk1WSLQ5ZW8RpMSkrIskquZy-r7dDyYNAUdpF2xGT-YlcLuKpqIuLNFbef3Hkd3ag5t82lY/w500/passwords.png",
-        "Title": "Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless",
+        "Link": "https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCaVVsRtD6ll9xTxFBXjSq41ztCFUrCA_rUVeWdo5fUOx9ndq1DG-J46hgYHX5XsI_SGIlDcCEMaIEHK0UZhckXrkQSwIBoAUN-at5BB6SgF0zO5ayXAPUrbHUchiKBn-8zmeTnOWyIA51gAcsaJ_q4j4aY666LMGrVKXaL5q1pIeHQHWF4WXEzI5jkO8g/w500/hacking.png",
+        "Title": "GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 07, 2024"
+        "Timestamp": "Oct 08, 2024"
     },
     {
         "Link": "https://thehackernews.uk/appomni-saas-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
         "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 07, 2024"
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/the-value-of-ai-powered-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqXanxEIA3v04NpFYhfdIq-TKFsMhOjASId2s1ytZq1Dr0-glb9YHsl0JM19M6-8yR289wlUvwntecLLU9Q6FDV0TVytiIr_-B4u44bNMKznCPrPx2I9oTPAl-PtZKIDPw3Wztk5hRIJwKM1BrRnhmeOb2Rl0buhjebj-Pp3Sbe2FGKKtnmUzMvyW4rs/w500/one.jpg",
+        "Title": "The Value of AI-Powered Identity",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzptUvqgCL8Cu8fjsS5FnH6gp5mibRlmR_6xTB-3ROq7v6YLE3JofpKEMzkH43-Ncx1Fk4bAfmwImFhsSBUnjJz79PGW_1ltxRcsqbIwJPhth4nMXYu6gmXoRcgDiuDFo4cBf34WTSw1ZPZ95_Hhd7Np70s_K7GAAwWBpI4KiYRzavTVRgOpfIVkanfr7s/w500/hackers.png",
+        "Title": "Pro-Ukrainian Hackers Strike Russian State TV on Putin's Birthday",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxQ4dLwtsNT1UUUVCb2JTMkLYLBO-fclCTuL21ZknLTlNBTuomwC8vcxoqcToZrqf2O683yxf8H_sEGYT2x9GHa440XqJ_X6tYaRQKQLagtPV41y7WDlOfssEL8XA2eBuy6LW0c_wU6UnkO74x55K2DJy0uxfqagWyyVM9AcYrNPm3W83GafwuUxxV2kJ6/w500/chipset.png",
+        "Title": "Qualcomm Urges OEMs to Patch Critical DSP and WLAN Flaws Amid Active Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
+        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_LXe3apUde3JYajQXc8w82tHJjS4Blw81Sa8XaTSiwtCHvbHKFnXDqIgFJnIgxY9I22Q6gJpV6KJq5qI-TtcwgkAs4jG3DN2JLBlpSXgE5YeximF1FHrc_Zwv3_biwyLM7n2_USOwctGxQJpLGtaSeNJPfHzGnbUY0egTtKnBkEMHjCPTZbk8LDrO1u3/w500/botnet.png",
+        "Title": "New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaaC9RPdTJisqSdZZUBfBwoa3lO5aheS7SdCNOcHKNfbogDt31eMWKwB0AYgvKVW_fmel6hTPQIffMguA97oo_hnA7Yqtcqqt5ScaRjCkysRu61ho3zJxrBRrRVBGKcwtUnIWJuCzrqT4PGP37npU39zktfvk8c3ifY_JR-GL8LloqKRRUJ0VKqVrtac/w500/main.png",
+        "Title": "Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCs3oCu2yRna0vJyPTl0f-crEVRLEPQWWHn6VKxmAvIZXVa-lbw3Ro2w8UieiBRSUQmNjQB_q536cd7-MNKjISYqRRDIExunWHuuiW8Nj3yFbN83vzJdBgxk1WSLQ5ZW8RpMSkrIskquZy-r7dDyYNAUdpF2xGT-YlcLuKpqIuLNFbef3Hkd3ag5t82lY/w500/passwords.png",
+        "Title": "Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 08, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html",
@@ -42,6 +91,13 @@
         "Timestamp": "Oct 07, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
+        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpWewDkVhXvUdqgv5j2qAR0kxr8J5mtUNyD6hMEtH4KzvnG3Ri9mY7-EEzNtlk08uup_hasQXPcIKboEkGw97MkCscPLO87VEW2UnX45y1UQMGlKuC779pL_5fnzg2yUQ0vVsm8gjlatOSskBN9ercwRX4wZuO_14STRKS5R8d57rzgwl5eLfP8TXwqA7p/w500/android-security.png",
         "Title": "Google Blocks Unsafe Android App Sideloading in India for Improved Fraud Protection",
@@ -49,9 +105,9 @@
         "Timestamp": "Oct 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s500-rw-e100/layerx.png",
-        "Title": "5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage",
+        "Link": "https://thehackernews.uk/appomni-saas-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
+        "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
         "Timestamp": "Oct 07, 2024"
     },
@@ -77,6 +133,27 @@
         "Timestamp": "Oct 07, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqP8jOtRRaaMyN6Krsfpqa79yLFCMw2HXkdf9kQ_vJr26RltHtS1MVX4hLQyGwrJ0xIbbXIUzwQ9ZJd1rjhAQT12LQtsPY0zMPfAHAHmvtteOZB9jnTWRlPWe8gvduZLPchboD7sFVogZTX6SqhX_hu5oYmwZK2RGNSN4_H5im5NvISYzH-iTop-xGqM/w500/xm.jpg",
+        "Title": "How to Get Going with CTEM When You Don't Know Where to Start",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrFx7oBoiQxYLaLSlG06s1aaO0KOVaJbe0eUXZHBPzTG_IC5FdJgwTaN1NBgVX9dQ3bv5IYOZmpFha3Wk8gwWU1hQnDcTKQBqy0NdBCsqxz-MmlQ408ivZtkOdM59YSmRSFi4MfGiN4RSo1KkoSNoSGmvYQKirfclbtXvxZbjb9mQ_5I43gin7uaQ0bf6H/w500/DDOS.png",
+        "Title": "Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhApXXlu88uIGKrb9s4u3kebscc93US3xfLMrozvKyHASsUEQGpUzb39ERMLUUWYQcYZnyyRsKqBbZB8B9kPThc3Vq5tnxDBEk0GZCVqr3-oaba43GxKdQ9e1OcN15npiI2C-CtwhRPAkd22ddkWVGu7GuEBeiG1rMMVWfSfE9zNXFwktjGlrJFizU62BwF/w500/wordpress.png",
+        "Title": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 07, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
         "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
         "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
@@ -89,83 +166,6 @@
         "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqP8jOtRRaaMyN6Krsfpqa79yLFCMw2HXkdf9kQ_vJr26RltHtS1MVX4hLQyGwrJ0xIbbXIUzwQ9ZJd1rjhAQT12LQtsPY0zMPfAHAHmvtteOZB9jnTWRlPWe8gvduZLPchboD7sFVogZTX6SqhX_hu5oYmwZK2RGNSN4_H5im5NvISYzH-iTop-xGqM/w500/xm.jpg",
-        "Title": "How to Get Going with CTEM When You Don't Know Where to Start",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/cloudflare-thwarts-largest-ever-38-tbps.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrFx7oBoiQxYLaLSlG06s1aaO0KOVaJbe0eUXZHBPzTG_IC5FdJgwTaN1NBgVX9dQ3bv5IYOZmpFha3Wk8gwWU1hQnDcTKQBqy0NdBCsqxz-MmlQ408ivZtkOdM59YSmRSFi4MfGiN4RSo1KkoSNoSGmvYQKirfclbtXvxZbjb9mQ_5I43gin7uaQ0bf6H/w500/DDOS.png",
-        "Title": "Cloudflare Thwarts Largest-Ever 3.8 Tbps DDoS Attack Targeting Global Sectors",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s500-rw-e100/layerx.png",
-        "Title": "5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhApXXlu88uIGKrb9s4u3kebscc93US3xfLMrozvKyHASsUEQGpUzb39ERMLUUWYQcYZnyyRsKqBbZB8B9kPThc3Vq5tnxDBEk0GZCVqr3-oaba43GxKdQ9e1OcN15npiI2C-CtwhRPAkd22ddkWVGu7GuEBeiG1rMMVWfSfE9zNXFwktjGlrJFizU62BwF/w500/wordpress.png",
-        "Title": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/appomni-saas-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
-        "Title": "The State of SaaS Security 2024 Report",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/android-14-adds-new-security-features.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWPWgaBeSIyCnxb7jN9oXFCQsb9Np2zg-PW7_VRlqI25NCqEbM6thlfbgHE0RSR_X8Qoh7GmWGDNLdxD_Be4U_V7y32iJP_dTjOzFjceGelP9nAq5LlXWuCvmtgnPA51URkKwpmWeXVqBvSgjB62Al9wlmLb93S8YmnjqWf-R0dA9v_aHfxzVrFAsk1bVR/w500/android.png",
-        "Title": "Google Adds New Pixel Security Features to Block 2G Exploits and Baseband Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
-        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJw7Q07iDxSYKZGOleUKzwvyIhyphenhyphenBgpJy5yH2S-Sw1X6fGhv5eOAB1DW-7kyKBl-_qDzYCun2mp9VOt7xPNYNOF8XXltkRSPFcLvZxlTDG2-GpteWvkuI8YlDQxKJ0WwNmzhk9ZHwmmdxPFV5eq1AzT6Sbz2btnHBYm9jfS2m5r3kdPoShq8hQAcbVEO7A/w500/linux.png",
-        "Title": "New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/north-korean-hackers-using-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYEfXN87k4Pzn7PnwX6FKcPhemB4Hfo1Ls4sXTFYzUtwzYMhPUzuyD23AUarS5cLAIOuKJQ43jP350Sop3GJhFSw9FcKALYvzJDh3ThY5ACpYnETQC3Uw2sAJ5UZ6tY_5k0lOHVeL30uf8mURzLaTFb566N22BCTEuxq2sD91Eu0fxVLbJg439CAOU7K_w/w500/malware-code.png",
-        "Title": "North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDQlbSvOaHF1gpAfevUiOo8aasR_EE0tE9Kf-dvwuKECLWvGZdnDTg7jJai9KYrlMVz1A13CdNvom9HmbZ0nNyAWsKnULYH8e4dXvkoZns_OKzARVwf6bNkQ9mj8aT9PxF3S5Ac7uTUDqmdRK9tH8kpj5dMPHVSkFAuvtonEIA2ir9L6JEdGEMdtRWhm9S/w500/scammers.png",
-        "Title": "INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUU91vFx2aVHhl1OcCIXRn4EdVZRqHIHA_ikaeIIxokfbtqswHncexVh3yz00QWOGIaES-4XWXoA1VVEwsdxRE-rhyEwDR-RMPtkatVI9XT2JLdwm0CuDqrX5EWoQxWnbMwNc1vU9RLNyaOqV7ubskmdB88VNdIa0_rKQ6Tecm0TAvkRcfVQy6myULBbmX/w500/evilcorp.png",
-        "Title": "LockBit Ransomware and Evil Corp Members Arrested and Sanctioned in Joint Global Effort",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 04, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/",
