@@ -84,6 +84,13 @@
         "Timestamp": "Oct 09, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/internet-archive-hacked/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Source": "WIRED",
+        "Timestamp": "Oct 09, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png",
         "Title": "Patch Tuesday, October 2024 Edition",
@@ -168,16 +175,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/67004d2afe54a52071eeb9b2/3:2/w_1280%2Cc_limit/Security_FBI_Phone_GettyImages-1312905466.jpg",
-        "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/67004d2afe54a52071eeb9b2/3:2/w_1280%2Cc_limit/Security_FBI_Phone_GettyImages-1312905466.jpg",
+        "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
@@ -189,7 +196,7 @@
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ice-paragon-solutions-contract/",
+        "Link": "https://www.wired.com/story/evil-corp-lockbit-russian-intelligence/",
         "Img_URL": "https://media.wired.com/photos/66fc01e8d91e2ec33180d22f/3:2/w_1280%2Cc_limit/ice-paragon-sec-1258485376.jpg",
         "Title": "ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions",
         "Source": "WIRED",
@@ -418,13 +425,6 @@
         "Title": "National Public Data Published Its Own Passwords",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 19, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/geofence-warrants-ruled-unconstitutional-tmobile-fine-deepfake-nudes-lawsuit/",
-        "Img_URL": "https://media.wired.com/photos/66c384b09cdaa2067497f795/3:2/w_1280%2Cc_limit/aws-sec--2154161140.jpg",
-        "Title": "An AWS Configuration Issue Could Expose Thousands of Web Apps",
-        "Source": "WIRED",
-        "Timestamp": "Aug 17, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/",
