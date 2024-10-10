@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpcRhldtY4rwgw3pGa0ztgSJwxBFiz31d3pvPrMI6EjeBjyaIrQP3MWf7KlWHfIwr_3_qGVMhLiOvrDTRYS9GUEr8HpL-UyThVxXKkgbrYzXd9JVsP4sl5nJt-qUxfUHrwQ5nFBy7WUW-kRLLWuYkQ8RoNNY9WY0Dvt7hK4Kx05-Tfgi6jusG6GOatsOqM/w500/ai-content.png",
+        "Title": "OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 10, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt84Eoa3rKvtAwE1JaWUsl1mAAnoKKz6kkf6F8zIthBNNTpe_58DJndJi8TjEBe2DtcBnwq6WBTNF7mfbclgBCxtNFJlaoQu7mNFqkg5EXf-tZVD1d4bsTIs7llj_P7q5_55M5Hz6AjOk025VDOOdMPOB2jfGDXO-sW2pDEtWjvYaqT73G6GJb3mGSE06W/w500/lock.png",
         "Title": "Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems",
@@ -14,16 +21,16 @@
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJZxKkmbaY7u7Pd-8e-lC6RTxSr-A3UMV63LoDST-yAEuw5rPqqXfS1XQQOV5BuBRlzQdte2o4dtZ4GiTkcB0wT10YS84L_G46ivrFk3t4NjfRy1TdcMJ-UiLGYqDnyDlo-rWudPTSMTicBzN6Wp_DlnzLZqFwGa_1TwSCE9cGrCujWlLNCRjZ5GJffcB/w500/shopping.png",
-        "Title": "Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms",
+        "Link": "https://thehackernews.uk/appomni-saas-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
+        "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/appomni-saas-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
-        "Title": "The State of SaaS Security 2024 Report",
+        "Link": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJZxKkmbaY7u7Pd-8e-lC6RTxSr-A3UMV63LoDST-yAEuw5rPqqXfS1XQQOV5BuBRlzQdte2o4dtZ4GiTkcB0wT10YS84L_G46ivrFk3t4NjfRy1TdcMJ-UiLGYqDnyDlo-rWudPTSMTicBzN6Wp_DlnzLZqFwGa_1TwSCE9cGrCujWlLNCRjZ5GJffcB/w500/shopping.png",
+        "Title": "Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-_A0vaSjJG1BBaI0rAkH_WBa0g59u50BY0K2IIG8Ih-MzwdHja7HkcKmJf13i2xILX__SJDQcv9WPjMJS0TExtmYjJ3aeHfEKGhhvpLa6bxGuIiiOefBZ7RM2Xw76Q2MUQRFHnExrHuMVYuq3PznO81wKc5x6nOpFlW9dOJZKC0cyGoro14uiW12HZES/w500/online-scam.png",
-        "Title": "Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale",
+        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
+        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
-        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
+        "Link": "https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-_A0vaSjJG1BBaI0rAkH_WBa0g59u50BY0K2IIG8Ih-MzwdHja7HkcKmJf13i2xILX__SJDQcv9WPjMJS0TExtmYjJ3aeHfEKGhhvpLa6bxGuIiiOefBZ7RM2Xw76Q2MUQRFHnExrHuMVYuq3PznO81wKc5x6nOpFlW9dOJZKC0cyGoro14uiW12HZES/w500/online-scam.png",
+        "Title": "Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
@@ -70,13 +77,6 @@
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVTF12UqQOjTfmw7R1G-HjLQs73Xhu9AzIICCRmiS_h31AgNOraw1WD4Ra4PdL9tD8wWVkUlCX_sE-YNlfWmCYfdSV9JX8klGPp-HmRcUprgPkzWqBYb19iWaEZ7ap3BU0UCTKa7HWJH47Ik8bR4MeHV6GQZPMJ509ZOIj9ncMJvsoktNApURyqaQCHI/w500/saas.png",
-        "Title": "Social Media Accounts: The Weak Link in Organizational SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 10, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/abc-7-danbury.png",
         "Title": "Lamborghini Carjackers Lured by $243M Cyberheist",
@@ -84,16 +84,16 @@
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9HreOhqjS-a0stYL2q4JiFZVfKNu-xC9rwncjub6TgDZu5vQCl1yN17RnOfQZjZ9rkjL5z3AQUWe6IIVaqn7oprOH5hIaZaQb56LsfNQOo7CPw2ZcPFOvAoVEj7HEJagZYQ1mNBeLIsoz27LFqHZLMqxxHJLqc8yUIgfUJ4Ew8-4xwO8oAevbU-zocL3/w500/windows.png",
-        "Title": "Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited in the Wild",
+        "Link": "https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVTF12UqQOjTfmw7R1G-HjLQs73Xhu9AzIICCRmiS_h31AgNOraw1WD4Ra4PdL9tD8wWVkUlCX_sE-YNlfWmCYfdSV9JX8klGPp-HmRcUprgPkzWqBYb19iWaEZ7ap3BU0UCTKa7HWJH47Ik8bR4MeHV6GQZPMJ509ZOIj9ncMJvsoktNApURyqaQCHI/w500/saas.png",
+        "Title": "Social Media Accounts: The Weak Link in Organizational SaaS Security",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc71bvcvF0hZUe4jbeVxiiO6oLKTjl5tnfdfC4U3CvvQMxvjuH6gyuU6BWub1iluITDr0YwtP-gPLVgc4_fzyhnhe66tsjOGAKVvzgud_Xuxjh1Vo4xEI14IzumyxA4ex2bsULbAeNjZLjhVonEq0ZTnSmR8g7o_lUM-kX0o_CFNZsFHYWkI2O-w-6iP49/w500/phishing.png",
-        "Title": "Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks",
+        "Link": "https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9HreOhqjS-a0stYL2q4JiFZVfKNu-xC9rwncjub6TgDZu5vQCl1yN17RnOfQZjZ9rkjL5z3AQUWe6IIVaqn7oprOH5hIaZaQb56LsfNQOo7CPw2ZcPFOvAoVEj7HEJagZYQ1mNBeLIsoz27LFqHZLMqxxHJLqc8yUIgfUJ4Ew8-4xwO8oAevbU-zocL3/w500/windows.png",
+        "Title": "Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited in the Wild",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
@@ -105,9 +105,9 @@
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoVfMxMqAMKudp4jSX2vkfFAmwjGIBxsdNaPAkHLZ5CNLv1biclYfKeCxYm5V1iu3OqceHFgFURZC3p2qiBl9gBXmAh4bfKQdEV9iAsxhFBVuMRoMJqySFpY-R-wVr_QmxWNxG-EEW_Kj5KQmankkafB-Np3Gj5mlLMDQVdvXe5BvTXRFpYcuqcQqts5h9/w500/ivanti.png",
-        "Title": "Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited",
+        "Link": "https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc71bvcvF0hZUe4jbeVxiiO6oLKTjl5tnfdfC4U3CvvQMxvjuH6gyuU6BWub1iluITDr0YwtP-gPLVgc4_fzyhnhe66tsjOGAKVvzgud_Xuxjh1Vo4xEI14IzumyxA4ex2bsULbAeNjZLjhVonEq0ZTnSmR8g7o_lUM-kX0o_CFNZsFHYWkI2O-w-6iP49/w500/phishing.png",
+        "Title": "Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
@@ -119,44 +119,44 @@
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/gamers-tricked-into-downloading-lua.html?m=1",
+        "Link": "https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoVfMxMqAMKudp4jSX2vkfFAmwjGIBxsdNaPAkHLZ5CNLv1biclYfKeCxYm5V1iu3OqceHFgFURZC3p2qiBl9gBXmAh4bfKQdEV9iAsxhFBVuMRoMJqySFpY-R-wVr_QmxWNxG-EEW_Kj5KQmankkafB-Np3Gj5mlLMDQVdvXe5BvTXRFpYcuqcQqts5h9/w500/ivanti.png",
+        "Title": "Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 09, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/gamers-tricked-into-downloading-lua.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTGE7uiqet6VHroZRkMLPMT8SVEHM8gML5wgNkQEH8I7-oE3hmnbUaw2LCNhVvIWiqldkKoL7Wvem0x3KKnieILhJ1eQUdTPzndl9BFAMbNv_ROv-JvDsTHuB-wLsi6gjumck3JJEIfx6nrAUSQ2VjyYjm9eTexwOXM_1NwV7rCGY3OIdpYx_lBZqlFfMc/w500/gamers.png",
         "Title": "Gamers Tricked Into Downloading Lua-Based Malware via Fake Cheating Script Engines",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html?m=1",
+        "Link": "https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglX-UW5Ck4vfzKKues9bXi1LUD98bO6cbV9P7QqoU5dTlYPs8FEjVKH544_eRaxDdrPf_nQo6yuX54aTMiUrv_jhCZpGNG3M7FcgIsdOEHTpKKH8HXoV0q9V-tgfpjvtmkQY-z-UlJRLKCkHkBjR3SnYeDWO-766H2bG5Ak921TaQy3c3huiO3Dut4VbpA/w500/russia.png",
         "Title": "Cyberattack Group 'Awaken Likho' Targets Russian Government with Advanced Tools",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html?m=1",
+        "Link": "https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCaVVsRtD6ll9xTxFBXjSq41ztCFUrCA_rUVeWdo5fUOx9ndq1DG-J46hgYHX5XsI_SGIlDcCEMaIEHK0UZhckXrkQSwIBoAUN-at5BB6SgF0zO5ayXAPUrbHUchiKBn-8zmeTnOWyIA51gAcsaJ_q4j4aY666LMGrVKXaL5q1pIeHQHWF4WXEzI5jkO8g/w500/hacking.png",
         "Title": "GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html?m=1",
+        "Link": "https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaglwx0pyOw_P9JGIaYOi9vQyzL_1Az1oltDHFdt6VBI2TBcVo1SslqeiFqR5WyxjfOUoIkvMEw951zGdDy6OXgrLYugEc-ut2Id6v74mRoLV7_bKiBzhDb7seZJMBYyZ7wOiS78gkFwRInt7NHmya6YuIIogZwHpQ8DnlGHPm_myjx3T2EECv7Qmt40/w500/min.png",
         "Title": "New Case Study: The Evil Twin Checkout Page ",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/the-value-of-ai-powered-identity.html?m=1",
+        "Link": "https://thehackernews.com/2024/10/the-value-of-ai-powered-identity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqXanxEIA3v04NpFYhfdIq-TKFsMhOjASId2s1ytZq1Dr0-glb9YHsl0JM19M6-8yR289wlUvwntecLLU9Q6FDV0TVytiIr_-B4u44bNMKznCPrPx2I9oTPAl-PtZKIDPw3Wztk5hRIJwKM1BrRnhmeOb2Rl0buhjebj-Pp3Sbe2FGKKtnmUzMvyW4rs/w500/one.jpg",
         "Title": "The Value of AI-Powered Identity",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 09, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzptUvqgCL8Cu8fjsS5FnH6gp5mibRlmR_6xTB-3ROq7v6YLE3JofpKEMzkH43-Ncx1Fk4bAfmwImFhsSBUnjJz79PGW_1ltxRcsqbIwJPhth4nMXYu6gmXoRcgDiuDFo4cBf34WTSw1ZPZ95_Hhd7Np70s_K7GAAwWBpI4KiYRzavTVRgOpfIVkanfr7s/w500/hackers.png",
-        "Title": "Pro-Ukrainian Hackers Strike Russian State TV on Putin's Birthday",
         "Source": "The Hacker News",
         "Timestamp": "Oct 09, 2024"
     },
