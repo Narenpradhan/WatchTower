@@ -1,85 +1,120 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU07tZpoxX9YI2C5GrEE_0lcNA8yjYYJ27zKSIef6B0aBOrRlEFYctRffqql7Hevx8XAjxUAXKZ4374lPflrfuh-f2s-Wavt_nqO1H6FSEerbEEGYqbzEk_uDi-Er5n5bQ16cTdYhj3wlo0b0RAr4neg075uOfO2kyIYjLaOwMnM3c9_MbjEVbK1BxoXT2/w500/nextfundai.png",
+        "Title": "FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGAFhKOnkwzltNIgfGrMZZnuSNZOXOM6x1N5y6ZGHCCRyVF52VKe3tqOZT3luAmpoqTggBjmOkBUvgJ7mCpip44rDs_YiW9OvqLGfv-eVgDiOEiNtsCgjP-N8UJw12C48QoDSseF3-PZlp8iNniJXycG08s2UV8B6ke47FnEsMjCFhbe6dqVSzfLuiMtj/w500/phishing.png",
-        "Title": "GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks",
+        "Title": "GitHub, Telegram Bots, and ASCII QR Codes Abused in New Wave of Phishing Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzOFg-r5PFa9nJx0bSGTk9AxGBWwE1DkCrRYR6XDXVocnm7DaAjNP39KovY2ZiJiwntDMDJlFVTMfSHMAj9LXMyIvOUfP9ebAvJzP0-XbNsIglj-UNkF_QOIILD5RXyn8vwk5CIxhzsaXjmsRQm7kqN2DdwnW4L29D8dt_8xQxpWNLDJDWZX02avGNBio/w500/password.png",
         "Title": "How Hybrid Password Attacks Work and How to Defend Against Them ",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYoFNmHX7vmxs3jvFE92oFVA4vNaqCfOX4l-D2YiuEAb76bemn99A8lJYJp1hsBpNoeMT0QoVA4fno1NsZj0Efm8PizXuBqeziDlTk0S_IOd0FrBKDlIoH96D3crgz4GhsxGOJ5_p-9k5g3gsuhPhu6J_av0_CmmkbpQBTM9k-HWuvp0ww3MeDnQvHN2St/w500/big-ip.png",
-        "Title": "CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.uk/appomni-saas-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
         "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYoFNmHX7vmxs3jvFE92oFVA4vNaqCfOX4l-D2YiuEAb76bemn99A8lJYJp1hsBpNoeMT0QoVA4fno1NsZj0Efm8PizXuBqeziDlTk0S_IOd0FrBKDlIoH96D3crgz4GhsxGOJ5_p-9k5g3gsuhPhu6J_av0_CmmkbpQBTM9k-HWuvp0ww3MeDnQvHN2St/w500/big-ip.png",
+        "Title": "CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibAJ4lQ44xnTD3BHVE0Nw1iHpxCoLwDSEDipjz9F4-DPJJxjLqNsTOwSEbZQENKjxNobMV8n0Ver70-hQ26CKXkmXemccNMFCzTrsmwKQxV3gYzAfW9jMMSr6aYvJf2g1iRvtECHtQ-6S5jLSeW60XT9i2G723xgFLyrE3g7Icmo6p9hNKDn7hYTq-j03T/w500/gitlab.png",
         "Title": "New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTM3Jl-QuqLGEvNHDguZLH08Hov62keDVheIMZ2tjN8CsBz5hAfs8Aoysaa7OraqEXIttaej5cuZDdHeP3w2MDNElf48_qKNxHynXA7aE1IYMZpn1AQa0uvQ2_lqyg5Y-r1lWZyn9fqbWnHascTgXr2A6SEZ6iXLk_ef7QZyZSrcfNKpCLp3XHmMYFfbZY/w500/arrested.png",
         "Title": "Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqP8jOtRRaaMyN6Krsfpqa79yLFCMw2HXkdf9kQ_vJr26RltHtS1MVX4hLQyGwrJ0xIbbXIUzwQ9ZJd1rjhAQT12LQtsPY0zMPfAHAHmvtteOZB9jnTWRlPWe8gvduZLPchboD7sFVogZTX6SqhX_hu5oYmwZK2RGNSN4_H5im5NvISYzH-iTop-xGqM/w500/xm.jpg",
+        "Title": "How to Get Going with CTEM When You Don't Know Where to Start",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpcRhldtY4rwgw3pGa0ztgSJwxBFiz31d3pvPrMI6EjeBjyaIrQP3MWf7KlWHfIwr_3_qGVMhLiOvrDTRYS9GUEr8HpL-UyThVxXKkgbrYzXd9JVsP4sl5nJt-qUxfUHrwQ5nFBy7WUW-kRLLWuYkQ8RoNNY9WY0Dvt7hK4Kx05-Tfgi6jusG6GOatsOqM/w500/ai-content.png",
         "Title": "OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
-        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt84Eoa3rKvtAwE1JaWUsl1mAAnoKKz6kkf6F8zIthBNNTpe_58DJndJi8TjEBe2DtcBnwq6WBTNF7mfbclgBCxtNFJlaoQu7mNFqkg5EXf-tZVD1d4bsTIs7llj_P7q5_55M5Hz6AjOk025VDOOdMPOB2jfGDXO-sW2pDEtWjvYaqT73G6GJb3mGSE06W/w500/lock.png",
         "Title": "Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/6-simple-steps-to-eliminate-soc-analyst.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga8TMwmlh-dv-TvBoUTReHEWeA9qyp_6XCKB_jo17ZlqxPFnrwFYyvcfmiWYxnhqmi4Jl0jTjq24GOah2h4JyYsAzFHYgu42lI6_Qo4ql1t1QccRgdfm8Cb330rPS8oKmMXv6WAlRrNHnfZ8S6d9IC4OpPda8iNOZRPKrw2fGkvnn2DhI7xcn_4OAEnbs/w500/main.png",
         "Title": "6 Simple Steps to Eliminate SOC Analyst Burnout",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
+        "Img_URL": "https://media.wired.com/photos/6707fc95aa2db1548cabfac9/3:2/w_1280%2Cc_limit/Security_Airgapped_GettyImages-676165443.jpg",
+        "Title": "A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped Machines",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
+        "Title": "Pig Butchering Scams Are Going High Tech",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJZxKkmbaY7u7Pd-8e-lC6RTxSr-A3UMV63LoDST-yAEuw5rPqqXfS1XQQOV5BuBRlzQdte2o4dtZ4GiTkcB0wT10YS84L_G46ivrFk3t4NjfRy1TdcMJ-UiLGYqDnyDlo-rWudPTSMTicBzN6Wp_DlnzLZqFwGa_1TwSCE9cGrCujWlLNCRjZ5GJffcB/w500/shopping.png",
         "Title": "Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 11, 2024"
+        "Timestamp": "Oct 10, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiAS8cfUsAeLIZLCqWDZHwcEaL8iNUDWhNJAwRkWlRfFj1pvzvRlRez9DEirJ63SEPM9B8FZ4aUrpP3F7r5i0Be7FdWxPgm7zJQ33Zn4pxa-3LgxjBM_rYD5Q9qgGK9omvDFk50u8hDKa9voEWtmJdod9bQDRJlD2L5ocYDtXkcWSWzYnBwDkIIw6XyF40/w500/update.png",
         "Title": "CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqP8jOtRRaaMyN6Krsfpqa79yLFCMw2HXkdf9kQ_vJr26RltHtS1MVX4hLQyGwrJ0xIbbXIUzwQ9ZJd1rjhAQT12LQtsPY0zMPfAHAHmvtteOZB9jnTWRlPWe8gvduZLPchboD7sFVogZTX6SqhX_hu5oYmwZK2RGNSN4_H5im5NvISYzH-iTop-xGqM/w500/xm.jpg",
+        "Title": "How to Get Going with CTEM When You Don't Know Where to Start",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
@@ -91,9 +126,9 @@
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/w500/git.png",
-        "Title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
+        "Link": "https://thehackernews.uk/appomni-saas-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
+        "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
@@ -101,13 +136,6 @@
         "Link": "https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-_A0vaSjJG1BBaI0rAkH_WBa0g59u50BY0K2IIG8Ih-MzwdHja7HkcKmJf13i2xILX__SJDQcv9WPjMJS0TExtmYjJ3aeHfEKGhhvpLa6bxGuIiiOefBZ7RM2Xw76Q2MUQRFHnExrHuMVYuq3PznO81wKc5x6nOpFlW9dOJZKC0cyGoro14uiW12HZES/w500/online-scam.png",
         "Title": "Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/appomni-saas-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrxsCiUO1GsbufYUfaBm-GKTxdcRhisYDCTR38PyUmQraM3avWjkgW4rJOOZFZHloZ119GBXH5TiN93cn95bRCDyaCMwkNrIqRkrA10yY8fm-g2GXnLGdvs7vMMM69cvSXk5H9IJFjlN2N4jL5dehFL6bdLE1GbtspraYGbaSdYODtiVUFyFciC_baPz/s728-rw-e100/saas.jpg",
-        "Title": "The State of SaaS Security 2024 Report",
         "Source": "The Hacker News",
         "Timestamp": "Oct 10, 2024"
     },
@@ -147,24 +175,10 @@
         "Timestamp": "Oct 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoVfMxMqAMKudp4jSX2vkfFAmwjGIBxsdNaPAkHLZ5CNLv1biclYfKeCxYm5V1iu3OqceHFgFURZC3p2qiBl9gBXmAh4bfKQdEV9iAsxhFBVuMRoMJqySFpY-R-wVr_QmxWNxG-EEW_Kj5KQmankkafB-Np3Gj5mlLMDQVdvXe5BvTXRFpYcuqcQqts5h9/w500/ivanti.png",
-        "Title": "Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 10, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/abc-7-danbury.png",
         "Title": "Lamborghini Carjackers Lured by $243M Cyberheist",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 09, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/internet-archive-hacked/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
-        "Source": "WIRED",
         "Timestamp": "Oct 09, 2024"
     },
     {
@@ -176,15 +190,15 @@
     },
     {
         "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
         "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/67004d2afe54a52071eeb9b2/3:2/w_1280%2Cc_limit/Security_FBI_Phone_GettyImages-1312905466.jpg",
-        "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
@@ -199,6 +213,13 @@
         "Link": "https://www.wired.com/story/evil-corp-lockbit-russian-intelligence/",
         "Img_URL": "https://media.wired.com/photos/66fc01e8d91e2ec33180d22f/3:2/w_1280%2Cc_limit/ice-paragon-sec-1258485376.jpg",
         "Title": "ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions",
+        "Source": "WIRED",
+        "Timestamp": "Oct 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ice-paragon-solutions-contract/",
+        "Img_URL": "https://media.wired.com/photos/67004d2afe54a52071eeb9b2/3:2/w_1280%2Cc_limit/Security_FBI_Phone_GettyImages-1312905466.jpg",
+        "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
         "Source": "WIRED",
         "Timestamp": "Oct 01, 2024"
     },
@@ -392,32 +413,11 @@
         "Timestamp": "Aug 27, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/the-us-navy-has-run-out-of-pants/",
-        "Img_URL": "https://media.wired.com/photos/66cf54dbf34f9715aa3c38bf/3:2/w_1280%2Cc_limit/iran-hackers-tickler-sec-1243543090.jpg",
-        "Title": "Notorious Iranian Hackers Have Been Targeting the Space Industry With a New Backdoor",
-        "Source": "WIRED",
-        "Timestamp": "Aug 24, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/tld-cloud.png",
         "Title": "Local Networks Go Global When Domain Names Collide",
         "Source": "KrebsonSecurity",
         "Timestamp": "Aug 23, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/",
-        "Img_URL": "https://media.wired.com/photos/66c8bf19e04d953afcbc54cd/3:2/w_1280%2Cc_limit/navy-no-pants-1217160045.jpg",
-        "Title": "The US Navy Has Run Out of Pants",
-        "Source": "WIRED",
-        "Timestamp": "Aug 21, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/",
-        "Img_URL": "https://media.wired.com/photos/66c5ef3e9ae4b3e6dcdfb46c/3:2/w_1280%2Cc_limit/ai-flaws-hunt-sec-1136381089.jpg",
-        "Title": "The US Government Wants You\u2014Yes, You\u2014to Hunt Down Generative AI Flaws",
-        "Source": "WIRED",
-        "Timestamp": "Aug 20, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/",
