@@ -16,7 +16,7 @@
     {
         "Link": "https://thehackernews.com/2024/10/supply-chain-attacks-exploit-entry.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjbnTn_6or5lLvl6yrr1ofO4sNKCC3IHb6aEQ9p7Egtud_wA_Ssm2Yts42IOPclvtfmhMnlzQazj7aVNctUGIiRdR-VQYgdnNl2iBuYvJJ2uvsJsctIf8o6-dH2tGmIktEg00ya23-w7zC2oaSRZgTepj3nJulyxGMziIq5CJR-iCIH_0DyFM129wRCu6W/w500/software-bugs.png",
-        "Title": "Supply Chain Attacks Exploit Entry Points in Python, npm, and Open-Source Ecosystems",
+        "Title": "Supply Chain Attacks Can Exploit Entry Points in Python, npm, and Open-Source Ecosystems",
         "Source": "The Hacker News",
         "Timestamp": "Oct 14, 2024"
     },
@@ -77,23 +77,23 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Link": "https://www.wired.com/story/passkey-portability-fido-alliance/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
-        "Img_URL": "https://media.wired.com/photos/6707fc95aa2db1548cabfac9/3:2/w_1280%2Cc_limit/Security_Airgapped_GettyImages-676165443.jpg",
-        "Title": "A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped Machines",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
+        "Timestamp": "Oct 14, 2024"
     },
     {
         "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
         "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
         "Title": "Pig Butchering Scams Are Going High Tech",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -179,6 +179,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/abc-7-danbury.png",
         "Title": "Lamborghini Carjackers Lured by $243M Cyberheist",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Oct 09, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/internet-archive-hacked/",
+        "Img_URL": "https://media.wired.com/photos/6707fc95aa2db1548cabfac9/3:2/w_1280%2Cc_limit/Security_Airgapped_GettyImages-676165443.jpg",
+        "Title": "A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped Machines",
+        "Source": "WIRED",
         "Timestamp": "Oct 09, 2024"
     },
     {
@@ -396,13 +403,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/08/wdiv-sms.png",
         "Title": "When Get-Out-The-Vote Efforts Look Like Phishing",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Aug 28, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/",
-        "Img_URL": "https://media.wired.com/photos/66d0650ad2e47657c9db57ab/3:2/w_1280%2Cc_limit/GettyImages-1392424007.jpg",
-        "Title": "Powerful Spyware Exploits Enable a New String of \u2018Watering Hole\u2019 Attacks",
-        "Source": "WIRED",
         "Timestamp": "Aug 28, 2024"
     },
     {
