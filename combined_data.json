@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh219oGnY3AKVBPBCJm09TzH8EYdx_66SeJHCEn8FaubuYPzBFbrkbmyNaE01-CpVSPtfK7K0qr8cBe-MPp-1BPVA-CZ6F9g_MFU8B6g7BfkI4ol8BtJ2lVrFwQdSIJLdPk4TVPz1h3nVJ9dHkoMrY5ldZj5KESGl_gDEN8Fk0wy_F62GPm-wKbwKd9Cy/w500/cisco.png",
+        "Title": "Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkAJrS6a_Xi7ugYUNVu-hBUj8frLR-hpz2yZ9Ltb5_MmKpKEdNTExazRruofPjwwHZL8bCYcBd-52h8oPjtPBA76IUKkHxY7r38b3aFYSBH_LehbTPcPeHXPFUm2UjTIg14eV9yINEEruDTi9hAFp08QWgFnMkfg0YpwxYL-Sv_8tZfYt8p8ghCskUAiv3/w500/passw3rod.png",
+        "Title": "Security Flaw in Styra's OPA Exposes NTLM Hashes to Remote Attackers",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/cybercriminals-exploiting-docker-api.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAO8-djYuKOCc_0cFcbM1ubSDlOC8cwbI7OR4pdd9OOLS-VTKEpLUdiAaJeWjJpICd1pUeQFi5qgQ8p5TUKUqtwN2My-gh8e4ZZm7SaQosqxWRvG1eDvrNFo6o8fZfEZDg7HdWT0r7UEp6zw7YSKJFIuwvjDYdtwhhrNBfsOoOx_fRPkT_Fz67mpfm7RpD/w500/docker.png",
+        "Title": "Cybercriminals Exploiting Docker API Servers for SRBMiner Crypto Mining Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/wiz-ai-spm-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKRch068GrBrYP_yIsVJjRgajazrdcWyX0UA7aeeB_vgI1ruDtVG5FdnfuA-UBwNkcAwL2myAZFRcbW8KxRPN1Tf5cqGVKx8rqyAoSXRi5CzbCvQrX9juEe-FMj_YDCJgYY_uZyTDKSz7Y0_a8YuDoIQs5a2szCs7m781siGBmFp-0rwnzSCiSM_iCREA/s728-rw-e100/wiz.png",
+        "Title": "What to look for in an AI Security Solution",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpe-vqHPI08or8S0OALxsFV09AXhN_CDNPV9G8PT1LA6k80nihNFjachpfh_mLkifhHD3xwchAXrR1Zj00WHjGM-TPUSwfWG-bduvFuCVh461qx11jhcUeKCpwOD9_gdFvmc_JmhJH-hFwhxaaBAinROnyu3Zju6MCSJVntCN98rehX_iuThNsE52t2_SX/w500/AD-SECURE.png",
         "Title": "A Comprehensive Guide to Finding Service Accounts in Active Directory",
@@ -21,9 +49,9 @@
         "Timestamp": "Oct 22, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/wiz-ai-spm-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKRch068GrBrYP_yIsVJjRgajazrdcWyX0UA7aeeB_vgI1ruDtVG5FdnfuA-UBwNkcAwL2myAZFRcbW8KxRPN1Tf5cqGVKx8rqyAoSXRi5CzbCvQrX9juEe-FMj_YDCJgYY_uZyTDKSz7Y0_a8YuDoIQs5a2szCs7m781siGBmFp-0rwnzSCiSM_iCREA/s728-rw-e100/wiz.png",
-        "Title": "What to look for in an AI Security Solution",
+        "Link": "https://thehackernews.com/2024/10/5-steps-to-boost-detection-and-response.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEZH6ybtJycYOCGhvu2IqSCwLKYtBeIZWxFuk-F4RdZWa8ibq6xSSnZt6XmRp1onlmq7p2HCM2PoE9MrhF6PDeh1jT5lQRmeTbY4xemAnmnUbmJZFZgTDr-ALtJQ9yVvlN0gG4tMr_ECGefa1xQl9zmSbMQ3SwGNRft4uK_2W9RmhCTy_rRlDhJgn3p0s/w500/sweet.jpg",
+        "Title": "5 Steps to Boost Detection and Response in a Multi-Layered Cloud",
         "Source": "The Hacker News",
         "Timestamp": "Oct 22, 2024"
     },
@@ -49,10 +77,10 @@
         "Timestamp": "Oct 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVTF12UqQOjTfmw7R1G-HjLQs73Xhu9AzIICCRmiS_h31AgNOraw1WD4Ra4PdL9tD8wWVkUlCX_sE-YNlfWmCYfdSV9JX8klGPp-HmRcUprgPkzWqBYb19iWaEZ7ap3BU0UCTKa7HWJH47Ik8bR4MeHV6GQZPMJ509ZOIj9ncMJvsoktNApURyqaQCHI/w500/saas.png",
-        "Title": "Social Media Accounts: The Weak Link in Organizational SaaS Security",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/un-women-database-exposure/",
+        "Img_URL": "https://media.wired.com/photos/6716e75d4579622521b74821/3:2/w_1280%2Cc_limit/Security_UNW_Leak_GettyImages-1988694804.jpg",
+        "Title": "Exposed United Nations Database Left Sensitive Information Accessible Online",
+        "Source": "WIRED",
         "Timestamp": "Oct 22, 2024"
     },
     {
@@ -60,27 +88,34 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7xtZCPs1t__xxiXmyhwTeejgdiJMsR3dkEMk_K02QV331ikuX9iiXBKNLJabVPPEI8lV3whqRzeW_1-ECcWTXeQ49jKViUCS5besA-OS4AO0wQIQPbDd3fSHR_-9oVVKncItxQDz-7lFDQuBSqJT4GkqGCgVzLSGWvmGHcCy5uvkm1h8nNcGak6dGQrY/w500/breacklock.jpg",
         "Title": "Guide:\u00a0 The Ultimate Pentest Checklist for Full-Stack Security",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 22, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_21.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm5mfxnQuH2uKY8piPpr9yh9mb-0xQ3xKJ8PH-XTJHc1PuMfKKH3X3GVsspHUzbBdf_rJ-Q-FXmfIxK2pcPUcGtQo3AlnchGRCRivr7MJ0XwZrC5sBuwrX6Nb2nfJMRhcFhjWdgsYzkvA1ooIwh_hjsvybQNaDbQ_7G9DY7UgBgYEaNbAjs6Y31Jlx_5wZ/w500/cybersecurity.png",
         "Title": "THN Cybersecurity Recap: Top Threats, Tools and News (Oct 14 - Oct 20)",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 22, 2024"
+        "Timestamp": "Oct 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/5-steps-to-boost-detection-and-response.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEZH6ybtJycYOCGhvu2IqSCwLKYtBeIZWxFuk-F4RdZWa8ibq6xSSnZt6XmRp1onlmq7p2HCM2PoE9MrhF6PDeh1jT5lQRmeTbY4xemAnmnUbmJZFZgTDr-ALtJQ9yVvlN0gG4tMr_ECGefa1xQl9zmSbMQ3SwGNRft4uK_2W9RmhCTy_rRlDhJgn3p0s/w500/sweet.jpg",
+        "Title": "5 Steps to Boost Detection and Response in a Multi-Layered Cloud",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/researchers-discover-severe-security.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaY6R2rVsNFmbHbg9FJOHVDgZWEDjh5n8gFS0AVGlT1MgYYvO8Y_hx8DSgfcj2w0ru-ZGw4rdJNWcRkD5OqNtBEKrq3xTu6ahVVi8b77xoTHT92H5jqzFWiUBCwPPOl4MMudIreDKRlE_V_pg0uD9450Joei42LStBd_hR-qN_yJyy8Z2R3EeF7dVTZslC/w500/cloudkeys.png",
         "Title": "Researchers Discover Severe Security Flaws in Major E2EE Cloud Storage Providers",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 22, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ice-paragon-contract-white-house-review/",
-        "Img_URL": "https://media.wired.com/photos/67165c8276ffbecde7d8d803/3:2/w_1280%2Cc_limit/GettyImages-2159650477.jpg",
-        "Title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.uk/wiz-ai-spm-guide",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKRch068GrBrYP_yIsVJjRgajazrdcWyX0UA7aeeB_vgI1ruDtVG5FdnfuA-UBwNkcAwL2myAZFRcbW8KxRPN1Tf5cqGVKx8rqyAoSXRi5CzbCvQrX9juEe-FMj_YDCJgYY_uZyTDKSz7Y0_a8YuDoIQs5a2szCs7m781siGBmFp-0rwnzSCiSM_iCREA/s728-rw-e100/wiz.png",
+        "Title": "What to look for in an AI Security Solution",
+        "Source": "The Hacker News",
         "Timestamp": "Oct 21, 2024"
     },
     {
@@ -88,77 +123,49 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZuKNtFMMlMGAzijsvtVIkOReCPQTeJQlNx_ouQDXZPe1bFEDX3lEkVxauO40AhwqKaYCLIVYDBZumIsW5ERKfUQ9CvB-OVg10Dr0keC8ojAJ_jK6KTwQtKd8fblcO0FuXgMTWXotoCd9KgWPdsesmLTufSCkRLVNrWAv-25SZravKdgDF6jCNuNc6X0T/w500/roundcube.png",
         "Title": "Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilleKZkFdelhDoVbNhtZtk-Ocl5bfbSbxUpCYLe3LmMAR6nFV6UNyetmh2-KEP4fcVCTvOH8l_2iP5ihfoI2SUyCd6Zd6r4rr-bVmhhXnnE8Pa8MnNjp9QqxU1dFVrFIhrVLuSK06XVj1hLL-7fPh6fttYL-BQb553fYZzN2SXkR930MaLhyphenhyphen1MPBTNHZW4/w500/server.png",
         "Title": "North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZVTF12UqQOjTfmw7R1G-HjLQs73Xhu9AzIICCRmiS_h31AgNOraw1WD4Ra4PdL9tD8wWVkUlCX_sE-YNlfWmCYfdSV9JX8klGPp-HmRcUprgPkzWqBYb19iWaEZ7ap3BU0UCTKa7HWJH47Ik8bR4MeHV6GQZPMJ509ZOIj9ncMJvsoktNApURyqaQCHI/w500/saas.png",
-        "Title": "Social Media Accounts: The Weak Link in Organizational SaaS Security",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCw-5BscPgwsAIHc-pRW4lYjTm6ns1c_sS4e6rVawDf2jC4nim5hbUajCGcHkFSWWO_zbQTjZGYmTvxmQjUOO1M3DfOZerR6bmmL6K3_cj-KeC14BH9Qbo-RGdOQe-O3F0rqu-UQL0Kz0Q8fwHX6veyv0H0kYirFsJUxSr0HMoSb6806NqFcW6Wpya_S6M/w500/main.jpg",
         "Title": "Acronym Overdose \u2013 Navigating the Complex Data Security Landscape",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/wiz-ai-spm-guide",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKRch068GrBrYP_yIsVJjRgajazrdcWyX0UA7aeeB_vgI1ruDtVG5FdnfuA-UBwNkcAwL2myAZFRcbW8KxRPN1Tf5cqGVKx8rqyAoSXRi5CzbCvQrX9juEe-FMj_YDCJgYY_uZyTDKSz7Y0_a8YuDoIQs5a2szCs7m781siGBmFp-0rwnzSCiSM_iCREA/s728-rw-e100/wiz.png",
-        "Title": "What to look for in an AI Security Solution",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRV5GzR0sNMPEMuGzbEMjbxJhqbySnf3Y2FPIWDMDaGY1MCd36oz7kQORebmAFNmB3FRB8C80kcwqLdwqtXeA5gobDOPk8onhse8tsNA4v34jQgHaJtECq1p5Q-iqMaGT-16McWYPcOnAbmTm95v4998N7-cLL0kKFXZh1fc-Dru7N-f7j-cN75ceQ7vV/w500/russia.png",
         "Title": "Crypt Ghouls Targets Russian Firms with LockBit 3.0 and Babuk Ransomware Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ek8oJVVWCS17QYcjPyp6AHb0_KVURdtHfjIbxUFisN2Z36o8zU73mqu2H7V8d8zCL_uMzkUtMXGRcZzJck76FutuL1QWzF3JQEx36fZUA2IANlj9vmiX0IAoVuAvr5fFcIB2-dys3TUnj8Sk6UAfK7OKA_kqZeW_CqbkDaW47TOyZmaC2gcNNbwpkCo/w500/data-security.png",
         "Title": "The Ultimate DSPM Guide: Webinar on Building a Strong Data Security Posture",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/us-and-allies-warn-of-iranian.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ_ZWZeCIwEZXgeo22NHrliRJ-j5eQmESJOjmTp5VvoFG6kJZqzccOGXTliO_k1cwKR4t5-PKMCYiisiEU-9n_fLwNGTBY_9abQKn3Myq7GOJXE_HWzyKtpiAeWMVuAIpS7ScOMjd5zJOiBp2Dia4SmwBHwuNSlO8d3SPwdLJAvi6gLgpQhjZjFHXBaTw4/w500/cyberattack.png",
         "Title": "U.S. and Allies Warn of Iranian Cyberattacks on Critical Infrastructure in Year-Long Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Timestamp": "Oct 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUhAkevnWu1b4RY_HexCRxw0f00_cJZaHVbug7EUQ6b71293pUTvlOrgigpvXkQMCC7ygvVeqvYC26q_ZDSywIVcxUtsmNQBYcNkTpOvLbZmnU5-P1-ZD_mktLAo-Yt5Ig-aS7aOmDvNCMzZMoWQP43ANqCdbunglPyqnLtljVYfZv1-SN5IOMIjkIb6QP/w500/googlemeet.png",
-        "Title": "Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghODlAyYIX3vb18PrrxaGzg0yqQhu2DZVq1FW3xwPwvX_AZFgFCDS_nc1KaVnVfmJtG7jhjO69kolMhUIVE0ZOGF8XExYUdMswiYkctt2KBc0eBN7Xph_MVWAcQzr0sMyOHflkUP_OmAGqTQ4PTF1fOZcF98ho6D6DhfnAqdpFHYPEbGFaWKrzp9RnEI9x/w500/safari.png",
-        "Title": "Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5dMTeOMD0V9jeonYAOxkOu9M4lAA-Hvi9oN0h1aTACQPCwNLArQEHwP6blMwOx4Kts5HQhMTl3k7mZmG7-5FYeaCq0-FyvzwH4D6cIBhG4hNYCsSO9oWeF0VbGMtFV6RIn8fYXke7U5pLxP6VPMgWzfl6kJ7fdfJ389xb-hVRlNJHRnc8KpoinckFho9Z/w500/attack.png",
-        "Title": "Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 20, 2024"
+        "Link": "https://www.wired.com/story/ice-paragon-contract-white-house-review/",
+        "Img_URL": "https://media.wired.com/photos/67165c8276ffbecde7d8d803/3:2/w_1280%2Cc_limit/GettyImages-2159650477.jpg",
+        "Title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
+        "Source": "WIRED",
+        "Timestamp": "Oct 21, 2024"
     },
     {
         "Link": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
@@ -182,23 +189,23 @@
         "Timestamp": "Oct 17, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ai-imprompter-malware-llm/",
+        "Link": "https://www.wired.com/story/anonymous-sudan-ddos-indictment-takedown/",
         "Img_URL": "https://media.wired.com/photos/670ebf2c5eef592325d9e252/3:2/w_1280%2Cc_limit/Security_Chatbot_AI_GettyImages-1447869082.jpg",
         "Title": "This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats",
         "Source": "WIRED",
-        "Timestamp": "Oct 17, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
-        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
-        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
-        "Source": "WIRED",
-        "Timestamp": "Oct 15, 2024"
+        "Timestamp": "Oct 16, 2024"
     },
     {
         "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
         "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
         "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
+        "Source": "WIRED",
+        "Timestamp": "Oct 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
+        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
+        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
@@ -252,16 +259,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
@@ -376,13 +383,6 @@
         "Title": "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers",
         "Source": "WIRED",
         "Timestamp": "Sep 16, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/",
-        "Img_URL": "https://media.wired.com/photos/66e35f14e7fd2f784bb46ecc/3:2/w_1280%2Cc_limit/Security_Apple_Password_Manager_GettyImages-1618511059.jpg",
-        "Title": "Apple\u2019s New Passwords App May Solve Your Login Nightmares",
-        "Source": "WIRED",
-        "Timestamp": "Sep 14, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/",
