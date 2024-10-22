@@ -77,6 +77,13 @@
         "Timestamp": "Oct 21, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/ice-paragon-contract-white-house-review/",
+        "Img_URL": "https://media.wired.com/photos/67165c8276ffbecde7d8d803/3:2/w_1280%2Cc_limit/GettyImages-2159650477.jpg",
+        "Title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
+        "Source": "WIRED",
+        "Timestamp": "Oct 21, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
         "Img_URL": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/3:2/w_1280%2Cc_limit/GettyImages-2151457378.jpg",
         "Title": "Google Chrome\u2019s uBlock Origin Purge Has Begun",
@@ -182,16 +189,16 @@
         "Timestamp": "Oct 17, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/anonymous-sudan-ddos-indictment-takedown/",
-        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
-        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
-        "Source": "WIRED",
-        "Timestamp": "Oct 16, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
         "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
         "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
+        "Source": "WIRED",
+        "Timestamp": "Oct 15, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
+        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
+        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
@@ -203,16 +210,16 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "The Dark Nexus Between Harm Groups and \u2018The Com\u2019",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-private-cloud-compute-ai/",
-        "Img_URL": "https://media.wired.com/photos/66e49db3c547018981902ffc/3:2/w_1280%2Cc_limit/Security_ChatGPT_Bomb_GettyImages-1434753385.jpg",
-        "Title": "A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions",
-        "Source": "WIRED",
-        "Timestamp": "Sep 11, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/",
