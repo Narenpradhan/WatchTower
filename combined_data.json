@@ -77,6 +77,13 @@
         "Timestamp": "Oct 25, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/trump-vance-phones-verizon-hack/",
+        "Img_URL": "https://media.wired.com/photos/671be9f6af7e5d470fafdb51/3:2/w_1280%2Cc_limit/Security_Trump_Hack_GettyImages-2171325564.jpg",
+        "Title": "Chinese Hackers Target Trump Campaign via Verizon Breach",
+        "Source": "WIRED",
+        "Timestamp": "Oct 25, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgKxtR3b2lXHj0iWCUVI0TFeZFDdQ_InHY4-RFYntaaZcCQfw2KxEykP4t9rwCRUwDwWjX0exJl5l5dIDzhOdbRExZO_sUfpBTjMmVYEaFHYyER2VklIlNnfEVzC3Ahxei5xgTFvaORcCTSnStm-J-3TpEd82AscS3xxRwnLkHP_dX7Q-pfkxYPwlKc-f/w500/chrome.png",
         "Title": "Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices",
@@ -175,13 +182,6 @@
         "Timestamp": "Oct 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
-        "Img_URL": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/3:2/w_1280%2Cc_limit/GettyImages-2151457378.jpg",
-        "Title": "Google Chrome\u2019s uBlock Origin Purge Has Begun",
-        "Source": "WIRED",
-        "Timestamp": "Oct 19, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/12/breachedige.png",
         "Title": "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach",
@@ -193,6 +193,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/as-kenya.png",
         "Title": "Sudanese Brothers Arrested in \u2018AnonSudan\u2019 Takedown",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Oct 17, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/ai-imprompter-malware-llm/",
+        "Img_URL": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/3:2/w_1280%2Cc_limit/GettyImages-2151457378.jpg",
+        "Title": "Google Chrome\u2019s uBlock Origin Purge Has Begun",
+        "Source": "WIRED",
         "Timestamp": "Oct 17, 2024"
     },
     {
@@ -224,13 +231,6 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
         "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
         "Title": "The War on Passwords Is One Step Closer to Being Over",
@@ -241,6 +241,13 @@
         "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
         "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
         "Title": "Pig Butchering Scams Are Going High Tech",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -383,13 +390,6 @@
         "Title": "Did a Chinese University Hacking Competition Target a Real Victim?",
         "Source": "WIRED",
         "Timestamp": "Sep 17, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/apple-password-app-ios-18/",
-        "Img_URL": "https://media.wired.com/photos/66e9a494b0d98af92f9a7398/3:2/w_1280%2Cc_limit/hazbollah-pagers-2171810466.jpg",
-        "Title": "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers",
-        "Source": "WIRED",
-        "Timestamp": "Sep 16, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/",
