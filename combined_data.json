@@ -1,31 +1,87 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr45tM1jfFriC6I8-fkNSoay8JCWhcJl0qFEa7qFLl1MbIxxVhv_Psr766umRFG3lvobhe0dmc7MaYAXVfPziAJVFAyIRJWunD-tmh617ltlj5ORyDeDV9XefWPMqmyzzdPaDGwHag1cn5tjAfUy_3_JAYxkTFDW-3GnU07Fn-WuS-aaTsusb6ghUUvIVC/w500/apple.png",
-        "Title": "New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics",
+        "Link": "https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcVrsuFBB-v2r6qUMRYJyhiPaIgI8urfLOl8DJmI6vVqz_O5XtRPoVujk1WQIi3xYKQv8pj3gMY3rle9us-q_7IdqIUNawzbX5XZODGKOgkm4ZFl5alSXi8u6dVoDBYbAsmqWwfoCFJ-co61kSDweCOe3zj1oFLGtHVld3_Kad41YokTWmBmRzo6wG3uNM/w500/git.png",
+        "Title": "Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 31, 2024"
+        "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kXQYBmClkNkGbPgYJ3dSjWIBESNb9SzN7XvgiXSjZELhto22q1cn9gt_ZAY4qV0Ze-5mA_2hwcxWaDbpmy4p4csGfvYqMW14n58fOqN0hlBZA4VRbavVmPFgKBoytynvP5KnLeVfgSRsjxEcOOgMijKwcMYX95DruMKmA6pVMfkIJ80tOg8oyz9MBnIF/w500/files.png",
-        "Title": "LottieFiles Issues Warning About Compromised \"lottie-player\" npm Package",
+        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
+        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 31, 2024"
+        "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
-        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Link": "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpAFyvSF0J0yWBq4KoD0AQUNbzSEtXygdCBmsEo9GL2_CtTVwyNgMgmdc2nyIQXtt4appke6mLHqz-KYBvEvmtUCdqN6sUuHebFbeDUB32tpc5-glm8Q8tlVmM12adg_Lyyv-CmgXQmH_sVwnlcuCvC4C4-mmXozIeTmY6dJoQLc-CtbJ3-M1Hc7qM369x/w500/webinar.png",
+        "Title": "Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 31, 2024"
+        "Timestamp": "Nov 01, 2024"
     },
     {
         "Link": "https://thehackernews.uk/silverfort-cyber-insurance-mfa",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AB_a5WAi85h37KJIfy4qAakyOgPhqueJZL7lFOLxo9w3Pwnxw3_bOdU4rC3NYzhEd6wppuQEfh8hFpaLl0Q8NWk4RCdf1jPoS0wjB9UIEnms31FYUyz1knHThpFJQMDHFnWhQvMtUX34Pr2aMng2J1F0DgXWlUcFBA3PNUV7ndpRw61QbG4fcVrHxq_T/s728-rw-e100/silverfort.png",
         "Title": "How To Comply With The Cyber Insurance MFA Checklist",
         "Source": "The Hacker News",
-        "Timestamp": "Oct 31, 2024"
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/microsoft-warns-of-chinese-botnet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_6g__uyb4FaILVSjNWx29AefLHN-BP5MvlBEUkYwGgFu9H9z5wGMYv98oF13IJmZM9rzY9Th5iLAM7ZSSMqb7k-Bn2pwl97O97saG8ZLx93-kc4KkZZOkzdPf7UA_La4LzrIVi63ioe_I9wxZ_RVuN81NwygGbs4COWf4-dSpeilgGqgwd1Vhx2-55s-/w500/botnet.png",
+        "Title": "Microsoft Warns of Chinese Botnet Exploiting Router Flaws for Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7CVaeylGP6ELjFK5-PM3mD8cukOtILLhSIr0nulTNsFmgk7FjWwUxk6f0ZtjYPMRo3Fri3n8-xh_s69WD_KPY1fmC7dYiUkBTahfnYIYXWzg9SxNP76u5N-PjBJs4ySowUgmuM3RG6gMk0AsDzJQ-hWLwNfadyknVmbL83DXJE1NDHo8JAAzF4Ue4GzE/w500/recall.png",
+        "Title": "Microsoft Delays Windows Copilot+ Recall Release Over Privacy Concerns",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4VIeiIy8Ex1PemCc5a6Ky_29rRUkyHF_PYhQ8RmzgoHNqdLjPxQ5AEe8cy0TVxt6xaBV58moUz41dQO_tEn-sXxsGnXuuEsPX-aR8ZVanhyJR45hAJfmRuncpcVhu5pGN6YSD9XjXuu4k426Ot3w3AARibnKvGV60XIgGCeBU3bUrAwrzRB5wj7UY6SQg/w500/phishing.png",
+        "Title": "New Phishing Kit Xi\u016b g\u01d2u Targets Users Across Five Countries With 2,000 Fake Sites",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1o9RF0vkpUckVXcHobyeZeKsvAWj4UQtQHoJ5iLULlGJi-2NysdoiGRcci-5-4BrG8VTYJQcjnGUNiGBs34BXAi0b4jZfdlVmtk3Wj8BHyIDYStpLKoh28cxm8K8h1JzbSrNx6AaKq1M0QbM0Gm1lYstQSvpGbbTzqckmSxRyGApeFlXoQLR8Y-jBeOW-/w500/main.png",
+        "Title": "Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr45tM1jfFriC6I8-fkNSoay8JCWhcJl0qFEa7qFLl1MbIxxVhv_Psr766umRFG3lvobhe0dmc7MaYAXVfPziAJVFAyIRJWunD-tmh617ltlj5ORyDeDV9XefWPMqmyzzdPaDGwHag1cn5tjAfUy_3_JAYxkTFDW-3GnU07Fn-WuS-aaTsusb6ghUUvIVC/w500/apple.png",
+        "Title": "New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kXQYBmClkNkGbPgYJ3dSjWIBESNb9SzN7XvgiXSjZELhto22q1cn9gt_ZAY4qV0Ze-5mA_2hwcxWaDbpmy4p4csGfvYqMW14n58fOqN0hlBZA4VRbavVmPFgKBoytynvP5KnLeVfgSRsjxEcOOgMijKwcMYX95DruMKmA6pVMfkIJ80tOg8oyz9MBnIF/w500/files.png",
+        "Title": "LottieFiles Issues Warning About Compromised \"lottie-player\" npm Package",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
+        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/synology-zero-click-vulnerability/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Source": "WIRED",
+        "Timestamp": "Nov 01, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html",
@@ -42,6 +98,13 @@
         "Timestamp": "Oct 31, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1o9RF0vkpUckVXcHobyeZeKsvAWj4UQtQHoJ5iLULlGJi-2NysdoiGRcci-5-4BrG8VTYJQcjnGUNiGBs34BXAi0b4jZfdlVmtk3Wj8BHyIDYStpLKoh28cxm8K8h1JzbSrNx6AaKq1M0QbM0Gm1lYstQSvpGbbTzqckmSxRyGApeFlXoQLR8Y-jBeOW-/w500/main.png",
+        "Title": "Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 31, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMsVeMT7VtRd_QXkviMkb25Nd_aEb6Sw7aJ9whsaekrv8OhxD5u1HDlUW4MqfEDS6NijHlJGrVQL0M6g0zqXzR66MS7oqrKGIbzx4ahexyKFjzFyo93IZo44_Jt6MpJRzwW0dX21ufgAWSDsZMcVqQidGbjRE8GB4y_Xx-JFtIHlaL6iyYpAB7dK3wT9/w500/attack.png",
         "Title": "Opera Browser Fixes Big Security Hole That Could Have Exposed Your Information",
@@ -49,9 +112,9 @@
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1o9RF0vkpUckVXcHobyeZeKsvAWj4UQtQHoJ5iLULlGJi-2NysdoiGRcci-5-4BrG8VTYJQcjnGUNiGBs34BXAi0b4jZfdlVmtk3Wj8BHyIDYStpLKoh28cxm8K8h1JzbSrNx6AaKq1M0QbM0Gm1lYstQSvpGbbTzqckmSxRyGApeFlXoQLR8Y-jBeOW-/w500/main.png",
-        "Title": "Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large",
+        "Link": "https://thehackernews.uk/silverfort-cyber-insurance-mfa",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AB_a5WAi85h37KJIfy4qAakyOgPhqueJZL7lFOLxo9w3Pwnxw3_bOdU4rC3NYzhEd6wppuQEfh8hFpaLl0Q8NWk4RCdf1jPoS0wjB9UIEnms31FYUyz1knHThpFJQMDHFnWhQvMtUX34Pr2aMng2J1F0DgXWlUcFBA3PNUV7ndpRw61QbG4fcVrHxq_T/s728-rw-e100/silverfort.png",
+        "Title": "How To Comply With The Cyber Insurance MFA Checklist",
         "Source": "The Hacker News",
         "Timestamp": "Oct 31, 2024"
     },
@@ -77,16 +140,37 @@
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4log9lUju1qw-hJ6Up2aTEx86Rf9y0Qx_PYbRgPyMxkh5vB8fosPhNRa-FBe6cmvaunpivwf3mijkR-njoPCw4DPS5-0FBe_I0JfjvVIw5Tpv0BwtSRZ_8owSyN7Oyf-xywWFjKJgQsKI29EaUn5Y-OoHtMWjxK3xQS_5Jo8dOmCHSzSs79pSBoSBJL6P/w500/ai.png",
+        "Title": "Researchers Uncover Vulnerabilities in Open-Source AI and ML Models",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/a-sherlock-holmes-approach-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUX-NqqYivGc9ZW5qBtOrfxdD2YZVCELIhxEXZbe1v90nP1dmW6RZE3zBTNxtCrnMYXTraxsTHA60KMZf66zaK9ZSqbcxz5k1HldavcugB7tJ76auJzFxSP7y0LfUQb8xHUdshD5UfX8IwrWRX5XtNZwIA5O2AT54JAo1eDaBUP_2vb_MqGjakJ4tLMAE/w500/main.png",
+        "Title": "A Sherlock Holmes Approach to Cybersecurity: Eliminate the Impossible with Exposure Validation",
+        "Source": "The Hacker News",
+        "Timestamp": "Oct 31, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/dutch-police-disrupt-major-info.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZeDCtZ-DnAV-gG6gYgcnZBzdUx0WyaKKAFTcxRj0cqgmgZOfmSx0VNXsv5aZs5gM9qzVMhr0ck8MhoI44kF4TKCWOMJQBMvS2yLgtP_lS_sDkXxwaEELn3by3AgPJ6gSaOGKwaArF6-kpCaY9BYVhTNQCL43Fc5FTA42l20waZkdOzYMbqBquc7wH9do/w500/keys.png",
+        "Title": "Dutch Police Disrupt Major Info Stealers RedLine and MetaStealer in Operation Magnus",
+        "Source": "The Hacker News",
         "Timestamp": "Oct 31, 2024"
     },
     {
         "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
         "Img_URL": "https://media.wired.com/photos/67210d7362bc507a4f04fe8b/3:2/w_1280%2Cc_limit/OPENING_FINAL_01_web.jpg",
         "Title": "The Untold Story of Trump's Failed Attempt to Overthrow Venezuela's President",
+        "Source": "WIRED",
+        "Timestamp": "Oct 31, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -98,88 +182,11 @@
         "Timestamp": "Oct 30, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4log9lUju1qw-hJ6Up2aTEx86Rf9y0Qx_PYbRgPyMxkh5vB8fosPhNRa-FBe6cmvaunpivwf3mijkR-njoPCw4DPS5-0FBe_I0JfjvVIw5Tpv0BwtSRZ_8owSyN7Oyf-xywWFjKJgQsKI29EaUn5Y-OoHtMWjxK3xQS_5Jo8dOmCHSzSs79pSBoSBJL6P/w500/ai.png",
-        "Title": "Researchers Uncover Vulnerabilities in Open-Source AI and ML Models",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/a-sherlock-holmes-approach-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUX-NqqYivGc9ZW5qBtOrfxdD2YZVCELIhxEXZbe1v90nP1dmW6RZE3zBTNxtCrnMYXTraxsTHA60KMZf66zaK9ZSqbcxz5k1HldavcugB7tJ76auJzFxSP7y0LfUQb8xHUdshD5UfX8IwrWRX5XtNZwIA5O2AT54JAo1eDaBUP_2vb_MqGjakJ4tLMAE/w500/main.png",
-        "Title": "A Sherlock Holmes Approach to Cybersecurity: Eliminate the Impossible with Exposure Validation",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1o9RF0vkpUckVXcHobyeZeKsvAWj4UQtQHoJ5iLULlGJi-2NysdoiGRcci-5-4BrG8VTYJQcjnGUNiGBs34BXAi0b4jZfdlVmtk3Wj8BHyIDYStpLKoh28cxm8K8h1JzbSrNx6AaKq1M0QbM0Gm1lYstQSvpGbbTzqckmSxRyGApeFlXoQLR8Y-jBeOW-/w500/main.png",
-        "Title": "Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/dutch-police-disrupt-major-info.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZeDCtZ-DnAV-gG6gYgcnZBzdUx0WyaKKAFTcxRj0cqgmgZOfmSx0VNXsv5aZs5gM9qzVMhr0ck8MhoI44kF4TKCWOMJQBMvS2yLgtP_lS_sDkXxwaEELn3by3AgPJ6gSaOGKwaArF6-kpCaY9BYVhTNQCL43Fc5FTA42l20waZkdOzYMbqBquc7wH9do/w500/keys.png",
-        "Title": "Dutch Police Disrupt Major Info Stealers RedLine and MetaStealer in Operation Magnus",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/silverfort-cyber-insurance-mfa",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AB_a5WAi85h37KJIfy4qAakyOgPhqueJZL7lFOLxo9w3Pwnxw3_bOdU4rC3NYzhEd6wppuQEfh8hFpaLl0Q8NWk4RCdf1jPoS0wjB9UIEnms31FYUyz1knHThpFJQMDHFnWhQvMtUX34Pr2aMng2J1F0DgXWlUcFBA3PNUV7ndpRw61QbG4fcVrHxq_T/s728-rw-e100/silverfort.png",
-        "Title": "How To Comply With The Cyber Insurance MFA Checklist",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV7grp2X2cc5GcnNyrkqwbYKXx6MZ03zR6UNbSRe046_KJj5KzDyYdd5k7j4f84NTmtZ5DZU6xvl1W7CdCvY4AvDKPFEtBfNIXjFcjRfwFl31PjRuhYBIKvk5gaKI-No3EYHpsjHe__pic4_h7DwlhiAmf1anPhWWelFTU1lX-K_AOj8XesvKFiB1HqneV/w500/white-house.png",
-        "Title": "U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/new-research-reveals-spectre.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1JYYf2L9g5X82pcCJkw_SWECoTaY7Z0OXzY7VUpKrIgb1Ha_YFQmqicyZL08S41unyr7CLWWUVlmMYVGkTff6d4Ke9sC7cnsicVD_XSZaP_6Xkr5ymVKyoJ4m5rbeFJmjQOGd3HSq__qkoILAvpTkyQvcwufWizvCrBLyNbjuvckFx-gYlLRKy14GP0gL/w500/intel.png",
-        "Title": "New Research Reveals Spectre Vulnerability Persists in Latest AMD and Intel Processors",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7q_zWLyL82YGiO2WXwwYD3bWkoWx26cz9VjU85mggmhuzsHOv_nf94wrXL1aagcro1xyXIfhTpKPREs1EcgmvdKoXC7oAnOchFXiowOpxBWHUaI6O7zMx-Qhn8NPpCeZPRfZ3lnDKzjA7l0UHDzEpebPW523zxKp0QcuFmNwoAB_-vnC7BE-9nezBrYe/w500/machine.png",
-        "Title": "Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud Services",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vq3hTEAK8wIiUBuwgn1eF2jzyKuPshemmRkguKZ_L2U9lzIfPBVvVqV3GfLKfrxS4EUS9SnoGAEAeIp8CMOAvDk6lI-oUfDX2DJ1SOCo4d17yL__6DHXZb3CR8Wez6mUuMIms8VTCGonT6-esgmo5ulAuJ7mNZnohgO3Fnsuq-U8_aackGTnGMvddkU/w500/recap.png",
-        "Title": "THN Cybersecurity Recap: Top Threats, Tools and News (Oct 21 - Oct 27)",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/russian-espionage-group-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCdcvR2ziCL9NrmRJ_jYyNHTqIJxDp75r-0s6oJNwP0SVDJwqP9Rai_qJso1e-ZUPH4rAZfHX8Lsj2ZKGkydWR9Xgw_77FEZTwUMBTlw6Foq69Cpf3WKTBUn2y82ikqyJ7UfJI5JC0mgvGfC53zT0a5J8v4WpvkrThdY6bqxVcliyuZwOuV1dNAyoN2hdj/w500/telegram.png",
-        "Title": "Russian Espionage Group Targets Ukrainian Military with Malware via Telegram",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMnY5HVokH4tGoLXj1ZX_xTW42fX3SShkMf0tUeKRQXvJOyzURDk4qyjF8wY_LiaPrR2dMwZtSiGE1OsNpLtPozgBkTr9eSWTUhz17jnagEYDpxexo7_3dp1taYywHzzYigsM_XYM-gfroGHrD9BhsZWzhtpXwSG3s1HhBLo4IDbgEu_K4MlxXr4V_ATre/w500/npm-malware.png",
-        "Title": "BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers",
-        "Source": "The Hacker News",
-        "Timestamp": "Oct 29, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/cybercriminals-disruptive-hacking-us-elections-dhs-report/",
+        "Link": "https://www.wired.com/story/trump-vance-phones-verizon-hack/",
         "Img_URL": "https://media.wired.com/photos/671aac3d13a65b44666f0845/3:2/w_1280%2Cc_limit/GettyImages-2175302364.jpg",
         "Title": "Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than Russia or China",
         "Source": "WIRED",
-        "Timestamp": "Oct 28, 2024"
+        "Timestamp": "Oct 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/",
@@ -259,16 +266,16 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -301,16 +308,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
@@ -376,13 +383,6 @@
         "Title": "Timeshare Owner? The Mexican Drug Cartels Want You",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 25, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/iran-hackers-trump-democrats-emails/",
-        "Img_URL": "https://media.wired.com/photos/66f3f826c6544690008da751/3:2/w_1280%2Cc_limit/CarHacking%2520(1).gif",
-        "Title": "Millions of Vehicles Could Be Hacked and Tracked Thanks to a Simple Website Bug",
-        "Source": "WIRED",
-        "Timestamp": "Sep 21, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/",
