@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FRy4wQ1bWDdcWY23WuBNE0AHcxnPTCeidTtUXfmDHmK62fFOm0PZdQiNxGlhxh5B3UqM_pSbG7BegSyTEoTT57gjjObtr8YjBZtw-4XMiypdlmlg7wnzTKUhPNqLdWti6KcshPDnV8i2rkF78JJTG1kFu7tZFoOTH_n3p76-nBw8Da1M0LlFUVr8eee2/w500/ai.png",
+        "Title": "Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 04, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzIqFC58u-rstm7tCb1ERXzp8KSk1LzB98q3ak4qZi32gRw39QXrX5mO6VIQ-LYee7aYu9HtNU2-bPV5UCHVOMSGjBlXEOjpw3eQvDQpCb05xhMSOHbKt5n4rM_91aBtU_r5nZkWkKOHAwpLM_K4Fi20MS_uBnEN3dztmGiFku38hqggUjaBh3cIufA2bC/w500/ddos.png",
         "Title": "German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested",
@@ -14,16 +21,16 @@
         "Timestamp": "Nov 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNn90UyjnSc8kquCCQBeKlLmLNOn6qAyKEbUNYZQitm0a3_IGPujOK6Dbpz14xBsQExuDiX_Wc2OqrJPweEt8-pSApBzzx6sxa-yrr0ZxFDjq2QdRIW06Zh2RSXemmNRC9J09uLxYM9zPgClBeCdguesIC8ksMn4eoycJhnOcN1L_N_fkFkKfQmLHAj0/w500/holiday-shopping.png",
-        "Title": "Cyber Threats That Could Impact the Retail Industry This Holiday Season (and What to Do About It)",
+        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
+        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
         "Source": "The Hacker News",
         "Timestamp": "Nov 04, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
-        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
+        "Link": "https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNn90UyjnSc8kquCCQBeKlLmLNOn6qAyKEbUNYZQitm0a3_IGPujOK6Dbpz14xBsQExuDiX_Wc2OqrJPweEt8-pSApBzzx6sxa-yrr0ZxFDjq2QdRIW06Zh2RSXemmNRC9J09uLxYM9zPgClBeCdguesIC8ksMn4eoycJhnOcN1L_N_fkFkKfQmLHAj0/w500/holiday-shopping.png",
+        "Title": "Cyber Threats That Could Impact the Retail Industry This Holiday Season (and What to Do About It)",
         "Source": "The Hacker News",
         "Timestamp": "Nov 04, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Nov 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpAFyvSF0J0yWBq4KoD0AQUNbzSEtXygdCBmsEo9GL2_CtTVwyNgMgmdc2nyIQXtt4appke6mLHqz-KYBvEvmtUCdqN6sUuHebFbeDUB32tpc5-glm8Q8tlVmM12adg_Lyyv-CmgXQmH_sVwnlcuCvC4C4-mmXozIeTmY6dJoQLc-CtbJ3-M1Hc7qM369x/w500/webinar.png",
-        "Title": "Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar",
+        "Link": "https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOrbk583oVDqntbGneIpTG7loEsFM6ShVl1EAHEDD_E9fMmzEB5sYYZNkCsjKBY2l1QUjoBASaQN57nRJBqBqbL5m0zQLohyphenhyphen5saph8fhrnST1DiSEm07QEfKwjXi34BUukHTFuNRmKXP6GPJ3mjpotGKhxeOhZC3_UkvZt_-2pBl6acqztsDoIgg18eYE/w500/main.png",
+        "Title": "Sailing the Seven Seas Securely from Port to Port \u2013 OT Access Security for Ships and Cranes",
         "Source": "The Hacker News",
         "Timestamp": "Nov 04, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOrbk583oVDqntbGneIpTG7loEsFM6ShVl1EAHEDD_E9fMmzEB5sYYZNkCsjKBY2l1QUjoBASaQN57nRJBqBqbL5m0zQLohyphenhyphen5saph8fhrnST1DiSEm07QEfKwjXi34BUukHTFuNRmKXP6GPJ3mjpotGKhxeOhZC3_UkvZt_-2pBl6acqztsDoIgg18eYE/w500/main.png",
-        "Title": "Sailing the Seven Seas Securely from Port to Port \u2013 OT Access Security for Ships and Cranes",
+        "Link": "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpAFyvSF0J0yWBq4KoD0AQUNbzSEtXygdCBmsEo9GL2_CtTVwyNgMgmdc2nyIQXtt4appke6mLHqz-KYBvEvmtUCdqN6sUuHebFbeDUB32tpc5-glm8Q8tlVmM12adg_Lyyv-CmgXQmH_sVwnlcuCvC4C4-mmXozIeTmY6dJoQLc-CtbJ3-M1Hc7qM369x/w500/webinar.png",
+        "Title": "Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar",
         "Source": "The Hacker News",
         "Timestamp": "Nov 04, 2024"
     },
@@ -66,13 +73,6 @@
         "Link": "https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcVrsuFBB-v2r6qUMRYJyhiPaIgI8urfLOl8DJmI6vVqz_O5XtRPoVujk1WQIi3xYKQv8pj3gMY3rle9us-q_7IdqIUNawzbX5XZODGKOgkm4ZFl5alSXi8u6dVoDBYbAsmqWwfoCFJ-co61kSDweCOe3zj1oFLGtHVld3_Kad41YokTWmBmRzo6wG3uNM/w500/git.png",
         "Title": "Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
-        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
         "Source": "The Hacker News",
         "Timestamp": "Nov 04, 2024"
     },
@@ -98,16 +98,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/microsoft-warns-of-chinese-botnet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_6g__uyb4FaILVSjNWx29AefLHN-BP5MvlBEUkYwGgFu9H9z5wGMYv98oF13IJmZM9rzY9Th5iLAM7ZSSMqb7k-Bn2pwl97O97saG8ZLx93-kc4KkZZOkzdPf7UA_La4LzrIVi63ioe_I9wxZ_RVuN81NwygGbs4COWf4-dSpeilgGqgwd1Vhx2-55s-/w500/botnet.png",
-        "Title": "Microsoft Warns of Chinese Botnet Exploiting Router Flaws for Credential Theft",
+        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
+        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
         "Source": "The Hacker News",
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7CVaeylGP6ELjFK5-PM3mD8cukOtILLhSIr0nulTNsFmgk7FjWwUxk6f0ZtjYPMRo3Fri3n8-xh_s69WD_KPY1fmC7dYiUkBTahfnYIYXWzg9SxNP76u5N-PjBJs4ySowUgmuM3RG6gMk0AsDzJQ-hWLwNfadyknVmbL83DXJE1NDHo8JAAzF4Ue4GzE/w500/recall.png",
-        "Title": "Microsoft Delays Windows Copilot+ Recall Release Over Privacy Concerns",
+        "Link": "https://thehackernews.com/2024/11/microsoft-warns-of-chinese-botnet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_6g__uyb4FaILVSjNWx29AefLHN-BP5MvlBEUkYwGgFu9H9z5wGMYv98oF13IJmZM9rzY9Th5iLAM7ZSSMqb7k-Bn2pwl97O97saG8ZLx93-kc4KkZZOkzdPf7UA_La4LzrIVi63ioe_I9wxZ_RVuN81NwygGbs4COWf4-dSpeilgGqgwd1Vhx2-55s-/w500/botnet.png",
+        "Title": "Microsoft Warns of Chinese Botnet Exploiting Router Flaws for Credential Theft",
         "Source": "The Hacker News",
         "Timestamp": "Nov 01, 2024"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4VIeiIy8Ex1PemCc5a6Ky_29rRUkyHF_PYhQ8RmzgoHNqdLjPxQ5AEe8cy0TVxt6xaBV58moUz41dQO_tEn-sXxsGnXuuEsPX-aR8ZVanhyJR45hAJfmRuncpcVhu5pGN6YSD9XjXuu4k426Ot3w3AARibnKvGV60XIgGCeBU3bUrAwrzRB5wj7UY6SQg/w500/phishing.png",
-        "Title": "New Phishing Kit Xi\u016b g\u01d2u Targets Users Across Five Countries With 2,000 Fake Sites",
+        "Link": "https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7CVaeylGP6ELjFK5-PM3mD8cukOtILLhSIr0nulTNsFmgk7FjWwUxk6f0ZtjYPMRo3Fri3n8-xh_s69WD_KPY1fmC7dYiUkBTahfnYIYXWzg9SxNP76u5N-PjBJs4ySowUgmuM3RG6gMk0AsDzJQ-hWLwNfadyknVmbL83DXJE1NDHo8JAAzF4Ue4GzE/w500/recall.png",
+        "Title": "Microsoft Delays Windows Copilot+ Recall Release Over Privacy Concerns",
         "Source": "The Hacker News",
         "Timestamp": "Nov 01, 2024"
     },
@@ -129,6 +129,13 @@
         "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
         "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 01, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4VIeiIy8Ex1PemCc5a6Ky_29rRUkyHF_PYhQ8RmzgoHNqdLjPxQ5AEe8cy0TVxt6xaBV58moUz41dQO_tEn-sXxsGnXuuEsPX-aR8ZVanhyJR45hAJfmRuncpcVhu5pGN6YSD9XjXuu4k426Ot3w3AARibnKvGV60XIgGCeBU3bUrAwrzRB5wj7UY6SQg/w500/phishing.png",
+        "Title": "New Phishing Kit Xi\u016b g\u01d2u Targets Users Across Five Countries With 2,000 Fake Sites",
         "Source": "The Hacker News",
         "Timestamp": "Nov 01, 2024"
     },
@@ -164,13 +171,6 @@
         "Link": "https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY8LAsTysxOLp2_jKtDmZCnUZ4CCOpLkKu9CN1kD1nohCJhc9gDXU-hXOwCXP6gFvC-LUjC_t2PtSSGvAtJKA1fes8gsCzuR1Xs5uN6mrrIMPWx1riBnXSwESbcQEz5chjyrdJURZy2ckBFmDDhzkusdE3WnA1VOlMm_P1dKHSNzCnNVlSKxkRKdO2tKLU/w500/paynow.png",
         "Title": "North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 01, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRyMsVeMT7VtRd_QXkviMkb25Nd_aEb6Sw7aJ9whsaekrv8OhxD5u1HDlUW4MqfEDS6NijHlJGrVQL0M6g0zqXzR66MS7oqrKGIbzx4ahexyKFjzFyo93IZo44_Jt6MpJRzwW0dX21ufgAWSDsZMcVqQidGbjRE8GB4y_Xx-JFtIHlaL6iyYpAB7dK3wT9/w500/attack.png",
-        "Title": "Opera Browser Fixes Big Security Hole That Could Have Exposed Your Information",
         "Source": "The Hacker News",
         "Timestamp": "Nov 01, 2024"
     },
@@ -287,6 +287,13 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
         "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
         "Title": "Pig Butchering Scams Are Going High Tech",
@@ -297,13 +304,6 @@
         "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
         "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
         "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
