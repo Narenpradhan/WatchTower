@@ -1,5 +1,82 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/11/9-steps-to-get-ctem-on-your-2025.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1gr59kDw5b9LRNbSHyv4VELzFRnkCnvckuoqUhp9WUCW1B_wFgPC3uVeiUAr40aqV2ZdDhq9FHJ4LILv6CCUtQbfeICTz8d3J1ikOVdXScaPJuYorptUtzLz5ACAjzsDVzqHPXM941UwrRFmaHU89V2aY5ofvWzGRWsQxmsL0w-pomL9MgmZMK6Bhgqg/w500/main.png",
+        "Title": "9 Steps to Get CTEM on Your 2025 Budgetary Radar",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQvOoHAua9vZZ9SBojYRI7DJlAILUacsD8gY8_2-yPGpDL9ChqkuERUL4V7TbB2OLms9UQszbc7qHEyyWhRm9gRKcDjmeMfdQdqPDw26ssLkVR76Xa92IDCrvwrWvV6OJaBg47bfV6niPjCTHkb_O4LHK8bxFSSkuhIrlCjPh8nLRfZvGln-V2cFFbysp/w500/servers.png",
+        "Title": "INTERPOL Disrupts Over 22,000 Malicious Servers in Global Crackdown on Cybercrime",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtLTsyrYDBeZcJPPmZfUBvjivp2BSGHRAwiVUUdpzhShmCM4wF8BJuQBLGFdk19Tp9_89WZC3lVOKhlYEK1NhHc0S9pZzXO3dCmve9CLZ4EXH_n8vySCHkS6Of5NM-HHVgXz851AQfbGq4xP9E5oaqWvWhUngSNBlEAPk_JCVWh05VKrcehLkitmcLtNQ/w500/fcaebook.png",
+        "Title": "South Korea Fines Meta $15.67M for Illegally Sharing Sensitive User Data with Advertisers",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
+        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ksHO8A0iLVFY46aLsRHDLPPtkH8OE41RGPIAeCCjaSNZgJoonxtXMO890AH9aCfCzFwr8vDouHsaBg41x7-ZU3-bsggSjCEenAX7bNfn5SGCpsyTo86P3pHyZh8QHcplFonIzvsDqpIaSRypqD1lrDoWZUKF2Js-yoz9W-jG6_EPMwpYLz_NTOGggrFo/w500/cloud.png",
+        "Title": "Google Cloud to Enforce Multi-Factor Authentication by 2025 for All Users",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdfISkHdXN0Np6f9l7cUU_67EFHH4qB40bFjKaBWApnJudvuy-VXS2VtkRviX38bjG1MUF8J3mPcDU-UZB1TpejvIK4FCgO8kgGeURKo9G2EqKD_jHhTy3g36-BcJ8GOUzQnjKQPHulNFkfzz0Utggpbn6P9Md5sw9nO48L2k7OlNV-jxoSLomfP4wMp-p/w500/fbi.png",
+        "Title": "FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWD8uEZlu1koGFwhBRw-8o2lT-bn02Dhcz9mTwmf1Dn1zgfW2cgtDNlmuW3rFa7_O9NyK1E3IbkmRFffEgHrSVeO95tkJq4BF0ITzxct9Br8csqyc052W1EKEdIGiWqu0kgmVmyisTvRa5VCS-ywHDdXPQ8Ynr7q9txhx1vYlGWRLOq0SHP1Jn4SAcqEGB/w500/main.png",
+        "Title": "New Android Banking Malware 'ToxicPanda' Targets Users with Fraudulent Money Transfers",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
+        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizouLB24kshFkDJI1spTHZjMS6Dv4xmzt7B7Yk-V6JSxOBCI-fQUoOkEt5GOEqsBNDBQcEl3MW8UqwEdcMYlnPYux7DEfWhFdNdUZbM_IohN_Yi0VEJFfGnPrDuPC06cPTYDfJrSG4URJFwpCd8g4-F3Z-FogkcTU2eEMwcGSLNKVsxwJnjTgrBH48iQ/w500/wazuh.png",
+        "Title": "Leveraging Wazuh for Zero Trust security",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfAfqQvxv4zNj1PXr5uS1l7qttu5bUegYweslW5DT1OGI4IwuoM7P160WL8TuSeC1k_555eTSSM9SZVMlymX4ovmTFuD-mLkGxiGJLEzDFN8_OQynIZy9qx__8gW8i3nFqh1DK4FjYExzJnxJE52P51_GcDNflDWPOy9ipMitX7nusqOeKIr0osK8x1kge/w500/nas-hacked.png",
+        "Title": "Synology Urges Patch for Critical Zero-Click RCE Flaw Affecting Millions of NAS Devices",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkFWL_ssKccj3dWvt69MhrzMWK2MdCNKqaSbs5mYTIXA1LhyphenhyphenKtExgqXg5r6Tg6GT-yi9ObYNtak2SjnLS_EISR31thVdoK4tx7_odaDAt9K5noT7DyjlUutg4pMYNaN1YXuOv6cNYlbEYixNHruDnkOOFiFHZy3021BiCgcXYSir_haYcS39QxzUlj8MO2/w500/hackers.png",
+        "Title": "Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/snowflaking.png",
         "Title": "Canadian Man Arrested in Snowflake Data Extortions",
@@ -7,58 +84,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdfISkHdXN0Np6f9l7cUU_67EFHH4qB40bFjKaBWApnJudvuy-VXS2VtkRviX38bjG1MUF8J3mPcDU-UZB1TpejvIK4FCgO8kgGeURKo9G2EqKD_jHhTy3g36-BcJ8GOUzQnjKQPHulNFkfzz0Utggpbn6P9Md5sw9nO48L2k7OlNV-jxoSLomfP4wMp-p/w500/fbi.png",
-        "Title": "FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWD8uEZlu1koGFwhBRw-8o2lT-bn02Dhcz9mTwmf1Dn1zgfW2cgtDNlmuW3rFa7_O9NyK1E3IbkmRFffEgHrSVeO95tkJq4BF0ITzxct9Br8csqyc052W1EKEdIGiWqu0kgmVmyisTvRa5VCS-ywHDdXPQ8Ynr7q9txhx1vYlGWRLOq0SHP1Jn4SAcqEGB/w500/main.png",
-        "Title": "New Android Banking Malware 'ToxicPanda' Targets Users with Fraudulent Money Transfers",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizouLB24kshFkDJI1spTHZjMS6Dv4xmzt7B7Yk-V6JSxOBCI-fQUoOkEt5GOEqsBNDBQcEl3MW8UqwEdcMYlnPYux7DEfWhFdNdUZbM_IohN_Yi0VEJFfGnPrDuPC06cPTYDfJrSG4URJFwpCd8g4-F3Z-FogkcTU2eEMwcGSLNKVsxwJnjTgrBH48iQ/w500/wazuh.png",
-        "Title": "Leveraging Wazuh for Zero Trust security",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
-        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfAfqQvxv4zNj1PXr5uS1l7qttu5bUegYweslW5DT1OGI4IwuoM7P160WL8TuSeC1k_555eTSSM9SZVMlymX4ovmTFuD-mLkGxiGJLEzDFN8_OQynIZy9qx__8gW8i3nFqh1DK4FjYExzJnxJE52P51_GcDNflDWPOy9ipMitX7nusqOeKIr0osK8x1kge/w500/nas-hacked.png",
-        "Title": "Synology Urges Patch for Critical Zero-Click RCE Flaw Affecting Millions of NAS Devices",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkFWL_ssKccj3dWvt69MhrzMWK2MdCNKqaSbs5mYTIXA1LhyphenhyphenKtExgqXg5r6Tg6GT-yi9ObYNtak2SjnLS_EISR31thVdoK4tx7_odaDAt9K5noT7DyjlUutg4pMYNaN1YXuOv6cNYlbEYixNHruDnkOOFiFHZy3021BiCgcXYSir_haYcS39QxzUlj8MO2/w500/hackers.png",
-        "Title": "Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTE_O6T1IIdNHj_edIT_NQQ-wKcqYzQSb288SyXszkCBxO5PfrYTajHobBlXHwfFnUyChVJl5MEvP39_wE0ZsslrjSLzIPn7DwV1VuG-HFT9t0mi3pDW8PAdF0Tfs-NoyPA23y4zBdU4s6dHy4F-U948Vj7C82CPOU4nfeEwLrYpYiAt1uDcZQ38OyAIiQ/w500/canda.png",
-        "Title": "Canadian Suspect Arrested Over Snowflake Data Breach and Extortion Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
-        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Title": "Canadian Suspect Arrested Over Snowflake Customer Breach and Extortion Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Nov 05, 2024"
     },
@@ -70,9 +98,23 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
+        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FRy4wQ1bWDdcWY23WuBNE0AHcxnPTCeidTtUXfmDHmK62fFOm0PZdQiNxGlhxh5B3UqM_pSbG7BegSyTEoTT57gjjObtr8YjBZtw-4XMiypdlmlg7wnzTKUhPNqLdWti6KcshPDnV8i2rkF78JJTG1kFu7tZFoOTH_n3p76-nBw8Da1M0LlFUVr8eee2/w500/ai.png",
         "Title": "Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
+        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
         "Source": "The Hacker News",
         "Timestamp": "Nov 05, 2024"
     },
@@ -84,16 +126,44 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOuT7UeuCT5RSdpElhGq2WP7czz_RelC58w8TLIM_IcXKvdtw2nFEpUS5Wb1u4qWfisC3c8Yx03UR03E2mSs0JWox7ZlwPPQT5-DAS2COuGuCdIDfEhP3xOWu9v4nEK619PyUHIfl5kUEEY2lYhp8axGCEOZOyHdDpUV6sKULTCIRoVJep1QneXQYZX1c/w500/recap.png",
+        "Title": "THN Recap: Top Cybersecurity Threats, Tools, and Practices (Oct 28 - Nov 03)",
+        "Source": "The Hacker News",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNn90UyjnSc8kquCCQBeKlLmLNOn6qAyKEbUNYZQitm0a3_IGPujOK6Dbpz14xBsQExuDiX_Wc2OqrJPweEt8-pSApBzzx6sxa-yrr0ZxFDjq2QdRIW06Zh2RSXemmNRC9J09uLxYM9zPgClBeCdguesIC8ksMn4eoycJhnOcN1L_N_fkFkKfQmLHAj0/w500/holiday-shopping.png",
+        "Title": "Cyber Threats That Could Impact the Retail Industry This Holiday Season (and What to Do About It)",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/googles-ai-tool-big-sleep-finds-zero.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh91ni3TTYgfvHbjGWm4ZbgnCaKBXvcQMsF3GyXIDsNWLTdb8FZz0ZE7vDYEve653qJo4sNAOW7OeDxHnA4YKEIOzxovQqcUR3-8M5Emvg-faeEN5l_XT1tSPo0kArCPYgcqVbUjOWCCDALu3eX1hYXXV7nK6NYdXyRuP6gqa6qVKShiHGZO37b_mQyLks_/w500/ai-code.png",
+        "Title": "Google's AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqzEsWJNnTBaPXtvLbn_-FjOaEFdVPon8PBV3lkkkuJIgORz7Pi61jIbDARg6oIXVg6m50d5Re3CEcH9b1CnyGwkSYngY-wTrmB4VsVB1jnaZQBet-4b3XNxeMd_31I1iK2jRLaoppdKQHE1iOobHzrTUzkCfdCEWfIk4EijLFA6CpZbZdUmKEm9tnT9l_/w500/mobile.png",
+        "Title": "New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking Calls",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpAFyvSF0J0yWBq4KoD0AQUNbzSEtXygdCBmsEo9GL2_CtTVwyNgMgmdc2nyIQXtt4appke6mLHqz-KYBvEvmtUCdqN6sUuHebFbeDUB32tpc5-glm8Q8tlVmM12adg_Lyyv-CmgXQmH_sVwnlcuCvC4C4-mmXozIeTmY6dJoQLc-CtbJ3-M1Hc7qM369x/w500/webinar.png",
+        "Title": "Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -105,81 +175,11 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOuT7UeuCT5RSdpElhGq2WP7czz_RelC58w8TLIM_IcXKvdtw2nFEpUS5Wb1u4qWfisC3c8Yx03UR03E2mSs0JWox7ZlwPPQT5-DAS2COuGuCdIDfEhP3xOWu9v4nEK619PyUHIfl5kUEEY2lYhp8axGCEOZOyHdDpUV6sKULTCIRoVJep1QneXQYZX1c/w500/recap.png",
-        "Title": "THN Recap: Top Cybersecurity Threats, Tools, and Practices (Oct 28 - Nov 03)",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJNn90UyjnSc8kquCCQBeKlLmLNOn6qAyKEbUNYZQitm0a3_IGPujOK6Dbpz14xBsQExuDiX_Wc2OqrJPweEt8-pSApBzzx6sxa-yrr0ZxFDjq2QdRIW06Zh2RSXemmNRC9J09uLxYM9zPgClBeCdguesIC8ksMn4eoycJhnOcN1L_N_fkFkKfQmLHAj0/w500/holiday-shopping.png",
-        "Title": "Cyber Threats That Could Impact the Retail Industry This Holiday Season (and What to Do About It)",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
-        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/googles-ai-tool-big-sleep-finds-zero.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh91ni3TTYgfvHbjGWm4ZbgnCaKBXvcQMsF3GyXIDsNWLTdb8FZz0ZE7vDYEve653qJo4sNAOW7OeDxHnA4YKEIOzxovQqcUR3-8M5Emvg-faeEN5l_XT1tSPo0kArCPYgcqVbUjOWCCDALu3eX1hYXXV7nK6NYdXyRuP6gqa6qVKShiHGZO37b_mQyLks_/w500/ai-code.png",
-        "Title": "Google's AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
-        "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqzEsWJNnTBaPXtvLbn_-FjOaEFdVPon8PBV3lkkkuJIgORz7Pi61jIbDARg6oIXVg6m50d5Re3CEcH9b1CnyGwkSYngY-wTrmB4VsVB1jnaZQBet-4b3XNxeMd_31I1iK2jRLaoppdKQHE1iOobHzrTUzkCfdCEWfIk4EijLFA6CpZbZdUmKEm9tnT9l_/w500/mobile.png",
-        "Title": "New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking Calls",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpAFyvSF0J0yWBq4KoD0AQUNbzSEtXygdCBmsEo9GL2_CtTVwyNgMgmdc2nyIQXtt4appke6mLHqz-KYBvEvmtUCdqN6sUuHebFbeDUB32tpc5-glm8Q8tlVmM12adg_Lyyv-CmgXQmH_sVwnlcuCvC4C4-mmXozIeTmY6dJoQLc-CtbJ3-M1Hc7qM369x/w500/webinar.png",
-        "Title": "Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpRClufGReAnocRG-QpI-0XEsbR5vDbg_Is3kyvVJbtreod3aEMBggZzzVDbug06JI3cEzNtkQIVNCo-pUPtDPIRfnengLhDHEb2RDHLySD3Djkp9ObYS5tQ2gckvy3RH5eVBd_DbEoU7pa9VUYWlSNoc3vS-uDN31kBcUBmSJ6VymxZjfMLHnN2W0JiFW/w500/iran-hackers.png",
-        "Title": "Inside Iran's Cyber Playbook: AI, Fake Hosting, and Psychological Warfare",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcVrsuFBB-v2r6qUMRYJyhiPaIgI8urfLOl8DJmI6vVqz_O5XtRPoVujk1WQIi3xYKQv8pj3gMY3rle9us-q_7IdqIUNawzbX5XZODGKOgkm4ZFl5alSXi8u6dVoDBYbAsmqWwfoCFJ-co61kSDweCOe3zj1oFLGtHVld3_Kad41YokTWmBmRzo6wG3uNM/w500/git.png",
-        "Title": "Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
-        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/microsoft-warns-of-chinese-botnet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_6g__uyb4FaILVSjNWx29AefLHN-BP5MvlBEUkYwGgFu9H9z5wGMYv98oF13IJmZM9rzY9Th5iLAM7ZSSMqb7k-Bn2pwl97O97saG8ZLx93-kc4KkZZOkzdPf7UA_La4LzrIVi63ioe_I9wxZ_RVuN81NwygGbs4COWf4-dSpeilgGqgwd1Vhx2-55s-/w500/botnet.png",
-        "Title": "Microsoft Warns of Chinese Botnet Exploiting Router Flaws for Credential Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 04, 2024"
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Source": "WIRED",
+        "Timestamp": "Nov 05, 2024"
     },
     {
         "Link": "https://www.wired.com/story/disney-world-menu-hack-wingdings/",
@@ -203,16 +203,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -357,16 +357,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
