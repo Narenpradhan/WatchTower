@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/snowflaking.png",
+        "Title": "Canadian Man Arrested in Snowflake Data Extortions",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdfISkHdXN0Np6f9l7cUU_67EFHH4qB40bFjKaBWApnJudvuy-VXS2VtkRviX38bjG1MUF8J3mPcDU-UZB1TpejvIK4FCgO8kgGeURKo9G2EqKD_jHhTy3g36-BcJ8GOUzQnjKQPHulNFkfzz0Utggpbn6P9Md5sw9nO48L2k7OlNV-jxoSLomfP4wMp-p/w500/fbi.png",
         "Title": "FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions",
@@ -74,6 +81,13 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzIqFC58u-rstm7tCb1ERXzp8KSk1LzB98q3ak4qZi32gRw39QXrX5mO6VIQ-LYee7aYu9HtNU2-bPV5UCHVOMSGjBlXEOjpw3eQvDQpCb05xhMSOHbKt5n4rM_91aBtU_r5nZkWkKOHAwpLM_K4Fi20MS_uBnEN3dztmGiFku38hqggUjaBh3cIufA2bC/w500/ddos.png",
         "Title": "German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested",
         "Source": "The Hacker News",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
@@ -168,11 +182,11 @@
         "Timestamp": "Nov 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/inside-the-massive-crime-industry-thats-hacking-billion-dollar-companies/",
+        "Link": "https://www.wired.com/story/disney-world-menu-hack-wingdings/",
         "Img_URL": "https://media.wired.com/photos/6723b2ccb2d0f9dc9309d32b/3:2/w_1280%2Cc_limit/Security_404_Getty-Images.jpg",
         "Title": "Inside the Massive Crime Industry That\u2019s Hacking Billion-Dollar Companies",
         "Source": "WIRED",
-        "Timestamp": "Nov 04, 2024"
+        "Timestamp": "Nov 02, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/",
@@ -301,6 +315,13 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
         "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
         "Title": "The War on Passwords Is One Step Closer to Being Over",
@@ -311,13 +332,6 @@
         "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
         "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
         "Title": "Pig Butchering Scams Are Going High Tech",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -364,25 +378,11 @@
         "Timestamp": "Oct 03, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/ice-paragon-solutions-contract/",
-        "Img_URL": "https://media.wired.com/photos/67004d2afe54a52071eeb9b2/3:2/w_1280%2Cc_limit/Security_FBI_Phone_GettyImages-1312905466.jpg",
-        "Title": "The FBI Still Hasn\u2019t Cracked NYC Mayor Eric Adams\u2019 Phone",
-        "Source": "WIRED",
-        "Timestamp": "Oct 01, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/09/crooked-cops-stolen-laptops-the-ghost-of-ugnazi/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/iza-lasd.png",
         "Title": "Crooked Cops, Stolen Laptops & the Ghost of UGNazi",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 30, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2016/03/jstash-domains-580x505.png",
-        "Title": "U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Sep 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/",
