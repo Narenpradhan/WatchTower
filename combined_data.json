@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMV-ac_EICvuCKnsrC16_GrDdyc97JDN8QhOGHkY981Nb_2Xk-EiuAAFDW8JqNi7dgMN83E7pPRCAI6-c1JBrnqIatrhU-mr2LrkcXm_vjimm6zZfx04W7BW15nMAykMxvumnTmV9gXJpv3gDwDvjNmPDJXwyTR6-nHum3qV9Jedirs-8FRfstSegE2VIc/w500/crypto.png",
+        "Title": "North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 07, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPqetpZCxvknxaX01aX72kV08OiXXj_aCuLhvL-ZmpUa_BADuOs-wHGrd6HBgvGJkgbr2SiaeOKT8_Xp3u055hlzwpQDOQc27c73XZgZ2yAwbQ2eIAqqYRnai4wyc0-kXN1kRFvT04ILVspmRqn6c9r72cROxC4sVxO6k9oxkfA8qhubD6JUsWIn1G85o/w500/outpost.png",
         "Title": "A Hacker's Guide to Password Cracking",
@@ -8,15 +15,8 @@
     },
     {
         "Link": "https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj83e16GSHfz8xo0yYr5244cENSuZgtFJtjboq284uo5VN841_4QFdAHQ-WcvOelmQ5JxZzT_4iT0E_2e3Sjw2oZUHNUUpSWZUcXYa2UfwiCPcl7wxh3HF5uToivIzC9KZgrONIjeF-puJgQVgZMZ7o6_4MQUEEFmNxV7ENYwC2MCnhtcyRLIPeFUV2Ab8/w500/ttp.png",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv49CKWQaiZNBDPfM_NwKLDa77YSTc8OEK4G0wRZCqt3lHfShi8bPc1B7RihZ4yg3EcK_xCX9rcwvTGEQVfnTh4LUZAhsUyJ7xHNEEdqkzsgLrLro3U8R9PKiiwAeYGevlpDGpGV0zudWGZCZdRN8EDruOZzUZyo9z_eIbSBl7VIPmDIWSSZOpKDgsJHA8/w500/ttps_cover.png",
         "Title": "5 Most Common Malware Techniques in 2024",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 07, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOZrOCRqGfC1FcG9fYlBxOnsVvA9iA_2WIkcteAlRFZ1Sk8QbVT3lT95AQnUV5UVdaS3mW4j9DB_bQ8VrWNHMyB6ukfdhm3La6I9N26vQgmDtR-lKB7-tcZOvwlPhYJFYccJahU0MQL4yQ0W_gPCYEzN4Jk06HsSU5v3O1XBweVAw7g_2Bg7747sIyVA9/w500/malware-attack.png",
-        "Title": "SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
@@ -24,6 +24,13 @@
         "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
         "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 07, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOZrOCRqGfC1FcG9fYlBxOnsVvA9iA_2WIkcteAlRFZ1Sk8QbVT3lT95AQnUV5UVdaS3mW4j9DB_bQ8VrWNHMyB6ukfdhm3La6I9N26vQgmDtR-lKB7-tcZOvwlPhYJFYccJahU0MQL4yQ0W_gPCYEzN4Jk06HsSU5v3O1XBweVAw7g_2Bg7747sIyVA9/w500/malware-attack.png",
+        "Title": "SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqOisrbs23lBeGf62GBId24Zz-61Bg6hyphenhyphenimkO8ZJo-SkbZCTo9aLUGPP7E9t9xJ4dJTSS-I_DQLsTgAuie_Pz-qTKh2g3UfV6rX4TFG5knhrC62BpasbvlSW9b8SW3zLTUoVK7Pg4jlPsmQywm0tW1Ihcdakfq8MDB_fz_lbD00ztYJQb9Zoi4lmGZUoe/w500/aws.png",
-        "Title": "Malicious PyPI Package 'Fabrice' Found Stealing AWS Keys from Thousands of Developers",
+        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
+        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
-        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Link": "https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqOisrbs23lBeGf62GBId24Zz-61Bg6hyphenhyphenimkO8ZJo-SkbZCTo9aLUGPP7E9t9xJ4dJTSS-I_DQLsTgAuie_Pz-qTKh2g3UfV6rX4TFG5knhrC62BpasbvlSW9b8SW3zLTUoVK7Pg4jlPsmQywm0tW1Ihcdakfq8MDB_fz_lbD00ztYJQb9Zoi4lmGZUoe/w500/aws.png",
+        "Title": "Malicious PyPI Package 'Fabrice' Found Stealing AWS Keys from Thousands of Developers",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
@@ -91,9 +98,9 @@
         "Timestamp": "Nov 06, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQOt5nASTwqKWA0DNVyOAa0FA4KfrvpN-2l6UZ_GoYxdTajdDSvJ7hIKbAqRXYfRvMG1Q6jsXeHJ_8MnvYzk6W4HwMIY9FVv-ftI83Cvmp82fb-_Qm7Kk14j3L7kpHUME-8z4OY9aCnigeevZPgg-tPhLLATtRrT1r-7igppko9cGCN3jmTcWz5LZg2GM/w500/browser.png",
-        "Title": "Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities",
+        "Link": "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtX0fw-CFGiZ192kA2-C5lOeDuSS7GZ5WLs-VZz9FPdrQB1zsdGF1KVucbehYCmUtkky1Ea44WG774Dq7mt-xB6Lk17AIBm7GyPudOhMq2bj3xcyeGF1ZM0Qdg9VecIyo4GrIDu6cLAgkkfbyV0708VgIv3wWxmqNOO3VxOcwbSoVutWIy7hCZo2Qwpaw/w500/wing.png",
+        "Title": "5 SaaS Misconfigurations Leading to Major Fu*%@ Ups",
         "Source": "The Hacker News",
         "Timestamp": "Nov 06, 2024"
     },
@@ -154,6 +161,13 @@
         "Timestamp": "Nov 06, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTE_O6T1IIdNHj_edIT_NQQ-wKcqYzQSb288SyXszkCBxO5PfrYTajHobBlXHwfFnUyChVJl5MEvP39_wE0ZsslrjSLzIPn7DwV1VuG-HFT9t0mi3pDW8PAdF0Tfs-NoyPA23y4zBdU4s6dHy4F-U948Vj7C82CPOU4nfeEwLrYpYiAt1uDcZQ38OyAIiQ/w500/canda.png",
+        "Title": "Canadian Suspect Arrested Over Snowflake Customer Breach and Extortion Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 06, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/snowflaking.png",
         "Title": "Canadian Man Arrested in Snowflake Data Extortions",
@@ -168,16 +182,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a579d871d5326d325311b/3:2/w_1280%2Cc_limit/True-the-Vote-Leaks-Security-2.jpg",
-        "Title": "Flaw in Right-Wing \u2018Election Integrity\u2019 App Exposes Voter-Suppression Plan and User Data",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a579d871d5326d325311b/3:2/w_1280%2Cc_limit/True-the-Vote-Leaks-Security-2.jpg",
+        "Title": "Flaw in Right-Wing \u2018Election Integrity\u2019 App Exposes Voter-Suppression Plan and User Data",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -203,16 +217,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -315,9 +329,9 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
-        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
-        "Title": "Pig Butchering Scams Are Going High Tech",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -329,9 +343,9 @@
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
+        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
+        "Title": "Pig Butchering Scams Are Going High Tech",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -357,16 +371,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
