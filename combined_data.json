@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZORKGQD_IhLRhgYt-lFqZuyVmykM1ct7mtiVrCLjpU_teoVuiopnKba1QDWjcYlGMh4TBJAh9fBESLGsjGfnZ5Hc7Dd6vz6_hf9FOI9bkjQJjjYDNlLZlbQ6-3p-wQU72AmRzFKJ0t2RRvqe8nnw6qtZ5FmmfE7LIb2Stcl7fMD6SVA4tcnhAu8fG0Go/w500/hunt.jpg",
+        "Title": "Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 08, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/androxgh0st-malware-integrates-mozi.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghLGxtszTD9QCRQiKOi4fRN21vbr6fCMXuhDkOHSJwu870zHtLSrk6b98LcWLkWUEHp3-_H34ad4Q6Fi5PEM9Ebp0yaKBH7jsLNTKCxu989gE3sLgAaD4F3Q9Bk2oj-giolR0GWmkb_G3-NPeYw7wt6RZ8sDLWaDNrD06D188b0CzdErd_yHesncaqNBsW/w500/botnet.png",
         "Title": "AndroxGh0st Malware Integrates Mozi Botnet to Target IoT and Cloud Services",
@@ -14,13 +21,6 @@
         "Timestamp": "Nov 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/the-vciso-academy-transforming-msps-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKt_oQjs4bBN-6tVusW1fHFGnzk16hz-uChyNC8z2QaO3mMX4lqtqu323cKCU2I_o2kzqiqvtKdSA1Qx_GTHjw9tHsg_gFyRMTPFAwoREj46mBnFxJ617Xeq6F9o5_R5oSt4aJToi9K9_1gXfhBT6bLPSld3xcejc0vMCeNTrTOJZlFIcvk-RVMISWe4A/w500/vciso.png",
-        "Title": "The vCISO Academy: Transforming MSPs and MSSPs into Cybersecurity Powerhouses",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 08, 2024"
-    },
-    {
         "Link": "https://thehackernews.uk/thn-aws-eks-cheat-sheet",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjrSlHeHP_B_3m0KNojY1MXBHfAhtBmSykD61s4JzzKAzMpDCnLRZLHiufJlEDUFutiX-P91-Av6v2zwzztksAlqK3ArW-3DEVq3dixP3S1RKJR_jSkCpwninRAP241_EtJ6jj2_RVqRQQD44_M4JEuHojRJxyZwrWOROUiae4qsPnlKueRETRNYxNCuJu/s728-rw-e100/wiz.png",
         "Title": "AWS EKS Security Best Practices [Cheat Sheet]",
@@ -28,16 +28,16 @@
         "Timestamp": "Nov 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/malicious-npm-packages-target-roblox.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3eA9N8L6p5yM_ibC3Cqmpdk4PvWSoCkU8fIpYVBT4znxbX7fh5bcuwuIno_0_UG6GeuBUnj4j39c1FNwV-NaUry-p0yrnIBFi7uMnD6AzcoS4iDlWmprAR2Dkl5ZGGskGs8YOWyDzjJPyZWuV9TX_slrd4EqNyFqbWpgBri1Hu2J4iKdZTF_MxWw1nsVd/w500/npm.png",
-        "Title": "Malicious NPM Packages Target Roblox Users with Data-Stealing Malware",
+        "Link": "https://thehackernews.com/2024/11/the-vciso-academy-transforming-msps-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKt_oQjs4bBN-6tVusW1fHFGnzk16hz-uChyNC8z2QaO3mMX4lqtqu323cKCU2I_o2kzqiqvtKdSA1Qx_GTHjw9tHsg_gFyRMTPFAwoREj46mBnFxJ617Xeq6F9o5_R5oSt4aJToi9K9_1gXfhBT6bLPSld3xcejc0vMCeNTrTOJZlFIcvk-RVMISWe4A/w500/vciso.png",
+        "Title": "The vCISO Academy: Transforming MSPs and MSSPs into Cybersecurity Powerhouses",
         "Source": "The Hacker News",
         "Timestamp": "Nov 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZORKGQD_IhLRhgYt-lFqZuyVmykM1ct7mtiVrCLjpU_teoVuiopnKba1QDWjcYlGMh4TBJAh9fBESLGsjGfnZ5Hc7Dd6vz6_hf9FOI9bkjQJjjYDNlLZlbQ6-3p-wQU72AmRzFKJ0t2RRvqe8nnw6qtZ5FmmfE7LIb2Stcl7fMD6SVA4tcnhAu8fG0Go/w500/hunt.jpg",
-        "Title": "Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and Effective",
+        "Link": "https://thehackernews.com/2024/11/malicious-npm-packages-target-roblox.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3eA9N8L6p5yM_ibC3Cqmpdk4PvWSoCkU8fIpYVBT4znxbX7fh5bcuwuIno_0_UG6GeuBUnj4j39c1FNwV-NaUry-p0yrnIBFi7uMnD6AzcoS4iDlWmprAR2Dkl5ZGGskGs8YOWyDzjJPyZWuV9TX_slrd4EqNyFqbWpgBri1Hu2J4iKdZTF_MxWw1nsVd/w500/npm.png",
+        "Title": "Malicious NPM Packages Target Roblox Users with Data-Stealing Malware",
         "Source": "The Hacker News",
         "Timestamp": "Nov 08, 2024"
     },
@@ -84,14 +84,14 @@
         "Timestamp": "Nov 08, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html",
+        "Link": "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbOZrOCRqGfC1FcG9fYlBxOnsVvA9iA_2WIkcteAlRFZ1Sk8QbVT3lT95AQnUV5UVdaS3mW4j9DB_bQ8VrWNHMyB6ukfdhm3La6I9N26vQgmDtR-lKB7-tcZOvwlPhYJFYccJahU0MQL4yQ0W_gPCYEzN4Jk06HsSU5v3O1XBweVAw7g_2Bg7747sIyVA9/w500/malware-attack.png",
         "Title": "SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html",
+        "Link": "https://thehackernews.com/2024/11/china-aligned-mirrorface-hackers-target.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicqSi3NvdIK9SoaGh4djBwO4nfOHwo1TBTEgIYzxrlgwuxA-FhMqoOhJY7R3Rwn3MiNyHeaav-0ov0uXh1aNatToniHbF7unLZaWFaUiuC6-xTa_YeBGXsiaN5uV0ZgrH4_BiFV8Ey-92eZ55TcpCtyvg19uqr4zMMenXThOsTpaQ2kGH1G43ZwXw8s97S/w500/EXPO-2025.png",
         "Title": "China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait",
         "Source": "The Hacker News",
@@ -105,7 +105,7 @@
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html",
+        "Link": "https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcYxX4cuLzMu84RRtiDDc8zBJfHnKT9F3tDXMDX-UPuuypd5k1GNNyUPrv_3u1q2WvmMjFSuB-2Xkfeu46adVPtKYo7U594-rk6rZ6xYlF4P-ijdKkCuZO6TvYAohnMRxP6fhZraGffQhkR0p7pQzkNPUg2ymh6VeIVAnkH4mHWh0TRjK_LoH-bJsbXlGh/w500/hackers.png",
         "Title": "Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems",
         "Source": "The Hacker News",
@@ -119,49 +119,49 @@
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html",
+        "Link": "https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqOisrbs23lBeGf62GBId24Zz-61Bg6hyphenhyphenimkO8ZJo-SkbZCTo9aLUGPP7E9t9xJ4dJTSS-I_DQLsTgAuie_Pz-qTKh2g3UfV6rX4TFG5knhrC62BpasbvlSW9b8SW3zLTUoVK7Pg4jlPsmQywm0tW1Ihcdakfq8MDB_fz_lbD00ztYJQb9Zoi4lmGZUoe/w500/aws.png",
         "Title": "Malicious PyPI Package 'Fabrice' Found Stealing AWS Keys from Thousands of Developers",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html",
+        "Link": "https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-xQaYcxe54ZPPHryFsanmeftZtr64bPyTETuesjC5jlSLar92jxeXjIZbHyPerIdXp43juS6a1vMR4giSC4bg5czfxI3-C9daTGJSIXjuPXAykNmrt2UNyS5AXiEwjG3mAxHcZqwNks82LWXUEzAekIFByG6H0WO4GklJC5x4H4dkSIxlW5FA8mwq7MbO/w500/tiktok-canada.png",
         "Title": "Canada Orders TikTok to Shut Down Canadian Operations Over Security Concerns",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/veildrive-attack-exploits-microsoft.html",
+        "Link": "https://thehackernews.com/2024/11/veildrive-attack-exploits-microsoft.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt1KiofOorxvYuCcsdLYkAJ1L5rzz6wrQykhpPR0uDfquCnCad8cwvTw5p62nt2FzvOApX2wDqSsLIjKSQa7pxAMkifHKr1G2Wh3jd85IQVLGTCqb9z0S12sxMjYuOSUVagRUOlapEXtqWj060tmToVirp1_t8Losm2HBlCz7xUYfs03ncQqu4jcHyf6us/w500/ms.png",
         "Title": "VEILDrive Attack Exploits Microsoft Services to Evade Detection and Distribute Malware",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html",
+        "Link": "https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3DpbfYPMUbGi1u_F7jOmPH-Sz-GK2eB_8ou2kNSK7ikP0xnnm0mrQfQtbcASMWbmm7xxKPwgojpp6K3aDe15NaoMeSWdxjJdxETvLXL09r8VPeHubAjJlgXNxiiUtRw5KbNHFvZX6xKAwRN_AkuZtp7bUxzj30ex2xoQw6c6eJpTFP62twVmSuZE_fvHD/w500/cyber.png",
         "Title": "Winos 4.0 Malware Infects Gamers Through Malicious Game Optimization Apps",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/9-steps-to-get-ctem-on-your-2025.html",
+        "Link": "https://thehackernews.com/2024/11/9-steps-to-get-ctem-on-your-2025.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1gr59kDw5b9LRNbSHyv4VELzFRnkCnvckuoqUhp9WUCW1B_wFgPC3uVeiUAr40aqV2ZdDhq9FHJ4LILv6CCUtQbfeICTz8d3J1ikOVdXScaPJuYorptUtzLz5ACAjzsDVzqHPXM941UwrRFmaHU89V2aY5ofvWzGRWsQxmsL0w-pomL9MgmZMK6Bhgqg/w500/main.png",
         "Title": "9 Steps to Get CTEM on Your 2025 Budgetary Radar",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html",
+        "Link": "https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQvOoHAua9vZZ9SBojYRI7DJlAILUacsD8gY8_2-yPGpDL9ChqkuERUL4V7TbB2OLms9UQszbc7qHEyyWhRm9gRKcDjmeMfdQdqPDw26ssLkVR76Xa92IDCrvwrWvV6OJaBg47bfV6niPjCTHkb_O4LHK8bxFSSkuhIrlCjPh8nLRfZvGln-V2cFFbysp/w500/servers.png",
         "Title": "INTERPOL Disrupts Over 22,000 Malicious Servers in Global Crackdown on Cybercrime",
         "Source": "The Hacker News",
         "Timestamp": "Nov 07, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html",
+        "Link": "https://thehackernews.com/2024/11/south-korea-fines-meta-1567m-for.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtLTsyrYDBeZcJPPmZfUBvjivp2BSGHRAwiVUUdpzhShmCM4wF8BJuQBLGFdk19Tp9_89WZC3lVOKhlYEK1NhHc0S9pZzXO3dCmve9CLZ4EXH_n8vySCHkS6Of5NM-HHVgXz851AQfbGq4xP9E5oaqWvWhUngSNBlEAPk_JCVWh05VKrcehLkitmcLtNQ/w500/fcaebook.png",
         "Title": "South Korea Fines Meta $15.67M for Illegally Sharing Sensitive User Data with Advertisers",
         "Source": "The Hacker News",
@@ -182,16 +182,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a579d871d5326d325311b/3:2/w_1280%2Cc_limit/True-the-Vote-Leaks-Security-2.jpg",
-        "Title": "Flaw in Right-Wing \u2018Election Integrity\u2019 App Exposes Voter-Suppression Plan and User Data",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a579d871d5326d325311b/3:2/w_1280%2Cc_limit/True-the-Vote-Leaks-Security-2.jpg",
+        "Title": "Flaw in Right-Wing \u2018Election Integrity\u2019 App Exposes Voter-Suppression Plan and User Data",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -217,16 +217,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -329,13 +329,6 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
         "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
         "Title": "Pig Butchering Scams Are Going High Tech",
@@ -346,6 +339,13 @@
         "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
         "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
         "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -371,16 +371,16 @@
         "Timestamp": "Oct 08, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
-        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
-        "Title": "Internet Archive Breach Exposes 31 Million Users",
+        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
+        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
+        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-eric-adams-phone-not-cracked/",
-        "Img_URL": "https://media.wired.com/photos/6700428df965cc9915ac1a5f/3:2/w_1280%2Cc_limit/Security_Malware_GettyImages-1504204562.jpg",
-        "Title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
+        "Link": "https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/",
+        "Img_URL": "https://media.wired.com/photos/67073497ae37b8358e98f90a/3:2/w_1280%2Cc_limit/Security_Internet_Archive_GettyImages-1164612248.jpg",
+        "Title": "Internet Archive Breach Exposes 31 Million Users",
         "Source": "WIRED",
         "Timestamp": "Oct 05, 2024"
     },
