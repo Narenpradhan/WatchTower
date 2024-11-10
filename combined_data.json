@@ -1,12 +1,5 @@
 [
     {
-        "Link": "https://krebsonsecurity.com/2024/11/fbi-spike-in-hacked-police-emails-fake-subpoenas/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/03/legalrequest.png",
-        "Title": "FBI: Spike in Hacked Police Emails, Fake Subpoenas",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 09, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/11/palo-alto-advises-securing-pan-os.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJm-DG3VZUcqH1JlqgTKrxODE3JpKpLwFtdu3XtuDPt1k5U58fgtLeZSivdGS2UnhanH6pcMmSovESs_1OumwYHIpSoKcieLLwt9YpzW1aeTU427FahXs3R7Sd-8yVEDEtRMiXa_8wXtZKqcCkHgsOmZVajiLpMAtX41F0sppaxBH2PywJS1KJU-vq0E8S/w500/palo.png",
         "Title": "Palo Alto Advises Securing PAN-OS Interface Amid Potential RCE Threat Concerns",
@@ -343,9 +336,9 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
-        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
-        "Title": "Pig Butchering Scams Are Going High Tech",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -357,9 +350,9 @@
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
+        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
+        "Title": "Pig Butchering Scams Are Going High Tech",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -397,6 +390,13 @@
         "Title": "A Single Cloud Compromise Can Feed an Army of AI Sex Bots",
         "Source": "KrebsonSecurity",
         "Timestamp": "Oct 03, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/09/crooked-cops-stolen-laptops-the-ghost-of-ugnazi/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/iza-lasd.png",
+        "Title": "Crooked Cops, Stolen Laptops & the Ghost of UGNazi",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Sep 30, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/09/crooked-cops-stolen-laptops-the-ghost-of-ugnazi/",
