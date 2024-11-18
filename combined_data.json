@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2S9Qj3DnsamWqg1eSxR95cvKRpo59Y93_RJs9ql7UwgwRi71Je6A2ApVGkG-_pDLj8Xl9QV9OJaBOlyoY2kwMHBSXiVwg-kZ15gqmIZFhE1JI-9PpppYBIztVjfGD4OUoLs2Q6I3p-L-1Fnfb4r3Npmf09tJO9z2-N6EkcyV5RguGqxfWcBjPQQsNFhyW/w500/malware.png",
+        "Title": "New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/the-problem-of-permissions-and-non-human-identities.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN_RYNOemOZrhKe-HXIqkTzYqHDAG7u9doGZ0j_IiVtUBytAK49QhAEMnYkLD4ul5XXzwFoH0Opo1BMkAucjwuHKPdfS94jZ3sBVK14CZJ93wOauPrF7Msul35kxD4dHT27mcg1bXCtc9j9iBpWUXIinJkudk4m7ginLfqGBEDpw4TcD9bgLBm5pp-Zs8/w500/git.png",
+        "Title": "The Problem of Permissions and Non-Human Identities - Why Remediating Credentials Takes Longer Than You Think",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_18.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAwnrCuViuhL6FH4GWN2TPk463nmk-u4bU80a0dLJgrfrtWdn27J1LM_ZWFhW2dRGhCN7L1iEbIZ8nKGW_rJNokyWNHwIHGRvKW3-veIMbJadIOohCgn4_b-uF3LUa9V_DsOThqULxcmZKDpM488R4tjlJiWafR9XZGTMvfL2iJG8_X8gDrM6N9tg-CvA/w500/recap.png",
         "Title": "THN Recap: Top Cybersecurity Threats, Tools, and Practices (Nov 11 - Nov 17)",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/threat-detection-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
+        "Title": "2024 State of Threat Detection and Response",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/threat-detection-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
-        "Title": "2024 State of Threat Detection and Response",
+        "Link": "https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGpHsBJ2X3JksvuydN8ePTaUjQV9-tpVThx4-WYPQL5F9KU7-Pu372yZES75_a5QIUHYQY3RFU7VwbntnTucgkwgu4-hZReJsQTaAzmw-YFRgcZT0HluSqDLOyAmD0rumftYJLWXEVJxb8rq_fbGFnCzAWqhK6d3aZbUT0YNcuyoTLulOt1cDyF5m8p9_u/w500/blackfriday.png",
+        "Title": "Fake Discount Sites Exploit Black Friday to Hijack Shopper Information",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGpHsBJ2X3JksvuydN8ePTaUjQV9-tpVThx4-WYPQL5F9KU7-Pu372yZES75_a5QIUHYQY3RFU7VwbntnTucgkwgu4-hZReJsQTaAzmw-YFRgcZT0HluSqDLOyAmD0rumftYJLWXEVJxb8rq_fbGFnCzAWqhK6d3aZbUT0YNcuyoTLulOt1cDyF5m8p9_u/w500/blackfriday.png",
-        "Title": "Fake Discount Sites Exploit Black Friday to Hijack Shopper Information",
+        "Link": "https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-hOGp6l_D7po0XhAXRyVPuD1unhAtcWdiqbP0cl99RamOyaYX4h9lBOw2AEaUdKRHWsLz6lTx-X21zqhhN0ALZgb-aJD2Y-CGaw7BPIv1OMTvyW1z5njnqXwLnT79u49tVrGcnNNU4Kf6WY8ShRE7djY3CmL9V2ccibeveOUAoIT1x5Qxky0yngIA6CU/w500/5-ways.png",
+        "Title": "5 Ways Behavioral Analytics is Revolutionizing Incident Response",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/5-ways-behavioral-analytics-is.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-hOGp6l_D7po0XhAXRyVPuD1unhAtcWdiqbP0cl99RamOyaYX4h9lBOw2AEaUdKRHWsLz6lTx-X21zqhhN0ALZgb-aJD2Y-CGaw7BPIv1OMTvyW1z5njnqXwLnT79u49tVrGcnNNU4Kf6WY8ShRE7djY3CmL9V2ccibeveOUAoIT1x5Qxky0yngIA6CU/w500/5-ways.png",
-        "Title": "5 Ways Behavioral Analytics is Revolutionizing Incident Response",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcwJUfFrUKigX0NuCHrPHqrdr3gc5uz1KOmOF2WhBhKOsoxE2Kz1Gg9J3iuS78kzf9gaKHQ8fgjVD6A73YZpWOWyDxJhyKEV6iCp_IJn2fZp_kQQ0HnqzVrZw_dWLER0Eth5d0ydOPhlVdAVgMvaXoHeXayw6OgJEIP09Yw0XPKOwi02yuRpBbMrOrWwnl/w500/paloaltonetworks-exploit.png",
         "Title": "PAN-OS Firewall Vulnerability Under Active Exploitation \u2013 IoCs Released",
@@ -70,20 +84,6 @@
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0raaJxiCeOfCZIKsvnNTKbQkBpSuvUE0GhHDiHqSXBTh46dkAI13kRy-m8oK5_CnTyDRp8SvtvlhZokIB_z9wLU9MujJPlxkSN0zVzLK8XbhToXLIp0PMsifegY5GlNtLFGJWzYqDOFOy1aVyXErp9NTig3EYzO0_lu_eWRO2Ah7RDQ4eT5guDbyp8VQH/w500/iranian-hackers.png",
-        "Title": "Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/researchers-warn-of-privilege.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7ldlbkeT1_Tv8K3Qw8oxtlujgy17QAONOzg0YC7in0j3y2qXgiUc48RLGFm6BeMoc_tK-DS0Ya3zp_pTIrYLbSUUXpnXvuR-RLCCIKB6y5cCvQTsZ_PDSoLia_khr4vOF5Uu5x98e5SiPWrshv2xSncePfPRi9WcfREfmxOYRABB_VSEPNhhI_xh7OSF/w500/ai.png",
-        "Title": "Researchers Warn of Privilege Escalation Risks in Google's Vertex AI ML Platform",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 18, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/bitfinex-hacker-gets-5-years-for-10-billion-bitcoin-heist/",
         "Img_URL": "https://media.wired.com/photos/673771b3001830e36802c13c/3:2/w_1280%2Cc_limit/sec-roundup-1633746142.jpg",
         "Title": "Bitfinex Hacker Gets 5 Years for $10 Billion Bitcoin Heist",
@@ -91,16 +91,16 @@
         "Timestamp": "Nov 16, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/master-certificate-management-join-this.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd0DUk3x9-9hc7NZE4JlAHvEKG2OL0vi3vJ31OGIY5pqSb9zwvCi_9powrZUqh9PPhNTgrvKUsUQTecSFuAljvV65Tb_WYeV7PsDiAcN3hPHA75b-55go-xIkK84Z4OKYdzTlqFlUpY8CbukTpgQ0ppTlfKNpolC9oWOcC4NxXkhdOKIQP93_5wYIG744/w500/ssl.png",
-        "Title": "Live Webinar: Dive Deep into Crypto Agility and Certificate Management",
+        "Link": "https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0raaJxiCeOfCZIKsvnNTKbQkBpSuvUE0GhHDiHqSXBTh46dkAI13kRy-m8oK5_CnTyDRp8SvtvlhZokIB_z9wLU9MujJPlxkSN0zVzLK8XbhToXLIp0PMsifegY5GlNtLFGJWzYqDOFOy1aVyXErp9NTig3EYzO0_lu_eWRO2Ah7RDQ4eT5guDbyp8VQH/w500/iranian-hackers.png",
+        "Title": "Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations",
         "Source": "The Hacker News",
         "Timestamp": "Nov 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZRZNW4Cka8usveAEJBq27NNJ5_kg-EoSuM2WySJi5M_mW9tx8rPX8tJ1qSPJIEGoHP68dozTMwx4ur_RCE0GtqPbafhc9tDx6uW6ktMBORzAm1hXNGLZ1O3oUOLApS6t2_nJldFN-eJwWDaVd0WKBV7mHko1_UtG7DHE_URf-YLkZ5o6wj5pfvJBMkon/w500/hacking.png",
-        "Title": "Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia",
+        "Link": "https://thehackernews.com/2024/11/researchers-warn-of-privilege.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7ldlbkeT1_Tv8K3Qw8oxtlujgy17QAONOzg0YC7in0j3y2qXgiUc48RLGFm6BeMoc_tK-DS0Ya3zp_pTIrYLbSUUXpnXvuR-RLCCIKB6y5cCvQTsZ_PDSoLia_khr4vOF5Uu5x98e5SiPWrshv2xSncePfPRi9WcfREfmxOYRABB_VSEPNhhI_xh7OSF/w500/ai.png",
+        "Title": "Researchers Warn of Privilege Escalation Risks in Google's Vertex AI ML Platform",
         "Source": "The Hacker News",
         "Timestamp": "Nov 15, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Nov 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJzDHyUSl0rwbhHdJJhliB49TEylkX0-Gux4fhK3U8dtQQbzMM86fAALWyU7106EKQnfjQ5FMv_LrGbSE9ijqK2Vov7P9j_yYqUHiNOr4FKqOuxjbYugsz8dD0K5EdP-uLiOzLwBM8TVNHhk0OM7KFvWw89Uk4llznLTumISEOuBJh5iudlwt2PD_TJg/w500/entro.png",
-        "Title": "How AI Is Transforming IAM and Identity Security",
+        "Link": "https://thehackernews.com/2024/11/master-certificate-management-join-this.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd0DUk3x9-9hc7NZE4JlAHvEKG2OL0vi3vJ31OGIY5pqSb9zwvCi_9powrZUqh9PPhNTgrvKUsUQTecSFuAljvV65Tb_WYeV7PsDiAcN3hPHA75b-55go-xIkK84Z4OKYdzTlqFlUpY8CbukTpgQ0ppTlfKNpolC9oWOcC4NxXkhdOKIQP93_5wYIG744/w500/ssl.png",
+        "Title": "Live Webinar: Dive Deep into Crypto Agility and Certificate Management",
         "Source": "The Hacker News",
         "Timestamp": "Nov 15, 2024"
     },
@@ -122,6 +122,20 @@
         "Link": "https://thehackernews.uk/threat-detection-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
         "Title": "2024 State of Threat Detection and Response",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZRZNW4Cka8usveAEJBq27NNJ5_kg-EoSuM2WySJi5M_mW9tx8rPX8tJ1qSPJIEGoHP68dozTMwx4ur_RCE0GtqPbafhc9tDx6uW6ktMBORzAm1hXNGLZ1O3oUOLApS6t2_nJldFN-eJwWDaVd0WKBV7mHko1_UtG7DHE_URf-YLkZ5o6wj5pfvJBMkon/w500/hacking.png",
+        "Title": "Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 15, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJzDHyUSl0rwbhHdJJhliB49TEylkX0-Gux4fhK3U8dtQQbzMM86fAALWyU7106EKQnfjQ5FMv_LrGbSE9ijqK2Vov7P9j_yYqUHiNOr4FKqOuxjbYugsz8dD0K5EdP-uLiOzLwBM8TVNHhk0OM7KFvWw89Uk4llznLTumISEOuBJh5iudlwt2PD_TJg/w500/entro.png",
+        "Title": "How AI Is Transforming IAM and Identity Security",
         "Source": "The Hacker News",
         "Timestamp": "Nov 15, 2024"
     },
@@ -157,20 +171,6 @@
         "Link": "https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-xqBOky6bwPlgvV9TPWLRDVd2b8KC-o7Z13KxAzjGBs9tIoaHs1mn4ThZbcoTMuZsiLkKgUEcdgoPdSq58erqhF26xdCBT9inGqFIRDHtIk1m1dI5xZLQA5fNfhp3BCTknNsQPya8o4T-QICv7HOf7mgNdGqXseMCzp2K6KZ8EfqyO55ZDVrOCuM2CZA0/w500/scams.png",
         "Title": "Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/5-bcdr-oversights-that-leave-you-exposed-to-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdvqtw6KJ6n9gnTQuJGYxJp2Gnd2As3fKjx-HCOtS2Yf_YZDml-LSsS9-JXMRrW3ruA6uOqOsJoa5smXpOh9Ll8rLsoe8VkQqJ5EM-r4vI5jm7Cx9xs4JjcYpCFa-7bifoLUf2CGYaD2bqvxeQNXBz-k0YN_LZPmsN5kE4ISRB40pAWQKCzMPGyL4RpPI/w500/main.png",
-        "Title": "5 BCDR Oversights That Leave You Exposed to Ransomware",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 15, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/tiktok-pixel-privacy-nightmare-new-case.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGBz3o7lFHD0WBKLKNd0jgqgyBA8qLHkppqsbzM_Sd9aApHQxuPIYcLz4lkW93zsWIlnbmkwzTgoqy_6ikA-7zAGo7kF-0TglckLfeFNsdwrOrvZ8hOW-FWmsrTyOaRtahsvDmiphlVx-OrcqK9S5CgHFKyjBiS38AkEVvQjVEJgDM18CSGNcn2nwQk0/w500/tiktok.png",
-        "Title": "TikTok Pixel Privacy Nightmare: A New Case Study",
         "Source": "The Hacker News",
         "Timestamp": "Nov 15, 2024"
     },
@@ -350,16 +350,16 @@
         "Timestamp": "Oct 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
-        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
-        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
+        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
+        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
+        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
-        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
-        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
+        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
+        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
+        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
@@ -369,13 +369,6 @@
         "Title": "This AI Tool Helped Convict People of Murder. Then Someone Took a Closer Look",
         "Source": "WIRED",
         "Timestamp": "Oct 14, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
-        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
-        "Title": "Pig Butchering Scams Are Going High Tech",
-        "Source": "WIRED",
-        "Timestamp": "Oct 12, 2024"
     },
     {
         "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
@@ -388,6 +381,13 @@
         "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
         "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
         "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Source": "WIRED",
+        "Timestamp": "Oct 12, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
+        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
+        "Title": "Pig Butchering Scams Are Going High Tech",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
