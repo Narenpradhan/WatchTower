@@ -1,20 +1,27 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html?m=1",
+        "Link": "https://krebsonsecurity.com/2024/11/fintech-giant-finastra-investigating-data-breach/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2020/03/finastra.png",
+        "Title": "Fintech Giant Finastra Investigating Data Breach",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_DUv9SDObFUTN0tW5cFtdrma655Ay8TnKgCnpRSwBcAk_OdFaNileC-JK6eD4_7SFohEgapZHeSEqLS1y1OdMkTGt-foC0IjNrEENQ5qhKzamODbt3FKUrNUAeLY5mp7cL0E3JhLC8VsD6iS6UWi5Siws0J87qnVe8r-MJLKX_BWR35bTtMowz2O4iN6P/w500/botnet.png",
         "Title": "Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/hackers-hijack-unsecured-jupyter.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEing-tuErIMAsMsios_6cAX77xjGExiBaeSAs3YnNSyedA6pkyVyikWiYA6pcSLI2yLlnfItzk7A9RGSQWtNIBcDnHjbHv1_kjR9keBsDpC1xlvhyphenhyphen02loFPWdd2zY66eWySJVi7dBbiRLEtBiMkvt3m_nN793Ddz2u4LNhHfxfVkbBw6TrgIq_j9CP1OdjB/w500/streaming.png",
         "Title": "Hackers Hijack Unsecured Jupyter Notebooks to Stream Illegal Sports Broadcasts",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskl87POxIMVBJD4o10VAuIgTyR3Y-MdiZ3kPx4aFO5FR1vfdM01FWPERxbRiidEDO-qr9uOxYkkjBkOKlgg982M3lB0d_XmWW3_RDqXv9CziJQVoCf6iDJEFiITZv7gue5vxWM_vvE8yb9EDhrP14n45cHiFtECNyCkgwvjbOAk6QSyVyq-aTnZ4FDUU/w500/silverfort.png",
         "Title": "Privileged Accounts, Hidden Threats: Why Privileged Access Security Must Be a Top Priority",
         "Source": "The Hacker News",
@@ -28,21 +35,21 @@
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE8xphOWedh16gVwUQlz12GBrZcmTrsitwHU6UUDeoshoSMSKB5W_YTFz7uMY6TiplJwG0CNwYkbIR0Pnwoh0dFtNcZO53yt9IPB8fyLEnVOnOuGzzWztAZ0c8oqmLB22b1iIIRDMEePEChwGsMSj1DNwOzHCXj_2CWaBwwai6Pzzwymh_oMRPN7xnMe7b/w500/locker.png",
         "Title": "New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/chinese-hackers-exploit-t-mobile-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqcjyJmrFD57hhO8h62-lFFxjqrFM6ptzZNgpuW5jBQU10AvbcJbrw3qZVYYtPROP2QE4FvTR2ftvyY1io_gUsWw4mrJ6lr9cSzBJYm6vEXDAPgOowMtJ0ZZh-T-py-_U-gZGljBUo8ElriOdL3T0BhLeQJbk8gKp4MVFZxGwZZw5SnP8uWJspUOBe-hAr/w500/telecom.png",
         "Title": "Chinese Hackers Exploit T-Mobile and Other U.S. Telecoms in Broader Espionage Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/cisa-alert-active-exploitation-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9PMQ4pD-70Yky8rCfAY4JNeP1_n71jcePyQJe2cp9Dd2dv3tDbidsB3GQEc2rV5YmjpkYwOKsr-jaMcINnP0-jKZ023NAR8AXg6-Q1adoLxxwU_vTxUyjDucIJk8KWXmv8OmobE3ActykhvWAdUVL8_tmZYEKxrE8f2O9QayDmnfnS_QraZgJZcMIvxt5/w500/software-flaws.png",
         "Title": "Warning: VMware vCenter and Kemp LoadMaster Flaws Under Active Exploitation",
         "Source": "The Hacker News",
@@ -56,42 +63,42 @@
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2S9Qj3DnsamWqg1eSxR95cvKRpo59Y93_RJs9ql7UwgwRi71Je6A2ApVGkG-_pDLj8Xl9QV9OJaBOlyoY2kwMHBSXiVwg-kZ15gqmIZFhE1JI-9PpppYBIztVjfGD4OUoLs2Q6I3p-L-1Fnfb4r3Npmf09tJO9z2-N6EkcyV5RguGqxfWcBjPQQsNFhyW/w500/malware.png",
         "Title": "New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza Stealers",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/the-problem-of-permissions-and-non-human-identities.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/the-problem-of-permissions-and-non-human-identities.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN_RYNOemOZrhKe-HXIqkTzYqHDAG7u9doGZ0j_IiVtUBytAK49QhAEMnYkLD4ul5XXzwFoH0Opo1BMkAucjwuHKPdfS94jZ3sBVK14CZJ93wOauPrF7Msul35kxD4dHT27mcg1bXCtc9j9iBpWUXIinJkudk4m7ginLfqGBEDpw4TcD9bgLBm5pp-Zs8/w500/git.png",
         "Title": "The Problem of Permissions and Non-Human Identities - Why Remediating Credentials Takes Longer Than You Think",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_18.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats_18.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAwnrCuViuhL6FH4GWN2TPk463nmk-u4bU80a0dLJgrfrtWdn27J1LM_ZWFhW2dRGhCN7L1iEbIZ8nKGW_rJNokyWNHwIHGRvKW3-veIMbJadIOohCgn4_b-uF3LUa9V_DsOThqULxcmZKDpM488R4tjlJiWafR9XZGTMvfL2iJG8_X8gDrM6N9tg-CvA/w500/recap.png",
         "Title": "THN Recap: Top Cybersecurity Threats, Tools, and Practices (Nov 11 - Nov 17)",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/shielded-email-googles-latest-tool-for.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/shielded-email-googles-latest-tool-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9AIm5rKfM3N1GWvQ5LENB8xhHLB3yMtP2556OI9VfT5WtoR3cb_AEP2E-UwjM-tDtvdHm9FPsSLfeoaBz2jyKywylhU4xc_VdFYgklpiwkdXcX49Ydcek3eSmp4nRTKGCPSAKbvlLxV1OwagY-eUtsM9i865KvU3p1H1kMz-KGQxYVQI_S7yusr99RR1D/w500/email.png",
         "Title": "Gmail's New Shielded Email Feature Lets Users Create Aliases for Email Privacy",
         "Source": "The Hacker News",
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGpHsBJ2X3JksvuydN8ePTaUjQV9-tpVThx4-WYPQL5F9KU7-Pu372yZES75_a5QIUHYQY3RFU7VwbntnTucgkwgu4-hZReJsQTaAzmw-YFRgcZT0HluSqDLOyAmD0rumftYJLWXEVJxb8rq_fbGFnCzAWqhK6d3aZbUT0YNcuyoTLulOt1cDyF5m8p9_u/w500/blackfriday.png",
         "Title": "Fake Discount Sites Exploit Black Friday to Hijack Shopper Information",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNjkygRFYtQsIBhNzgdGrxx20YFCu1G1rEQ5p7QJz-d0gUo7uTjn-SpfT-bgwp1KowNUkTx_8NfWbGKxAH1tTUMt8c0saoe9GZsCzCKbaIXzLi5DIlWHfBznBic9W03mRLWXDPgQa9x1zsGFkPfeJHs3Com_kNL_JF70YCiAmstUmpneNkDK6GSxYQyue/w500/whatsapp-exploit.png",
         "Title": "NSO Group Exploited WhatsApp to Install Pegasus Spyware Even After Meta's Lawsuit",
         "Source": "The Hacker News",
@@ -105,7 +112,7 @@
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/urgent-critical-wordpress-plugin.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/urgent-critical-wordpress-plugin.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZBQdEhxta65-Zs9cFuV7E_wckNoelWayN2-U2qzfMiMuN43xCZJGv6ubxUWhLnedf4sU3FDfTwajEqAqmKWthvPHC18dKPRKMyyntofMOR547OU0bASnsLsnJqDkvb7x0PORdo4OV4val_V4KMLnfVaqZzoch1qAiP1-jx4Jx8WrnRqh81P7tw5TyMnNj/w500/wordpress.png",
         "Title": "Urgent: Critical WordPress Plugin Vulnerability Exposes Over 4 Million Sites",
         "Source": "The Hacker News",
@@ -119,49 +126,49 @@
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcwJUfFrUKigX0NuCHrPHqrdr3gc5uz1KOmOF2WhBhKOsoxE2Kz1Gg9J3iuS78kzf9gaKHQ8fgjVD6A73YZpWOWyDxJhyKEV6iCp_IJn2fZp_kQQ0HnqzVrZw_dWLER0Eth5d0ydOPhlVdAVgMvaXoHeXayw6OgJEIP09Yw0XPKOwi02yuRpBbMrOrWwnl/w500/paloaltonetworks-exploit.png",
         "Title": "PAN-OS Firewall Vulnerability Under Active Exploitation \u2013 IoCs and Patch Released",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/warning-deepdata-malware-exploiting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4oSUXW9XivWsSuq2nS5Vy0eqAXRrYFFk4K8l4LENM-mnTP539s4abVsHFiXTPxqgE733f6Zwv4zfnNRPJmnMSeeNiury-45AeAFT9BVRJA54z1EkKHm-ycqOGtjs6-5i6kVnt15ElNhE_Degdrbwzv1mnt6a-ICEwlTBuAEZxVhA1jKv58hONtiYtvJF/w500/lock.png",
         "Title": "Warning: DEEPDATA Malware Exploiting Unpatched Fortinet Flaw to Steal VPN Credentials",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0raaJxiCeOfCZIKsvnNTKbQkBpSuvUE0GhHDiHqSXBTh46dkAI13kRy-m8oK5_CnTyDRp8SvtvlhZokIB_z9wLU9MujJPlxkSN0zVzLK8XbhToXLIp0PMsifegY5GlNtLFGJWzYqDOFOy1aVyXErp9NTig3EYzO0_lu_eWRO2Ah7RDQ4eT5guDbyp8VQH/w500/iranian-hackers.png",
         "Title": "Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/researchers-warn-of-privilege.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/researchers-warn-of-privilege.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7ldlbkeT1_Tv8K3Qw8oxtlujgy17QAONOzg0YC7in0j3y2qXgiUc48RLGFm6BeMoc_tK-DS0Ya3zp_pTIrYLbSUUXpnXvuR-RLCCIKB6y5cCvQTsZ_PDSoLia_khr4vOF5Uu5x98e5SiPWrshv2xSncePfPRi9WcfREfmxOYRABB_VSEPNhhI_xh7OSF/w500/ai.png",
         "Title": "Researchers Warn of Privilege Escalation Risks in Google's Vertex AI ML Platform",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/master-certificate-management-join-this.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/master-certificate-management-join-this.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBd0DUk3x9-9hc7NZE4JlAHvEKG2OL0vi3vJ31OGIY5pqSb9zwvCi_9powrZUqh9PPhNTgrvKUsUQTecSFuAljvV65Tb_WYeV7PsDiAcN3hPHA75b-55go-xIkK84Z4OKYdzTlqFlUpY8CbukTpgQ0ppTlfKNpolC9oWOcC4NxXkhdOKIQP93_5wYIG744/w500/ssl.png",
         "Title": "Live Webinar: Dive Deep into Crypto Agility and Certificate Management",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/vietnamese-hacker-group-deploys-new-pxa.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZRZNW4Cka8usveAEJBq27NNJ5_kg-EoSuM2WySJi5M_mW9tx8rPX8tJ1qSPJIEGoHP68dozTMwx4ur_RCE0GtqPbafhc9tDx6uW6ktMBORzAm1hXNGLZ1O3oUOLApS6t2_nJldFN-eJwWDaVd0WKBV7mHko1_UtG7DHE_URf-YLkZ5o6wj5pfvJBMkon/w500/hacking.png",
         "Title": "Vietnamese Hacker Group Deploys New PXA Stealer Targeting Europe and Asia",
         "Source": "The Hacker News",
         "Timestamp": "Nov 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html?m=1",
+        "Link": "https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJzDHyUSl0rwbhHdJJhliB49TEylkX0-Gux4fhK3U8dtQQbzMM86fAALWyU7106EKQnfjQ5FMv_LrGbSE9ijqK2Vov7P9j_yYqUHiNOr4FKqOuxjbYugsz8dD0K5EdP-uLiOzLwBM8TVNHhk0OM7KFvWw89Uk4llznLTumISEOuBJh5iudlwt2PD_TJg/w500/entro.png",
         "Title": "How AI Is Transforming IAM and Identity Security",
         "Source": "The Hacker News",
@@ -350,16 +357,16 @@
         "Timestamp": "Oct 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
-        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
-        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
+        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
+        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
+        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
-        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
-        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
+        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
+        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
+        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
@@ -371,16 +378,16 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
-        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
-        "Title": "Pig Butchering Scams Are Going High Tech",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/",
+        "Img_URL": "https://media.wired.com/photos/670810a9156458cb15b5e4c2/3:2/w_1280%2Cc_limit/Security_Pig_Butchering_AI_Getty.jpg",
+        "Title": "Pig Butchering Scams Are Going High Tech",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -460,12 +467,5 @@
         "Title": "Bug Left Some Windows PCs Dangerously Unpatched",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 10, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2018/07/sextortion.png",
-        "Title": "Sextortion Scams Now Include Photos of Your Home",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Sep 03, 2024"
     }
 ]
