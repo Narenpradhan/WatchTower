@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/08/amitaico.png",
+        "Title": "Feds Charge Five Men in \u2018Scattered Spider\u2019 Roundup",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 21, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/warning-over-2000-palo-alto-networks.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXv44zhmUswskZlIcFC1E_N0ADtP3J5s__qk_PqPsCmAR4a8X0WNBXIU9u0XAxxOylPEY8wH_ohVBWzz4KlgbDVI21W6P_Y0juTzOYE5pX4XNWrhR-6P13ceozwxfo9Vrytlks8JMm76jV9JVqaiP5uxCiKPvFEJm8QAoPpABD6gNayh5HGjUWXdsZnVKs/w500/firewall.png",
         "Title": "Warning: Over 2,000 Palo Alto Networks Devices Hacked in Ongoing Attack Campaign",
@@ -224,16 +231,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -364,16 +371,16 @@
         "Timestamp": "Oct 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
-        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
-        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
+        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
+        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
+        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
-        "Img_URL": "https://media.wired.com/photos/670d4c81a9e87b76383606e8/3:2/w_1280%2Cc_limit/zoom-deepfakes-gear.jpg",
-        "Title": "Real-Time Video Deepfake Scams Are Here. This Tool Attempts to Zap Them",
+        "Link": "https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/",
+        "Img_URL": "https://media.wired.com/photos/66037e388cf5a938af0153e6/3:2/w_1280%2Cc_limit/FBI-Sudan-Hacker-Group-Israel-Security-1482460958.jpg",
+        "Title": "Hacker Charged With Seeking to Kill Using Cyberattacks on Hospitals",
         "Source": "WIRED",
         "Timestamp": "Oct 15, 2024"
     },
@@ -385,16 +392,16 @@
         "Timestamp": "Oct 14, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
-        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
-        "Title": "The War on Passwords Is One Step Closer to Being Over",
+        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
+        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
+        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/pig-butchering-scams-go-high-tech/",
-        "Img_URL": "https://media.wired.com/photos/67096b5ebc7ab84ca85be1de/3:2/w_1280%2Cc_limit/Security_FBI_Coin_GettyImages-505252961.jpg",
-        "Title": "The FBI Made a Crypto Coin Just to Catch Fraudsters",
+        "Link": "https://www.wired.com/story/fbi-cryptocurrency-pump-and-dump/",
+        "Img_URL": "https://media.wired.com/photos/6709996bc447831581532846/3:2/w_1280%2Cc_limit/security_passwords_passkeys.jpg",
+        "Title": "The War on Passwords Is One Step Closer to Being Over",
         "Source": "WIRED",
         "Timestamp": "Oct 12, 2024"
     },
@@ -460,12 +467,5 @@
         "Title": "The Dark Nexus Between Harm Groups and \u2018The Com\u2019",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 13, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
-        "Title": "Bug Left Some Windows PCs Dangerously Unpatched",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Sep 10, 2024"
     }
 ]
