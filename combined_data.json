@@ -7,6 +7,27 @@
         "Timestamp": "Nov 22, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHKYfaX7YhJ1lFTBkdMohXO3KQvEtYve8QGBfjXb84XruIIF-kIZRGBmzN0igeSNlJ_iUDShaGJRPeSPvbsdRLmLL2eEQG3jKR6t0d-fWBPL0eZpV7D3vLs5PPRqY6je6DN4N883QpbHCRqh105I0pQAZIGaU-ltTQ-jVtrcmYF03Z1cMooQbRTByYhXWY/w500/malware-attack.png",
+        "Title": "APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZ-PsIxqTdOZ1c1qKMjWX2BCMvZU3c9E0AiPJLVxPELZ2RJksrg1LpJiPODAFVw8CFReS34GTiOn6eSwl2qoYIVSdBinbEayEwygmTjXeUbXc59kxbftIjc8A-kf1Uo0_ME5okEWjDWtHDhN9UHY6G7R7xCvgIfZ1bQk9oSi07V7E6n-RFl4S7Phu1Dod/w500/hacked.png",
+        "Title": "China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 22, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/threat-detection-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
+        "Title": "2024 State of Threat Detection and Response",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 22, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/11/the-importance-of%20having-a-google-workspace-backup-solution.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglOdCHSMyM_XPxwya0Yk9fvfbVZ7u97FZ2cwZLMCRlw2o2EZ5H4_-EzIDQ52CWFR8Wg7wmgz_cwKq3N_rtUlGU4PeQ1EAcCXYzbIvGLxp9t_qNQ0pyQIQLiaJ30JLDaEpbJUi081Tkn_l6OKHxQthlZZLqEw2omSJ6zarKfOlgkyHvz4PojwvP9DHDwjA/w500/main.png",
         "Title": "Unlocking Google Workspace Security: Are You Doing Enough to Protect Your Data?",
@@ -21,16 +42,16 @@
         "Timestamp": "Nov 22, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/threat-detection-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
-        "Title": "2024 State of Threat Detection and Response",
+        "Link": "https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/w500/code.png",
+        "Title": "PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries",
         "Source": "The Hacker News",
         "Timestamp": "Nov 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/pypi-attack-chatgpt-claude.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIzfbdPBufv0m7DyPt8LB2DXujgsQ8jhPvljd47O3dtQQQC9bdU4hEgz0H-jkBdkEz0OtSq1X25TAmPmZwZzSPc-c5NVeJZW2J77T2UpolvWzkQ46kP1-6DlLxGWp_vIOJtbEUCUPRjY_q633U8GGAKXGD8HwjDQX8HjtVNQJiddz7mT6p6VJZQl1Ehymp/w500/code.png",
-        "Title": "PyPI Attack: ChatGPT, Claude Impersonators Deliver JarkaStealer via Python Libraries",
+        "Link": "https://thehackernews.com/2024/11/5-bcdr-oversights-that-leave-you-exposed-to-ransomware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdvqtw6KJ6n9gnTQuJGYxJp2Gnd2As3fKjx-HCOtS2Yf_YZDml-LSsS9-JXMRrW3ruA6uOqOsJoa5smXpOh9Ll8rLsoe8VkQqJ5EM-r4vI5jm7Cx9xs4JjcYpCFa-7bifoLUf2CGYaD2bqvxeQNXBz-k0YN_LZPmsN5kE4ISRB40pAWQKCzMPGyL4RpPI/w500/main.png",
+        "Title": "5 BCDR Oversights That Leave You Exposed to Ransomware",
         "Source": "The Hacker News",
         "Timestamp": "Nov 22, 2024"
     },
@@ -49,13 +70,6 @@
         "Timestamp": "Nov 22, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/5-bcdr-oversights-that-leave-you-exposed-to-ransomware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdvqtw6KJ6n9gnTQuJGYxJp2Gnd2As3fKjx-HCOtS2Yf_YZDml-LSsS9-JXMRrW3ruA6uOqOsJoa5smXpOh9Ll8rLsoe8VkQqJ5EM-r4vI5jm7Cx9xs4JjcYpCFa-7bifoLUf2CGYaD2bqvxeQNXBz-k0YN_LZPmsN5kE4ISRB40pAWQKCzMPGyL4RpPI/w500/main.png",
-        "Title": "5 BCDR Oversights That Leave You Exposed to Ransomware",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 22, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/11/10-most-impactful-pam-use-cases-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjryzSMBiWQRrPmeCmLL944bZhZA3OT3BSoK4WlPEnYve39h4P_5kOur7hZw9Y-YofNHbh5Uci1cLoH087UrdxnN0uarwHT2tyPOm7tRMnXsQghHSuhgni-agc_0geR7zj-LHejOTiMMAlaCv0faFVeSaiLqUflm5qiICPK3xtANYwgWR62jFGinEI7MZY/w500/pam.png",
         "Title": "10 Most Impactful PAM Use Cases for Enhancing Organizational Security",
@@ -66,20 +80,6 @@
         "Link": "https://thehackernews.com/2024/11/north-korean-front-companies.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZPhMDl7Pn2Pmi3UOiWQUiHZbyTSjv3YsGC8DF16Ae4pgQHcO9KwMM4OWbb-rEqHpAVscG3YshQtLpOZyqiDTkOZGP2_A7MODzXsr36ExGM_4zZwLDQl-VIKvXJelLDhaxE29fn1kVMsd8KU5Ea4L1BzBNiVatRRW-wXDZELc1B32JZlivGtZYddK90Rdd/w500/korean-hackers.png",
         "Title": "North Korean Front Companies Impersonate U.S. IT Firms to Fund Missile Programs",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/cyber-story-time-boy-who-cried-secure.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRAINlv9vlVheY9hpFbDMOg6zInMZanuLRxb0GDmLAhkBUC3bGcnltkWqiaDJuxEEwvfMD3-G5uplcnVuVdquF9kD4UvvMnIZqyTDMy_yCYP4b9XqNsMic4Jo0Zi023Hrqpx83MpdBaNxmzuSaAESSJm-YZhpfhr8cz7P7k7HlDpXUKF3Vmpm88Xgvwnk/w500/penter.png",
-        "Title": "Cyber Story Time: The Boy Who Cried \"Secure!\"",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 22, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhy88TPXrjW9ZySl4xMaJZp5U31fu8QQp4lDSiqhysMnjf5C05qILmUE0t07r4jwDau5Flp5GyOlSRpFaLDsiUDUw6XPwQGHK-K5hr66sUUsAHq5eCv_zDBM5vsjCKR3odhn2kQkosMsS10oU6Acutydk4H8AOIPX3I4GwEWN7O-ifliXT0aubcwAwSAAn/w500/ics.png",
-        "Title": "Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online",
         "Source": "The Hacker News",
         "Timestamp": "Nov 22, 2024"
     },
@@ -98,16 +98,16 @@
         "Timestamp": "Nov 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/5-scattered-spider-gang-members.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLn06Yw1ai-XZ62KRvYTFCbgfLLMchagR40HWt_NftemYAGWBUS0gU1DElnzMX9IeNn8bUBVnnCuikObFFzsOTqouGt0zsYaBCWWZ5S6E9lHQwKSte8okXBY-U9L1bevd7CuEQYY_Xa-WOKOXpNqxSXeevoM_gpX3jmXlB7zl3r0HOcJwbKfYwdKHtY7A/w500/hackers-arrested.png",
-        "Title": "5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme",
+        "Link": "https://thehackernews.com/2024/11/cyber-story-time-boy-who-cried-secure.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRAINlv9vlVheY9hpFbDMOg6zInMZanuLRxb0GDmLAhkBUC3bGcnltkWqiaDJuxEEwvfMD3-G5uplcnVuVdquF9kD4UvvMnIZqyTDMy_yCYP4b9XqNsMic4Jo0Zi023Hrqpx83MpdBaNxmzuSaAESSJm-YZhpfhr8cz7P7k7HlDpXUKF3Vmpm88Xgvwnk/w500/penter.png",
+        "Title": "Cyber Story Time: The Boy Who Cried \"Secure!\"",
         "Source": "The Hacker News",
         "Timestamp": "Nov 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrOnZfHrZ1tgfCsIFF02hSuNi9dScN8SMCYNBC-6HeeQYJjlQHWwwUB1vdFKG-BgXgkr4Ss9PF3qOxgONjdiUN4FUs_9MNN4NJlOXZSkmVnb7FtQnefzHJnypVl0jUYfRlKbzKkGk-3FvO7PlDaX0hyphenhyphen-9ltzFug5x-rxJcvgnp2rhbX_Y40FxYiYXdtSJ/w500/ai-tool.png",
-        "Title": "Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects",
+        "Link": "https://thehackernews.com/2024/11/over-145000-industrial-control-systems.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhy88TPXrjW9ZySl4xMaJZp5U31fu8QQp4lDSiqhysMnjf5C05qILmUE0t07r4jwDau5Flp5GyOlSRpFaLDsiUDUw6XPwQGHK-K5hr66sUUsAHq5eCv_zDBM5vsjCKR3odhn2kQkosMsS10oU6Acutydk4H8AOIPX3I4GwEWN7O-ifliXT0aubcwAwSAAn/w500/ics.png",
+        "Title": "Over 145,000 Industrial Control Systems Across 175 Countries Found Exposed Online",
         "Source": "The Hacker News",
         "Timestamp": "Nov 21, 2024"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Nov 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTV8HrsjCYmK_dOhYib2ExXpEXmnBUbveLeinJTK9SybetOwRVTgvIstIVqCeEHFdns9VgBv7_IE1Sk3Pqr12SogecPKLC_nrweoeWUBNmxAaC3RslZkHoJzH5-yDTdP2WiNGKgZNQL6x22VymELAAEHoagzpfxIFOkePU-rku7CgwvSrXL75dYGs3lnA/w500/facebook.png",
-        "Title": "NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data",
+        "Link": "https://thehackernews.com/2024/11/5-scattered-spider-gang-members.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLn06Yw1ai-XZ62KRvYTFCbgfLLMchagR40HWt_NftemYAGWBUS0gU1DElnzMX9IeNn8bUBVnnCuikObFFzsOTqouGt0zsYaBCWWZ5S6E9lHQwKSte8okXBY-U9L1bevd7CuEQYY_Xa-WOKOXpNqxSXeevoM_gpX3jmXlB7zl3r0HOcJwbKfYwdKHtY7A/w500/hackers-arrested.png",
+        "Title": "5 Scattered Spider Gang Members Indicted in Multi-Million Dollar Cybercrime Scheme",
         "Source": "The Hacker News",
         "Timestamp": "Nov 21, 2024"
     },
@@ -129,6 +129,20 @@
         "Link": "https://thehackernews.uk/threat-detection-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbSMz0KKuTzUkfRTo6MHmJ5L8Doajw3Li98lIAC5LGmhAJoxy7xOfvtlynFjct49Qt1MonAOd2kXiocjgkLSPipSffARicmfM2Eqb0sfu2WUExO2Y29TeUOFLWGov6kD_uVFpSIeZL0uugX8V7htVlTmE3IQfpAGG1SzJToFPQeQn8WrlE4xwmEYUTz_7/s728-e100/report.jpg",
         "Title": "2024 State of Threat Detection and Response",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/googles-ai-powered-oss-fuzz-tool-finds.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrOnZfHrZ1tgfCsIFF02hSuNi9dScN8SMCYNBC-6HeeQYJjlQHWwwUB1vdFKG-BgXgkr4Ss9PF3qOxgONjdiUN4FUs_9MNN4NJlOXZSkmVnb7FtQnefzHJnypVl0jUYfRlKbzKkGk-3FvO7PlDaX0hyphenhyphen-9ltzFug5x-rxJcvgnp2rhbX_Y40FxYiYXdtSJ/w500/ai-tool.png",
+        "Title": "Google's AI-Powered OSS-Fuzz Tool Finds 26 Vulnerabilities in Open-Source Projects",
+        "Source": "The Hacker News",
+        "Timestamp": "Nov 21, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/nodestealer-malware-targets-facebook-ad.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTV8HrsjCYmK_dOhYib2ExXpEXmnBUbveLeinJTK9SybetOwRVTgvIstIVqCeEHFdns9VgBv7_IE1Sk3Pqr12SogecPKLC_nrweoeWUBNmxAaC3RslZkHoJzH5-yDTdP2WiNGKgZNQL6x22VymELAAEHoagzpfxIFOkePU-rku7CgwvSrXL75dYGs3lnA/w500/facebook.png",
+        "Title": "NodeStealer Malware Targets Facebook Ad Accounts, Harvesting Credit Card Data",
         "Source": "The Hacker News",
         "Timestamp": "Nov 21, 2024"
     },
@@ -164,20 +178,6 @@
         "Link": "https://thehackernews.com/2024/11/china-backed-hackers-leverage-sigtran.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1_A6A_kZ_Y1erxy64FvDxGHfrjx5qK55BKnuKq9aU9eCPY_CqFK15LH6iCY4Q5WgRvWheEtn-3WgaAdWP6Y2_8w8_lbEZT3APIwaFf4mUowEePU6Mq7C5g9w0_8AzcB8xvmqsg67oFcAUyKdR7pBBHC2NxldwrGmS4Xuw7MmzJJx0ChmRlTMKPEBwuf5G/w500/telecom.png",
         "Title": "China-Backed Hackers Leverage SIGTRAN, GSM Protocols to Infiltrate Telecom Networks",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/apple-releases-urgent-updates-to-patch.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD5XLqCBlMlu8dFR_aRirjkb36_6qyPuVt9k8sWVCOhAmpUDSOkaZBL5xpMIwhLpofolfB4rMs0Ob8eR8WmCZa9WkMdi7EyYwqyOG15Liq-DYmbaEkAEtCJcj0PDbn5d2luTjiVK4nx8DBVcO-CwpGWS6q0lZ_Plg2paBqC_FiID2Ikm5TC6qLEqxGonmO/w500/apple-pdates.png",
-        "Title": "Apple Releases Urgent Updates to Patch Actively Exploited Zero-Day Vulnerabilities",
-        "Source": "The Hacker News",
-        "Timestamp": "Nov 21, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/oracle-warns-of-agile-plm-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOMxHWNiiM8_TqUjM0gc_w-ZNGdrvdpQQGCJBC9GgoSqMTPYlDx_d1weUlp_l5N5NojcU_ZxaK2OU5MS_e7y-KPlF3FeK5hZUgkfbIlFOXPqcmuiaOGlchVrktVsMpAsPoyxksSnmwa6yFUNAp_qCpXH23AotBQdkU-9_2hJ70ezhm5vhhIstGDx4kQMdC/w500/oracle.png",
-        "Title": "Oracle Warns of Agile PLM Vulnerability Currently Under Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Nov 21, 2024"
     },
@@ -238,16 +238,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -287,16 +287,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
