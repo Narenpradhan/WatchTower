@@ -1,65 +1,107 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCY23PEAH9dtcI8bTqcR-D8CiNPAHOTqmX-FOG4TcttGlVtLEjNm7eSwBOTLjQ3PQ1YWMr8edIJ4dXJ-a5-MUJB7mT5t7irJg5zxwg5ufWQV1kOqbgxtYC2MlAcpRBeaqVPuaX-8W52JwFwnFcjtUc1mN7logWPhbqTACwtv0IZdOabPACxAkKdckbuUlK/w500/hacking.png",
-        "Title": "Russia-Linked Turla Exploits Pakistani Hackers' Servers to Target Afghan and Indian Entities",
+        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
+        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ylOHyFK7gLyQLMQzI8SPijSHjQZK_Rt09kc-H0Hyi0Ujygwt5qtaUwYxuoIQ_KkLtGE49d2wHtney56Q2iEwpeTz8saa-23y9ix26ToSrh0__ni9a0SlmRdFyUddLupy-DQSFTev2ut-ao2etuigeNSy-G5NQ0ng4Mtwhp1Wv0A6xKQkLmSzfNDEtHuE/w500/blog.png",
-        "Title": "Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown",
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-4-month-cyberattack.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG8n5LOH9EpZ2WInLskY3CSsM98nn-RxEVVX4pVGHpAJlOqUj7_REBEYT4IVW7KkEuKC8FzQvRLawjlseV_OoZgKYssHnuO64KS_3WthD2PxwAoL6tdlPzMtN7If9HDIHrJISdQ9DGUF74iEqf22qD6FvluAjO17JVDdj5iP79LTj3iPfiyjGYOfW_usSQ/w500/china.png",
+        "Title": "Researchers Uncover 4-Month Cyberattack on U.S. Firm Linked to Chinese Hackers",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY2komTarIrRJ9W1moyR63Qxa_1R0fbq49YMGeLOHxVLtV0bprnXWP9rdh8vB_vGS2Df8CuQyfIidHvuDCHNwTQeS0a-5ubBIDto40MDt_3MYvaDKnIpl0si8bkCwVtQIFqMaV0QvZirCkIM4dC2bOep93VQgvwZv04WrBXWL7jTV_zyMYG9YDzFX6OmE/w500/syteca.png",
-        "Title": "7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments",
+        "Link": "https://thehackernews.com/2024/12/anel-and-noopdoor-backdoors-weaponized.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFZpRDzT9Fp41KYZ5kyu1SoGxEkWAXwqO6USnDJUGWF7hJY9ERy_sXEoHUkxz0zTbbmtk7RiIRzr1tJujRLZeD5yybZLQS6jh0PpjffhUUy6ma8Q8wZKo-edr7W7j_Z7dgOGEPEV9mdml3bJ6t4uhhBFNk_nTHxx62i6nyvdCTC24htfnMhZwmd-ez0ABH/w500/main.png",
+        "Title": "ANEL and NOOPDOOR Backdoors Weaponized in New MirrorFace Campaign Against Japan",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
         "Link": "https://thehackernews.uk/identity-security-report-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbU-wMU5javTjPH13tOEF6_lRHcSebE6y4Wtq9bUe-ltOhrn2CA1i9ts7MpiiIMmd4ow0PdlAaSto2wyMDiz3onmFYGwA7c4TWYMYPt8iV12OwVqwFLohhaANjLtvh4Tl0ObYFYtj9hDoYr1tbCxb-8pUhZxTSttSDZnLLiimFijj73ygXromtUT2lT2Hx/s728-e100/newsfeed.jpg",
         "Title": "Creating, Managing and Securing Non-Human Identities",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/how-to-plan-new-and-improved-password.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjycLSqZ1iFtHdxFqsOr8EGd5W3D0kHnn5rLyLifKgk7zRNoqBIy8sG4QLz9xDDzpOTLsOVmHheDhZWuAlDabZ4sBVL7PUsLgSe6Td4HIriXwvIsSEIBb-YzqMcBsNpTK4cDZrbGUbwEE-Sq_U4ENvF2sBh6fUh21FAArEd9HaRjN1vXZPiJIbkTlcA7mU/w500/passwords.png",
-        "Title": "How to Plan a New (and Improved!) Password Policy for Real-World Security Challenges",
+        "Link": "https://thehackernews.com/2024/12/nca-busts-russian-crypto-networks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6oBwHVgLNyAqZkpbigsDoSXCuJ5jPNSECcm3t0TaAL9cYLpUwBX3p9qaXxnJSHmH3QGkPJbswKvezzB8cTZKx0BRonTsE-lGC5z-mh7VJKfQVfLVI5QKKmvXxvI21UiE2uwIOhFGjrVJjcME4fCJCNlVjqtGXIczzYZbSXj7K0sr3KjE0SJZpIuZMAaf/w500/nca.png",
+        "Title": "NCA Busts Russian Crypto Networks Laundering Funds and Evading Sanctions",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/researchers-uncover-backdoor-in-solanas.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtKLyHiBDWbyvczrNBcDGq8vWK2Koy0CS6t04qF3Z0UIK9UfvpJiAfPuP2-WK7lxjOq-EFlzJIWrZoB6biIhADrjutp84GtW0Mv6t4aGx2eylCg_NCaxDGTF5ANnGEvFL_N7fv6GkPA8PwXqlzSvuhck64LSBs9QsJPSm5Ok5tCJhyphenhyphenODrx50Xf415-GMa/w500/bacdoor.png",
-        "Title": "Researchers Uncover Backdoor in Solana's Popular Web3.js npm Library",
+        "Link": "https://thehackernews.com/2024/12/cisa-warns-of-active-exploitation-of.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw7jcdk7XehytSmI9Jdiijh-_MOmZ_13_ipTxXdoJ0DCmSSkXK2sJgrPEeoC9BelDKFUWGgiT4QSXgQ2LxX4smr-c7F4A-_mH9krjGxV04O9xENew-lhQ_JpYQ3cpeHo4IaJ055WQSDL2AMuvAgC9jcNvYBW23eNeLlmFB90a_utbmoSmlDFg1b9hif5Jn/w500/warning-cisa.png",
+        "Title": "CISA Warns of Active Exploitation of Flaws in Zyxel, ProjectSend, and CyberPanel",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-F44KdSxLCFaj3waB7llaGkUjFAsTWSMHb_vV7554Xul3apjNd1aKfCqpTbEzTrJeDOAVMEEJCd_NPXGeUxiKMB9YpX3JSPgTjciiC3vd71pb97YczN9CeiFIszTP5oSLnhAkZY3Tal7jJ3LqeqmsoEuGA2C2H9W4_PeK7b4Wyrvi1BAs6tZe-mOVtlRl/w500/telecom.png",
-        "Title": "Joint Advisory Warns of PRC-Backed Cyber Espionage Targeting Telecom Networks",
+        "Link": "https://thehackernews.com/2024/12/russia-linked-turla-exploits-pakistani.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCY23PEAH9dtcI8bTqcR-D8CiNPAHOTqmX-FOG4TcttGlVtLEjNm7eSwBOTLjQ3PQ1YWMr8edIJ4dXJ-a5-MUJB7mT5t7irJg5zxwg5ufWQV1kOqbgxtYC2MlAcpRBeaqVPuaX-8W52JwFwnFcjtUc1mN7logWPhbqTACwtv0IZdOabPACxAkKdckbuUlK/w500/hacking.png",
+        "Title": "Russia-Linked Turla Exploits Pakistani Hackers' Servers to Target Afghan and Indian Entities",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/europol-dismantles-criminal-messaging.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ylOHyFK7gLyQLMQzI8SPijSHjQZK_Rt09kc-H0Hyi0Ujygwt5qtaUwYxuoIQ_KkLtGE49d2wHtney56Q2iEwpeTz8saa-23y9ix26ToSrh0__ni9a0SlmRdFyUddLupy-DQSFTev2ut-ao2etuigeNSy-G5NQ0ng4Mtwhp1Wv0A6xKQkLmSzfNDEtHuE/w500/blog.png",
+        "Title": "Europol Dismantles Criminal Messaging Service MATRIX in Major Global Takedown",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoGgzo88ukrMwt-zZVyghhUZGAO3SrZVGzK8tCqUmII0J7HjlRnhupHMP8-los0Xwd29N4yBTs19wX5KoaLLpK98gHfvk8LPv-vypoHruHGVL0xa2JyA3o6_5mJ2YMWQ8Xe4wpNkwUy4mkPcz25tuk9E-t6qPGBx15d0NmCNTrHLcpKnkyVmZ12peSgvk/w500/serverless.png",
         "Title": "The Future of Serverless Security in 2025: From Logs to Runtime Protection",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 04, 2024"
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY2komTarIrRJ9W1moyR63Qxa_1R0fbq49YMGeLOHxVLtV0bprnXWP9rdh8vB_vGS2Df8CuQyfIidHvuDCHNwTQeS0a-5ubBIDto40MDt_3MYvaDKnIpl0si8bkCwVtQIFqMaV0QvZirCkIM4dC2bOep93VQgvwZv04WrBXWL7jTV_zyMYG9YDzFX6OmE/w500/syteca.png",
+        "Title": "7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/how-to-plan-new-and-improved-password.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjycLSqZ1iFtHdxFqsOr8EGd5W3D0kHnn5rLyLifKgk7zRNoqBIy8sG4QLz9xDDzpOTLsOVmHheDhZWuAlDabZ4sBVL7PUsLgSe6Td4HIriXwvIsSEIBb-YzqMcBsNpTK4cDZrbGUbwEE-Sq_U4ENvF2sBh6fUh21FAArEd9HaRjN1vXZPiJIbkTlcA7mU/w500/passwords.png",
+        "Title": "How to Plan a New (and Improved!) Password Policy for Real-World Security Challenges",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-backdoor-in-solanas.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtKLyHiBDWbyvczrNBcDGq8vWK2Koy0CS6t04qF3Z0UIK9UfvpJiAfPuP2-WK7lxjOq-EFlzJIWrZoB6biIhADrjutp84GtW0Mv6t4aGx2eylCg_NCaxDGTF5ANnGEvFL_N7fv6GkPA8PwXqlzSvuhck64LSBs9QsJPSm5Ok5tCJhyphenhyphenODrx50Xf415-GMa/w500/bacdoor.png",
+        "Title": "Researchers Uncover Backdoor in Solana's Popular Web3.js npm Library",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/joint-advisory-warns-of-prc-backed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-F44KdSxLCFaj3waB7llaGkUjFAsTWSMHb_vV7554Xul3apjNd1aKfCqpTbEzTrJeDOAVMEEJCd_NPXGeUxiKMB9YpX3JSPgTjciiC3vd71pb97YczN9CeiFIszTP5oSLnhAkZY3Tal7jJ3LqeqmsoEuGA2C2H9W4_PeK7b4Wyrvi1BAs6tZe-mOVtlRl/w500/telecom.png",
+        "Title": "Joint Advisory Warns of PRC-Backed Cyber Espionage Targeting Telecom Networks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/veeam-issues-patch-for-critical-rce.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA26wwUTgn8kerN-GuE63s5BgtPPRNNEe2xH0F7JKfd3Fwp03JxsB8mxi81SjnTYnfQZMPYh-BfMwwS4ZjxLCjJzzAypB7xianlbD0rx7o8DPKkWzOjDho_OLXL3-CE1dbtk47lsz19N2aTNAysj_s-_lz2IXoNy8swsv2ICBLLymStXnHHy6pLhwDsFq/w500/veeam.jpg",
         "Title": "Veeam Issues Patch for Critical RCE Vulnerability in Service Provider Console",
         "Source": "The Hacker News",
+        "Timestamp": "Dec 05, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/05/fbiwanted-matveev.png",
+        "Title": "U.S. Offered $10M for Hacker Just Arrested by Russia",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Dec 04, 2024"
     },
     {
@@ -77,9 +119,23 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/11/the-future-of-serverless-security-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoGgzo88ukrMwt-zZVyghhUZGAO3SrZVGzK8tCqUmII0J7HjlRnhupHMP8-los0Xwd29N4yBTs19wX5KoaLLpK98gHfvk8LPv-vypoHruHGVL0xa2JyA3o6_5mJ2YMWQ8Xe4wpNkwUy4mkPcz25tuk9E-t6qPGBx15d0NmCNTrHLcpKnkyVmZ12peSgvk/w500/serverless.png",
+        "Title": "The Future of Serverless Security in 2025: From Logs to Runtime Protection",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd4NqjzePuCXa-QmDbyGkW4PyFXFEO-6JnB_ZV1trYN5AX7hiGm2gw4ONBhxUKjS23nKN3-Mb6l0Lvx_hCEaQs28C-4eleKo2uW2JsrI25eoWBhFmbxdQXvaJ6EEFNmcWCJTtu6YFHkGFxSivfKX6vDIFQ0KhdAeVeRU5ImxlYLMAUeSXFO6DrH5Jv2PLd/w500/cisco.png",
         "Title": "Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/identity-security-report-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbU-wMU5javTjPH13tOEF6_lRHcSebE6y4Wtq9bUe-ltOhrn2CA1i9ts7MpiiIMmd4ow0PdlAaSto2wyMDiz3onmFYGwA7c4TWYMYPt8iV12OwVqwFLohhaANjLtvh4Tl0ObYFYtj9hDoYr1tbCxb-8pUhZxTSttSDZnLLiimFijj73ygXromtUT2lT2Hx/s728-e100/newsfeed.jpg",
+        "Title": "Creating, Managing and Securing Non-Human Identities",
         "Source": "The Hacker News",
         "Timestamp": "Dec 04, 2024"
     },
@@ -94,6 +150,55 @@
         "Link": "https://thehackernews.com/2024/12/north-korean-kimsuky-hackers-use.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6v_XsLyjjHXSkuNTIwBbPcAf4i04Kv1Z0yWecayNVTKAzfwRogJ3ZGPhYq2aVaWwGQgT-rL_ig8lCB5EkIw5CTKVnexeQAPJzXkFlAoOF-P1EKmzI8YZNxmlAQWuORy3VqQtCJNyZOhqxJXorgzfoNrTowtqypaoTeiaNyFETyElbdXaFaQ44OpkoXyAi/w500/north-korean-hackers.png",
         "Title": "North Korean Kimsuky Hackers Use Russian Email Addresses for Credential Theft Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijwTYvrTy-wRJMNdlnDR8sjf5GsmLg7XgmDl5qe7WqwwBHQoLzHN0yviyqbjw2N64Ks-mLNgwi6YMifcE_l8Y5puNqcNT2X7Y_pPfurBrb3I4VBA5JZbAXdU9p_2Wi6xCYNEfupc0JbmL8stSwNNNoTNdLiQmexJW7tZrhkWide3AoJu1Moy2oZJmSHIXg/w500/malware.png",
+        "Title": "Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLp4JQweb99uJeBdXWmgsy-GKn01cSvXoUPX_PWyoylSUuCo_TE5tHCPxJ430jPk1D1mWMjOO7GM8PcX9HUKGdtXBbo0sZPUnuzrrDZkVlM-ACUajSHZQzrJONF_ZO1FKb8VVi7NcKn0TMYQWYddXo9pLu21JW9fIb9-EpXFBCJbrG8bEf7ES0nIuHXZ4/w500/ai-apps.png",
+        "Title": "A Guide to Securing AI App Development: Join This Cybersecurity Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/smokeloader-malware-resurfaces.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQAC1yB2OvPkBiT4PKkNlz1nRSozKIh1q0w2zHj9YFAeltOYkHKH7LH5FoC3tUwBjX5UfhvJVRTtvgAK3U89aOExa0GDj4pAkAt2_5X8xDDCO2IYph5RYI81Uvc5zvf7tvxQoEGBVh-4B-RAzofbBhx1KpccNFGMu-IIUpWWYrC0OkykWwL376LF9gdFLL/w500/malware.png",
+        "Title": "SmokeLoader Malware Resurfaces, Targeting Manufacturing and IT in Taiwan",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hK98NiGbj_kzsMjoE2wLbcNhkr_tTIdP7TC_9Frp8-N3Sqj2E6i9YLRjcIgjxw0HrOcB-alACYcm2imeNMMz6x4TgPoxkdvQJHFHMkInJUpjsEML9I9ADsbk0-nqxherjMpIGzSNb1ddXYu472h4uzdrG4fw4ZTRUJqktMgpUMZPSfn9vqoLL87sFhar/w500/reacp.png",
+        "Title": "THN Recap: Top Cybersecurity Threats, Tools and Tips (Nov 25 - Dec 1)",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/8-million-android-users-hit-by-spyloan.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJm_YXjr2O9w4lCnL-krA6k9RmAsNEXiDmie4V9Sb435aWsXuHoKgyct69Qq4_RtW7ESHlVm8ysuDJb8xPoJ3AjMMIiG7yYbXqrawDY1tvIw8pFhkstxz8DTjvcSuqPhhwOub90H0EuCTqb_lhQuJnI06rNwl4Kp_IIpFBwUkKbUtRsMwohsw6wB6LdiCR/w500/play-store.png",
+        "Title": "8 Million Android Users Hit by SpyLoan Malware in Loan Apps on Google Play",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/interpol-arrests-5500-in-global.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg61VtkFTcb-zVYKH9WkVQgFveW-hgVXGrVzn_r0_GDePZNY_NJxkmaYhb6fp-xL5Eed18UfTJLeiUuhsfGyQNkVnsQzq6t6m7842exWFQouF4qnxfjz_Afs4si4WpXsqabxF1ZYxAV0Hhand6QZbUWaofeB3o6QsuUipm5WK2337w11k7wcOBlKsI7Xaej/w500/interpol.png",
+        "Title": "INTERPOL Arrests 5,500 in Global Cybercrime Crackdown, Seizes Over $400 Million",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/11/wanted-russian-cybercriminal-linked-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ycNuDnG5r03g3kezv6tfOhnGxgC4UkYEUDsEA2lN0g2R1PbBbtMFJYC5Qqd3kHzpxG2aHrr4Xq99kTmMX0GimAYGOej1FM1w_Z0yhZ6wDjXq8nyY8Tu0dXQe4HFajwsbMKlbq-YtQya0rDW1Zv2Rw8yGOG7wVw9j3c38z1LudS_AXHRJ0tlcWcv82j5R/w500/hackers.png",
+        "Title": "Wanted Russian Hacker Linked to Hive and LockBit Ransomware Arrested",
         "Source": "The Hacker News",
         "Timestamp": "Dec 04, 2024"
     },
@@ -116,104 +221,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/07/phishtrap.png",
         "Title": "Why Phishers Love New TLDs Like .shop, .top and .xyz",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijwTYvrTy-wRJMNdlnDR8sjf5GsmLg7XgmDl5qe7WqwwBHQoLzHN0yviyqbjw2N64Ks-mLNgwi6YMifcE_l8Y5puNqcNT2X7Y_pPfurBrb3I4VBA5JZbAXdU9p_2Wi6xCYNEfupc0JbmL8stSwNNNoTNdLiQmexJW7tZrhkWide3AoJu1Moy2oZJmSHIXg/w500/malware.png",
-        "Title": "Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLp4JQweb99uJeBdXWmgsy-GKn01cSvXoUPX_PWyoylSUuCo_TE5tHCPxJ430jPk1D1mWMjOO7GM8PcX9HUKGdtXBbo0sZPUnuzrrDZkVlM-ACUajSHZQzrJONF_ZO1FKb8VVi7NcKn0TMYQWYddXo9pLu21JW9fIb9-EpXFBCJbrG8bEf7ES0nIuHXZ4/w500/ai-apps.png",
-        "Title": "A Guide to Securing AI App Development: Join This Cybersecurity Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/gartner-endpoint-protection-d-v1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioLoJAzxkuhJOGg5CJZUiOmlsuLNwfqxBAdVrokoEOcGduCEMxw3ABDtIt_tUIHtXsp-RsloatJ4Lyxe9OORSzhK1nbOLCj66YbiEipGGUA6kC1J17JSjV8ssc3EfLi-qBLwztlCzzk8rSDs3AxYsoeM1pUscqxM-ghwWokE2XOlcYV_Cunt2niti-18gc/s728-rw-e365/cc.jpg",
-        "Title": "Crowdstrike Named A Leader In Endpoint Protection Platforms",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/smokeloader-malware-resurfaces.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQAC1yB2OvPkBiT4PKkNlz1nRSozKIh1q0w2zHj9YFAeltOYkHKH7LH5FoC3tUwBjX5UfhvJVRTtvgAK3U89aOExa0GDj4pAkAt2_5X8xDDCO2IYph5RYI81Uvc5zvf7tvxQoEGBVh-4B-RAzofbBhx1KpccNFGMu-IIUpWWYrC0OkykWwL376LF9gdFLL/w500/malware.png",
-        "Title": "SmokeLoader Malware Resurfaces, Targeting Manufacturing and IT in Taiwan",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/identity-security-report-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbU-wMU5javTjPH13tOEF6_lRHcSebE6y4Wtq9bUe-ltOhrn2CA1i9ts7MpiiIMmd4ow0PdlAaSto2wyMDiz3onmFYGwA7c4TWYMYPt8iV12OwVqwFLohhaANjLtvh4Tl0ObYFYtj9hDoYr1tbCxb-8pUhZxTSttSDZnLLiimFijj73ygXromtUT2lT2Hx/s728-e100/newsfeed.jpg",
-        "Title": "Creating, Managing and Securing Non-Human Identities",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hK98NiGbj_kzsMjoE2wLbcNhkr_tTIdP7TC_9Frp8-N3Sqj2E6i9YLRjcIgjxw0HrOcB-alACYcm2imeNMMz6x4TgPoxkdvQJHFHMkInJUpjsEML9I9ADsbk0-nqxherjMpIGzSNb1ddXYu472h4uzdrG4fw4ZTRUJqktMgpUMZPSfn9vqoLL87sFhar/w500/reacp.png",
-        "Title": "THN Recap: Top Cybersecurity Threats, Tools and Tips (Nov 25 - Dec 1)",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/8-million-android-users-hit-by-spyloan.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJm_YXjr2O9w4lCnL-krA6k9RmAsNEXiDmie4V9Sb435aWsXuHoKgyct69Qq4_RtW7ESHlVm8ysuDJb8xPoJ3AjMMIiG7yYbXqrawDY1tvIw8pFhkstxz8DTjvcSuqPhhwOub90H0EuCTqb_lhQuJnI06rNwl4Kp_IIpFBwUkKbUtRsMwohsw6wB6LdiCR/w500/play-store.png",
-        "Title": "8 Million Android Users Hit by SpyLoan Malware in Loan Apps on Google Play",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/interpol-arrests-5500-in-global.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg61VtkFTcb-zVYKH9WkVQgFveW-hgVXGrVzn_r0_GDePZNY_NJxkmaYhb6fp-xL5Eed18UfTJLeiUuhsfGyQNkVnsQzq6t6m7842exWFQouF4qnxfjz_Afs4si4WpXsqabxF1ZYxAV0Hhand6QZbUWaofeB3o6QsuUipm5WK2337w11k7wcOBlKsI7Xaej/w500/interpol.png",
-        "Title": "INTERPOL Arrests 5,500 in Global Cybercrime Crackdown, Seizes Over $400 Million",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/wanted-russian-cybercriminal-linked-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ycNuDnG5r03g3kezv6tfOhnGxgC4UkYEUDsEA2lN0g2R1PbBbtMFJYC5Qqd3kHzpxG2aHrr4Xq99kTmMX0GimAYGOej1FM1w_Z0yhZ6wDjXq8nyY8Tu0dXQe4HFajwsbMKlbq-YtQya0rDW1Zv2Rw8yGOG7wVw9j3c38z1LudS_AXHRJ0tlcWcv82j5R/w500/hackers.png",
-        "Title": "Wanted Russian Hacker Linked to Hive and LockBit Ransomware Arrested",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/ai-powered-fake-news-campaign-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXJicw7Db83MTSSHNt8_YBoO8VZkT0dwxPRABMS5bMrzTpf1FU2q2-RjuwryW6FCTqQXeczKBNDs1I_nkpulSkS5sJVIL8z7eXX8WafLU4Qvdv5BQnToq3Ydnd5n2zUKp4W88HHXfsm8brlsLdy-IsKqrdYbpmoONaFPCMjoX_VnwZZ6fZiC48z6M99MaO/w500/fakenews.png",
-        "Title": "AI-Powered Fake News Campaign Targets Western Support for Ukraine and U.S. Elections",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/protecting-tomorrows-world-shaping.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpaciuGXzBUWgZCICpxpGYAZGKXMrl0mXtqmMmvyxprxaBmQYq95BXklc7EWhzJSEIOpcRoLp3hG98q3hDrAsjPrMaVw1k1MFoBtwbdGjl4nktv59RV2aDtmhExaOH0QdL8NBfIV2sWl2oJikq-CFDPSUmBgO9AwuJ6vZ_rS1cpaUkCIMvl_idDx7xE8h/w500/cyber.jpg",
-        "Title": "Protecting Tomorrow's World: Shaping the Cyber-Physical Future",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/phishing-as-service-rockstar-2fa.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzgJ8MxkpuN59qlFiI44tB0LQRet2hTZo9q4vBoyYD7RkE749685kKkQbzCd7hws4YWaP36cyUXF3L1mHKenGH6LqY9hoapzkJ8wX1xqKjozRDddh8tOMGWeBe4OFpt-vg6_N26GHZttGcJYwm3aiglUBraF4tYdaIrSxNavD6RCkgyy0QQBABCmZE8g1/w500/aitm.png",
-        "Title": "Phishing-as-a-Service \"Rockstar 2FA\" Targets Microsoft 365 Users with AiTM Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/microsoft-fixes-ai-cloud-and-erp.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQiaIQ_7_MI6k3AHxoT9xtMuycDJrXF_iV9r1GsG69PIgma1Ase0Q1FRKvizzu81I7YI-U5Gzl1y9dDrZCixp1zc4iokHDCLBSZ-Gtgho9EIM5HGrPCh1xh5sVP2u6VHreblsSzoXIbfcfQGpFVaZ3MsH8X4sNKA6I1-dxCazuBCUnCnzlhyphenhyphenZUXh9J8Ue-/w500/ms.png",
-        "Title": "Microsoft Fixes AI, Cloud, and ERP Security Flaws; One Exploited in Active Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 03, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/11/us-citizen-sentenced-for-spying-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIkhyphenhyphen_IpEc2_GwO-NcK4AjVCKV8gWKXye0vVYko6kKgh9cA_xq0VU8Qyo4HR_A4zdnG_O7vmwzhtMs2zCPBVz5bNd2mkCDQvuX5trQi3mCRLeGptksOxlzc5OK63riCmda3Teof8upoMwFO3_LEQesv090dBEqo59Rur3KHzBo0lKWDIGrVlzxMcomQBER/w500/chinese.png",
-        "Title": "U.S. Citizen Sentenced for Spying on Behalf of China's Intelligence Agency",
-        "Source": "The Hacker News",
         "Timestamp": "Dec 03, 2024"
     },
     {
@@ -301,9 +308,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -315,9 +322,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -362,13 +369,6 @@
         "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/cardio-epi.png",
-        "Title": "Change Healthcare Breach Hits 100M Americans",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 30, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/",
