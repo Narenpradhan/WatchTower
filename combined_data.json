@@ -1,5 +1,40 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/w500/hacking.png",
+        "Title": "Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2pKkxA0HOrAaH9gF-Unjn8wIAabqSSWKzdbl36rLSzNUZBrymS-35Zj9FUKoFLd62HTBpXUVJFBnDTEsV1Gi_QqnPRsbNxo9dTp2dCN4X1ZcaNONe_qMB34GKNyIkvj-rjMJ6sZL5k4DJEUPJCAGA62kUuADWER3SRTj862YXGyyIs6xD3adWgUKi_Uz/w500/exploit.gif",
+        "Title": "New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXMW_oZEst2wDMH9tcitEPxgA9DKvQGUiTODQ4_fBfIKFabYl5qNkEgC3o8aOYByBIplQ-bEgH4iaDOF-AiatedQJTSfOCGONnQQdIplhHB-rgqk-XHlSkZZ_nlyKln6yiy0a-TfpZOJMLT0KWwrPRVeCCQzhzhsE4A0HE2teq0-R1RXIJy7XF_epM3A2r/w500/ms.png",
+        "Title": "Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/appsec-v2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
+        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRWaCegpAKNhkToYUGdZv9EAq36aHzE9vuL5YG1mCm5Q-IOlUrvZzF9Myj1HFXd8H6mtoPIzbMiEl7sM8eMg9NgUR1-sJQjU-vmO7B6s_wuttDFrxP1HTzCuxDBb4eozMSZlxxqQbT_AEcC-ydJWl9U5OkQ_FSCITL5lxy7rvb8ctztTEpLEhrOVSi_b6a/w500/malware-dns-tunnel.png",
+        "Title": "ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDTfns0-33bpc7EpwyrRPF0yhJr0Mya6W3GY0jtcW0ppe3ZlXDCcgth1NACJAS_qaAIcCOEzFKKOUGUyCxRbewq4EmwrBa80wLEm1JkMcuqdZa8FoybkStuVl6rm5qdT5U_UE7RQQmcTyrRchkDnc9KTjgKSOVSRTOLNFrLQIVGg1fRJjj4oAiRIMWUib/w500/chinese.png",
         "Title": "Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017",
@@ -21,9 +56,9 @@
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/appsec-v2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
-        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
+        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
@@ -56,44 +91,9 @@
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY2komTarIrRJ9W1moyR63Qxa_1R0fbq49YMGeLOHxVLtV0bprnXWP9rdh8vB_vGS2Df8CuQyfIidHvuDCHNwTQeS0a-5ubBIDto40MDt_3MYvaDKnIpl0si8bkCwVtQIFqMaV0QvZirCkIM4dC2bOep93VQgvwZv04WrBXWL7jTV_zyMYG9YDzFX6OmE/w500/syteca.png",
-        "Title": "7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/fake-recruiters-distribute-banking.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP70NHhq1mF0jCIERhqtKcOQKU1I1GZ7uOXkGsbaXSsR8lQR-inDL627Jkr_DqPoymFRmE51PUZgnFQhbFi7qTFlkGJ7-CBiwWSAH5cmduKcxavh3rEkrd4OvdutAOgxXjgJs48A63Ieuc3xKQSGS7slTJGpfUqic-vWZtQ1KNw8nklzuoU8saxfPKwrQK/w500/phishing.png",
         "Title": "Fake Recruiters Distribute Banking Trojan via Malicious Apps in Phishing Scam",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
-        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0eNh87gAUF6Sn45v64ZlCLjI-_HdL3fzVFIvDPl1XAXDg5sV-PqGTxmK9KGCBH5EeQlWdOz4mdvzvALtCaZRR0gpl0BpevV4M7f0ynerp1V1c0qseZOLNY3ukcaZurWUwMdaALsS4NVtH8JpEoGW9mGpoWaKJIb0xg_IXiAbDx7qdk5HexzxuPeSASV6/w500/vishing.png",
-        "Title": "Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/hackers-weaponize-visual-studio-code.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmvx6hHNMpftMJkujVD-BWERfWb5DSC5ab9xWaRGg5RXf5ruo2LOd0b2TpOipYjce0bW6b6PgysenLOdmAHM6tHXaLaS0B4_s8SabqZacBI633q6i05Csuqc8QwqCigmeEXnIeu2m1fMtK5WJ4dKvDkJtAuLP88EmcMB3GwckaWBmKc2mW8jnmUxIZa6g-/w500/chinese-hackers.png",
-        "Title": "Hackers Weaponize Visual Studio Code Remote Tunnels for Cyber Espionage",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNy1mJ8I0fSejLyi2yYr-jJbqi-79Y6fZQrn8-9USVDwut70lKRsKknPuOLHssAex8t0GDIfD708tXN5PYPsp3IfO20PlbWSqVa_4pQJdpm4IyPzX6QQpxk8cchzkAs8bCaF-f8UDnLT7h9zy47oPNhyphenhyphenZbB2n7aaxl1HcB1s99Eo572SGs2nEjlicFHw/w500/phishing.png",
-        "Title": "Ongoing Phishing and Malware Campaigns in December 2024",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
@@ -102,6 +102,48 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
         "Title": "Patch Tuesday, December 2024 Edition",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
+        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/phone-phishing-gang-busted-eight.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0eNh87gAUF6Sn45v64ZlCLjI-_HdL3fzVFIvDPl1XAXDg5sV-PqGTxmK9KGCBH5EeQlWdOz4mdvzvALtCaZRR0gpl0BpevV4M7f0ynerp1V1c0qseZOLNY3ukcaZurWUwMdaALsS4NVtH8JpEoGW9mGpoWaKJIb0xg_IXiAbDx7qdk5HexzxuPeSASV6/w500/vishing.png",
+        "Title": "Phone Phishing Gang Busted: Eight Arrested in Belgium and Netherlands",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/gartner-endpoint-protection-d-v1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioLoJAzxkuhJOGg5CJZUiOmlsuLNwfqxBAdVrokoEOcGduCEMxw3ABDtIt_tUIHtXsp-RsloatJ4Lyxe9OORSzhK1nbOLCj66YbiEipGGUA6kC1J17JSjV8ssc3EfLi-qBLwztlCzzk8rSDs3AxYsoeM1pUscqxM-ghwWokE2XOlcYV_Cunt2niti-18gc/s728-rw-e365/cc.jpg",
+        "Title": "Crowdstrike Named A Leader In Endpoint Protection Platforms",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/hackers-weaponize-visual-studio-code.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmvx6hHNMpftMJkujVD-BWERfWb5DSC5ab9xWaRGg5RXf5ruo2LOd0b2TpOipYjce0bW6b6PgysenLOdmAHM6tHXaLaS0B4_s8SabqZacBI633q6i05Csuqc8QwqCigmeEXnIeu2m1fMtK5WJ4dKvDkJtAuLP88EmcMB3GwckaWBmKc2mW8jnmUxIZa6g-/w500/chinese-hackers.png",
+        "Title": "Hackers Weaponize Visual Studio Code Remote Tunnels for Cyber Espionage",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/appsec-v2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
+        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 10, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/ongoing-phishing-and-malware-campaigns.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNy1mJ8I0fSejLyi2yYr-jJbqi-79Y6fZQrn8-9USVDwut70lKRsKknPuOLHssAex8t0GDIfD708tXN5PYPsp3IfO20PlbWSqVa_4pQJdpm4IyPzX6QQpxk8cchzkAs8bCaF-f8UDnLT7h9zy47oPNhyphenhyphenZbB2n7aaxl1HcB1s99Eo572SGs2nEjlicFHw/w500/phishing.png",
+        "Title": "Ongoing Phishing and Malware Campaigns in December 2024",
+        "Source": "The Hacker News",
         "Timestamp": "Dec 10, 2024"
     },
     {
@@ -119,23 +161,9 @@
         "Timestamp": "Dec 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/7-pam-best-practices-to-secure-hybrid.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY2komTarIrRJ9W1moyR63Qxa_1R0fbq49YMGeLOHxVLtV0bprnXWP9rdh8vB_vGS2Df8CuQyfIidHvuDCHNwTQeS0a-5ubBIDto40MDt_3MYvaDKnIpl0si8bkCwVtQIFqMaV0QvZirCkIM4dC2bOep93VQgvwZv04WrBXWL7jTV_zyMYG9YDzFX6OmE/w500/syteca.png",
-        "Title": "7 PAM Best Practices to Secure Hybrid and Multi-Cloud Environments",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_9.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl09tRTR8ZWGdB24VX5CUkR2iDU775kr2b2I1i-hdX1LQpNKmSMuDM2pcWJ_vc5MV35zILsWTgRigP1ZbZblq_fMq5KbFBVM3rY2wB9NLL57_sWFTP8mYNDjOf-o0e5xtx3Me4gGxeQq8IMFE7uPmR4dWURJ8_UR19hy4V-rPJT8j66CpRj6CkDAFw-oEE/w500/recap.png",
         "Title": "\u26a1 THN Recap: Top Cybersecurity Threats, Tools and Tips (Dec 2 - 8)",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/appsec-v2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
-        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
         "Source": "The Hacker News",
         "Timestamp": "Dec 10, 2024"
     },
@@ -161,48 +189,6 @@
         "Timestamp": "Dec 10, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5LYFozAMAf4BZuwt9giFnt_uyeU0t6VxOWbJk5XomscawAAx9r-IGFKHFN92meIAZpIqtII6z_6g7qd610iHvlXrYTFloRuTcQiCmG3nyuU-iijHOCdW9HrOBPn8cBM8CQGeadIdcIcXtZWwNthNYFU7Iny-3EbFr5vaEeSZPru5GKVgGc2dg676zUxk/w500/silverfort.png",
-        "Title": "Learn How Experts Secure Privileged Accounts\u2014Proven PAS Strategies Webinar",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/ultralytics-ai-library-compromised.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwGzm-uhA-fUukarCR70p2AjVlLaDAqM808eTYqzsTkWrcmTUQy-GjyYzBlgVMjj2anUJWqcOsyFG_PUUucWzziAA0j49hTPGovuJsk29bvknPvFrWls74Th58D1fi0mjx9v2tc6vsEsdGT9XNTD_JAubQpWlmfx4in6a777xjMxF8uNy3ig4k-YeIWyz/w500/python.png",
-        "Title": "Ultralytics AI Library Compromised: Cryptocurrency Miner Found in PyPI Versions",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/hackers-using-fake-video-conferencing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdRkUBM6XaBNcsjyGOz_dA3Du5DBpPc-UEWV4qFZPhyphenhyphenKT5MMjIgQf21Ii3HahX4xWLi6Jpzx7RvOLPD11IE_uM-J4XKCdNI8KUfhA9rwJEEJOFtgwbRnX41h-cSjriTD-7VVhwUyA1_ADXodka-X2ZCevyOd02ljhF3IEvgdu8hbaA0l5ZOSSMqTFrOKfx/w500/web3-malware.png",
-        "Title": "Hackers Using Fake Video Conferencing Apps to Steal Web3 Professionals' Data",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/romania-cancels-presidential-election.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsC3tQ2zNxWo7GpLxnW-GzX-H302S11qfQqv3d9odhJJXpYvPpS6gL36EBNYKFnjhscFoF_M43ePdwdbvhsDGLNBudklEwHhgoD6l3T86VPTGh0LzGwzIvVK-DUQsHTaCm9QzoSv67JJOS6OotDPcm2N51qXQTzYgx3x4JyrvHHAC29MSddTRIpVgMLpG/w500/russia.png",
-        "Title": "Romania Cancels Presidential Election Results After Alleged Russian Meddling on TikTok",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/fsb-uses-trojan-app-to-monitor-russian.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqJ75gjpg8k9dVxTKKsF6qYQzR4IDldFkYCQzUErYTicEA7XHnTiIAFYj-7LQpvnVVRlHUAFwPqOxoe6W4x2dm5h2yRkKNaoNbqu3_Ciei3VitMgxBHQzeNTdBou62tijV1CJmipKBnBiQfIgmEi3J4h3HL9D2grw1IuTTIjyIJrV1t8u0nZ3JuSVZEO8M/w500/programmer.png",
-        "Title": "FSB Uses Trojan App to Monitor Russian Programmer Accused of Supporting Ukraine",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/researchers-uncover-flaws-in-popular.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia1UI8-w6ihOHAxW_rag0lwL_ksW9lIyTZn6Ib3LsOCmUQJUIDoZkgR4URLpY2-TT9KtRE5Dyg3DLj7cGx3wwQKKoYAxNi5NT1Rxs9QgKY8bMJYUH3sC1LwIlH2C64nS8j0-uyH5bWWnvXej9ZtokT81257ZXnCW7Fp1smuSCbwR_EkCGudkACK64PZn2L/w500/ai-model.png",
-        "Title": "Researchers Uncover Flaws in Popular Open-Source Machine Learning Frameworks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 10, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/encryption-apps-chinese-telecom-hacking-hydra-russia-exxon/",
         "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
         "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
@@ -217,16 +203,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f93edde00315c7f7fe9a9/3:2/w_1280%2Cc_limit/Security_Dod_China_GettyImages-501618640.jpg",
-        "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f93edde00315c7f7fe9a9/3:2/w_1280%2Cc_limit/Security_Dod_China_GettyImages-501618640.jpg",
+        "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -322,16 +308,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
