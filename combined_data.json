@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilxvzp7qifblFeuL3ZoafBcE1HWFEiK00Lo9dmjf4qlisZ4iKgZRYAZ0UvUt8Juk8AVQvLV5HNsUa3YZdU-O6oyfIYbCsMSP76Ogi3jOabCm-30Ch8EG-OrLyRxkNKqc5pEWjyoYuBFvRMLoT7NaXcKtMcGspZy1Au1ny2cRyI-LDJuG4GcTR7YFbSf2Cj/w500/serves-hacking.png",
+        "Title": "Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13WUoNbXgHDr5_gAdXczjU1LAe98rqcatOSPwWTSVvfl4w_swSOEO-xigY5mg9ksbrk0g3jtJrUaEfG95Q1LynMkh1d7kH9acDJWIlDGh1df4b9tmzZCn-S3nALOSl0DnKwTVNwdPIXlZaYLvDIf5uy7oZOW5NgjZhDGiz5Zc13an6D4xpYHxstbNgeAU/w500/android-spyware.png",
+        "Title": "Gamaredon Deploys Android Spyware \"BoneSpy\" and \"PlainGnome\" in Former Soviet States",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNSHXdyszY4xQJhzRQNpMzOC3vYSCE9ItbTJwQiNb-PXrjMdW3JElK6Su1E8wUKGZANzk2dVHCq6PW_6W2NwSv8HuuvRLY_ayLh5oQvcZ3DrKHLm-33cIFBgTt9g00LTWGI8avGJ6Y-1g1mLqC9EGo2aMdTIAVz2voWLaM-7ofRLAQQRHNm0N4Ab5s8ac/w500/apple.png",
+        "Title": "Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 12, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/appsec-v2",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
+        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 12, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/saas-budget-planning-guide-for-it.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRbOYLsn6RfGGCnvC4KNUdDNETcwTVRTUzIasZdRYIA6oajOGNOY_BPM7BQ3p4IXD2v6GzsSxmlduiUueDq7mL5mxwmekP1XDfbEoBsSe3Z4ciYdmzsPoWiNEQx9_V8_MApheLBFG-7jRjNNX4leWiq637sQA_oqMW2pJx5qgkvrPnFgckHx2AgtZF2M/w500/auvik.png",
         "Title": "SaaS Budget Planning Guide for IT Professionals",
@@ -21,16 +49,16 @@
         "Timestamp": "Dec 12, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/appsec-v2",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
-        "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Link": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/w500/hacking.png",
+        "Title": "Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service",
         "Source": "The Hacker News",
         "Timestamp": "Dec 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/w500/hacking.png",
-        "Title": "Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service",
+        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
+        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
         "Source": "The Hacker News",
         "Timestamp": "Dec 12, 2024"
     },
@@ -56,13 +84,6 @@
         "Timestamp": "Dec 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
-        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/w500/nudge.jpg",
         "Title": "What is Nudge Security and How Does it Work?",
@@ -77,20 +98,6 @@
         "Timestamp": "Dec 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_ni43VXnxEwwOte4sW7JElNrabUexM85_cBukLbbMxURpYsg3vNQa4KRy9IVii6A9syUc1b5KAJPpGV1VWmzg7NQsVL5aajmnZIGyQfrgNhVhE38VfOnqyW0LUfvAamrLmyVk5LsQDRd7GapUeKituF8F5pbAy59XcAKAbtE-7J6K5uVYaEJUepXRvFz/w500/chinese-hackers.png",
-        "Title": "Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ecM04xQt-7IEWG8b51HSCs8Sz8QFlQwaHxfwNp5vI5Iy2zcXIqZRfHa3fy0-RLJekZRI6czqD1XiymjG1OssUqK-Zox-YiCZsVOILBXEFeqM-QPbN6SHjb-kfs9DB_VK2pigurZ3-ZMqMsdR8gdB2vYljyfSI_ukDi3MS_DXniT5GCc46jCuPHJkZyWU/w500/windows-patch-update.png",
-        "Title": "Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/happycanada.png",
         "Title": "How Cryptocurrency Turns to Cash in Russian Banks",
@@ -98,16 +105,16 @@
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/us-charges-chinese-hacker-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXJLP4GkkdLL4KPEMhZCnqHrmmboNxDV2mCKnr8nwCxHrOwQf3wbCqHBVpbCG_gUhZxkPbO0LLEgUKWOWIbHBUpWgPWB4Ji5VxDx4R0r59ntOpnoveq6SonGUN_uDmcxkVco_KMX3i1NiI-E6W06tw7IsfWzNBJgma1GJkHIUGv_XqjIfX4wNKhsELXQ0/w500/wanted.png",
-        "Title": "U.S. Charges Chinese Hacker for Exploiting Zero-Day in 81,000 Sophos Firewalls",
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_ni43VXnxEwwOte4sW7JElNrabUexM85_cBukLbbMxURpYsg3vNQa4KRy9IVii6A9syUc1b5KAJPpGV1VWmzg7NQsVL5aajmnZIGyQfrgNhVhE38VfOnqyW0LUfvAamrLmyVk5LsQDRd7GapUeKituF8F5pbAy59XcAKAbtE-7J6K5uVYaEJUepXRvFz/w500/chinese-hackers.png",
+        "Title": "Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/ivanti-issues-critical-security-updates.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7_hdHA3yO2YFhzBXNM9Zq2unWJ5k1MSHN1ZAWlQnDUQwPpFur6BEIrFjCw_jfqpg4wd7hee-AggpN_rOXNZMjg33IMpJoN_Dac-XpXOQZQ6d84xelNLeLi1nGoWMh_OGpf1UXbCEwF6XfejRHZUMhpKeKqD70H9AxC899myvpJj-xXjxxI7s2Z_H4Olj/w500/patch.png",
-        "Title": "Ivanti Issues Critical Security Updates for CSA and Connect Secure Vulnerabilities",
+        "Link": "https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ecM04xQt-7IEWG8b51HSCs8Sz8QFlQwaHxfwNp5vI5Iy2zcXIqZRfHa3fy0-RLJekZRI6czqD1XiymjG1OssUqK-Zox-YiCZsVOILBXEFeqM-QPbN6SHjb-kfs9DB_VK2pigurZ3-ZMqMsdR8gdB2vYljyfSI_ukDi3MS_DXniT5GCc46jCuPHJkZyWU/w500/windows-patch-update.png",
+        "Title": "Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
@@ -119,9 +126,9 @@
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cleo-file-transfer-vulnerability-under.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUS2tfffbSC9X3qTI2iqEumjmBuEPK_RcG_KyAOAhc15PwlhyphenhyphenKEx_L8fXg9LaWZJgB1GkObdIq4QpnjnYFm6jA34TC3TIOfC-ZhX4i4j8AVcv2e1vf5f0IlvsGTIsexe8DiPnUU1Z0MIFif6C7FiVt3mGVm-6_QLy7P0qDF6PteJTsEq6XquiUGOdVgVqc/w500/exploit.png",
-        "Title": "Cleo File Transfer Vulnerability Under Exploitation \u2013 Patch Pending, Mitigation Urged",
+        "Link": "https://thehackernews.com/2024/12/us-charges-chinese-hacker-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXJLP4GkkdLL4KPEMhZCnqHrmmboNxDV2mCKnr8nwCxHrOwQf3wbCqHBVpbCG_gUhZxkPbO0LLEgUKWOWIbHBUpWgPWB4Ji5VxDx4R0r59ntOpnoveq6SonGUN_uDmcxkVco_KMX3i1NiI-E6W06tw7IsfWzNBJgma1GJkHIUGv_XqjIfX4wNKhsELXQ0/w500/wanted.png",
+        "Title": "U.S. Charges Chinese Hacker for Exploiting Zero-Day in 81,000 Sophos Firewalls",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
@@ -129,6 +136,20 @@
         "Link": "https://thehackernews.uk/appsec-v2",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedZbRFT-MwLv-R3riSADxqWVLAZuqgG0m2eW3JO2RzjLYSQF5eb0IRHxKPMw7iSrH0t14t_gtzDLuyC-fwtDbpCR1DJSUDgTuXgTGzukmbSwBpKGxhEvFIiSj-njnaKgNlncruhHHA8FUBssdQSbsauYQbm_M5dACDwVvNZrGyAyRJGL3DZymGHSHulQU/s728-e100/ebook-v2.jpg",
         "Title": "Breaking Barriers: Strategies to Unite AppSec and R&D for Success",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/ivanti-issues-critical-security-updates.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7_hdHA3yO2YFhzBXNM9Zq2unWJ5k1MSHN1ZAWlQnDUQwPpFur6BEIrFjCw_jfqpg4wd7hee-AggpN_rOXNZMjg33IMpJoN_Dac-XpXOQZQ6d84xelNLeLi1nGoWMh_OGpf1UXbCEwF6XfejRHZUMhpKeKqD70H9AxC899myvpJj-xXjxxI7s2Z_H4Olj/w500/patch.png",
+        "Title": "Ivanti Issues Critical Security Updates for CSA and Connect Secure Vulnerabilities",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 11, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/cleo-file-transfer-vulnerability-under.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUS2tfffbSC9X3qTI2iqEumjmBuEPK_RcG_KyAOAhc15PwlhyphenhyphenKEx_L8fXg9LaWZJgB1GkObdIq4QpnjnYFm6jA34TC3TIOfC-ZhX4i4j8AVcv2e1vf5f0IlvsGTIsexe8DiPnUU1Z0MIFif6C7FiVt3mGVm-6_QLy7P0qDF6PteJTsEq6XquiUGOdVgVqc/w500/exploit.png",
+        "Title": "Cleo File Transfer Vulnerability Under Exploitation \u2013 Patch Pending, Mitigation Urged",
         "Source": "The Hacker News",
         "Timestamp": "Dec 11, 2024"
     },
@@ -182,13 +203,6 @@
         "Timestamp": "Dec 11, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_9.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl09tRTR8ZWGdB24VX5CUkR2iDU775kr2b2I1i-hdX1LQpNKmSMuDM2pcWJ_vc5MV35zILsWTgRigP1ZbZblq_fMq5KbFBVM3rY2wB9NLL57_sWFTP8mYNDjOf-o0e5xtx3Me4gGxeQq8IMFE7uPmR4dWURJ8_UR19hy4V-rPJT8j66CpRj6CkDAFw-oEE/w500/recap.png",
-        "Title": "\u26a1 THN Recap: Top Cybersecurity Threats, Tools and Tips (Dec 2 - 8)",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 11, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/12/patch-tuesday-december-2024-edition/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
         "Title": "Patch Tuesday, December 2024 Edition",
@@ -210,16 +224,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f93edde00315c7f7fe9a9/3:2/w_1280%2Cc_limit/Security_Dod_China_GettyImages-501618640.jpg",
-        "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f93edde00315c7f7fe9a9/3:2/w_1280%2Cc_limit/Security_Dod_China_GettyImages-501618640.jpg",
+        "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -308,10 +322,10 @@
         "Timestamp": "Nov 09, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
-        "Source": "WIRED",
+        "Link": "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/snowflaking.png",
+        "Title": "Canadian Man Arrested in Snowflake Data Extortions",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Nov 05, 2024"
     },
     {
@@ -325,6 +339,13 @@
         "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
         "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
         "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Source": "WIRED",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -357,16 +378,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -474,12 +495,5 @@
         "Title": "Crooked Cops, Stolen Laptops & the Ghost of UGNazi",
         "Source": "KrebsonSecurity",
         "Timestamp": "Sep 30, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2016/03/jstash-domains-580x505.png",
-        "Title": "U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Sep 26, 2024"
     }
 ]
