@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/",
+        "Img_URL": "https://media.wired.com/photos/67599c4c9ed5b79b6ef51a1d/3:2/w_1280%2Cc_limit/PublicKeyCryptoExplainer-crKristinaArmitage-Lede-scaled.jpeg",
+        "Title": "The Simple Math Behind Public Key Cryptography",
+        "Source": "WIRED",
+        "Timestamp": "Dec 15, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNsdzNpIQhToNFoaZ0ksnz7qZQnWakUUlrbpCTztu2zEeTh4DlzkB-jrtbjbbdMohtBSf0pasiCbEhoqdlhbECICN_xiZd8MNWQgKsBkA3hVuQV8ssH5stJ3SCHGHbzpsfEhwFMA_VIhUe2UXpAsDAGXyuFJ9xvdg1lJe1yl0zFb-2YtaDetEb3dBgiPr/w500/badbox.png",
         "Title": "Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action",
@@ -56,9 +63,9 @@
         "Timestamp": "Dec 14, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
-        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
+        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
+        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
         "Source": "The Hacker News",
         "Timestamp": "Dec 14, 2024"
     },
@@ -119,9 +126,9 @@
         "Timestamp": "Dec 12, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/want-to-grow-vulnerability-management.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh02EU_ITGxo8cMYStzriiYfZjnzR15cL_iOwSN3D9RO68WEQ58Eqmk42EkYbBu3LMsz5uW8YMpVeAumNOxlK4YbSf4ojWc5T_cLMVrOvOE-AtgjqxJYMuhYyuAiW15HmofgQ7wU7fKsokxWxaOArgAZJMlDKh9YoHDB1fLud7FxYP_0P_XHQzhTBksXo/w500/main.png",
-        "Title": "Want to Grow Vulnerability Management into Exposure Management? Start Here!",
+        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
+        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
         "Source": "The Hacker News",
         "Timestamp": "Dec 12, 2024"
     },
@@ -224,7 +231,7 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
         "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
         "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
@@ -378,16 +385,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
@@ -452,13 +459,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/as-kenya.png",
         "Title": "Sudanese Brothers Arrested in \u2018AnonSudan\u2019 Takedown",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 17, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/ai-imprompter-malware-llm/",
-        "Img_URL": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/3:2/w_1280%2Cc_limit/GettyImages-2151457378.jpg",
-        "Title": "Google Chrome\u2019s uBlock Origin Purge Has Begun",
-        "Source": "WIRED",
         "Timestamp": "Oct 17, 2024"
     },
     {
