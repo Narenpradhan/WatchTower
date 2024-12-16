@@ -1,5 +1,117 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/thn-recap-top-cybersecurity-threats_16.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgtKum6h0F980ePu6v4e6OSLyEiKV3c4HM84ZXm2ez5y3or151XEUBVqgHWeuqET_RmkRrtDKVqc_1z_Z9QSydiP4v-6bpMvNKYMdWOIJiLq1_zZEQqTbHIGsF8Qc8sWlTex0QlC4nbgqsT3gk3V6tRG0uGkOaUrYViyCNEvnYmLRYXedWfzwuOn55Pp7i/w500/recap.png",
+        "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F_uDgbP7vJbQCdtyMwJPUTzgfpu9wfvAs9nmVHVd0aidx1JxW_Try4-cut3o78kyBT5kLS3I1qzHhyphenhyphen4Ff75p7NMDCUjcRqAr9QbKULZ8VGvGn1pXlUx74gam_uwFv3tOT2k8Eyhyp_wwCQh9QVqsFFDUh6BevF_beDxrlRX-vADCeKuAg5AepRMM6Bw/w500/devops.jpg",
+        "Title": "Data Governance in DevOps: Ensuring Compliance in the AI Era",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-7hN7E8BI6TzUfGWZkucD0F0gLkLygc8t3iD2rBdgFEva6GfwgDib_I5vXga9HrOuKxs5JHkjBzhbh7h6uzqXoX_AQgGKamUnQiWkMLNOsmfoqKkqaLbYWd4K6cbGn4GnVxwar3EkHG-KqsKYU1wc0tJMEMDnzr-yomks7Oh277YjT3GDd6ycibmwXsQ/w500/cyber.png",
+        "Title": "New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cyber-physical-future",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
+        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV8FVKb7ARXCrz0XAf27snu-JEKkkeogcv37WjtsmTlwD5F-rQvjk7ByPj4RWZ-IsReGGofBsybVv2AK2yIFb99LBYWOwFmoC5PEbPZz1mxY6KpDRe6F3aVcytOYjl_shhOFWBGXMjjLA1g1VBM-Gx0vWp0lu9BY38DVMBpg5jIXwNTa3QAEl3GfyUjZtL/w500/php.png",
+        "Title": "New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzxYYFxvuAQyAWX0M_LSTcNzvHzTEzoNt-64ueJovwTc0v4r_cqJsAUOCqie_rmjeeEfxbmhbIXIrHy3v4g2pOrH-OfvmG73HDmwSEZ5fsVYj87J6C10sZuI67W0IcJywmk4XXwK74Vj70bd2otydOmA6PQ9n1x45eYMSVKrjb9SnX4Oirs9JTPHw9IFUc/w500/russian.png",
+        "Title": "Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNsdzNpIQhToNFoaZ0ksnz7qZQnWakUUlrbpCTztu2zEeTh4DlzkB-jrtbjbbdMohtBSf0pasiCbEhoqdlhbECICN_xiZd8MNWQgKsBkA3hVuQV8ssH5stJ3SCHGHbzpsfEhwFMA_VIhUe2UXpAsDAGXyuFJ9xvdg1lJe1yl0zFb-2YtaDetEb3dBgiPr/w500/badbox.png",
+        "Title": "Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOGTKRo8AgOrGrDGguwKn-IOstG7hgHE9G_oh0cDppHZZNbzp-YpWGbOHHgaz_9DU16z04PZkuLAOD381w-YyonhvEtgf-iV4D7JqxxSTeLDFaM4axWIc0M2X-2NHq499rveQnkp_aViApPOg6tQwX6QGgyZJ13X_ty8R2GvVI6IvX8Aazvb48bwIrHWY/w500/malware.png",
+        "Title": "Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
+        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqc94K7IbnM8UGgYSfsStYvcnXUPzNZw0RXmUTxi7YETDdRH1Mn9RJC-nwEsXK6KcBxfPCJpC6TXOv4qgoWKnFD-qVAzLlZkqu6CR1p7H-UUWURqkRPYVVfxLBMIJrlPFquWq1dbZ4A1inCEK3KEK1D1kM6ptyLTFQtbKFT-pRD0isFsHbqtVu5aSAeR7T/w500/github.png",
+        "Title": "390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwwcI7Yc3p_wy52FHe6lepw1yIdcN5wtLd86yU2BwvINXJhy-LO91Mn7mdEDn3admFBf2ZRK48PgN9Qk7ckD4cA9Z6CsLzgRyoyvHrUpI5V_-s_UPHFCrZKMtFC2DJkQXUFOnrvmaQkMAGXyu_p0jS4_PURHiiYa9kgQcPr0OdOKnyWSKkFcOhx5LEsTo/w500/openwrt.png",
+        "Title": "Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUTRLxEQ1ZH2L7HVYrh1yJsomAIj3-xWn0k4KS04O_AENQO1_LR5JnECEKI9vaqb6r_-E3Dj93YJeC3wjS8LRnLyiPDCDPr_kdzburPUwgwt2ERM3QfM1XFoFpOiBGUDGk0xMbLRqLsHZRfhNHipgVyH5WxQ-3Vr7FhXdffryECq3vJvLwBN0_lU7a89s/w500/fbi.jpg",
+        "Title": "DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB78UkLmdFZ6hKMB3lOMbZYWhiXWZDYevFpP5GQrlWqeO-73dWwECPwZbb894lMbYdK_02fFesMjueX-AYEGJqAnjx6KF7b4SIIbKnAsBd5OE9yVo3p1MMB9MQAgg4AD9HhImAbyayRANvMCnxZVc0-GjXmsOC5E_I5HSDxkJJGkIK36hq9Aaqyxmb5rU/w500/exploit.png",
+        "Title": "Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
+        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Source": "WIRED",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675b5896ae716c42d416ebf4/3:2/w_1280%2Cc_limit/security_liscense_gettyimages.jpg",
+        "Title": "Hackers Can Jailbreak Digital License Plates to Make Others Pay Their Tolls and Tickets",
+        "Source": "WIRED",
+        "Timestamp": "Dec 16, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/",
         "Img_URL": "https://media.wired.com/photos/67599c4c9ed5b79b6ef51a1d/3:2/w_1280%2Cc_limit/PublicKeyCryptoExplainer-crKristinaArmitage-Lede-scaled.jpeg",
         "Title": "The Simple Math Behind Public Key Cryptography",
@@ -7,200 +119,102 @@
         "Timestamp": "Dec 15, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNsdzNpIQhToNFoaZ0ksnz7qZQnWakUUlrbpCTztu2zEeTh4DlzkB-jrtbjbbdMohtBSf0pasiCbEhoqdlhbECICN_xiZd8MNWQgKsBkA3hVuQV8ssH5stJ3SCHGHbzpsfEhwFMA_VIhUe2UXpAsDAGXyuFJ9xvdg1lJe1yl0zFb-2YtaDetEb3dBgiPr/w500/badbox.png",
-        "Title": "Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOGTKRo8AgOrGrDGguwKn-IOstG7hgHE9G_oh0cDppHZZNbzp-YpWGbOHHgaz_9DU16z04PZkuLAOD381w-YyonhvEtgf-iV4D7JqxxSTeLDFaM4axWIc0M2X-2NHq499rveQnkp_aViApPOg6tQwX6QGgyZJ13X_ty8R2GvVI6IvX8Aazvb48bwIrHWY/w500/malware.png",
-        "Title": "Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading Techniques",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqc94K7IbnM8UGgYSfsStYvcnXUPzNZw0RXmUTxi7YETDdRH1Mn9RJC-nwEsXK6KcBxfPCJpC6TXOv4qgoWKnFD-qVAzLlZkqu6CR1p7H-UUWURqkRPYVVfxLBMIJrlPFquWq1dbZ4A1inCEK3KEK1D1kM6ptyLTFQtbKFT-pRD0isFsHbqtVu5aSAeR7T/w500/github.png",
-        "Title": "390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting PoC Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/appsec-updates",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0j5BA0tL7LrDHm22j0yP29vzt_iOtcdnWPzYck1hIY8wg1U4y5LcmqQYkQoosINHhBU7IVousm1rw2IwUL4C7P_KnH4OI7AqM3KXeT0KwVpXn8QDUQ_saQu0txGm3ELcsSgXwc8KU7mlT5KpyoxshbS890KxAIMSCI_BDnEnSltDSHIL7EUyMkqpONfG/s728-e100/appsec-c.jpg",
-        "Title": "Innovate Securely: Top Strategies to Harmonize AppSec and R&D Teams",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwwcI7Yc3p_wy52FHe6lepw1yIdcN5wtLd86yU2BwvINXJhy-LO91Mn7mdEDn3admFBf2ZRK48PgN9Qk7ckD4cA9Z6CsLzgRyoyvHrUpI5V_-s_UPHFCrZKMtFC2DJkQXUFOnrvmaQkMAGXyu_p0jS4_PURHiiYa9kgQcPr0OdOKnyWSKkFcOhx5LEsTo/w500/openwrt.png",
-        "Title": "Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUTRLxEQ1ZH2L7HVYrh1yJsomAIj3-xWn0k4KS04O_AENQO1_LR5JnECEKI9vaqb6r_-E3Dj93YJeC3wjS8LRnLyiPDCDPr_kdzburPUwgwt2ERM3QfM1XFoFpOiBGUDGk0xMbLRqLsHZRfhNHipgVyH5WxQ-3Vr7FhXdffryECq3vJvLwBN0_lU7a89s/w500/fbi.jpg",
-        "Title": "DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB78UkLmdFZ6hKMB3lOMbZYWhiXWZDYevFpP5GQrlWqeO-73dWwECPwZbb894lMbYdK_02fFesMjueX-AYEGJqAnjx6KF7b4SIIbKnAsBd5OE9yVo3p1MMB9MQAgg4AD9HhImAbyayRANvMCnxZVc0-GjXmsOC5E_I5HSDxkJJGkIK36hq9Aaqyxmb5rU/w500/exploit.png",
-        "Title": "Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
-        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
-        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHXY1PJ6CzHF7vXl-bcJc6Jh4utuRjvZQIQgG9CsGM4v_V-QfHNR5yx2BCf6R1YS9rij9zz-28Xd7TnSprXlvwc-7yqPUAXRM5c_V0Pq6u4GGKdr_CRlvhRBv5EmpSZ2xtwFpx9fyUQzISCqhmDdIWN004Ff82esgq9hTpG1URZx38M5iPvNUX8vtbIVtt/w500/malware.png",
         "Title": "New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/fbi-busts-rydox-marketplace-with-7600.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhxMbxFPua5wLm_dL6LbX1VRlDG-9PM-Qrr7lz1z-gWVekgWFehuHNkm0edF1lCPz8eO7bLmwTXXc6oCEemeJPjFT-7tjyX-Twv-pZT7_AMglBkaOVhyphenhyphenaRcdOSLYX6mv1xhObw6NP7EDmZSrEtXdYP7khKytCpAV0lU1NP9CrV1k_tA9nYiXQTRLdT5Aq/w500/cybercrime.png",
         "Title": "FBI Busts Rydox Marketplace with 7,600 PII Sales, Cryptocurrency Worth $225K Seized",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
+        "Timestamp": "Dec 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/the-future-of-network-security.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu_FixCFdM3us1iish0RByMSXNHxnJbk8H_Kz17vQzKcFVpdWFwdCNCcWjtRF9v7SnWlED1XGJRH5KqJ8Jg38M3M3XCNK7lcbfMcEqGAh-TIRuvh-IsrpA357IH6OYZZ1EKw55iOmMiCCSzgeEcbzTRYGD5gBf7R1Ke6SXu8vsRB9SPP8fsWaKLy2lB34/w500/network-security.png",
+        "Title": "The Future of Network Security: Automated Internal and External Pentesting",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/296000-prometheus-instances-exposed.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilxvzp7qifblFeuL3ZoafBcE1HWFEiK00Lo9dmjf4qlisZ4iKgZRYAZ0UvUt8Juk8AVQvLV5HNsUa3YZdU-O6oyfIYbCsMSP76Ogi3jOabCm-30Ch8EG-OrLyRxkNKqc5pEWjyoYuBFvRMLoT7NaXcKtMcGspZy1Au1ny2cRyI-LDJuG4GcTR7YFbSf2Cj/w500/serves-hacking.png",
         "Title": "Over 300K Prometheus Instances Exposed: Credentials and API Keys Leaking Online",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
+        "Timestamp": "Dec 13, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cyber-physical-future",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
+        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/gamaredon-deploys-android-spyware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13WUoNbXgHDr5_gAdXczjU1LAe98rqcatOSPwWTSVvfl4w_swSOEO-xigY5mg9ksbrk0g3jtJrUaEfG95Q1LynMkh1d7kH9acDJWIlDGh1df4b9tmzZCn-S3nALOSl0DnKwTVNwdPIXlZaYLvDIf5uy7oZOW5NgjZhDGiz5Zc13an6D4xpYHxstbNgeAU/w500/android-spyware.png",
         "Title": "Gamaredon Deploys Android Spyware \"BoneSpy\" and \"PlainGnome\" in Former Soviet States",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNSHXdyszY4xQJhzRQNpMzOC3vYSCE9ItbTJwQiNb-PXrjMdW3JElK6Su1E8wUKGZANzk2dVHCq6PW_6W2NwSv8HuuvRLY_ayLh5oQvcZ3DrKHLm-33cIFBgTt9g00LTWGI8avGJ6Y-1g1mLqC9EGo2aMdTIAVz2voWLaM-7ofRLAQQRHNm0N4Ab5s8ac/w500/apple.png",
         "Title": "Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 14, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/",
-        "Img_URL": "https://media.wired.com/photos/675cbb76fa238fc0d1f77492/3:2/w_1280%2Cc_limit/Security_Microsoft_CC_GettyImages-1363201662.jpg",
-        "Title": "Microsoft\u2019s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers",
-        "Source": "WIRED",
-        "Timestamp": "Dec 14, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/saas-budget-planning-guide-for-it.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRbOYLsn6RfGGCnvC4KNUdDNETcwTVRTUzIasZdRYIA6oajOGNOY_BPM7BQ3p4IXD2v6GzsSxmlduiUueDq7mL5mxwmekP1XDfbEoBsSe3Z4ciYdmzsPoWiNEQx9_V8_MApheLBFG-7jRjNNX4leWiq637sQA_oqMW2pJx5qgkvrPnFgckHx2AgtZF2M/w500/auvik.png",
         "Title": "SaaS Budget Planning Guide for IT Professionals",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnTjPSBb9ahzIxw715VOCljB3uV6zda7xJXreuvjFHVZIKCkoAwJrvZF-se8Q_K0exMgm64qaSkDhfm-ARr5kgLwfxgN-U0nbWqUiU0eNTdHbagzdE1Td312e8xUA6Pa-4PhgPSiJA9ZYVjar0GzhZfqiX9aXQqRGHjxCs3TjCJvJubQcpuOycn1VlgoI/w500/wordpress.png",
         "Title": "WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable Plugins",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/gartner-endpoint-protection-d-v1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioLoJAzxkuhJOGg5CJZUiOmlsuLNwfqxBAdVrokoEOcGduCEMxw3ABDtIt_tUIHtXsp-RsloatJ4Lyxe9OORSzhK1nbOLCj66YbiEipGGUA6kC1J17JSjV8ssc3EfLi-qBLwztlCzzk8rSDs3AxYsoeM1pUscqxM-ghwWokE2XOlcYV_Cunt2niti-18gc/s728-rw-e365/cc.jpg",
-        "Title": "Crowdstrike Named A Leader In Endpoint Protection Platforms",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/europol-dismantles-27-ddos-attack.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsuVpzkz0_rIM7hKN6aKE_vp8WBEuGDwVCCBNIEMkJUOw24-EZRH3Q901vi251Cqmh1GpN0YYrRk5axS8bNDnTzDSHDKW-iz37TgBAegwL7aJNJd4n3A7oqiDmwNcFrexUShUaKwG0BxcIcjl7N7BzQkgOdY-BHPYTtuRKNM7aq8lzkolVFkVoiPSnYLot/w500/poweroff.png",
         "Title": "Europol Dismantles 27 DDoS Attack Platforms Across 15 Nations; Admins Arrested",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/appsec-updates",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0j5BA0tL7LrDHm22j0yP29vzt_iOtcdnWPzYck1hIY8wg1U4y5LcmqQYkQoosINHhBU7IVousm1rw2IwUL4C7P_KnH4OI7AqM3KXeT0KwVpXn8QDUQ_saQu0txGm3ELcsSgXwc8KU7mlT5KpyoxshbS890KxAIMSCI_BDnEnSltDSHIL7EUyMkqpONfG/s728-e100/appsec-c.jpg",
-        "Title": "Innovate Securely: Top Strategies to Harmonize AppSec and R&D Teams",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/secret-blizzard-deploys-kazuar-backdoor.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRMW2Jh3nLQ1mave4kVwSz9DW4xllPnrN3Phb7v5K-siy0qr_WlL4_w3Dv3PWyQup_YHM0GkBKDLNxh8nn2SjJQCv4StuaAC7a5rAvR2FkytrxGBtfyz1GVzTvOJboMNcWX8Y4ARuI3Zby3oe6C9w20HR0f-S-0eY3KnHYH97ob2AGbN9v8wSHkhvf-6Xg/w500/hacking.png",
         "Title": "Secret Blizzard Deploys Kazuar Backdoor in Ukraine Using Amadey Malware-as-a-Service",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/new-malware-technique-could-exploit.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2pKkxA0HOrAaH9gF-Unjn8wIAabqSSWKzdbl36rLSzNUZBrymS-35Zj9FUKoFLd62HTBpXUVJFBnDTEsV1Gi_QqnPRsbNxo9dTp2dCN4X1ZcaNONe_qMB34GKNyIkvj-rjMJ6sZL5k4DJEUPJCAGA62kUuADWER3SRTj862YXGyyIs6xD3adWgUKi_Uz/w500/exploit.gif",
         "Title": "New Malware Technique Could Exploit Windows UI Framework to Evade EDR Tools",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXMW_oZEst2wDMH9tcitEPxgA9DKvQGUiTODQ4_fBfIKFabYl5qNkEgC3o8aOYByBIplQ-bEgH4iaDOF-AiatedQJTSfOCGONnQQdIplhHB-rgqk-XHlSkZZ_nlyKln6yiy0a-TfpZOJMLT0KWwrPRVeCCQzhzhsE4A0HE2teq0-R1RXIJy7XF_epM3A2r/w500/ms.png",
         "Title": "Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without Alerts",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/zloader-malware-returns-with-dns.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRWaCegpAKNhkToYUGdZv9EAq36aHzE9vuL5YG1mCm5Q-IOlUrvZzF9Myj1HFXd8H6mtoPIzbMiEl7sM8eMg9NgUR1-sJQjU-vmO7B6s_wuttDFrxP1HTzCuxDBb4eozMSZlxxqQbT_AEcC-ydJWl9U5OkQ_FSCITL5lxy7rvb8ctztTEpLEhrOVSi_b6a/w500/malware-dns-tunnel.png",
         "Title": "ZLoader Malware Returns With DNS Tunneling to Stealthily Mask C2 Comms",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmawq8-KEMz-RQKu9l-sz8Qc4vC6x4OBvzZK-a3hyphenhyphenk2gZ2X0iss9NBfG3St6Ve4_EBU0ZXYSpd7vCrWpsNQsprDNCd1vH5jCtzlgSjL0Tz-LGLkoZSG-Q2Eo4Motdn9RW3MI504A8dFP_8qAQmGSdN0BQnTDyHjbK0ORc3OIYhIbNBpEmN0Wo3lcTtSw/w500/nudge.jpg",
-        "Title": "What is Nudge Security and How Does it Work?",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDTfns0-33bpc7EpwyrRPF0yhJr0Mya6W3GY0jtcW0ppe3ZlXDCcgth1NACJAS_qaAIcCOEzFKKOUGUyCxRbewq4EmwrBa80wLEm1JkMcuqdZa8FoybkStuVl6rm5qdT5U_UE7RQQmcTyrRchkDnc9KTjgKSOVSRTOLNFrLQIVGg1fRJjj4oAiRIMWUib/w500/chinese.png",
-        "Title": "Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/researchers-uncover-espionage-tactics.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_ni43VXnxEwwOte4sW7JElNrabUexM85_cBukLbbMxURpYsg3vNQa4KRy9IVii6A9syUc1b5KAJPpGV1VWmzg7NQsVL5aajmnZIGyQfrgNhVhE38VfOnqyW0LUfvAamrLmyVk5LsQDRd7GapUeKituF8F5pbAy59XcAKAbtE-7J6K5uVYaEJUepXRvFz/w500/chinese-hackers.png",
-        "Title": "Researchers Uncover Espionage Tactics of China-Based APT Groups in Southeast Asia",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ecM04xQt-7IEWG8b51HSCs8Sz8QFlQwaHxfwNp5vI5Iy2zcXIqZRfHa3fy0-RLJekZRI6czqD1XiymjG1OssUqK-Zox-YiCZsVOILBXEFeqM-QPbN6SHjb-kfs9DB_VK2pigurZ3-ZMqMsdR8gdB2vYljyfSI_ukDi3MS_DXniT5GCc46jCuPHJkZyWU/w500/windows-patch-update.png",
-        "Title": "Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 12, 2024"
+        "Timestamp": "Dec 13, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/",
@@ -218,8 +232,8 @@
     },
     {
         "Link": "https://www.wired.com/story/encryption-apps-chinese-telecom-hacking-hydra-russia-exxon/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Img_URL": "https://media.wired.com/photos/675cbb76fa238fc0d1f77492/3:2/w_1280%2Cc_limit/Security_Microsoft_CC_GettyImages-1363201662.jpg",
+        "Title": "Microsoft\u2019s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers",
         "Source": "WIRED",
         "Timestamp": "Dec 07, 2024"
     },
@@ -228,6 +242,13 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/05/fbiwanted-matveev.png",
         "Title": "U.S. Offered $10M for Hacker Just Arrested by Russia",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 04, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
@@ -432,20 +453,6 @@
         "Title": "Chinese Hackers Target Trump Campaign via Verizon Breach",
         "Source": "WIRED",
         "Timestamp": "Oct 22, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/ice-paragon-contract-white-house-review/",
-        "Img_URL": "https://media.wired.com/photos/6716e75d4579622521b74821/3:2/w_1280%2Cc_limit/Security_UNW_Leak_GettyImages-1988694804.jpg",
-        "Title": "Exposed United Nations Database Left Sensitive Information Accessible Online",
-        "Source": "WIRED",
-        "Timestamp": "Oct 21, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
-        "Img_URL": "https://media.wired.com/photos/67165c8276ffbecde7d8d803/3:2/w_1280%2Cc_limit/GettyImages-2159650477.jpg",
-        "Title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
-        "Source": "WIRED",
-        "Timestamp": "Oct 19, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/",
