@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
+        "Title": "HubPhish Exploits HubSpot Tools to Target 20,000 European Users for Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWhBvqlXrEx9i-dmh9hP07MHkWE-n_d2UAQusurbu-xJGJYlwVi-K0B62lbJImtFydkxkCsGGrq5jM9322SW1okvCfrPSwqUmPJWfqXu4A_mUWI3ClxW3TJaff57t2YeIxv_wgE4KILXH3xyLd0gRCDkbPv8GV6Dyq3cme6mIpBLZgSkyJDk4bCrQXqij/w500/Apache_Struts.png",
+        "Title": "Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
         "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cyber-physical-future",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
+        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -21,9 +42,9 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cyber-physical-future",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
-        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
+        "Link": "https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93OAitfNonQBmBERq8Xaqt3yVQfcKgEVH53otQlQQSfVhLq7UnJrJI9i9LwW4nr_eRksO1YdlCq0w5fDVVwoQ1LTgqG02QThn65ZgKCnGcH_qORv2DZ0ihcfKyKDIDQwhF4hvB3AStzE5u1iyESKSS4ovfTwuJ4dYn7qRFjHxzDXoycmBC3m6nfy0V6Mh/w500/atch.png",
+        "Title": "BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -35,6 +56,13 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5LYFozAMAf4BZuwt9giFnt_uyeU0t6VxOWbJk5XomscawAAx9r-IGFKHFN92meIAZpIqtII6z_6g7qd610iHvlXrYTFloRuTcQiCmG3nyuU-iijHOCdW9HrOBPn8cBM8CQGeadIdcIcXtZWwNthNYFU7Iny-3EbFr5vaEeSZPru5GKVgGc2dg676zUxk/w500/silverfort.png",
+        "Title": "Learn How Experts Secure Privileged Accounts\u2014Proven PAS Strategies Webinar",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkPYSbBrT4xjMOLeR8Nv9T12czuZc8-80hFpWK-MJ7_tDqSX04oyYBrWvTQx2cjAuRbU2cIt2nlAdetnni5DQX9vXARtTN_2paJsXLy2Iq-btBqNqisLXUEUcygW6gNfz0eA0riYA4xwHeEZAF5J3yzazFRJAyWAYKQSE2-d7Un6kd0H9eji2DKH25U-cs/w500/facebook.png",
         "Title": "Meta Fined \u20ac251 Million for 2018 Data Breach Impacting 29 Million Accounts",
@@ -42,23 +70,9 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWhBvqlXrEx9i-dmh9hP07MHkWE-n_d2UAQusurbu-xJGJYlwVi-K0B62lbJImtFydkxkCsGGrq5jM9322SW1okvCfrPSwqUmPJWfqXu4A_mUWI3ClxW3TJaff57t2YeIxv_wgE4KILXH3xyLd0gRCDkbPv8GV6Dyq3cme6mIpBLZgSkyJDk4bCrQXqij/w500/Apache_Struts.png",
-        "Title": "Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEyxHJkz7V-0QOTO4ST1Qs5Sbe7pE30NNNEqhpA-uqhYZ-iPG65oLdmHexpXGcxEFnzOOef6iLd4L7wh2kQphSkRWUU4RnLtv_XgbGnNOaYUCY9CI1SV94khiie-HJFNIpmwvmsyUaDAr24jrKNHvRl38FDU34e11dFnRXrnVAIxm_GocBDE1d9oM0bP2/w500/malware.png",
         "Title": "Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5LYFozAMAf4BZuwt9giFnt_uyeU0t6VxOWbJk5XomscawAAx9r-IGFKHFN92meIAZpIqtII6z_6g7qd610iHvlXrYTFloRuTcQiCmG3nyuU-iijHOCdW9HrOBPn8cBM8CQGeadIdcIcXtZWwNthNYFU7Iny-3EbFr5vaEeSZPru5GKVgGc2dg676zUxk/w500/silverfort.png",
-        "Title": "Learn How Experts Secure Privileged Accounts\u2014Proven PAS Strategies Webinar",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -81,26 +95,12 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiDYkmrs6YdKbw7hvNKf4wWzga1BCwYzctiG0NpITnaXKB8rncCHCkYfWfrxrNieqtRxM5gDKhsu6YohIZmSP7Hp55jqfuz52mYHZocPJu25HiKgNt5aMINVDCYs6b2tV3SbOUpfMcccq-uUPZ4xvT0eyfoywGFJoUF7OgNKz8WdwxfLQa28MT8sChKoxY/w500/cyberattack.png",
         "Title": "Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
+        "Timestamp": "Dec 17, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_bMyK51UEk6G7B-Umw22ugEyKzM5XopsWrKqUMglTqQRoEKUlvK08LNAHhRi6Vlso1TgpglAzpIe7x9KD2Tyt6HOkYIRMwpYPaW2tdEDifYO85t8r7GQCJfUum_QbH59dbdvseZ4Wt0BxKzh_j-Zxz7oVxWrnPDH6uVfmsLd_PQhPOxUw4H7nqsPSiFw/w500/threathunting.png",
         "Title": "5 Practical Techniques for Effective Cyber Threat Hunting",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQFXORGB1eMRZrIsD9XVybGvJ5UY3ifbkYjRgx6q5ua2wYzah2S-sIJrZUHOiBhbbOB4br1LjgIk9q1bWYu1tvZNo0nLyUNXhNBzuh_jpCYKVk5dCBtZcgj-jaVBOofwR2iGPqNRb49MSvMyO1i7i50CKIcyATpEdpjhueB0B_61zxdhjCXzh2voIEhwZ/w500/software-update.png",
-        "Title": "Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrXvA5hTymxi7IGHaBHEK0pTNf2H2Cqo3JXIZBSfTUKzQyYzt95db1HvxuOa-Rl3M9IR23i24uuNeVRDMGL5Sjg9UIRsa5lHFeE_XpQLREVCc-g4pxtGCtSdtBFq6abxGpFByPAH2YhoeoVJRshr-m59MpFjCciNtW7H6wRiHyfj1PoX9pSJdNDooiFhjE/w500/mark.png",
-        "Title": "The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal",
         "Source": "The Hacker News",
         "Timestamp": "Dec 17, 2024"
     },
@@ -112,9 +112,9 @@
         "Timestamp": "Dec 17, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFYBdnhkP8I7yccA9Zb-Rg62NDvwwTaCliF8Ft8ujjFmjJSb1rRNtyCIVLL_ny11v05rR4ABnNLjWoUCqFyKvxK-u-lrTHuDFA7ZKGUxs6UFq827ZY3zJMu0-NYCh_Sl1nbFronJq_oh_xYzVFwrjZB03yq7COF2binZ3QxrFnLDM5sYVIEU7D4JbjtzV/w500/hackers.png",
-        "Title": "CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign",
+        "Link": "https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQFXORGB1eMRZrIsD9XVybGvJ5UY3ifbkYjRgx6q5ua2wYzah2S-sIJrZUHOiBhbbOB4br1LjgIk9q1bWYu1tvZNo0nLyUNXhNBzuh_jpCYKVk5dCBtZcgj-jaVBOofwR2iGPqNRb49MSvMyO1i7i50CKIcyATpEdpjhueB0B_61zxdhjCXzh2voIEhwZ/w500/software-update.png",
+        "Title": "Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection",
         "Source": "The Hacker News",
         "Timestamp": "Dec 17, 2024"
     },
@@ -122,6 +122,20 @@
         "Link": "https://thehackernews.uk/cyber-physical-future",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
         "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrXvA5hTymxi7IGHaBHEK0pTNf2H2Cqo3JXIZBSfTUKzQyYzt95db1HvxuOa-Rl3M9IR23i24uuNeVRDMGL5Sjg9UIRsa5lHFeE_XpQLREVCc-g4pxtGCtSdtBFq6abxGpFByPAH2YhoeoVJRshr-m59MpFjCciNtW7H6wRiHyfj1PoX9pSJdNDooiFhjE/w500/mark.png",
+        "Title": "The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 17, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFYBdnhkP8I7yccA9Zb-Rg62NDvwwTaCliF8Ft8ujjFmjJSb1rRNtyCIVLL_ny11v05rR4ABnNLjWoUCqFyKvxK-u-lrTHuDFA7ZKGUxs6UFq827ZY3zJMu0-NYCh_Sl1nbFronJq_oh_xYzVFwrjZB03yq7COF2binZ3QxrFnLDM5sYVIEU7D4JbjtzV/w500/hackers.png",
+        "Title": "CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Dec 17, 2024"
     },
@@ -150,34 +164,6 @@
         "Link": "https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F_uDgbP7vJbQCdtyMwJPUTzgfpu9wfvAs9nmVHVd0aidx1JxW_Try4-cut3o78kyBT5kLS3I1qzHhyphenhyphen4Ff75p7NMDCUjcRqAr9QbKULZ8VGvGn1pXlUx74gam_uwFv3tOT2k8Eyhyp_wwCQh9QVqsFFDUh6BevF_beDxrlRX-vADCeKuAg5AepRMM6Bw/w500/devops.jpg",
         "Title": "Data Governance in DevOps: Ensuring Compliance in the AI Era",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/new-investment-scam-leverages-ai-social.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-7hN7E8BI6TzUfGWZkucD0F0gLkLygc8t3iD2rBdgFEva6GfwgDib_I5vXga9HrOuKxs5JHkjBzhbh7h6uzqXoX_AQgGKamUnQiWkMLNOsmfoqKkqaLbYWd4K6cbGn4GnVxwar3EkHG-KqsKYU1wc0tJMEMDnzr-yomks7Oh277YjT3GDd6ycibmwXsQ/w500/cyber.png",
-        "Title": "New Investment Scam Leverages AI, Social Media Ads to Target Victims Worldwide",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/new-glutton-malware-exploits-popular.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV8FVKb7ARXCrz0XAf27snu-JEKkkeogcv37WjtsmTlwD5F-rQvjk7ByPj4RWZ-IsReGGofBsybVv2AK2yIFb99LBYWOwFmoC5PEbPZz1mxY6KpDRe6F3aVcytOYjl_shhOFWBGXMjjLA1g1VBM-Gx0vWp0lu9BY38DVMBpg5jIXwNTa3QAEl3GfyUjZtL/w500/php.png",
-        "Title": "New Glutton Malware Exploits Popular PHP Frameworks Like Laravel and ThinkPHP",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/ukrainian-minors-recruited-for-cyber.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzxYYFxvuAQyAWX0M_LSTcNzvHzTEzoNt-64ueJovwTc0v4r_cqJsAUOCqie_rmjeeEfxbmhbIXIrHy3v4g2pOrH-OfvmG73HDmwSEZ5fsVYj87J6C10sZuI67W0IcJywmk4XXwK74Vj70bd2otydOmA6PQ9n1x45eYMSVKrjb9SnX4Oirs9JTPHw9IFUc/w500/russian.png",
-        "Title": "Ukrainian Minors Recruited for Cyber Ops and Reconnaissance in Russian Airstrikes",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 17, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/germany-disrupts-badbox-malware-on.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNsdzNpIQhToNFoaZ0ksnz7qZQnWakUUlrbpCTztu2zEeTh4DlzkB-jrtbjbbdMohtBSf0pasiCbEhoqdlhbECICN_xiZd8MNWQgKsBkA3hVuQV8ssH5stJ3SCHGHbzpsfEhwFMA_VIhUe2UXpAsDAGXyuFJ9xvdg1lJe1yl0zFb-2YtaDetEb3dBgiPr/w500/badbox.png",
-        "Title": "Germany Disrupts BADBOX Malware on 30,000 Devices Using Sinkhole Action",
         "Source": "The Hacker News",
         "Timestamp": "Dec 17, 2024"
     },
@@ -231,16 +217,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -329,6 +315,13 @@
         "Timestamp": "Nov 09, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/11/fbi-spike-in-hacked-police-emails-fake-subpoenas/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/03/legalrequest.png",
+        "Title": "FBI: Spike in Hacked Police Emails, Fake Subpoenas",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 09, 2024"
+    },
+    {
         "Link": "https://www.wired.com/story/mysterious-iphone-reboot-ios-18-police/",
         "Img_URL": "https://media.wired.com/photos/6735e10f310e865b05b94244/3:2/w_1280%2Cc_limit/Security_Animation_GettyImages.jpg",
         "Title": "More Spyware, Fewer Rules: What Trump\u2019s Return Means for US Cybersecurity",
@@ -343,16 +336,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -474,12 +467,5 @@
         "Title": "A Single Cloud Compromise Can Feed an Army of AI Sex Bots",
         "Source": "KrebsonSecurity",
         "Timestamp": "Oct 03, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/09/crooked-cops-stolen-laptops-the-ghost-of-ugnazi/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/09/iza-lasd.png",
-        "Title": "Crooked Cops, Stolen Laptops & the Ghost of UGNazi",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Sep 30, 2024"
     }
 ]
