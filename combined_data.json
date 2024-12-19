@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/w500/npm.png",
+        "Title": "Thousands Download Malicious npm Libraries Impersonating Legitimate Tools",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGS4s-l4PzLiM4vfSusTBptUPFvDdcmRGiBSagRLz22d0ccXUGNlVdCZTIMsGUR-IVvs_cOO-wKMR321GRA-lR5ME3fzIdg3XX9Pin-xzKLV8YpJ6ZATm_tUp5GUNj0nFve_DHrXnf5akUd_DJq15-j34oDS4g4YBupTnjgjUyo_Iy0OWuoW9GGlpMxt4/w500/ddos.png",
+        "Title": "Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 19, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
         "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cyber-physical-future",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
+        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
         "Source": "The Hacker News",
         "Timestamp": "Dec 19, 2024"
     },
@@ -21,13 +42,6 @@
         "Timestamp": "Dec 19, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/cyber-physical-future",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
-        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiYlVsnodMuZBC682qSkmE8Q-eqRua5fXcGd3EwXrJHz-tBaU5ALoQHjtoOsQpcZ5Pnbq-FGhn_yEuRp1uU9S6j77t8J9Y4u_s21KHBS_8lkogP2nWm0bSIxoryckA387PBG-ORxULNEyR2tO-hNe5FgIkd3rvTZeGgDR3zE50qSHx0FMgAuVtxMOJmYpD/w500/malware.png",
         "Title": "UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App",
@@ -38,6 +52,13 @@
         "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
         "Title": "HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 19, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
+        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
         "Source": "The Hacker News",
         "Timestamp": "Dec 19, 2024"
     },
@@ -56,13 +77,6 @@
         "Timestamp": "Dec 19, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
-        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW25hMDzDaduXghIqBnOlnsbINi4FctEWHUFSfnnRFjOv6NYXNsz3UzCGm-IXtOHTsw5NkF-fxVTz1QlZokbmDseeAhyh3tD5v4A_HAxFK3iOifs3zl9xa8qZVz3VCapHCe4uJaqVtzUHCbPLVCKElwyCUV7sMl3qeWbiCiRwu2KLi5jISzDo4amlnRm-/w500/rdp.png",
         "Title": "APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP",
@@ -73,20 +87,6 @@
         "Link": "https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1uWtdMnHISrGdvH-UpJYbYhsJLBe8yAYXRv3Rze5aAMRlTyp1YRKBlM6Xpxk205wT4C0VscDEWAbgtU1sQKPvLEhcrV1ZOcqVEpIW04MgEbVGLQox8As41W5JVUrkBJrrRaZs8VUlZuXDBw_J6BmPZi_Ytr_Fl5jiXXT-Pf7tAXz-D_CwTNtkyy4AJ8/w500/cynet.jpg",
         "Title": "ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93OAitfNonQBmBERq8Xaqt3yVQfcKgEVH53otQlQQSfVhLq7UnJrJI9i9LwW4nr_eRksO1YdlCq0w5fDVVwoQ1LTgqG02QThn65ZgKCnGcH_qORv2DZ0ihcfKyKDIDQwhF4hvB3AStzE5u1iyESKSS4ovfTwuJ4dYn7qRFjHxzDXoycmBC3m6nfy0V6Mh/w500/atch.png",
-        "Title": "BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/interpol-pushes-for-romance-baiting-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYF1jO2W2oZ_mBJhw_X7ptSF8u49ba_z6cx0iMUS9yCkV0r6cjG4TIamP5o0u1bLm2a5BLkAiZ_E546I_X0m-XQprK7thvfQstuVBcbm1DOsXjX3AWjgI5oxurPSIcFJPVnchI2ccfAchHrzJVb8nk06ey_CQqyETjOrua1M93YRkL0qdhZr56OHrzE5VG/w500/scams.png",
-        "Title": "INTERPOL Pushes for \"Romance Baiting\" to Replace \"Pig Butchering\" in Scam Discourse",
         "Source": "The Hacker News",
         "Timestamp": "Dec 19, 2024"
     },
@@ -105,16 +105,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkPYSbBrT4xjMOLeR8Nv9T12czuZc8-80hFpWK-MJ7_tDqSX04oyYBrWvTQx2cjAuRbU2cIt2nlAdetnni5DQX9vXARtTN_2paJsXLy2Iq-btBqNqisLXUEUcygW6gNfz0eA0riYA4xwHeEZAF5J3yzazFRJAyWAYKQSE2-d7Un6kd0H9eji2DKH25U-cs/w500/facebook.png",
-        "Title": "Meta Fined \u20ac251 Million for 2018 Data Breach Impacting 29 Million Accounts",
+        "Link": "https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93OAitfNonQBmBERq8Xaqt3yVQfcKgEVH53otQlQQSfVhLq7UnJrJI9i9LwW4nr_eRksO1YdlCq0w5fDVVwoQ1LTgqG02QThn65ZgKCnGcH_qORv2DZ0ihcfKyKDIDQwhF4hvB3AStzE5u1iyESKSS4ovfTwuJ4dYn7qRFjHxzDXoycmBC3m6nfy0V6Mh/w500/atch.png",
+        "Title": "BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEyxHJkz7V-0QOTO4ST1Qs5Sbe7pE30NNNEqhpA-uqhYZ-iPG65oLdmHexpXGcxEFnzOOef6iLd4L7wh2kQphSkRWUU4RnLtv_XgbGnNOaYUCY9CI1SV94khiie-HJFNIpmwvmsyUaDAr24jrKNHvRl38FDU34e11dFnRXrnVAIxm_GocBDE1d9oM0bP2/w500/malware.png",
-        "Title": "Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware",
+        "Link": "https://thehackernews.com/2024/12/interpol-pushes-for-romance-baiting-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYF1jO2W2oZ_mBJhw_X7ptSF8u49ba_z6cx0iMUS9yCkV0r6cjG4TIamP5o0u1bLm2a5BLkAiZ_E546I_X0m-XQprK7thvfQstuVBcbm1DOsXjX3AWjgI5oxurPSIcFJPVnchI2ccfAchHrzJVb8nk06ey_CQqyETjOrua1M93YRkL0qdhZr56OHrzE5VG/w500/scams.png",
+        "Title": "INTERPOL Pushes for \"Romance Baiting\" to Replace \"Pig Butchering\" in Scam Discourse",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -126,9 +126,9 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/hackers-use-microsoft-msc-files-to.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWu76V7X7N6EmmPB39gaTXKEG4sLqoVUNlBW2eKzbeGjwns_5wjL-qUIg8gjVrCddtOM-b_WadNapczU9iDUqjtd8RmKVz884ZJqUOs7Mj94xg_Ae2PI39cWauypgUST2O1NsL1jW0i2YBzWc9T7mU8u73OEkKUUHsU0HYFvLTbNBvUaiuGfNOQdAJocOQ/w500/main.png",
-        "Title": "Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks",
+        "Link": "https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkPYSbBrT4xjMOLeR8Nv9T12czuZc8-80hFpWK-MJ7_tDqSX04oyYBrWvTQx2cjAuRbU2cIt2nlAdetnni5DQX9vXARtTN_2paJsXLy2Iq-btBqNqisLXUEUcygW6gNfz0eA0riYA4xwHeEZAF5J3yzazFRJAyWAYKQSE2-d7Un6kd0H9eji2DKH25U-cs/w500/facebook.png",
+        "Title": "Meta Fined \u20ac251 Million for 2018 Data Breach Impacting 29 Million Accounts",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -140,58 +140,58 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/attackers-exploit-microsoft-teams-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEyxHJkz7V-0QOTO4ST1Qs5Sbe7pE30NNNEqhpA-uqhYZ-iPG65oLdmHexpXGcxEFnzOOef6iLd4L7wh2kQphSkRWUU4RnLtv_XgbGnNOaYUCY9CI1SV94khiie-HJFNIpmwvmsyUaDAr24jrKNHvRl38FDU34e11dFnRXrnVAIxm_GocBDE1d9oM0bP2/w500/malware.png",
+        "Title": "Attackers Exploit Microsoft Teams and AnyDesk to Deploy DarkGate Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/hackers-use-microsoft-msc-files-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWu76V7X7N6EmmPB39gaTXKEG4sLqoVUNlBW2eKzbeGjwns_5wjL-qUIg8gjVrCddtOM-b_WadNapczU9iDUqjtd8RmKVz884ZJqUOs7Mj94xg_Ae2PI39cWauypgUST2O1NsL1jW0i2YBzWc9T7mU8u73OEkKUUHsU0HYFvLTbNBvUaiuGfNOQdAJocOQ/w500/main.png",
+        "Title": "Hackers Use Microsoft MSC Files to Deploy Obfuscated Backdoor in Pakistan Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQX1cbVp52H7fQYixfZw-d9NXzppPA6aGi71PFPnidHWcwiMAqojnnf2kvQfTnDdTa5BMxVKves0oHpqe_K2Tw_9HLXULLG3Evo0mPY4NteE-8_Gjx7O2RtLGYp6ZL74_NJ0g-nj0r3a__ofxqnKdDheuxjALPBUcCRDaMgdpRwCughlRzIV5-_823apE/w500/webinar.png",
         "Title": "Even Great Companies Get Breached \u2014 Find Out Why and How to Stop It",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiDYkmrs6YdKbw7hvNKf4wWzga1BCwYzctiG0NpITnaXKB8rncCHCkYfWfrxrNieqtRxM5gDKhsu6YohIZmSP7Hp55jqfuz52mYHZocPJu25HiKgNt5aMINVDCYs6b2tV3SbOUpfMcccq-uUPZ4xvT0eyfoywGFJoUF7OgNKz8WdwxfLQa28MT8sChKoxY/w500/cyberattack.png",
         "Title": "Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_bMyK51UEk6G7B-Umw22ugEyKzM5XopsWrKqUMglTqQRoEKUlvK08LNAHhRi6Vlso1TgpglAzpIe7x9KD2Tyt6HOkYIRMwpYPaW2tdEDifYO85t8r7GQCJfUum_QbH59dbdvseZ4Wt0BxKzh_j-Zxz7oVxWrnPDH6uVfmsLd_PQhPOxUw4H7nqsPSiFw/w500/threathunting.png",
         "Title": "5 Practical Techniques for Effective Cyber Threat Hunting",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQFXORGB1eMRZrIsD9XVybGvJ5UY3ifbkYjRgx6q5ua2wYzah2S-sIJrZUHOiBhbbOB4br1LjgIk9q1bWYu1tvZNo0nLyUNXhNBzuh_jpCYKVk5dCBtZcgj-jaVBOofwR2iGPqNRb49MSvMyO1i7i50CKIcyATpEdpjhueB0B_61zxdhjCXzh2voIEhwZ/w500/software-update.png",
         "Title": "Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrXvA5hTymxi7IGHaBHEK0pTNf2H2Cqo3JXIZBSfTUKzQyYzt95db1HvxuOa-Rl3M9IR23i24uuNeVRDMGL5Sjg9UIRsa5lHFeE_XpQLREVCc-g4pxtGCtSdtBFq6abxGpFByPAH2YhoeoVJRshr-m59MpFjCciNtW7H6wRiHyfj1PoX9pSJdNDooiFhjE/w500/mark.png",
         "Title": "The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFYBdnhkP8I7yccA9Zb-Rg62NDvwwTaCliF8Ft8ujjFmjJSb1rRNtyCIVLL_ny11v05rR4ABnNLjWoUCqFyKvxK-u-lrTHuDFA7ZKGUxs6UFq827ZY3zJMu0-NYCh_Sl1nbFronJq_oh_xYzVFwrjZB03yq7COF2binZ3QxrFnLDM5sYVIEU7D4JbjtzV/w500/hackers.png",
         "Title": "CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/deceptionads-delivers-1m-daily.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvSuBtMmbapau5tmPxDfq_L4nKrQNk6F-ciqQwnSXB8pGYtyKmMlHfxe7EIeBIn9mYn8xx854cbp4ygonVa4pt3owlG0Ar9Z8D-TBJuSL9ef14z2Bq7OGRxi_hPo-rmyv29h05RLzhksO0FYc1UjasQ86UaHMJxWU4f6na9SHOvK1zlvFJyS1FemrFZyEa/w500/adclick.png",
-        "Title": "DeceptionAds Delivers 1M+ Daily Impressions via 3,000 Sites, Fake CAPTCHA Pages",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/novispy-spyware-installed-on.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2TkY3EkWwGy-ZDFhCeo3o3ohyphenhyphenfdPPvRZc-8Oey9ynOCgVjRDcDdp5nTJPabnz5qW5DGuZv-jeRdoTT6WTDFY1W_5eYlDFn24y8v44qr4fh1PG7m5eFJpSx8bpGYkyotmR5lg9fomrr23KrzhCYNo0Pwc0ZwWKZIVHcw96XpC_J32I76ouROQ7NUxGVL4/w500/spyware.png",
-        "Title": "NoviSpy Spyware Installed on Journalist's Phone After Unlocking It With Cellebrite Tool",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -245,16 +245,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -336,6 +336,13 @@
         "Timestamp": "Nov 12, 2024"
     },
     {
+        "Link": "https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
+        "Title": "Microsoft Patch Tuesday, November 2024 Edition",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 12, 2024"
+    },
+    {
         "Link": "https://krebsonsecurity.com/2024/11/fbi-spike-in-hacked-police-emails-fake-subpoenas/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/03/legalrequest.png",
         "Title": "FBI: Spike in Hacked Police Emails, Fake Subpoenas",
@@ -357,9 +364,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -371,9 +378,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -474,12 +481,5 @@
         "Title": "Patch Tuesday, October 2024 Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Oct 08, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/bedrock.png",
-        "Title": "A Single Cloud Compromise Can Feed an Army of AI Sex Bots",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 03, 2024"
     }
 ]
