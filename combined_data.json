@@ -1,93 +1,100 @@
 [
     {
-        "Link": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/w500/npm.png",
-        "Title": "Thousands Download Malicious npm Libraries Impersonating Legitimate Tools",
+        "Link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/w500/chrome.png",
+        "Title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGS4s-l4PzLiM4vfSusTBptUPFvDdcmRGiBSagRLz22d0ccXUGNlVdCZTIMsGUR-IVvs_cOO-wKMR321GRA-lR5ME3fzIdg3XX9Pin-xzKLV8YpJ6ZATm_tUp5GUNj0nFve_DHrXnf5akUd_DJq15-j34oDS4g4YBupTnjgjUyo_Iy0OWuoW9GGlpMxt4/w500/ddos.png",
-        "Title": "Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords",
+        "Link": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcKkDagQtBIsRJWR-vJAFwn4ljkwmV8QRL-BOkyZu2yQzpXNMPv0lEE-spsW8PfbznGbyrLFmGMevrd1_aSVKbO5AXepvXgJQj-sWf6vTiNXsdfPWZEtzZ6KJ_XLt3jOGh5I56rWr5K4PaUIBIQ8a1ifk-AOQ4LRXl1oXMFCcaNYA1K9hMovpWSFWqm_i/w500/code.png",
+        "Title": "Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
-        "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
+        "Link": "https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYq_XBqs2-sy6w-OAmQw2InKF53_YrQJvcwZ1BFTiXuLc2Rt9rlgjqUBGhiz9aI6D-hxDusgT5DTQagdNz4X8AW2Ccrv948x6hAcORT64ESQUxjHHg7yOspVo7d3AmYUzbtNdr4XevnVbiAx3sA9VJ9BHe1Q-UVlQmIWJWbAUaETnO_sq2OONS1-QrWSW0/w500/firewall.png",
+        "Title": "Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.uk/cyber-physical-future",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
         "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtDqW3gk6EtyHmjoimsDEQUoSz5JJuZDr8SVFjhrPRnsgYe8k899eB47ZXlsbBj3nP368fOM4s05NFwqKJE_Qf1NV9aL1G3mqPf0RmQ4dSv3yvPTN5XI92JhSeec3WHTeRui7iU8l3cgJv8mFRUcTLH8AyLsOjQfX61biFF1065NLwyOdBmU76tsWEm99/w500/cisa.png",
-        "Title": "CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01",
+        "Link": "https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUOZUkDSouaSBk62jjQ8saJI5kqdPN6Qvk-Q0YbX2KOyMOzRZ6TiByy92gZeo75zBv3qKki7GPZYXwp6Zj0okwAw-bhY-3SJioiOrUgPURwJdCOwGUihaFdSG1kZJsKIRJxvidKD06xc09U3IxL_L9CDV_6Rwtqv6tcLLDZBqcOtmyMkDqW8g4JbblOCX4/w500/cyberattack.png",
+        "Title": "Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhAW_cDwCeloSnZgah7GafNtwI97VqZAXG3g8FlrdpPSKYk5F4uZVcKT0z4FcXhf2xxhSH5_IkLidXpfyGImfmsPdr2oXBb-bDJr1cQGM13xGXebblUBQafm5p1YYC9F0s_DVBUsKeIP8LKp0hIWUmhhU1K5CIsebkWSNWP7Jnu6MepcNkk0pBeWrwC_ik/w500/netflix.png",
-        "Title": "Dutch DPA Fines Netflix \u20ac4.75 Million for GDPR Violations Over Data Transparency",
+        "Link": "https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5D7EpeDN-CFTcSFZ_YCswm9WrYbS_KhGBOH99bEmGuJI3GQXkGIThUM7-oBOQ_uL9_z6xzMH_mj9YAlXlfTh-I8dWBs0hingLFLg-ePsqQpiVFIkmW5QDX_H_g5DVPjqtrSZkqAedF05QZZN27w6yZCTXZ0xhsl_RnFy2czmRb9FeKRswHvHmGDdsttWD/w500/cisa.jpg",
+        "Title": "CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiYlVsnodMuZBC682qSkmE8Q-eqRua5fXcGd3EwXrJHz-tBaU5ALoQHjtoOsQpcZ5Pnbq-FGhn_yEuRp1uU9S6j77t8J9Y4u_s21KHBS_8lkogP2nWm0bSIxoryckA387PBG-ORxULNEyR2tO-hNe5FgIkd3rvTZeGgDR3zE50qSHx0FMgAuVtxMOJmYpD/w500/malware.png",
-        "Title": "UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App",
+        "Link": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/w500/npm.png",
+        "Title": "Thousands Download Malicious npm Libraries Impersonating Legitimate Tools",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
-        "Title": "HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft",
+        "Link": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGS4s-l4PzLiM4vfSusTBptUPFvDdcmRGiBSagRLz22d0ccXUGNlVdCZTIMsGUR-IVvs_cOO-wKMR321GRA-lR5ME3fzIdg3XX9Pin-xzKLV8YpJ6ZATm_tUp5GUNj0nFve_DHrXnf5akUd_DJq15-j34oDS4g4YBupTnjgjUyo_Iy0OWuoW9GGlpMxt4/w500/ddos.png",
+        "Title": "Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
         "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWhBvqlXrEx9i-dmh9hP07MHkWE-n_d2UAQusurbu-xJGJYlwVi-K0B62lbJImtFydkxkCsGGrq5jM9322SW1okvCfrPSwqUmPJWfqXu4A_mUWI3ClxW3TJaff57t2YeIxv_wgE4KILXH3xyLd0gRCDkbPv8GV6Dyq3cme6mIpBLZgSkyJDk4bCrQXqij/w500/Apache_Struts.png",
-        "Title": "Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected",
+        "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
+        "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
-        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
+        "Link": "https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtDqW3gk6EtyHmjoimsDEQUoSz5JJuZDr8SVFjhrPRnsgYe8k899eB47ZXlsbBj3nP368fOM4s05NFwqKJE_Qf1NV9aL1G3mqPf0RmQ4dSv3yvPTN5XI92JhSeec3WHTeRui7iU8l3cgJv8mFRUcTLH8AyLsOjQfX61biFF1065NLwyOdBmU76tsWEm99/w500/cisa.png",
+        "Title": "CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW25hMDzDaduXghIqBnOlnsbINi4FctEWHUFSfnnRFjOv6NYXNsz3UzCGm-IXtOHTsw5NkF-fxVTz1QlZokbmDseeAhyh3tD5v4A_HAxFK3iOifs3zl9xa8qZVz3VCapHCe4uJaqVtzUHCbPLVCKElwyCUV7sMl3qeWbiCiRwu2KLi5jISzDo4amlnRm-/w500/rdp.png",
-        "Title": "APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP",
+        "Link": "https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhAW_cDwCeloSnZgah7GafNtwI97VqZAXG3g8FlrdpPSKYk5F4uZVcKT0z4FcXhf2xxhSH5_IkLidXpfyGImfmsPdr2oXBb-bDJr1cQGM13xGXebblUBQafm5p1YYC9F0s_DVBUsKeIP8LKp0hIWUmhhU1K5CIsebkWSNWP7Jnu6MepcNkk0pBeWrwC_ik/w500/netflix.png",
+        "Title": "Dutch DPA Fines Netflix \u20ac4.75 Million for GDPR Violations Over Data Transparency",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1uWtdMnHISrGdvH-UpJYbYhsJLBe8yAYXRv3Rze5aAMRlTyp1YRKBlM6Xpxk205wT4C0VscDEWAbgtU1sQKPvLEhcrV1ZOcqVEpIW04MgEbVGLQox8As41W5JVUrkBJrrRaZs8VUlZuXDBw_J6BmPZi_Ytr_Fl5jiXXT-Pf7tAXz-D_CwTNtkyy4AJ8/w500/cynet.jpg",
-        "Title": "ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation",
+        "Link": "https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiYlVsnodMuZBC682qSkmE8Q-eqRua5fXcGd3EwXrJHz-tBaU5ALoQHjtoOsQpcZ5Pnbq-FGhn_yEuRp1uU9S6j77t8J9Y4u_s21KHBS_8lkogP2nWm0bSIxoryckA387PBG-ORxULNEyR2tO-hNe5FgIkd3rvTZeGgDR3zE50qSHx0FMgAuVtxMOJmYpD/w500/malware.png",
+        "Title": "UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App",
         "Source": "The Hacker News",
+        "Timestamp": "Dec 20, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/araneida-scanner.png",
+        "Title": "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Dec 19, 2024"
     },
     {
@@ -105,6 +112,55 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
+        "Title": "HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWhBvqlXrEx9i-dmh9hP07MHkWE-n_d2UAQusurbu-xJGJYlwVi-K0B62lbJImtFydkxkCsGGrq5jM9322SW1okvCfrPSwqUmPJWfqXu4A_mUWI3ClxW3TJaff57t2YeIxv_wgE4KILXH3xyLd0gRCDkbPv8GV6Dyq3cme6mIpBLZgSkyJDk4bCrQXqij/w500/Apache_Struts.png",
+        "Title": "Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
+        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
+        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/cyber-physical-future",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
+        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW25hMDzDaduXghIqBnOlnsbINi4FctEWHUFSfnnRFjOv6NYXNsz3UzCGm-IXtOHTsw5NkF-fxVTz1QlZokbmDseeAhyh3tD5v4A_HAxFK3iOifs3zl9xa8qZVz3VCapHCe4uJaqVtzUHCbPLVCKElwyCUV7sMl3qeWbiCiRwu2KLi5jISzDo4amlnRm-/w500/rdp.png",
+        "Title": "APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1uWtdMnHISrGdvH-UpJYbYhsJLBe8yAYXRv3Rze5aAMRlTyp1YRKBlM6Xpxk205wT4C0VscDEWAbgtU1sQKPvLEhcrV1ZOcqVEpIW04MgEbVGLQox8As41W5JVUrkBJrrRaZs8VUlZuXDBw_J6BmPZi_Ytr_Fl5jiXXT-Pf7tAXz-D_CwTNtkyy4AJ8/w500/cynet.jpg",
+        "Title": "ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 18, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/beyondtrust-issues-urgent-patch-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93OAitfNonQBmBERq8Xaqt3yVQfcKgEVH53otQlQQSfVhLq7UnJrJI9i9LwW4nr_eRksO1YdlCq0w5fDVVwoQ1LTgqG02QThn65ZgKCnGcH_qORv2DZ0ihcfKyKDIDQwhF4hvB3AStzE5u1iyESKSS4ovfTwuJ4dYn7qRFjHxzDXoycmBC3m6nfy0V6Mh/w500/atch.png",
         "Title": "BeyondTrust Issues Urgent Patch for Critical Vulnerability in PRA and RS Products",
@@ -119,23 +175,9 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/how-to-generate-crowdstrike-rfm-report.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6d0JsQ7LopWZcrpDdThb18DfRcFRe12dFj-0y-tsN8AmD-2wgLL3KLa6TfUZN911KOhiobWpGlIUjNtIuRYJS8HNNpNP6Ikjky8daRUJMgEAdXs2MJ6U5v5JKL35oVSJOjHsK_qPLAUFa8nrlbICE-dZzSRpRDSU8mQiK2DYtHMFiDB1sGk3USRrGq0c/w500/main.png",
-        "Title": "How to Generate a CrowdStrike RFM Report With AI in Tines",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
         "Link": "https://thehackernews.com/2024/12/meta-fined-251-million-for-2018-data.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkPYSbBrT4xjMOLeR8Nv9T12czuZc8-80hFpWK-MJ7_tDqSX04oyYBrWvTQx2cjAuRbU2cIt2nlAdetnni5DQX9vXARtTN_2paJsXLy2Iq-btBqNqisLXUEUcygW6gNfz0eA0riYA4xwHeEZAF5J3yzazFRJAyWAYKQSE2-d7Un6kd0H9eji2DKH25U-cs/w500/facebook.png",
         "Title": "Meta Fined \u20ac251 Million for 2018 Data Breach Impacting 29 Million Accounts",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/cyber-physical-future",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfT2wf4iag7DnnN6Bx6VVqIJeVb8Ypn4k1CN26xswJoWoerqbHgLEKMoMWVocQ_yD56KYCJInt18bFfkFQQHm9Ee7Gw2O49z5lU5vwmjIEAjXj5Sj8YxD3l669x21RTH2t-clQzSoPj4ETqxVwQ4GmhFT2ifUPOHky-m0ARN820tWZexKbQd2tfAFT5mf/s728-e100/newsfeed.jpg",
-        "Title": "Shaping the Cyber-Physical Future: Trends, Challenges and Opportunities for 2025",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -157,41 +199,6 @@
         "Link": "https://thehackernews.com/2024/12/even-great-companies-get-breached-find.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQX1cbVp52H7fQYixfZw-d9NXzppPA6aGi71PFPnidHWcwiMAqojnnf2kvQfTnDdTa5BMxVKves0oHpqe_K2Tw_9HLXULLG3Evo0mPY4NteE-8_Gjx7O2RtLGYp6ZL74_NJ0g-nj0r3a__ofxqnKdDheuxjALPBUcCRDaMgdpRwCughlRzIV5-_823apE/w500/webinar.png",
         "Title": "Even Great Companies Get Breached \u2014 Find Out Why and How to Stop It",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/bitter-apt-targets-turkish-defense.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiDYkmrs6YdKbw7hvNKf4wWzga1BCwYzctiG0NpITnaXKB8rncCHCkYfWfrxrNieqtRxM5gDKhsu6YohIZmSP7Hp55jqfuz52mYHZocPJu25HiKgNt5aMINVDCYs6b2tV3SbOUpfMcccq-uUPZ4xvT0eyfoywGFJoUF7OgNKz8WdwxfLQa28MT8sChKoxY/w500/cyberattack.png",
-        "Title": "Bitter APT Targets Turkish Defense Sector with WmRAT and MiyaRAT Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/5-practical-techniques-for-effective.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_bMyK51UEk6G7B-Umw22ugEyKzM5XopsWrKqUMglTqQRoEKUlvK08LNAHhRi6Vlso1TgpglAzpIe7x9KD2Tyt6HOkYIRMwpYPaW2tdEDifYO85t8r7GQCJfUum_QbH59dbdvseZ4Wt0BxKzh_j-Zxz7oVxWrnPDH6uVfmsLd_PQhPOxUw4H7nqsPSiFw/w500/threathunting.png",
-        "Title": "5 Practical Techniques for Effective Cyber Threat Hunting",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/hackers-exploit-webview2-to-deploy.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQFXORGB1eMRZrIsD9XVybGvJ5UY3ifbkYjRgx6q5ua2wYzah2S-sIJrZUHOiBhbbOB4br1LjgIk9q1bWYu1tvZNo0nLyUNXhNBzuh_jpCYKVk5dCBtZcgj-jaVBOofwR2iGPqNRb49MSvMyO1i7i50CKIcyATpEdpjhueB0B_61zxdhjCXzh2voIEhwZ/w500/software-update.png",
-        "Title": "Hackers Exploit Webview2 to Deploy CoinLurker Malware and Evade Security Detection",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/the-mask-apt-resurfaces-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrXvA5hTymxi7IGHaBHEK0pTNf2H2Cqo3JXIZBSfTUKzQyYzt95db1HvxuOa-Rl3M9IR23i24uuNeVRDMGL5Sjg9UIRsa5lHFeE_XpQLREVCc-g4pxtGCtSdtBFq6abxGpFByPAH2YhoeoVJRshr-m59MpFjCciNtW7H6wRiHyfj1PoX9pSJdNDooiFhjE/w500/mark.png",
-        "Title": "The Mask APT Resurfaces with Sophisticated Multi-Platform Malware Arsenal",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFYBdnhkP8I7yccA9Zb-Rg62NDvwwTaCliF8Ft8ujjFmjJSb1rRNtyCIVLL_ny11v05rR4ABnNLjWoUCqFyKvxK-u-lrTHuDFA7ZKGUxs6UFq827ZY3zJMu0-NYCh_Sl1nbFronJq_oh_xYzVFwrjZB03yq7COF2binZ3QxrFnLDM5sYVIEU7D4JbjtzV/w500/hackers.png",
-        "Title": "CISA and FBI Raise Alerts on Exploited Flaws and Expanding HiatusRAT Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Dec 18, 2024"
     },
@@ -336,13 +343,6 @@
         "Timestamp": "Nov 12, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png",
-        "Title": "Microsoft Patch Tuesday, November 2024 Edition",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 12, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/11/fbi-spike-in-hacked-police-emails-fake-subpoenas/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/03/legalrequest.png",
         "Title": "FBI: Spike in Hacked Police Emails, Fake Subpoenas",
@@ -364,13 +364,6 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
-        "Source": "WIRED",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
         "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
         "Title": "Russia Is Going All Out on Election Day Interference",
@@ -381,6 +374,13 @@
         "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
         "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
         "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Source": "WIRED",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -413,16 +413,16 @@
         "Timestamp": "Nov 01, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
-        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
-        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
+        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
+        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
+        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/",
-        "Img_URL": "https://media.wired.com/photos/67240552209f2757b8ec0db6/3:2/w_1280%2Cc_limit/Security_Synology_GettyImages.jpg",
-        "Title": "Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack",
+        "Link": "https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/",
+        "Img_URL": "https://media.wired.com/photos/671aaef2ebc1cb03f39ea41d/3:2/w_1280%2Cc_limit/Security_Sophus_Getty-Images.jpg",
+        "Title": "Inside a Firewall Vendor's 5-Year War With the Chinese Hackers Hijacking Its Devices",
         "Source": "WIRED",
         "Timestamp": "Oct 31, 2024"
     },
