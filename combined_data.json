@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk-WpUXoOxT6yCK7o9muGNTyEfhXqACGiMd2F8BhiY0jteXduLFggHl9cHf9S7i9L5bxfGJVEhOeMQFlV9Ac48dqRJUPpuFFPnF68aX6mrj5-gyHj1QiQgnAFm9ZrQRo_T6SQxt7DVblePbz6yNevXwLy5hXMbqdmG6irj6vCPRxZGqxZm8017RXE8tSUm/w500/malware-ai.png",
+        "Title": "AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsqeuJcghEA7WRKHHDplE0vIAAaA0YF5WGMKkUevb4Xn6DbQ-nIo7KYxZEwMHLaUufYc6qbZOfbdWM-_L2qdFkSVh3Ldqe0MPKRBO6uMns9Xd1kxPe7jV8fwC2XXUZAicXFINNdevKVpoDRbpd2gpCVII4zXjykYunoBOT3-vX8G9KXbc9L97wc9j2JJC/w500/weekly-recap.png",
         "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips",
@@ -14,16 +21,16 @@
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
-        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
+        "Link": "https://thehackernews.uk/ciso-ai-tines",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
+        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/ciso-ai-tines",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
-        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
+        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
+        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/w500/chrome.png",
-        "Title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
+        "Link": "https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F_uDgbP7vJbQCdtyMwJPUTzgfpu9wfvAs9nmVHVd0aidx1JxW_Try4-cut3o78kyBT5kLS3I1qzHhyphenhyphen4Ff75p7NMDCUjcRqAr9QbKULZ8VGvGn1pXlUx74gam_uwFv3tOT2k8Eyhyp_wwCQh9QVqsFFDUh6BevF_beDxrlRX-vADCeKuAg5AepRMM6Bw/w500/devops.jpg",
+        "Title": "Data Governance in DevOps: Ensuring Compliance in the AI Era",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F_uDgbP7vJbQCdtyMwJPUTzgfpu9wfvAs9nmVHVd0aidx1JxW_Try4-cut3o78kyBT5kLS3I1qzHhyphenhyphen4Ff75p7NMDCUjcRqAr9QbKULZ8VGvGn1pXlUx74gam_uwFv3tOT2k8Eyhyp_wwCQh9QVqsFFDUh6BevF_beDxrlRX-vADCeKuAg5AepRMM6Bw/w500/devops.jpg",
-        "Title": "Data Governance in DevOps: Ensuring Compliance in the AI Era",
+        "Link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/w500/chrome.png",
+        "Title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
@@ -84,13 +91,6 @@
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5D7EpeDN-CFTcSFZ_YCswm9WrYbS_KhGBOH99bEmGuJI3GQXkGIThUM7-oBOQ_uL9_z6xzMH_mj9YAlXlfTh-I8dWBs0hingLFLg-ePsqQpiVFIkmW5QDX_H_g5DVPjqtrSZkqAedF05QZZN27w6yZCTXZ0xhsl_RnFy2czmRb9FeKRswHvHmGDdsttWD/w500/cisa.jpg",
-        "Title": "CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 23, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/faa-mystery-drone-ban/",
         "Img_URL": "https://media.wired.com/photos/6765d47aee82798c306397cc/3:2/w_1280%2Cc_limit/security_NJDrone_GettyImages-649626486.jpg",
         "Title": "Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats",
@@ -98,101 +98,101 @@
         "Timestamp": "Dec 21, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/araneida-scanner.png",
-        "Title": "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 19, 2024"
+        "Link": "https://thehackernews.com/2024/12/cisa-adds-critical-flaw-in-beyondtrust.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5D7EpeDN-CFTcSFZ_YCswm9WrYbS_KhGBOH99bEmGuJI3GQXkGIThUM7-oBOQ_uL9_z6xzMH_mj9YAlXlfTh-I8dWBs0hingLFLg-ePsqQpiVFIkmW5QDX_H_g5DVPjqtrSZkqAedF05QZZN27w6yZCTXZ0xhsl_RnFy2czmRb9FeKRswHvHmGDdsttWD/w500/cisa.jpg",
+        "Title": "CISA Adds Critical Flaw in BeyondTrust Software to Exploited Vulnerabilities List",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/thousands-download-malicious-npm.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_AszE3pXQcN5IuqH8Hb3rt_tQkJgjVr7F3SnMmDIm7I0Sn2OEZh9rFLyg0_OGCIo4ooNLuCImn8FxXgx9lcREIaH3INHQQ4bRUcvredJNa15yMzMTQedhKSz8osRSEsd55atYTfmsuKJeKbFUwFq0sLQeW7hKkIQ8er_F18gRvHFYZDu_z4cpqZAsJ1V/w500/npm.png",
         "Title": "Thousands Download Malicious npm Libraries Impersonating Legitimate Tools",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGS4s-l4PzLiM4vfSusTBptUPFvDdcmRGiBSagRLz22d0ccXUGNlVdCZTIMsGUR-IVvs_cOO-wKMR321GRA-lR5ME3fzIdg3XX9Pin-xzKLV8YpJ6ZATm_tUp5GUNj0nFve_DHrXnf5akUd_DJq15-j34oDS4g4YBupTnjgjUyo_Iy0OWuoW9GGlpMxt4/w500/ddos.png",
-        "Title": "Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/data-governance-in-devops-ensuring.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F_uDgbP7vJbQCdtyMwJPUTzgfpu9wfvAs9nmVHVd0aidx1JxW_Try4-cut3o78kyBT5kLS3I1qzHhyphenhyphen4Ff75p7NMDCUjcRqAr9QbKULZ8VGvGn1pXlUx74gam_uwFv3tOT2k8Eyhyp_wwCQh9QVqsFFDUh6BevF_beDxrlRX-vADCeKuAg5AepRMM6Bw/w500/devops.jpg",
         "Title": "Data Governance in DevOps: Ensuring Compliance in the AI Era",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
-        "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
+        "Link": "https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXGS4s-l4PzLiM4vfSusTBptUPFvDdcmRGiBSagRLz22d0ccXUGNlVdCZTIMsGUR-IVvs_cOO-wKMR321GRA-lR5ME3fzIdg3XX9Pin-xzKLV8YpJ6ZATm_tUp5GUNj0nFve_DHrXnf5akUd_DJq15-j34oDS4g4YBupTnjgjUyo_Iy0OWuoW9GGlpMxt4/w500/ddos.png",
+        "Title": "Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.uk/ciso-ai-tines",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
         "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
+        "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/cisa-mandates-cloud-security-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtDqW3gk6EtyHmjoimsDEQUoSz5JJuZDr8SVFjhrPRnsgYe8k899eB47ZXlsbBj3nP368fOM4s05NFwqKJE_Qf1NV9aL1G3mqPf0RmQ4dSv3yvPTN5XI92JhSeec3WHTeRui7iU8l3cgJv8mFRUcTLH8AyLsOjQfX61biFF1065NLwyOdBmU76tsWEm99/w500/cisa.png",
         "Title": "CISA Mandates Cloud Security for Federal Agencies by 2025 Under Binding Directive 25-01",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/dutch-dpa-fines-netflix-475-million-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhAW_cDwCeloSnZgah7GafNtwI97VqZAXG3g8FlrdpPSKYk5F4uZVcKT0z4FcXhf2xxhSH5_IkLidXpfyGImfmsPdr2oXBb-bDJr1cQGM13xGXebblUBQafm5p1YYC9F0s_DVBUsKeIP8LKp0hIWUmhhU1K5CIsebkWSNWP7Jnu6MepcNkk0pBeWrwC_ik/w500/netflix.png",
         "Title": "Dutch DPA Fines Netflix \u20ac4.75 Million for GDPR Violations Over Data Transparency",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiYlVsnodMuZBC682qSkmE8Q-eqRua5fXcGd3EwXrJHz-tBaU5ALoQHjtoOsQpcZ5Pnbq-FGhn_yEuRp1uU9S6j77t8J9Y4u_s21KHBS_8lkogP2nWm0bSIxoryckA387PBG-ORxULNEyR2tO-hNe5FgIkd3rvTZeGgDR3zE50qSHx0FMgAuVtxMOJmYpD/w500/malware.png",
         "Title": "UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
         "Title": "HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/patch-alert-critical-apache-struts-flaw.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWhBvqlXrEx9i-dmh9hP07MHkWE-n_d2UAQusurbu-xJGJYlwVi-K0B62lbJImtFydkxkCsGGrq5jM9322SW1okvCfrPSwqUmPJWfqXu4A_mUWI3ClxW3TJaff57t2YeIxv_wgE4KILXH3xyLd0gRCDkbPv8GV6Dyq3cme6mIpBLZgSkyJDk4bCrQXqij/w500/Apache_Struts.png",
         "Title": "Patch Alert: Critical Apache Struts Flaw Found, Exploitation Attempts Detected",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
         "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/apt29-hackers-target-high-value-victims.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW25hMDzDaduXghIqBnOlnsbINi4FctEWHUFSfnnRFjOv6NYXNsz3UzCGm-IXtOHTsw5NkF-fxVTz1QlZokbmDseeAhyh3tD5v4A_HAxFK3iOifs3zl9xa8qZVz3VCapHCe4uJaqVtzUHCbPLVCKElwyCUV7sMl3qeWbiCiRwu2KLi5jISzDo4amlnRm-/w500/rdp.png",
         "Title": "APT29 Hackers Target High-Value Victims Using Rogue RDP Servers and PyRDP",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 19, 2024"
+        "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/only-cynet-delivers-100-protection-and.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1uWtdMnHISrGdvH-UpJYbYhsJLBe8yAYXRv3Rze5aAMRlTyp1YRKBlM6Xpxk205wT4C0VscDEWAbgtU1sQKPvLEhcrV1ZOcqVEpIW04MgEbVGLQox8As41W5JVUrkBJrrRaZs8VUlZuXDBw_J6BmPZi_Ytr_Fl5jiXXT-Pf7tAXz-D_CwTNtkyy4AJ8/w500/cynet.jpg",
-        "Title": "ONLY Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/araneida-scanner.png",
+        "Title": "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Dec 19, 2024"
     },
     {
