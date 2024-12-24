@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2fpo1l85L1KFPzg1xsX7LOMv0yGyuPjr_CZGmz6JPr0T4AwIdbvqMHFIXz4fTfgat9o0FQ6K53jXkoWIesU3UgJ0fa753fWob-zGCIw69p3j32uH3m4pBXklan3VgjvK_9qC4x0H5jVPwEEPelXrWQA3ErKKKEb638OoiWbr9siessmHh3buKZQq6CM6D/w500/python.png",
+        "Title": "Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 24, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4pm4QTz2MgHCN_SwfwMcapWQq2DOnArH9xTDILWkCVFSPJjtkX3PS6CrBnyqcvDjp0g7nrT7tPZjq4klZIGg_r9KeI4U6SGfpw9sFVH2urmJtH6hx8wauh3hAcD_YTi9ssmhblfvOU76VOooGpz7Apf6NQAg3lBBTtfzZUmkt7lGp6OYQbV9ft-kaRGy/w500/bitcoin.png",
         "Title": "North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin",
@@ -14,16 +21,16 @@
         "Timestamp": "Dec 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
-        "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
+        "Link": "https://thehackernews.uk/ciso-ai-tines",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
+        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
         "Timestamp": "Dec 24, 2024"
     },
     {
-        "Link": "https://thehackernews.uk/ciso-ai-tines",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
-        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
+        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
+        "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Dec 24, 2024"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Dec 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
-        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
+        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
+        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
         "Source": "The Hacker News",
         "Timestamp": "Dec 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
-        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
+        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
+        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
         "Source": "The Hacker News",
         "Timestamp": "Dec 24, 2024"
     },
@@ -84,13 +91,6 @@
         "Timestamp": "Dec 24, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/w500/chrome.png",
-        "Title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 24, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/faa-mystery-drone-ban/",
         "Img_URL": "https://media.wired.com/photos/6765d47aee82798c306397cc/3:2/w_1280%2Cc_limit/security_NJDrone_GettyImages-649626486.jpg",
         "Title": "Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats",
@@ -98,16 +98,16 @@
         "Timestamp": "Dec 21, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcKkDagQtBIsRJWR-vJAFwn4ljkwmV8QRL-BOkyZu2yQzpXNMPv0lEE-spsW8PfbznGbyrLFmGMevrd1_aSVKbO5AXepvXgJQj-sWf6vTiNXsdfPWZEtzZ6KJ_XLt3jOGh5I56rWr5K4PaUIBIQ8a1ifk-AOQ4LRXl1oXMFCcaNYA1K9hMovpWSFWqm_i/w500/code.png",
-        "Title": "Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack",
+        "Link": "https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhblmMwsassaFD6IZFbb6ZTpi33tAfrqUHu_gGQuE18oCuetQ3l8ZnFmvIvjyktR2ipdfnTk4t1iIE3VAhjF-Oa698WEDTesYcMUpBt_5t2pwXyT2g2AfjQjHIX4dlGdNpCV2glvNzKh9lZwoQWmh8ynP8tubJbY7GlvjQ7joCFUGkPYAmFf3jUZfyj8h5q/w500/chrome.png",
+        "Title": "Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware",
         "Source": "The Hacker News",
         "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYq_XBqs2-sy6w-OAmQw2InKF53_YrQJvcwZ1BFTiXuLc2Rt9rlgjqUBGhiz9aI6D-hxDusgT5DTQagdNz4X8AW2Ccrv948x6hAcORT64ESQUxjHHg7yOspVo7d3AmYUzbtNdr4XevnVbiAx3sA9VJ9BHe1Q-UVlQmIWJWbAUaETnO_sq2OONS1-QrWSW0/w500/firewall.png",
-        "Title": "Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation",
+        "Link": "https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcKkDagQtBIsRJWR-vJAFwn4ljkwmV8QRL-BOkyZu2yQzpXNMPv0lEE-spsW8PfbznGbyrLFmGMevrd1_aSVKbO5AXepvXgJQj-sWf6vTiNXsdfPWZEtzZ6KJ_XLt3jOGh5I56rWr5K4PaUIBIQ8a1ifk-AOQ4LRXl1oXMFCcaNYA1K9hMovpWSFWqm_i/w500/code.png",
+        "Title": "Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain Attack",
         "Source": "The Hacker News",
         "Timestamp": "Dec 20, 2024"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Dec 20, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUOZUkDSouaSBk62jjQ8saJI5kqdPN6Qvk-Q0YbX2KOyMOzRZ6TiByy92gZeo75zBv3qKki7GPZYXwp6Zj0okwAw-bhY-3SJioiOrUgPURwJdCOwGUihaFdSG1kZJsKIRJxvidKD06xc09U3IxL_L9CDV_6Rwtqv6tcLLDZBqcOtmyMkDqW8g4JbblOCX4/w500/cyberattack.png",
-        "Title": "Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools",
+        "Link": "https://thehackernews.com/2024/12/sophos-fixes-3-critical-firewall-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYq_XBqs2-sy6w-OAmQw2InKF53_YrQJvcwZ1BFTiXuLc2Rt9rlgjqUBGhiz9aI6D-hxDusgT5DTQagdNz4X8AW2Ccrv948x6hAcORT64ESQUxjHHg7yOspVo7d3AmYUzbtNdr4XevnVbiAx3sA9VJ9BHe1Q-UVlQmIWJWbAUaETnO_sq2OONS1-QrWSW0/w500/firewall.png",
+        "Title": "Sophos Issues Hotfixes for Critical Firewall Flaws: Update to Prevent Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Dec 20, 2024"
     },
@@ -129,6 +129,13 @@
         "Link": "https://thehackernews.uk/ciso-ai-tines",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
         "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 20, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/hackers-exploiting-critical-fortinet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUOZUkDSouaSBk62jjQ8saJI5kqdPN6Qvk-Q0YbX2KOyMOzRZ6TiByy92gZeo75zBv3qKki7GPZYXwp6Zj0okwAw-bhY-3SJioiOrUgPURwJdCOwGUihaFdSG1kZJsKIRJxvidKD06xc09U3IxL_L9CDV_6Rwtqv6tcLLDZBqcOtmyMkDqW8g4JbblOCX4/w500/cyberattack.png",
+        "Title": "Hackers Exploiting Critical Fortinet EMS Vulnerability to Deploy Remote Access Tools",
         "Source": "The Hacker News",
         "Timestamp": "Dec 20, 2024"
     },
@@ -178,13 +185,6 @@
         "Link": "https://thehackernews.com/2024/12/uac-0125-abuses-cloudflare-workers-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiYlVsnodMuZBC682qSkmE8Q-eqRua5fXcGd3EwXrJHz-tBaU5ALoQHjtoOsQpcZ5Pnbq-FGhn_yEuRp1uU9S6j77t8J9Y4u_s21KHBS_8lkogP2nWm0bSIxoryckA387PBG-ORxULNEyR2tO-hNe5FgIkd3rvTZeGgDR3zE50qSHx0FMgAuVtxMOJmYpD/w500/malware.png",
         "Title": "UAC-0125 Abuses Cloudflare Workers to Distribute Malware Disguised as Army+ App",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 20, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/hubphish-exploits-hubspot-tools-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAP_e3phfFM2C8QQ5M5eRMZEG65fWq5lOPcF2yJrWZ_z35Ge5LycUamYEHBti8MfqiarQd7nEjZ_g3YGn3ZSIH3kkrJyUaG8Eb00eWbwSWHEc6O79PnhPRm5Jcv4HIL4LcO5a9sEQJOqnPF2zVGImtqkYc0nWCoxlFDhNWPu4ZdKo4_3nvLiWh_E2ufNdP/w500/password.png",
-        "Title": "HubPhish Abuses HubSpot Tools to Target 20,000 European Users for Credential Theft",
         "Source": "The Hacker News",
         "Timestamp": "Dec 20, 2024"
     },
@@ -378,16 +378,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
