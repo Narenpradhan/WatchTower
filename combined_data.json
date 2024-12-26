@@ -1,101 +1,101 @@
 [
     {
-        "Link": "https://www.wired.com/story/worst-hacks-2024/",
-        "Img_URL": "https://media.wired.com/photos/6761c3ebd6285b645f4861e4/3:2/w_1280%2Cc_limit/security_worsthacks2024_gettyimages.jpg",
-        "Title": "The Worst Hacks of 2024",
-        "Source": "WIRED",
+        "Link": "https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1vwRDVwMIVPzXK6J__e_rA7_1IXIoTuNz8XVEJqmWLj23PqFWfocs0OZux0juSX1p2HKJmbfglsp3P8bJzrKz2qTyX-pKkRL0ECG7YzSg1K01R8EJeRfLFMrmG6wwdYQTdlAwdXl4EBdLfMOSa_94yxOGOWesa7YTtgq7S976RQauoLUnnqcLCgsZ01pT/w500/brazil.png",
+        "Title": "Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts",
+        "Source": "The Hacker News",
         "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nLqT0UlQ1hS2pWjtqKTAliPXimWqJuI3ExBa3pY8lmRLMYdkbpSIpNl3dW32-1BswViwAt8y7r04nTaEPiWkwkYqTKcX77E1sczxiJY_VtuI8aLf_-EZHHwr7ZV9g-1bHlXeigzb7P-feUBM2EKyqL7YOHAxtnXoXBi-nN1QWlk5koo4KhhAFc2ZPkyp/w500/hackers.png",
-        "Title": "Ruijie Networks' Cloud Platform Flaws Could Expose 50,000 Devices to Remote Attacks",
+        "Title": "Ruijie Networks' Cloud Platform Flaws Could've Exposed 50,000 Devices to Remote Attacks",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDcXwDXFr7mguLl7oDOh_rZqCAz9vrInMtPUKCRgXiwXlGArI3S2wGa3H4LpgU11ZcfE-kztcUwcZbARqGT26m8VElpKLc9ghzLIk1dAo2UI9tnbehEIRSbsiF7VLjh5NWuPD68ogX0tfpxY8Z1Ryjn3vQ4703LWmNjk325YjGUEhgfXwezJj_2ASiWdHD/w500/apache.png",
         "Title": "Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS \u2014 Patch Now",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2dmzUdOuzrMQ37boTlRteRG-LgudtqbhuxHQ7D2s4HLiuITfpCuuq7sVu8U9Ictu_M4SIcqXoLUdEaLa9_YehEImImFD6yA8jhsBJxHbth4RRP7j_zDWat2464kQjJBxj4RfHoeOtjDQrBbXJKvQe304MF2rn4Ies3_wQ30xmi-xAF5eTVmFdEaOZrY63/w500/malware.png",
-        "Title": "Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.uk/ciso-ai-tines",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
         "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2dmzUdOuzrMQ37boTlRteRG-LgudtqbhuxHQ7D2s4HLiuITfpCuuq7sVu8U9Ictu_M4SIcqXoLUdEaLa9_YehEImImFD6yA8jhsBJxHbth4RRP7j_zDWat2464kQjJBxj4RfHoeOtjDQrBbXJKvQe304MF2rn4Ies3_wQ30xmi-xAF5eTVmFdEaOZrY63/w500/malware.png",
+        "Title": "Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2fpo1l85L1KFPzg1xsX7LOMv0yGyuPjr_CZGmz6JPr0T4AwIdbvqMHFIXz4fTfgat9o0FQ6K53jXkoWIesU3UgJ0fa753fWob-zGCIw69p3j32uH3m4pBXklan3VgjvK_9qC4x0H5jVPwEEPelXrWQA3ErKKKEb638OoiWbr9siessmHh3buKZQq6CM6D/w500/python.png",
         "Title": "Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4pm4QTz2MgHCN_SwfwMcapWQq2DOnArH9xTDILWkCVFSPJjtkX3PS6CrBnyqcvDjp0g7nrT7tPZjq4klZIGg_r9KeI4U6SGfpw9sFVH2urmJtH6hx8wauh3hAcD_YTi9ssmhblfvOU76VOooGpz7Apf6NQAg3lBBTtfzZUmkt7lGp6OYQbV9ft-kaRGy/w500/bitcoin.png",
         "Title": "North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2d41PkB4V0W_rJi2N_i8N7fcNHnDA61XA2jrZBsGiu3vv2eH8MnqV4Y-cuNCjVDO6ILjIp3KxAth7EIwEZ-5wQ-KhyphenhyphenTdf3xi_3O35DFplkHNkz0TlRMKXC5eZCwpszrMQfSI2RZPe08OMV5MrfXe2T9jhmug5VBc1dceiw1wep2edK88mZjf1acdhOGo/w500/software.png",
         "Title": "CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
-        "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
         "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
+        "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk-WpUXoOxT6yCK7o9muGNTyEfhXqACGiMd2F8BhiY0jteXduLFggHl9cHf9S7i9L5bxfGJVEhOeMQFlV9Ac48dqRJUPpuFFPnF68aX6mrj5-gyHj1QiQgnAFm9ZrQRo_T6SQxt7DVblePbz6yNevXwLy5hXMbqdmG6irj6vCPRxZGqxZm8017RXE8tSUm/w500/malware-ai.png",
         "Title": "AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsqeuJcghEA7WRKHHDplE0vIAAaA0YF5WGMKkUevb4Xn6DbQ-nIo7KYxZEwMHLaUufYc6qbZOfbdWM-_L2qdFkSVh3Ldqe0MPKRBO6uMns9Xd1kxPe7jV8fwC2XXUZAicXFINNdevKVpoDRbpd2gpCVII4zXjykYunoBOT3-vX8G9KXbc9L97wc9j2JJC/w500/weekly-recap.png",
         "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvfyttG9JaZrPQ35DSa028hnF_FXyTp5_OEujhY-23dlM9QN4XTE8dq5U9CKsaYNQuzdUnz4PZKQ6vqIxe3-pW60X8V0MFn7CioQ9T8LUF25L3qBjGjlFrnOEJvawfiWt0k3wLYbpaysqKZWK0nO-0F1jJEpXsQdAbRXhl85si__SECtmR98vDiS3cBBV/w500/phishing.png",
         "Title": "Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service",
         "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Timestamp": "Dec 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
-        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 25, 2024"
+        "Link": "https://www.wired.com/story/worst-hacks-2024/",
+        "Img_URL": "https://media.wired.com/photos/6761c3ebd6285b645f4861e4/3:2/w_1280%2Cc_limit/security_worsthacks2024_gettyimages.jpg",
+        "Title": "The Worst Hacks of 2024",
+        "Source": "WIRED",
+        "Timestamp": "Dec 26, 2024"
     },
     {
         "Link": "https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/",
@@ -105,9 +105,23 @@
         "Timestamp": "Dec 25, 2024"
     },
     {
+        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
+        "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 23, 2024"
+    },
+    {
         "Link": "https://thehackernews.com/2024/12/us-judge-rules-against-nso-group-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIZk5Unw1oipL93q-OkYlhUuAeY3RkwnKk9xe3CDilXjsSHprXa-OYR9FMLY35OlCq-n7BYuTdbkytTZV0iX7BsqzAvSfk0sk9Z129OckU-_6s9yeNwl7oTJJN7dez_PO-17jBalx0E7pQIV0DBtp0Uua9UYmG0mWzXim45diVEuoGFCZGY9SfetogrLgv/w500/whstapp.jpg",
         "Title": "U.S. Judge Rules Against NSO Group in WhatsApp Pegasus Spyware Case",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 23, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
+        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
@@ -119,9 +133,9 @@
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/not-your-old-activestate-introducing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoGtVmQHeep3ZfuaHjv8ABSWY67TcjsFxBdTO_7BcvRareCrjXtNgHpM_nWssTQ-kriZbsZ3PIpasp1BI__plq81JEVmXClBewPpc4nxg3Jw1oAwhKJNFsLy5Capw5KZlvbXtV1fHA__kJNqOrFc1x3wBpoNtfUtTW8VTeOk7tR3KSA7ru0VE8qVCsNE/w500/activestate.png",
-        "Title": "Not Your Old ActiveState: Introducing our End-to-End OS Platform",
+        "Link": "https://thehackernews.uk/ciso-ai-tines",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
+        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
@@ -129,13 +143,6 @@
         "Link": "https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0TRCxN6cMPlDqZt2gQx_bYqgFzjVahknZQSBBMEoCzni9dHKYL0AZ3Y_KpFxEK2M6EYJK4uTle44gRWf-up99QRcxneY_TTb3AOIdXs6x4zppaCTkekXnDuo7WSZgOjwRC33iJVHTI2BNeIjBDWK-VjU8oe_MGwM2NePA1n698AmnaDd8WxWj1QdIpnMS/w500/ransomware.png",
         "Title": "LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware Damages",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 23, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/ciso-ai-tines",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1DV6UsftbrAWWNMEp9x9fOriZ7q7Wv6a15DhNIZiP_dgxj-2vgvyRer6TjMSubTBjWopVqoBWgBV9fWJOkCB-adSfw5skFsTOrAXdmK5ujHUxmWzBgK3adAyQqMAvoY-X5mVmmfUdC7x87TD34lBzOirHlez9J3VLknP63R7hxQzQtoc67AGQYP2cR-R/s728-e100/tines.png",
-        "Title": "What CISOs Really Think About AI (and What They're Doing About It)",
         "Source": "The Hacker News",
         "Timestamp": "Dec 23, 2024"
     },
@@ -189,13 +196,6 @@
         "Timestamp": "Dec 23, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/fortinet-warns-of-critical-fortiwlm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORvlQAOjjqgvQG42F1htK-CmzeDf6QEf0w0C3QFKkTStlxi8sNFme4Vds8__iQWh1kiG5j75cST215HMMjyK2YiHtUriRtyaIszTxNeobP-26DU-SUHWo7EGrq9zzwzRpbSTGyJGKZ_ljyeELVkuRO9ubsYm0NH4ZDJc6PyzK308R7Rye23SyR0FP2x6l/w500/Fortinet-zero-day.jpg",
-        "Title": "Fortinet Warns of Critical FortiWLM Flaw That Could Lead to Admin Access Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 23, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/faa-mystery-drone-ban/",
         "Img_URL": "https://media.wired.com/photos/6765d47aee82798c306397cc/3:2/w_1280%2Cc_limit/security_NJDrone_GettyImages-649626486.jpg",
         "Title": "Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats",
@@ -217,16 +217,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -273,16 +273,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
