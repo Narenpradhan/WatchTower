@@ -112,14 +112,14 @@
         "Timestamp": "Dec 26, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nLqT0UlQ1hS2pWjtqKTAliPXimWqJuI3ExBa3pY8lmRLMYdkbpSIpNl3dW32-1BswViwAt8y7r04nTaEPiWkwkYqTKcX77E1sczxiJY_VtuI8aLf_-EZHHwr7ZV9g-1bHlXeigzb7P-feUBM2EKyqL7YOHAxtnXoXBi-nN1QWlk5koo4KhhAFc2ZPkyp/w500/hackers.png",
         "Title": "Ruijie Networks' Cloud Platform Flaws Could've Exposed 50,000 Devices to Remote Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDcXwDXFr7mguLl7oDOh_rZqCAz9vrInMtPUKCRgXiwXlGArI3S2wGa3H4LpgU11ZcfE-kztcUwcZbARqGT26m8VElpKLc9ghzLIk1dAo2UI9tnbehEIRSbsiF7VLjh5NWuPD68ogX0tfpxY8Z1Ryjn3vQ4703LWmNjk325YjGUEhgfXwezJj_2ASiWdHD/w500/apache.png",
         "Title": "Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS \u2014 Patch Now",
         "Source": "The Hacker News",
@@ -133,7 +133,7 @@
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2dmzUdOuzrMQ37boTlRteRG-LgudtqbhuxHQ7D2s4HLiuITfpCuuq7sVu8U9Ictu_M4SIcqXoLUdEaLa9_YehEImImFD6yA8jhsBJxHbth4RRP7j_zDWat2464kQjJBxj4RfHoeOtjDQrBbXJKvQe304MF2rn4Ies3_wQ30xmi-xAF5eTVmFdEaOZrY63/w500/malware.png",
         "Title": "Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware",
         "Source": "The Hacker News",
@@ -147,56 +147,56 @@
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/researchers-uncover-pypi-packages.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2fpo1l85L1KFPzg1xsX7LOMv0yGyuPjr_CZGmz6JPr0T4AwIdbvqMHFIXz4fTfgat9o0FQ6K53jXkoWIesU3UgJ0fa753fWob-zGCIw69p3j32uH3m4pBXklan3VgjvK_9qC4x0H5jVPwEEPelXrWQA3ErKKKEb638OoiWbr9siessmHh3buKZQq6CM6D/w500/python.png",
         "Title": "Researchers Uncover PyPI Packages Stealing Keystrokes and Hijacking Social Accounts",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/north-korean-hackers-pull-off-308m.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht4pm4QTz2MgHCN_SwfwMcapWQq2DOnArH9xTDILWkCVFSPJjtkX3PS6CrBnyqcvDjp0g7nrT7tPZjq4klZIGg_r9KeI4U6SGfpw9sFVH2urmJtH6hx8wauh3hAcD_YTi9ssmhblfvOU76VOooGpz7Apf6NQAg3lBBTtfzZUmkt7lGp6OYQbV9ft-kaRGy/w500/bitcoin.png",
         "Title": "North Korean Hackers Pull Off $308M Bitcoin Heist from Crypto Firm DMM Bitcoin",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2d41PkB4V0W_rJi2N_i8N7fcNHnDA61XA2jrZBsGiu3vv2eH8MnqV4Y-cuNCjVDO6ILjIp3KxAth7EIwEZ-5wQ-KhyphenhyphenTdf3xi_3O35DFplkHNkz0TlRMKXC5eZCwpszrMQfSI2RZPe08OMV5MrfXe2T9jhmug5VBc1dceiw1wep2edK88mZjf1acdhOGo/w500/software.png",
         "Title": "CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
         "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk-WpUXoOxT6yCK7o9muGNTyEfhXqACGiMd2F8BhiY0jteXduLFggHl9cHf9S7i9L5bxfGJVEhOeMQFlV9Ac48dqRJUPpuFFPnF68aX6mrj5-gyHj1QiQgnAFm9ZrQRo_T6SQxt7DVblePbz6yNevXwLy5hXMbqdmG6irj6vCPRxZGqxZm8017RXE8tSUm/w500/malware-ai.png",
         "Title": "AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/thn-weekly-recap-top-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsqeuJcghEA7WRKHHDplE0vIAAaA0YF5WGMKkUevb4Xn6DbQ-nIo7KYxZEwMHLaUufYc6qbZOfbdWM-_L2qdFkSVh3Ldqe0MPKRBO6uMns9Xd1kxPe7jV8fwC2XXUZAicXFINNdevKVpoDRbpd2gpCVII4zXjykYunoBOT3-vX8G9KXbc9L97wc9j2JJC/w500/weekly-recap.png",
         "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvfyttG9JaZrPQ35DSa028hnF_FXyTp5_OEujhY-23dlM9QN4XTE8dq5U9CKsaYNQuzdUnz4PZKQ6vqIxe3-pW60X8V0MFn7CioQ9T8LUF25L3qBjGjlFrnOEJvawfiWt0k3wLYbpaysqKZWK0nO-0F1jJEpXsQdAbRXhl85si__SECtmR98vDiS3cBBV/w500/phishing.png",
         "Title": "Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service",
         "Source": "The Hacker News",
         "Timestamp": "Dec 25, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html?m=1",
+        "Link": "https://thehackernews.com/2024/12/top-10-cybersecurity-trends-to-expect.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH_sW5NROSh-Hz-mrMtwMpI0g4Cxu3m_HZYMzBIzIcJGvgq0nObpqrDciS2yENXbnNctwrGrxLDVXABATmQ-6HyAlpO-FwlYu3EGiC2qzVUJYIRqJuX7WwYBiYKRBIQ4tIKp_JGkY_0uKI56vobzp3QQ4jJ1dRXI_dX3OezgJ-2yorRto360Nh3mMWss/w500/main.jpg",
         "Title": "Top 10 Cybersecurity Trends to Expect in 2025",
         "Source": "The Hacker News",
@@ -399,9 +399,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -413,9 +413,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
