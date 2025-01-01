@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU04JERCYZ7FKa5VZxkQhrYZqjsz5M36XeoiZc_OHYZH_KX1Pq5b32L7ilBO8teXlhz9g9hpsSUZYagx4DGO5IyaGlqBeUa7izCCHjTDqnMAjdO_KOh-OW_DHzU6lAKZl-aT6rU8yLMzvuxD6aKRLSsgi3H3C46tS1eOJz3kAT9Jv4k54QSpuhY08LX6Ud/w500/attckflow.png",
+        "Title": "New \"DoubleClickjacking\" Exploit Bypasses Clickjacking Protections on Major Websites",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 01, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixDIFeZ9czvwbP2XTK6ufHxNymko-gdguaoOT1iyD2PXzryozCtNiUO-gL50HU28S34V1x_VYNJcP6WreDt5nSPrMOE4zMk1Wy8DcL8c3HMp_u8vhNWCpaz1ZpV97Muqb1JnZOEuWxaLLY3rqC-OOhKz73CV9F4tKYbnoKbvX4VugJBDCI0wAvy-W19HO5/w500/election.png",
         "Title": "Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics",
@@ -14,16 +21,16 @@
         "Timestamp": "Jan 01, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnW4uIKY7rtNoiGYo8nyYHd5Q4GOBJE2Wl-_rkjIV_2niquf9XG2YrD4kttbb6OreSiIdxwiE4vBkrzzBm20bS190-_oo09qmwp2jeTEXnlDUEkw6ue-paA2vVRIH9oQsPo6L7jCfHEAPMgvHQVrhhtp2ROEJRBgypM1uBCb7IA6obfG5TMReQs9QOadE5/w500/chinesehackers.png",
-        "Title": "Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents",
+        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
+        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 01, 2025"
     },
     {
-        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
-        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Link": "https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnW4uIKY7rtNoiGYo8nyYHd5Q4GOBJE2Wl-_rkjIV_2niquf9XG2YrD4kttbb6OreSiIdxwiE4vBkrzzBm20bS190-_oo09qmwp2jeTEXnlDUEkw6ue-paA2vVRIH9oQsPo6L7jCfHEAPMgvHQVrhhtp2ROEJRBgypM1uBCb7IA6obfG5TMReQs9QOadE5/w500/chinesehackers.png",
+        "Title": "Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents",
         "Source": "The Hacker News",
         "Timestamp": "Jan 01, 2025"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jan 01, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bUjHlC4tr-_HfOvMVlJKYc4VUm2oGzeai-k0rZP5-74VmWU_42NTQndEAyXYCYOq5L6DWAPp4dX-2WRrv_mn6rpCXP8yh2f2BJuGiSsoF1ecoY3fHMpz1z9rDjS-XtSPDqj17sL0mdFge5iAKFpHJ0J6cjWyOxcOmvAzcxjReDxL4xZyQ2FdPjkup7E/w500/chrome.png",
-        "Title": "When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions",
+        "Link": "https://thehacker.news/ransomware-encrypted-attacks?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio924G0MlJpec0441sTFJhr4SXhCgZ_n0m1JigV4Rnbf_ZI79VPgx03PEPZc5WSVReU0BfN0J1OSqLxbVjlcXu3atoDRKg7Up9wsXv7KgqkQeSgGNJeltTyWxOPAdHvOFOB3FFeRTHrSMP-vZggGJtYwRoiLayLaJ7y9vCWqQFcLi5lNESesVM4DKs3KA/s728-e30/zz-jan.png",
+        "Title": "The Tools You Need to Combat Ransomware in 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 01, 2025"
     },
     {
-        "Link": "https://thehacker.news/ransomware-encrypted-attacks?source=newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio924G0MlJpec0441sTFJhr4SXhCgZ_n0m1JigV4Rnbf_ZI79VPgx03PEPZc5WSVReU0BfN0J1OSqLxbVjlcXu3atoDRKg7Up9wsXv7KgqkQeSgGNJeltTyWxOPAdHvOFOB3FFeRTHrSMP-vZggGJtYwRoiLayLaJ7y9vCWqQFcLi5lNESesVM4DKs3KA/s728-e30/zz-jan.png",
-        "Title": "The Tools You Need to Combat Ransomware in 2025",
+        "Link": "https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bUjHlC4tr-_HfOvMVlJKYc4VUm2oGzeai-k0rZP5-74VmWU_42NTQndEAyXYCYOq5L6DWAPp4dX-2WRrv_mn6rpCXP8yh2f2BJuGiSsoF1ecoY3fHMpz1z9rDjS-XtSPDqj17sL0mdFge5iAKFpHJ0J6cjWyOxcOmvAzcxjReDxL4xZyQ2FdPjkup7E/w500/chrome.png",
+        "Title": "When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions",
         "Source": "The Hacker News",
         "Timestamp": "Jan 01, 2025"
     },
@@ -80,13 +87,6 @@
         "Link": "https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0SWWXCyEtKEqYQ-5lg3jRZSHv5_SadA7yGI8QyjGDM0yaM4mZUUthd-RKNCG4kDk1nOn1cYs1eNe3x8CyiqtVNyrzM-ErGtReML2JyisMsmGA-rZQW_hmuDnmndpDw6NEtAMLldBc6gm5svqx-QFJhSA70OZH8JAOm5QxTwiEapB2Yrhcjm0rkDKbIDP/w500/hacking.png",
         "Title": "North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 01, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN-MYQSVnmKu_fXqRe1-eYRuk9TiwR7wZL2SCFqAu78prSbWpd6obdN1q62e2YqoehqMvxANUfKYZBDKcOg6dMR1w4BMwiQs-gu6-nx0rx5AQuS50EihQskGaZ8jlU94U32hi9jF8b3e74Hn5NsDO1lVhIn6y_C3noeYsKU6GBZ5aw6S2IjJ0od4VRh5h/w500/cloud.png",
-        "Title": "Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia",
         "Source": "The Hacker News",
         "Timestamp": "Jan 01, 2025"
     },
@@ -119,16 +119,16 @@
         "Timestamp": "Dec 29, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/w500/palo.png",
-        "Title": "Palo Alto Releases Patch for PAN-OS DoS Flaw \u2014 Update Immediately",
+        "Link": "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN-MYQSVnmKu_fXqRe1-eYRuk9TiwR7wZL2SCFqAu78prSbWpd6obdN1q62e2YqoehqMvxANUfKYZBDKcOg6dMR1w4BMwiQs-gu6-nx0rx5AQuS50EihQskGaZ8jlU94U32hi9jF8b3e74Hn5NsDO1lVhIn6y_C3noeYsKU6GBZ5aw6S2IjJ0od4VRh5h/w500/cloud.png",
+        "Title": "Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia",
         "Source": "The Hacker News",
         "Timestamp": "Dec 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/w500/botnet.png",
-        "Title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
+        "Link": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/w500/palo.png",
+        "Title": "Palo Alto Releases Patch for PAN-OS DoS Flaw \u2014 Update Immediately",
         "Source": "The Hacker News",
         "Timestamp": "Dec 27, 2024"
     },
@@ -140,9 +140,9 @@
         "Timestamp": "Dec 27, 2024"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/w500/apache-mina.png",
-        "Title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
+        "Link": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/w500/botnet.png",
+        "Title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Dec 27, 2024"
     },
@@ -150,6 +150,13 @@
         "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
         "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 27, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/w500/apache-mina.png",
+        "Title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
         "Source": "The Hacker News",
         "Timestamp": "Dec 27, 2024"
     },
@@ -199,13 +206,6 @@
         "Link": "https://thehackernews.com/2024/12/cisa-adds-acclaim-usaherds.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2d41PkB4V0W_rJi2N_i8N7fcNHnDA61XA2jrZBsGiu3vv2eH8MnqV4Y-cuNCjVDO6ILjIp3KxAth7EIwEZ-5wQ-KhyphenhyphenTdf3xi_3O35DFplkHNkz0TlRMKXC5eZCwpszrMQfSI2RZPe08OMV5MrfXe2T9jhmug5VBc1dceiw1wep2edK88mZjf1acdhOGo/w500/software.png",
         "Title": "CISA Adds Acclaim USAHERDS Vulnerability to KEV Catalog Amid Active Exploitation",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 27, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/apache-tomcat-vulnerability-cve-2024.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjeVR0ynDKyxbhHfdPRII575j4ppF7EfZhzBW3MXH6lg5YLkiNerYcuYYGW-XKbanJHz1MzczIB7RiFniK5J1CPiQU3KE5c3SX5-GKUwWV9UiM57YrkwvLsCH8ke1GwJ0rNtCGpL98YQydsKNfZsuDL2VGetrL6ofvQ24F6vYtxbMVSORvnf1gWEQJVhZ/w500/tomcat.png",
-        "Title": "Apache Tomcat Vulnerability CVE-2024-56337 Exposes Servers to RCE Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Dec 27, 2024"
     },
@@ -420,16 +420,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
