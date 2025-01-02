@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6YctML2Y_FznR8D44mD_aL96mHLac5JzYNO0oUaRakb03ym-tDPcDj6aDWKPqL86zUsqV6DoDgjb5VV2aQd0qo2GkuAGh87b-kiWuijzJ6_OSXmsKgxMryg0DwnWjDo_zb50MMuCGjEAvgqeKj0fKyc4PzLuVkS77LbWNz2yoO1q1lURgS5Rs_-rD-_C3/w500/powe.png",
+        "Title": "Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 02, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/cross-domain-attacks-growing-threat-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkB0BKYRoosxTB69N_ir2onl-Rin4rt_ShLKOZdqu27hxmd4tlKsZiXbxgVt4zk8iw-8G4LtW_mQ-v_ST-2cCawHqPtQ4Qg4neg6-oPXZ9IUNkZTk7yIFfGnUgBM6ybI9cKLsW-NB1wLdRD5_KIAHwa1vGCyaJxwqsYnbXEy3j8TVr7O78vPyOc5nmL08/w500/cs.png",
         "Title": "Cross-Domain Attacks: A Growing Threat to Modern Security and How to Combat Them",
@@ -14,16 +21,16 @@
         "Timestamp": "Jan 02, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfj1rVakZd2-fxD6xVIICkSh5Ha3-K_knPA1bWMk0Hsj0tYC1cufib7hHgKO0HmNYxd55OIgoVr6mPVqWYTTRNTKabwjcH-9LRaQO06pCZWpTkOPm0hFebsUczXDr_3PlRbVFogYMLYG28HD113zDAjT_RxUF3un200eMBwEKWTE63cNc6eriWDDrR-_f/w500/flags.png",
-        "Title": "Three Russian-German Nationals Charged with Espionage for Russian Secret Service",
+        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
+        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 02, 2025"
     },
     {
-        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
-        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Link": "https://thehackernews.com/2025/01/three-russian-german-nationals-charged.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfj1rVakZd2-fxD6xVIICkSh5Ha3-K_knPA1bWMk0Hsj0tYC1cufib7hHgKO0HmNYxd55OIgoVr6mPVqWYTTRNTKabwjcH-9LRaQO06pCZWpTkOPm0hFebsUczXDr_3PlRbVFogYMLYG28HD113zDAjT_RxUF3un200eMBwEKWTE63cNc6eriWDDrR-_f/w500/flags.png",
+        "Title": "Three Russian-German Nationals Charged with Espionage for Russian Secret Service",
         "Source": "The Hacker News",
         "Timestamp": "Jan 02, 2025"
     },
@@ -49,16 +56,16 @@
         "Timestamp": "Jan 02, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnW4uIKY7rtNoiGYo8nyYHd5Q4GOBJE2Wl-_rkjIV_2niquf9XG2YrD4kttbb6OreSiIdxwiE4vBkrzzBm20bS190-_oo09qmwp2jeTEXnlDUEkw6ue-paA2vVRIH9oQsPo6L7jCfHEAPMgvHQVrhhtp2ROEJRBgypM1uBCb7IA6obfG5TMReQs9QOadE5/w500/chinesehackers.png",
-        "Title": "Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents",
+        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/s728-e30/digi.png",
+        "Title": "DigiCertOne Demo: The Enterprise Guide to Certificate Automation and Beyond",
         "Source": "The Hacker News",
         "Timestamp": "Jan 02, 2025"
     },
     {
-        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/s728-e30/digi.png",
-        "Title": "DigiCertOne Demo: The Enterprise Guide to Certificate Automation and Beyond",
+        "Link": "https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnW4uIKY7rtNoiGYo8nyYHd5Q4GOBJE2Wl-_rkjIV_2niquf9XG2YrD4kttbb6OreSiIdxwiE4vBkrzzBm20bS190-_oo09qmwp2jeTEXnlDUEkw6ue-paA2vVRIH9oQsPo6L7jCfHEAPMgvHQVrhhtp2ROEJRBgypM1uBCb7IA6obfG5TMReQs9QOadE5/w500/chinesehackers.png",
+        "Title": "Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents",
         "Source": "The Hacker News",
         "Timestamp": "Jan 02, 2025"
     },
@@ -84,17 +91,101 @@
         "Timestamp": "Jan 02, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bUjHlC4tr-_HfOvMVlJKYc4VUm2oGzeai-k0rZP5-74VmWU_42NTQndEAyXYCYOq5L6DWAPp4dX-2WRrv_mn6rpCXP8yh2f2BJuGiSsoF1ecoY3fHMpz1z9rDjS-XtSPDqj17sL0mdFge5iAKFpHJ0J6cjWyOxcOmvAzcxjReDxL4xZyQ2FdPjkup7E/w500/chrome.png",
-        "Title": "When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 02, 2025"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png",
         "Title": "U.S. Army Soldier Arrested in AT&T, Verizon Extortions",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bUjHlC4tr-_HfOvMVlJKYc4VUm2oGzeai-k0rZP5-74VmWU_42NTQndEAyXYCYOq5L6DWAPp4dX-2WRrv_mn6rpCXP8yh2f2BJuGiSsoF1ecoY3fHMpz1z9rDjS-XtSPDqj17sL0mdFge5iAKFpHJ0J6cjWyOxcOmvAzcxjReDxL4xZyQ2FdPjkup7E/w500/chrome.png",
+        "Title": "When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf0TaLIhru3us2482mUHwROB8pWy907nz9LpW2rQn3K3q6PnUIOl9XTENTLnAkxohRwfUXDMup6_-wbDCzSfOUwyKG6k0vHzhj9ry_x84dL4W-hqAOoYsK1cEcRbbBO4BYhZSxCG3BhqB-RU2UfV_7tfex7ukGe4g9EzykjYfzEgmwwdhyiCNdE64ZecaK/w500/chrome.png",
+        "Title": "Dozens of Chrome Extensions Hacked, Exposing Millions of Users to Data Theft",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/s728-e30/digi.png",
+        "Title": "DigiCertOne Demo: The Enterprise Guide to Certificate Automation and Beyond",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM4Efw4NqigkpMJJ2VA_agA2oS2brssc6OLY4vJoz7cqi9kgYhNRAtSfJV9BE3bqguhsOj-nlfg7NrG8qoW6BgRmIKwDksdSJrz19_WogbmREJ8Dk399t8KJ9W9O_1bhSDzCMR-coAXcd-zNYDqKaVgoFiS-A8o5HoyetT4TEtW1Ph0_V9p9yYn3B0FqD/w500/router.png",
+        "Title": "15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
+        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0SWWXCyEtKEqYQ-5lg3jRZSHv5_SadA7yGI8QyjGDM0yaM4mZUUthd-RKNCG4kDk1nOn1cYs1eNe3x8CyiqtVNyrzM-ErGtReML2JyisMsmGA-rZQW_hmuDnmndpDw6NEtAMLldBc6gm5svqx-QFJhSA70OZH8JAOm5QxTwiEapB2Yrhcjm0rkDKbIDP/w500/hacking.png",
+        "Title": "North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN-MYQSVnmKu_fXqRe1-eYRuk9TiwR7wZL2SCFqAu78prSbWpd6obdN1q62e2YqoehqMvxANUfKYZBDKcOg6dMR1w4BMwiQs-gu6-nx0rx5AQuS50EihQskGaZ8jlU94U32hi9jF8b3e74Hn5NsDO1lVhIn6y_C3noeYsKU6GBZ5aw6S2IjJ0od4VRh5h/w500/cloud.png",
+        "Title": "Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/w500/palo.png",
+        "Title": "Palo Alto Releases Patch for PAN-OS DoS Flaw \u2014 Update Immediately",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/w500/botnet.png",
+        "Title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/w500/apache-mina.png",
+        "Title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1vwRDVwMIVPzXK6J__e_rA7_1IXIoTuNz8XVEJqmWLj23PqFWfocs0OZux0juSX1p2HKJmbfglsp3P8bJzrKz2qTyX-pKkRL0ECG7YzSg1K01R8EJeRfLFMrmG6wwdYQTdlAwdXl4EBdLfMOSa_94yxOGOWesa7YTtgq7S976RQauoLUnnqcLCgsZ01pT/w500/brazil.png",
+        "Title": "Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nLqT0UlQ1hS2pWjtqKTAliPXimWqJuI3ExBa3pY8lmRLMYdkbpSIpNl3dW32-1BswViwAt8y7r04nTaEPiWkwkYqTKcX77E1sczxiJY_VtuI8aLf_-EZHHwr7ZV9g-1bHlXeigzb7P-feUBM2EKyqL7YOHAxtnXoXBi-nN1QWlk5koo4KhhAFc2ZPkyp/w500/hackers.png",
+        "Title": "Ruijie Networks' Cloud Platform Flaws Could've Exposed 50,000 Devices to Remote Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Dec 30, 2024"
+    },
+    {
+        "Link": "https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDcXwDXFr7mguLl7oDOh_rZqCAz9vrInMtPUKCRgXiwXlGArI3S2wGa3H4LpgU11ZcfE-kztcUwcZbARqGT26m8VElpKLc9ghzLIk1dAo2UI9tnbehEIRSbsiF7VLjh5NWuPD68ogX0tfpxY8Z1Ryjn3vQ4703LWmNjk325YjGUEhgfXwezJj_2ASiWdHD/w500/apache.png",
+        "Title": "Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS \u2014 Patch Now",
+        "Source": "The Hacker News",
         "Timestamp": "Dec 30, 2024"
     },
     {
@@ -116,97 +207,6 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/15bday.png",
         "Title": "Happy 15th Anniversary, KrebsOnSecurity!",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/16-chrome-extensions-hacked-exposing.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf0TaLIhru3us2482mUHwROB8pWy907nz9LpW2rQn3K3q6PnUIOl9XTENTLnAkxohRwfUXDMup6_-wbDCzSfOUwyKG6k0vHzhj9ry_x84dL4W-hqAOoYsK1cEcRbbBO4BYhZSxCG3BhqB-RU2UfV_7tfex7ukGe4g9EzykjYfzEgmwwdhyiCNdE64ZecaK/w500/chrome.png",
-        "Title": "Dozens of Chrome Extensions Hacked, Exposing Millions of Users to Data Theft",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM4Efw4NqigkpMJJ2VA_agA2oS2brssc6OLY4vJoz7cqi9kgYhNRAtSfJV9BE3bqguhsOj-nlfg7NrG8qoW6BgRmIKwDksdSJrz19_WogbmREJ8Dk399t8KJ9W9O_1bhSDzCMR-coAXcd-zNYDqKaVgoFiS-A8o5HoyetT4TEtW1Ph0_V9p9yYn3B0FqD/w500/router.png",
-        "Title": "15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/s728-e30/digi.png",
-        "Title": "DigiCertOne Demo: The Enterprise Guide to Certificate Automation and Beyond",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0SWWXCyEtKEqYQ-5lg3jRZSHv5_SadA7yGI8QyjGDM0yaM4mZUUthd-RKNCG4kDk1nOn1cYs1eNe3x8CyiqtVNyrzM-ErGtReML2JyisMsmGA-rZQW_hmuDnmndpDw6NEtAMLldBc6gm5svqx-QFJhSA70OZH8JAOm5QxTwiEapB2Yrhcjm0rkDKbIDP/w500/hacking.png",
-        "Title": "North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
-        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN-MYQSVnmKu_fXqRe1-eYRuk9TiwR7wZL2SCFqAu78prSbWpd6obdN1q62e2YqoehqMvxANUfKYZBDKcOg6dMR1w4BMwiQs-gu6-nx0rx5AQuS50EihQskGaZ8jlU94U32hi9jF8b3e74Hn5NsDO1lVhIn6y_C3noeYsKU6GBZ5aw6S2IjJ0od4VRh5h/w500/cloud.png",
-        "Title": "Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhFUBddpk9ocXHlSGvUq9dfD8SDNLMC8JbBs1XjmLxS2IAqkniWDoE7Yw5U5Mq45AXx5jqiGNukZ5tHaSPqVrmr4I1ZXM8zZ69nceuv1lr_v7UllOVUYAyWSM6HISGyaG_dwCy8IKNgP2JN8hzAEY_TjOT-AJGU9z7HgiDkYoRL43K18uqXM381n713dTY/w500/palo.png",
-        "Title": "Palo Alto Releases Patch for PAN-OS DoS Flaw \u2014 Update Immediately",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/ficora-and-kaiten-botnets-exploit-old-d.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQIv1DE04JbZFZe-ocsLLDeKiOSZPg7KE8HyGebKlXtKPTeBSUJnAs_lLGgfuMBtV__U2gj_fOTK2rQoGyhPmksWQb4G89S4MaGSfuSN0FtSDKmH37b8O2xE2IZX6Ls1CgpCQV4LXftNfEK75mMAVRubho1sFnbI324jQar9HTQPIiQLGRqzHhT2bZnKv/w500/botnet.png",
-        "Title": "FICORA and Kaiten Botnets Exploit Old D-Link Vulnerabilities for Global Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/apache-mina-cve-2024-52046-cvss-100.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi57grjBxRdOKTcw2Zw4biBr0ScKT1tKkWSUAkl7Ivh1dinneR9JnBw6wi6eH33cKzptjP32C4lbaUn5AitkvbtW0D38k_wVjhsvOw_QBezoLiyGN7zi0SbkqGhb3J_Of6GD9-TLWpFNazyyJBYM1y_gh4WYgbKB7breimh-NL5GCzVgr3ovMcV7jJ4hgSa/w500/apache-mina.png",
-        "Title": "Apache MINA CVE-2024-52046: CVSS 10.0 Flaw Enables RCE via Unsafe Serialization",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1vwRDVwMIVPzXK6J__e_rA7_1IXIoTuNz8XVEJqmWLj23PqFWfocs0OZux0juSX1p2HKJmbfglsp3P8bJzrKz2qTyX-pKkRL0ECG7YzSg1K01R8EJeRfLFMrmG6wwdYQTdlAwdXl4EBdLfMOSa_94yxOGOWesa7YTtgq7S976RQauoLUnnqcLCgsZ01pT/w500/brazil.png",
-        "Title": "Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nLqT0UlQ1hS2pWjtqKTAliPXimWqJuI3ExBa3pY8lmRLMYdkbpSIpNl3dW32-1BswViwAt8y7r04nTaEPiWkwkYqTKcX77E1sczxiJY_VtuI8aLf_-EZHHwr7ZV9g-1bHlXeigzb7P-feUBM2EKyqL7YOHAxtnXoXBi-nN1QWlk5koo4KhhAFc2ZPkyp/w500/hackers.png",
-        "Title": "Ruijie Networks' Cloud Platform Flaws Could've Exposed 50,000 Devices to Remote Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/critical-sql-injection-vulnerability-in.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDcXwDXFr7mguLl7oDOh_rZqCAz9vrInMtPUKCRgXiwXlGArI3S2wGa3H4LpgU11ZcfE-kztcUwcZbARqGT26m8VElpKLc9ghzLIk1dAo2UI9tnbehEIRSbsiF7VLjh5NWuPD68ogX0tfpxY8Z1Ryjn3vQ4703LWmNjk325YjGUEhgfXwezJj_2ASiWdHD/w500/apache.png",
-        "Title": "Critical SQL Injection Vulnerability in Apache Traffic Control Rated 9.9 CVSS \u2014 Patch Now",
-        "Source": "The Hacker News",
-        "Timestamp": "Dec 29, 2024"
-    },
-    {
-        "Link": "https://thehackernews.com/2024/12/irans-charming-kitten-deploys-bellacpp.html?m=1",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2dmzUdOuzrMQ37boTlRteRG-LgudtqbhuxHQ7D2s4HLiuITfpCuuq7sVu8U9Ictu_M4SIcqXoLUdEaLa9_YehEImImFD6yA8jhsBJxHbth4RRP7j_zDWat2464kQjJBxj4RfHoeOtjDQrBbXJKvQe304MF2rn4Ies3_wQ30xmi-xAF5eTVmFdEaOZrY63/w500/malware.png",
-        "Title": "Iran's Charming Kitten Deploys BellaCPP: A New C++ Variant of BellaCiao Malware",
-        "Source": "The Hacker News",
         "Timestamp": "Dec 29, 2024"
     },
     {
@@ -245,16 +245,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -420,16 +420,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
