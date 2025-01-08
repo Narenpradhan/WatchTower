@@ -196,16 +196,16 @@
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
-        "Img_URL": "https://media.wired.com/photos/6761aaa5cf04e13785ae4fca/3:2/w_1280%2Cc_limit/security_dangerous_internet_people_gettyimages.jpg",
-        "Title": "The Most Dangerous People on the Internet in 2024",
+        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
+        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
+        "Title": "US Treasury Department Admits It Got Hacked by China",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
-        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
-        "Title": "US Treasury Department Admits It Got Hacked by China",
+        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
+        "Img_URL": "https://media.wired.com/photos/6761aaa5cf04e13785ae4fca/3:2/w_1280%2Cc_limit/security_dangerous_internet_people_gettyimages.jpg",
+        "Title": "The Most Dangerous People on the Internet in 2024",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
@@ -308,16 +308,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -348,6 +348,13 @@
         "Title": "Malicious Ads in Search Results Are Driving New Generations of Scams",
         "Source": "WIRED",
         "Timestamp": "Nov 22, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/08/amitaico.png",
+        "Title": "Feds Charge Five Men in \u2018Scattered Spider\u2019 Roundup",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 21, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/",
@@ -420,9 +427,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -434,9 +441,9 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
@@ -474,12 +481,5 @@
         "Title": "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach",
         "Source": "KrebsonSecurity",
         "Timestamp": "Oct 18, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/10/sudanese-brothers-arrested-in-anonsudan-takedown/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/10/as-kenya.png",
-        "Title": "Sudanese Brothers Arrested in \u2018AnonSudan\u2019 Takedown",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 17, 2024"
     }
 ]
