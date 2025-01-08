@@ -1,5 +1,12 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8k_A0Bhb1RQBbWChY1Qe6gwlEOBNoM25mqrPs9qNpOS47qrnKQawCucEGVKZSOSlFXraAeU3RUy1jPucIe8KNcUK0yLyhkV7XR8NzKtgiiZMS9MEAeSBSd7qe8p7p-xXvE4VJ8PX5O6z2pSEpZ8yjnFJJJXcA5NlBXPGa09F-xZabijG3OUZt3dh6lL8/w500/malware.png",
+        "Title": "Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 08, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/top-5-malware-threats-to-prepare.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSHl1lOzOTW49RLVW7pnESvdVkjr_sN324MDZ_Dnehg3PDuzwY7SLsTSocro3oaGi6itIkKn2ze38yDsyNJ1SisC0Va-bYcB5nLqq_VxQGh8xQqEHloFrLETXTnk-cnCjOnO2VjaySzj1TGXDDcdcXO909CtxNJ3I0Aium3CYR9W3QBYc_I8she61WGCs/w500/top-5-malware.png",
         "Title": "Top 5 Malware Threats to Prepare Against in 2025",
@@ -14,16 +21,16 @@
         "Timestamp": "Jan 08, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGV8jSvDECj5CT5b-IaGANvCaf4rbs8tcpTdBMlhXkS5xiv-XNiyvhWFZj8zAYzTR4HBZeLHFh-fjz9AmVbMc-IRSJ0C7ZbYMacsg-IvReIb1XiQSCwbDEEjHeI9Am4mxGaRNX_rrQGb9U4SIyZ-6rgLcD3H6oTpgBz4qpTqj8MSgkXnfMKgOj4FuYABOe/w500/usa.png",
-        "Title": "FCC Launches 'Cyber Trust Mark' for IoT Devices to Certify Security Compliance",
+        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
+        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2025"
     },
     {
-        "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
-        "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Link": "https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGV8jSvDECj5CT5b-IaGANvCaf4rbs8tcpTdBMlhXkS5xiv-XNiyvhWFZj8zAYzTR4HBZeLHFh-fjz9AmVbMc-IRSJ0C7ZbYMacsg-IvReIb1XiQSCwbDEEjHeI9Am4mxGaRNX_rrQGb9U4SIyZ-6rgLcD3H6oTpgBz4qpTqj8MSgkXnfMKgOj4FuYABOe/w500/usa.png",
+        "Title": "FCC Launches 'Cyber Trust Mark' for IoT Devices to Certify Security Compliance",
         "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2025"
     },
@@ -42,16 +49,16 @@
         "Timestamp": "Jan 08, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8noBIq0EapaJzmd1AgfdYh0uIyKheF7qrz-TqT_-C3UA5sswAjVaydyfWhuI8S3r79vpt64A4lmI3wupOSmHnSOh9S5i7pBjSHOXRlAzO4MgS9naaZnPH2U_Mw2zgPDk_Zjwui3TlULe4rNXmW2LZVA4nV4ODLvVQwRiWoyJmQw6msq67ZyAoRKh7no/w500/main.gif",
-        "Title": "Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year",
+        "Link": "https://thehacker.news/ai-in-cybersecurity?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcqpNemPTE9ID3LdO-zm5GJVt79zLm1YDwktkR4ErT1aSGxKvbzjCvdh769jspAc66073YWlG3hFRYLIfR_S3LTTLSypvISH97z6mXWCJ3a-TUpZ2bBWwzhh04UaJ5mgRPuF9Me4l5Zy_joPEje8AvTlppfv4NTHlayGYHa2aEDmdTCa3kwiDquHy9Rxk/s728/ai-in-cybersecurity.png",
+        "Title": "AI in Cybersecurity: Learn What Works and What Doesn't (Webinar Inside)",
         "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2025"
     },
     {
-        "Link": "https://thehacker.news/ai-in-cybersecurity?source=newsfeed",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcqpNemPTE9ID3LdO-zm5GJVt79zLm1YDwktkR4ErT1aSGxKvbzjCvdh769jspAc66073YWlG3hFRYLIfR_S3LTTLSypvISH97z6mXWCJ3a-TUpZ2bBWwzhh04UaJ5mgRPuF9Me4l5Zy_joPEje8AvTlppfv4NTHlayGYHa2aEDmdTCa3kwiDquHy9Rxk/s728/ai-in-cybersecurity.png",
-        "Title": "AI in Cybersecurity: Learn What Works and What Doesn't (Webinar Inside)",
+        "Link": "https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8noBIq0EapaJzmd1AgfdYh0uIyKheF7qrz-TqT_-C3UA5sswAjVaydyfWhuI8S3r79vpt64A4lmI3wupOSmHnSOh9S5i7pBjSHOXRlAzO4MgS9naaZnPH2U_Mw2zgPDk_Zjwui3TlULe4rNXmW2LZVA4nV4ODLvVQwRiWoyJmQw6msq67ZyAoRKh7no/w500/main.gif",
+        "Title": "Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year",
         "Source": "The Hacker News",
         "Timestamp": "Jan 08, 2025"
     },
@@ -84,13 +91,6 @@
         "Timestamp": "Jan 08, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKokWQpcRQ55ARtaBLhn4X9RCRcf5u5YW7JaJaQrIrcU6A96dBP2IS5th1jhuZX0cQMO04KAMOZDxqEIcPdkAqGmkXMpHzV7L_CECca3FJ_ppgWQh9J0y8D02mSQbw-nzuf-FzDIN412s_F2AO-MGpfr95e-yMTzPjQqkl-WKo8jY1o6XMVvnF7bEmngEk/w500/recap.png",
-        "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 08, 2025"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/thumb-mobile.png",
         "Title": "A Day in the Life of a Prolific Voice Phishing Crew",
@@ -98,16 +98,16 @@
         "Timestamp": "Jan 07, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgerPQIb3lUkIQkjLgSji3GKSaxRl9l2MTa-2-TUpeWTHwWi4-eQWTLbeZKUlbYO7f7fOHxWp30CN4dAPbQYKffb5cpJN_rx00IxX6wjSN6VK2XY8ZLUKRE-42sIQxvfK7ZiNfxFCrvzaJYXhhY-HWRJ2jL2aOhYBNPN8EiPaaHYInGkGLL8ziNplqFA1M/w500/wing.png",
-        "Title": "From $22M in Ransom to +100M Stolen Records: 2025's All-Star SaaS Threat Actors to Watch",
+        "Link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKokWQpcRQ55ARtaBLhn4X9RCRcf5u5YW7JaJaQrIrcU6A96dBP2IS5th1jhuZX0cQMO04KAMOZDxqEIcPdkAqGmkXMpHzV7L_CECca3FJ_ppgWQh9J0y8D02mSQbw-nzuf-FzDIN412s_F2AO-MGpfr95e-yMTzPjQqkl-WKo8jY1o6XMVvnF7bEmngEk/w500/recap.png",
+        "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]",
         "Source": "The Hacker News",
         "Timestamp": "Jan 06, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh608usdgg5fiKQWi9qgAHoKyeSYAwrInZPJO6JteKirojStlB1NfCfqKXNRBUNpdACkL66zIr4mK1-p6wVUSSBOZa0gMHPVtxap0jNQh3-IXq7d1yNY8PMUoNNLNWkVsvrq4gMCBq1pxYu8RYoyfpKpSah4vQYsyiJeye4zx0nCXGCul_BUt1pdAp-yUed/w500/telegram.png",
-        "Title": "FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices",
+        "Link": "https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgerPQIb3lUkIQkjLgSji3GKSaxRl9l2MTa-2-TUpeWTHwWi4-eQWTLbeZKUlbYO7f7fOHxWp30CN4dAPbQYKffb5cpJN_rx00IxX6wjSN6VK2XY8ZLUKRE-42sIQxvfK7ZiNfxFCrvzaJYXhhY-HWRJ2jL2aOhYBNPN8EiPaaHYInGkGLL8ziNplqFA1M/w500/wing.png",
+        "Title": "From $22M in Ransom to +100M Stolen Records: 2025's All-Star SaaS Threat Actors to Watch",
         "Source": "The Hacker News",
         "Timestamp": "Jan 06, 2025"
     },
@@ -119,9 +119,9 @@
         "Timestamp": "Jan 06, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/russian-speaking-attackers-target.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VRshtTA_ffyqVHSpK2cDNl9sS82QY-oLyLifZT-Q6eGaAQYs96F6yTClEJgh7ynvoYR_9dU-yN4hCORUUqVQOXYFwpD7iQ7hQMKuEvSCOBL6lsEvpZDRpyA4RkyxrrliGZC2Z2WDErF_ObDBjSBbnGXAHfUo_TRzHd47WTP4yLVoMnjlMLBmtpv0Bcr6/w500/eth.png",
-        "Title": "Cybercriminals Target Ethereum Developers with Fake Hardhat npm Packages",
+        "Link": "https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh608usdgg5fiKQWi9qgAHoKyeSYAwrInZPJO6JteKirojStlB1NfCfqKXNRBUNpdACkL66zIr4mK1-p6wVUSSBOZa0gMHPVtxap0jNQh3-IXq7d1yNY8PMUoNNLNWkVsvrq4gMCBq1pxYu8RYoyfpKpSah4vQYsyiJeye4zx0nCXGCul_BUt1pdAp-yUed/w500/telegram.png",
+        "Title": "FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jan 06, 2025"
     },
@@ -129,6 +129,13 @@
         "Link": "https://thehackernews.uk/sans-east-2025-newsfeed",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUGEARSSlZEop_R6z4mg4tgyI06tselalUX8BvpVHrORamJQE2c9Xxx8YihqeP_rfNrVq69g-nFTsRkSNO1fGvtI1SnyRHqT7q1yJEp89MiYelq9Jn41Vxp5_zgu3SPsmk9J-M6AtmdZSoC_5xyOTTNIxJi1wYO7Xl3JyThdzKXKw7xFK50mUVj-fupMk/s728-e100/sans-newsfeed.jpg",
         "Title": "Advance Your Cybersecurity Career at SANS Security East Baltimore 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 06, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/russian-speaking-attackers-target.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VRshtTA_ffyqVHSpK2cDNl9sS82QY-oLyLifZT-Q6eGaAQYs96F6yTClEJgh7ynvoYR_9dU-yN4hCORUUqVQOXYFwpD7iQ7hQMKuEvSCOBL6lsEvpZDRpyA4RkyxrrliGZC2Z2WDErF_ObDBjSBbnGXAHfUo_TRzHd47WTP4yLVoMnjlMLBmtpv0Bcr6/w500/eth.png",
+        "Title": "Cybercriminals Target Ethereum Developers with Fake Hardhat npm Packages",
         "Source": "The Hacker News",
         "Timestamp": "Jan 06, 2025"
     },
@@ -178,13 +185,6 @@
         "Link": "https://thehackernews.com/2025/01/apple-to-pay-siri-users-20-per-device.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk5Znw9TIfJQZ4xWRMVHxiZk4C_sxYEvCJza3F22s6dWE-1xdtnzuE_B44tzDQo-fNKOvyBcmIFhXQEcWfe6cUxmhHWyoyCaF1TRtpB9gdXdEGaWHTpclEuutNgTvezvIi2BdgJ8NdwLn1QoBwmEkPKCkVC6FS4o6t2N_UQwZMKyZNEYqIC-Y53zVROXL5/w500/apple-siri.png",
         "Title": "Apple to Pay Siri Users $20 Per Device in Settlement Over Accidental Siri Privacy Violations",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 06, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6YctML2Y_FznR8D44mD_aL96mHLac5JzYNO0oUaRakb03ym-tDPcDj6aDWKPqL86zUsqV6DoDgjb5VV2aQd0qo2GkuAGh87b-kiWuijzJ6_OSXmsKgxMryg0DwnWjDo_zb50MMuCGjEAvgqeKj0fKyc4PzLuVkS77LbWNz2yoO1q1lURgS5Rs_-rD-_C3/w500/powe.png",
-        "Title": "Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web API",
         "Source": "The Hacker News",
         "Timestamp": "Jan 06, 2025"
     },
@@ -259,16 +259,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -315,16 +315,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -427,16 +427,16 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
-        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
-        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
+        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
+        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
+        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
-        "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
-        "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
+        "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
+        "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
