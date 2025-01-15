@@ -266,16 +266,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -348,6 +348,13 @@
         "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 02, 2024"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/moucka-surveillance.png",
+        "Title": "Hacker in Snowflake Extortions May Be a U.S. Soldier",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Nov 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
@@ -474,12 +481,5 @@
         "Title": "The Global Surveillance Free-for-All in Mobile Ad Data",
         "Source": "KrebsonSecurity",
         "Timestamp": "Oct 23, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/12/breachedige.png",
-        "Title": "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Oct 18, 2024"
     }
 ]
