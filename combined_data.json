@@ -1,58 +1,100 @@
 [
     {
-        "Link": "https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHoNAwg0QD3kCZJ26-sOd41RZJ2gZwGikcH-Q_0-Fir3zXfMIrW5g1tYsrNEfvZo1KXOWn5yzJvyo8QD7e8oJA3w46gF4VSgMGBfP9fPtrOzucYn4BbYVvZAGaqy7SOE9E55QVa3eYd1UexO_B0K55PAS0SfovuhWVeJfgGSc4ZwW8wmxNC4zjBy-mcOZG/w500/apple.png",
-        "Title": "Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation",
+        "Link": "https://thehackernews.com/2025/01/google-cloud-researchers-uncover-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngfmpiGdJQLRhZprYcWsZNN5tYtY2D1LgWDYkInWO2O21XvyxIvbV0uiLxFxx2hXY8aln901ps7tA4T9Fqn8IdaH2ZIDFtg0n1WlDvliV4jw4BS0GCq4hBXArDhq9nxARfoYmoTToSdGxgyIm2-3LrABcXytQ9x2GP8DHYdrRiG6csBFn2AiEZUhkH4ud/w500/rsync.png",
+        "Title": "Google Cloud Researchers Uncover Flaws in Rsync File Synchronization Tool",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw6JL17XxT5IbACWee3LpfrgwerCgKNdqZWNWB59OAYXjidLrY9u7chbYEWS73WZyzJvgJDKXDBsQZHyiw74gLLhsv8wEhNvjFx5wBWwBfb8thVaeR9cebrRY4k0fvtlgZw3Dn1jcJg_Mx892qPesDPUFXVww_8aY5j2nApc1F0TymAgXQskHiZYE5PtZl/w500/google.png",
-        "Title": "Google OAuth Vulnerability Exposes Millions via Failed Startup Domains",
+        "Link": "https://thehackernews.com/2025/01/the-high-stakes-disconnect-for-icsot.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn_MoKYcCyLPsIUALi7dojRGacI6uiqb8vM6NXAEQPT-UTtZhPqZHAfXD5k-vet5UDutDJcWVb0hFUoRbOn7vZ39Xyfc-Z6uSd-NxdohqwFEHV9mPXIM5ECerZihOG58fQH3IrGpo7sf7wG_wMOcnHvvZl7-TtFv9iPhFrsA2bmj9ERxwHYeB7m_HEUq8/w500/ot-security.png",
+        "Title": "The High-Stakes Disconnect For ICS/OT Security",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2iY09-KGJr2biT-gXgA-YqkZfw0ztvZ7LNJLhaAnR-tWxcsWUvjjiqCBNpiHRiuS8v93FIbXkstpAAY7gX8D1knZ01PdBPiEiYPa56FcCGKME-1gnDasaGFl85aaXrA3BnGHbfxyOla6RgLQa8bpv9xy_XIOvZ1Om1hxcll6zFZvAn_HkbCbuPG3a88/w500/nudge.png",
-        "Title": "4 Reasons Your SaaS Attack Surface Can No Longer be Ignored",
+        "Link": "https://thehackernews.com/2025/01/fbi-deletes-plugx-malware-from-4250.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpE9IAzHu9yzo831pE31G0QFxlpkQ0W-jp7QsNKGNrornpQycCl3DA1FOK5TwYG21ZXB3XR5IeeL1Zsf-Zxu8siPD27FFL6JV4KOMtLORLQXIfVrIr8gxQuf7gPh63S_WvIDZqaF77tAhPLR-GhEYy-Th3GDuNdKtFD0KhoEMuEsb5VaUtfltAQRP_ElkC/w500/fbi.png",
+        "Title": "FBI Deletes PlugX Malware from 4,250 Hacked Computers in Multi-Month Operation",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
         "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
         "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkiott94715VCAoAs203Jb1LQ5uaRVEz0tRIIupDtvMEQ5mNPY3eeJusJPb9QZd1JgBLZj4gXTrQJWiTBVd5PaXzfqB95I8pSVsOh2Kfm-QVAvzKiO9LSrCmMyNk4twpvw14gqEHgJzBOPa8rbp75Sc6tZxCcmz5e76RlXuOh2ZkmSI4fX1k9sdeM_43LS/w500/windows.png",
+        "Title": "3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSpnxlWbTDq4IaFE8_ROHY9JHZ71pHmcabqaATIn5PCDOetgN6oQbkcxmJKWnmo9wVfYeQMVH5wY9nek_aAUhFsDtvEVEoU047Rd-rKH1sBdr0Rq1QwLFXJAfH9Sm4-7p77e8PcCsO-5LmiMpohh9m7mYd4XpNqyUl4niXYOC1Offp61Dz9IyeAgB4NgN/w500/exploit.png",
+        "Title": "Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/microsoft-uncovers-macos-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHoNAwg0QD3kCZJ26-sOd41RZJ2gZwGikcH-Q_0-Fir3zXfMIrW5g1tYsrNEfvZo1KXOWn5yzJvyo8QD7e8oJA3w46gF4VSgMGBfP9fPtrOzucYn4BbYVvZAGaqy7SOE9E55QVa3eYd1UexO_B0K55PAS0SfovuhWVeJfgGSc4ZwW8wmxNC4zjBy-mcOZG/w500/apple.png",
+        "Title": "Microsoft Uncovers macOS Vulnerability CVE-2024-44243 Allowing Rootkit Installation",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/product-review-how-reco-discovers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FtrJbu9P2mmBDaVBwQoX11IH-sTLyxMzqYS-5Oj_AbpNQ6se6_byE6NhJAz8a-ESIvthlnXlhtjBdyFBJ_97LRy-zndKD4dMABKxgNWEPar0GVbkfCzi27GlhcXfFZ_kv_uCEQsGTTF6EOa0486D0SkazwXLtt8spV7E_8KD21eDJjhANINZsSXkVTQ/w500/shadow_ai_shadow_saas_discovery_reco.jpg",
+        "Title": "Product Walkthrough: How Reco Discovers Shadow AI in SaaS",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/google-oauth-vulnerability-exposes.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw6JL17XxT5IbACWee3LpfrgwerCgKNdqZWNWB59OAYXjidLrY9u7chbYEWS73WZyzJvgJDKXDBsQZHyiw74gLLhsv8wEhNvjFx5wBWwBfb8thVaeR9cebrRY4k0fvtlgZw3Dn1jcJg_Mx892qPesDPUFXVww_8aY5j2nApc1F0TymAgXQskHiZYE5PtZl/w500/google.png",
+        "Title": "Google OAuth Vulnerability Exposes Millions via Failed Startup Domains",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2iY09-KGJr2biT-gXgA-YqkZfw0ztvZ7LNJLhaAnR-tWxcsWUvjjiqCBNpiHRiuS8v93FIbXkstpAAY7gX8D1knZ01PdBPiEiYPa56FcCGKME-1gnDasaGFl85aaXrA3BnGHbfxyOla6RgLQa8bpv9xy_XIOvZ1Om1hxcll6zFZvAn_HkbCbuPG3a88/w500/nudge.png",
+        "Title": "4 Reasons Your SaaS Attack Surface Can No Longer be Ignored",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 15, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/illicit-huione-telegram-market.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimnFMQhk7BfYVV8CM19KIwxlpPExGMCSHls0Fu9AEvGJAhTbV1w_ts4JI1EZ1bYYTAl7shOtBtHhLz8wj5QkLVlrPbN7umDsAyptcWwRrXNLBYxXC_MlCjJ4UbxfUjUC41RMCJrk_ZfgIhvyS60A0dQIbzjKEsK4ZeRkoEcKlpyminzDWkrAuqJ5KvWq6m/w500/telegram-hacker.png",
         "Title": "Illicit HuiOne Telegram Market Surpasses Hydra, Hits $24 Billion in Crypto Transactions",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpw2co1ymb4kvYfv_-Zm-2qnu5mz0Gb8WGKlTx-wHXINrd8JkhhjjA5kTTIuQQPEBW0hlXmIhyphenhyphen-StVjjkWJEf2xFmMiiHrkk-qmfpFg03lMQENMLfVS71IGBrctYGCrUrblwx_xDxrHJb_kKH1zNfaehYio3wqkvI9Z22wyYYmZTteqW1HWgR8icQdwZB/w500/fortinet.png",
-        "Title": "Zero-Day Vulnerability Suspected in Attacks on Fortinet Firewalls with Exposed Interfaces",
+        "Title": "Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/russian-linked-hackers-target.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpt5didFboExvpJD0PDtut6jPaFYWPhfnwpmGGNvs5olhQbf3I7xL3Nc8jZjPqM9cnzhnZiLHqTrjrxsODbyVv3_k-4jplq0bPV_FEJW5Tm_BCxLuUfMBBJPRMu7XO0AjhJ9l-Tl5HcQ4huzTa0btJHbgc-EXzPsJyCwVJ5fj87LspYJFplrS4st6v6G-g/w500/hackers.png",
         "Title": "Russian-Linked Hackers Target Kazakhstan in Espionage Campaign with HATVIBE Malware",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 14, 2025"
+        "Timestamp": "Jan 15, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8noBIq0EapaJzmd1AgfdYh0uIyKheF7qrz-TqT_-C3UA5sswAjVaydyfWhuI8S3r79vpt64A4lmI3wupOSmHnSOh9S5i7pBjSHOXRlAzO4MgS9naaZnPH2U_Mw2zgPDk_Zjwui3TlULe4rNXmW2LZVA4nV4ODLvVQwRiWoyJmQw6msq67ZyAoRKh7no/w500/main.gif",
-        "Title": "Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year",
-        "Source": "The Hacker News",
+        "Link": "https://krebsonsecurity.com/2025/01/microsoft-happy-2025-heres-161-security-updates/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
+        "Title": "Microsoft: Happy 2025. Here\u2019s 161 Security Updates",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Jan 14, 2025"
     },
     {
@@ -70,9 +112,23 @@
         "Timestamp": "Jan 14, 2025"
     },
     {
+        "Link": "https://thehackernews.com/2025/01/product-review-how-reco-discovers.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FtrJbu9P2mmBDaVBwQoX11IH-sTLyxMzqYS-5Oj_AbpNQ6se6_byE6NhJAz8a-ESIvthlnXlhtjBdyFBJ_97LRy-zndKD4dMABKxgNWEPar0GVbkfCzi27GlhcXfFZ_kv_uCEQsGTTF6EOa0486D0SkazwXLtt8spV7E_8KD21eDJjhANINZsSXkVTQ/w500/shadow_ai_shadow_saas_discovery_reco.jpg",
+        "Title": "Product Walkthrough: How Reco Discovers Shadow AI in SaaS",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 14, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-GVBzJbXbnB628INcZeeGpxnFqxVpcaOaQnUH-g2FpiUGHCsUnPnPNYeuEKDvxOqHzeiB2fZWoNTOO81_P4b77zyyyuaSpWTBjahKirJJMtMXCEIvVUiqsIojlnyGL9pPkB8Dv5-wviS5poLJ_CIYdbkSxjPE4Psyh6mppkjg0M4rWF22fNSR9IgRUqwh/w500/recap.png",
         "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 14, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
+        "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "Source": "The Hacker News",
         "Timestamp": "Jan 14, 2025"
     },
@@ -95,91 +151,42 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLUiUiInn2mO8M0WOIZ8jwlrCg2zFmKV5XBg6KfJkLa7R-Lai0s72hvaHzohEzjdVcybkEaNvZYcP85tR_2iU3rGwnccp-B-ldrCxrVh6TCNbbFVGltG2_jP0H6EZaE5M3Vx77h6duy5H49OraDYNihwLr7qk6QVWsIZSzF8HwU35fAL8g4iPTvh1ta-x/w500/domain.png",
         "Title": "Expired Domains Allowed Control Over 4,000 Backdoors on Compromised Systems",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWPu0JGeBg2yboLivU5wh9uMQCHRdZtzBpVskB8eMBT_aQ5Qy-yaEa3qI516b97_L0rjB3bRzwvi7QtdHtwdYxposV0tYijkDUan4gZPkHPcn-E6GeH2Qaep1ryqpv_hdj1wAlfJKeUNY8nUjmlxnCaD9MQrUGLsnixDO3qtbE9kZfMJdtJreJYbcUVknb/w500/ms.png",
         "Title": "Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/farewell-to-fallen-cybersecurity-stars.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8noBIq0EapaJzmd1AgfdYh0uIyKheF7qrz-TqT_-C3UA5sswAjVaydyfWhuI8S3r79vpt64A4lmI3wupOSmHnSOh9S5i7pBjSHOXRlAzO4MgS9naaZnPH2U_Mw2zgPDk_Zjwui3TlULe4rNXmW2LZVA4nV4ODLvVQwRiWoyJmQw6msq67ZyAoRKh7no/w500/main.gif",
-        "Title": "Farewell to the Fallen: The Cybersecurity Stars We Lost Last Year",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/doj-indicts-three-russians-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_0ZqyRQ-Q99Mti0g05FRwHGP2c0VKx3qgk7SyX2qadXgjOstrxqLh8x3SlZYj69BDUhh7fgv5mq8uk9dNfIoKMIa0OG6S7GZRBKGfeffBlf2RcPZlMWVBeo0H_SpNS65aRCelqsTsng2H1ZCeNirB7ge_IXLVE1HCZQXd5KuA5deKtkKtVz06OgMgyaS/w500/crypt.png",
         "Title": "DoJ Indicts Three Russians for Operating Crypto Mixers Used in Cybercrime Laundering",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
-        "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhWrGC8owIl3L7KjQ3FnbyHx901j9AL1AfxQi-4Id9ECv2Sz-CviniWtj_1pIF9V6hzGOB8kSD0iUxNQTLv9mpce9jtjfMMOIAGyhL-TwP7EKLpSCvA2T1uqthpNG4MMky2ot53wLp5lUXVjUAKMSSMKNq7yorKWAPFtddRcSeNoCj4Xmad_S8sBaMzApL/w500/android.png",
         "Title": "Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung Devices",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitFrHeYqxQ9__vvniWc8vl1TIDOVSBuLzeKRmIi2UV5Id94CLHhoIRyk7sasK-nMIMu7B_Qzs1xnELKAlXPnpjy7zL7aSFcVMLxYAVXmiU8VS9QpIdmbqlEljS5Dioo1mRHWQVYHrDhVQKe300mV8snGGxioj58_Z1DPFk3a9_vrrwGmDvDQu1Rq6tYes/w500/cynomi.png",
         "Title": "Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/ai-driven-ransomware-funksec-targets-85.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1hInlgKu7ly8byjCkr2YYSf70xkvJxvsr0eNLKfhq-f30JZelZQ1eSXDLd7sxFrlbcqclPXTN5ikTqiVLCR9Qz_97Qp67qG49m4drlM5hKLDkShtw4uKl7bGdbbdh4YlUEBEcj3Iw-hKuknfIXUNGf7JvNMHewi5rjmFxKVqCZJCl0at-h1C2WMkDvkh/w500/ransomware.png",
         "Title": "AI-Driven Ransomware FunkSec Targets 85 Victims Using Double Extortion Tactics",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/hands-on-walkthrough-microsegmentation.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk0tCW6QgFEWgdsqpLltehUiuWf2BMsHPujwfYfFsr2Yfvuyyqr1yDCbGjmYrRjP8U85oEAt4bX7oiv8SH09CkQVHIKpI3COu4DpjGIQTVHQWsqyUHuVVauxprY_f3TpHP4jC8EWmmlCZ_prqhx8DjUTR-5d8Fp2ECyYPJXcooEKzvtyBdicuH5xigaI/w500/elisity.png",
-        "Title": "Hands-On Walkthrough: Microsegmentation For all Users, Workloads and Devices by Elisity",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/reddelta-deploys-plugx-malware-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3r8yHgiF5PMS4ydFkoUPCd8fK80VP2z60KlqwGHoBnmeiW2hGo1J-hWHDuugaxQ6bQGLBJRVPKGocV2-pYaRKHh75gLdzURwn0DzZjFCrdAQ_GKlBk8TsTGR_dcTK6hc0eHt_zZZdDbAedR0Sk6RR8IJgZQ2t40s9PuZh_nx5cnrHfLntxz2tmXyYF-N/w500/chinese-hackers.png",
-        "Title": "RedDelta Deploys PlugX Malware to Target Mongolia and Taiwan in Espionage Campaigns",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/crowdstrike-warns-of-phishing-scam.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsmrIpA2NcIyDsQPUvLhjMtP5quBP_1NkpIvKxLW3wyCh5XHwoDZqEv8mA67UcsLCFjCEwfeT_wbSDAAwn-R1u5arkgznVcguuFWAysgIk7N0aVd0vgkZcVpkhJgBUpqUi4Dp5sToxjur4lbAO9PuYrv0M3s7xPOBJtvUI9B_UQ1MAErGcW_yIzPRzN92/w500/joboffer.png",
-        "Title": "CrowdStrike Warns of Phishing Scam Targeting Job Seekers with XMRig Cryptominer",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/major-vulnerabilities-patched-in.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJRRhibudM7wrHQoyHhlETY-Uar-Ypo0EOR4fzE_-7e0J3Fe5s-KkXalb-WS2cYotoOg8Fjie2sZJv4CBUEthwuJERHhPdrBo5nhrPx9pcewskBGUT6iDuwaKs5VwiANyXzJ9-m4PCJTil5shXU-mZSrJVrcS5yKrx31YBlXB8yGp-WvuOJQwWzSEqE2l/w500/software-update.jpg",
-        "Title": "Major Vulnerabilities Patched in SonicWall, Palo Alto Expedition, and Aviatrix Controllers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/new-banshee-stealer-variant-bypasses.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGvqxzCQlUURalzkgvCQTDM_C93hK7vnqs7FO_KTTcXmZ5XgvsROO9PKuxaUP8oy7lh4WlTpsUdZv5YSvTdKGI0-6nGY_3g-Lbbotaxm61u7grQAuB7SvFtwpGFJDxBVo54ggsgMdgMMQ-nwoSDvJOXHoV-9SRPsMSeREDoKLBJcwlBA7rH2xHi-WK5Vn/w500/macos.png",
-        "Title": "New Banshee Stealer Variant Bypasses Antivirus with Apple's XProtect-Inspired Encryption",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 13, 2025"
+        "Timestamp": "Jan 14, 2025"
     },
     {
         "Link": "https://www.wired.com/story/school-swatting-torswats-brad-dennis/",
@@ -266,16 +273,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -322,16 +329,16 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
+        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
+        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
+        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
-        "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
-        "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
+        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
+        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
+        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
@@ -348,13 +355,6 @@
         "Title": "Senators Warn the Pentagon: Get a Handle on China\u2019s Telecom Hacking",
         "Source": "WIRED",
         "Timestamp": "Dec 02, 2024"
-    },
-    {
-        "Link": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/11/moucka-surveillance.png",
-        "Title": "Hacker in Snowflake Extortions May Be a U.S. Soldier",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 26, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/",
@@ -441,13 +441,6 @@
         "Timestamp": "Nov 05, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
-        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
-        "Title": "Russia Is Going All Out on Election Day Interference",
-        "Source": "WIRED",
-        "Timestamp": "Nov 05, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/",
         "Img_URL": "https://media.wired.com/photos/672a43fec34c2e15ce5a1293/3:2/w_1280%2Cc_limit/GettyImages-1246536173.jpg",
         "Title": "Man Arrested for Snowflake Hacking Spree Faces US Extradition",
@@ -458,6 +451,13 @@
         "Link": "https://www.wired.com/story/russia-election-disinformation-2024-election-day/",
         "Img_URL": "https://media.wired.com/photos/672e9067de0bca7d7e01a7ff/3:2/w_1280%2Cc_limit/Security_COPS_Phone_GettyImages.jpg",
         "Title": "Auto-Rebooting iPhones Are Causing Chaos for Cops",
+        "Source": "WIRED",
+        "Timestamp": "Nov 05, 2024"
+    },
+    {
+        "Link": "https://www.wired.com/story/connor-moucka-snowflake-hack-arrest-extradition/",
+        "Img_URL": "https://media.wired.com/photos/672a7169889c531778153f5c/3:2/w_1280%2Cc_limit/russia-election-disinfo-%25201152460187.jpg",
+        "Title": "Russia Is Going All Out on Election Day Interference",
         "Source": "WIRED",
         "Timestamp": "Nov 05, 2024"
     },
