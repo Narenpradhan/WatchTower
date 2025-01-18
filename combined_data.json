@@ -1,94 +1,94 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVZ5CLaVHKfiCltNw-azNG7yA20nZJj9UCoqxFoy1fX-2SxpJS5u094_FPvrTeOp3UeJMRXI_HohTyNL6ML_TaX75LCaqUUberQE6VVm91xEjI3_JYbz8oYx3_ahCuyc7RQ3eoo-6Z2jplT3UNl47_gc3L9ZFuFA3YRBn__0-VumN0Ca4qfEJzpNqEMJV/w500/chinese.png",
+        "Title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Silk Typhoon",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 18, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl2oCkVp9mqJVFS5Maj9qSRscDC2YRFE6opNRkbz-SWGQKlt9MKDC6HceYJF74HEhvUrz6gqa0JOPVFPevSlyv3L3DUQblrdM0-XQYxvUzBS4QjVY8Lr72vMudMA4QsJvJQTPEuNNm0F3udHYsFzhy_h1CBNoZVzy-nh3DGeTIc_jrmfU3h77tw-sTmpHp/w500/root.png",
         "Title": "Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUaOVbm7j7dDhuKYmQg-0qLUfVqGjN83yp5Kn9ZMHMsoFcNmJkOBzJ4tqWENyVQ_f4UT6xEgLJZh41aT1TW0TQK6n815Q3aNgnqg7vfpQFuvrxVaNOHOOmSpAWyC2Wx6nNbhW3K1707rlaGQ9oM5Ww7kASZwV17nKok0LFso5om6Yg0PUP0AmAY6UA_Dk/w500/php.png",
         "Title": "Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6vsirmGXGjYM9_-ygUshM1dy0YxeQJJMpKsRxWj0lX_jtgFn7Kos5y4ZRuWQlwjZutcYoXXxdq2yqiviEyUlGDFXg8A7IiSa6Pfd13FQKbSB7_hN4JTqONnIR3KnrUfkmQg7OrGHtt-CtZFWj8sRElKNtQGTTDdweJIILIwHLYPbC97EIi37j4Xd0GEa/w500/cloud.png",
-        "Title": "How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
         "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6vsirmGXGjYM9_-ygUshM1dy0YxeQJJMpKsRxWj0lX_jtgFn7Kos5y4ZRuWQlwjZutcYoXXxdq2yqiviEyUlGDFXg8A7IiSa6Pfd13FQKbSB7_hN4JTqONnIR3KnrUfkmQg7OrGHtt-CtZFWj8sRElKNtQGTTDdweJIILIwHLYPbC97EIi37j4Xd0GEa/w500/cloud.png",
+        "Title": "How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdE_Yu4pbBf_5SbhLHYA5X0stMFP__1dr7VDCDiRBtkW-T211FT37uQEiuiuHc3LfMWCoyRSUMhOPHJ8r4jbzKU7sBnYjLvT6wIO66wNqWx51nwGkuw-cfcGLiJE6e_A8jdav59QgRPQsuUoDzZmC7wrKg3gLHrANuf2SPe7rWae-6HHhLsN0Ji067yrly/w500/phishing.png",
         "Title": "New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
+    },
+    {
+        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/w500/digi.png",
+        "Title": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/us-sanctions-north-korean-it-worker.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQY65Oqxr2GTPghECCPE2F_nKZiE0GLOGwmDOv9Dz8S6dC73WyjNO9Q-CTItin3FNHsbqInHOBqAa0ddnLv6EDKxMu42dXZnTZqZqsZGr_ygc1WKkE1TrgKhAFZUxS8STlDmb749WhyphenhyphenagdOlpniDZqJDzB8uBIqZbUpQSYSaHn5iAu1qindDKdU1nBVyr8/w500/korean-hackers.png",
         "Title": "U.S. Sanctions North Korean IT Worker Network Supporting WMD Programs",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqtOCuVwvLXxZ7wztKql9c3iwOGkjM59OPVwuxscxWK4c4NAj3bAeT-SySOE0IxtOQN47vpLhaMAVgocY1lSha1PoBXBqULG8OZQzcdgYSnn3NZ42uMyYYEyUUEEmJZCLqFl8DgEUCvPPvsm3Lvwn_cjnD5HY29F8z0sDKIuGoja8lANCC9FKg4m_nKNL/w500/tick.png",
         "Title": "European Privacy Group Sues TikTok and AliExpress for Illicit Data Transfers to China",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/product-review-how-reco-discovers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FtrJbu9P2mmBDaVBwQoX11IH-sTLyxMzqYS-5Oj_AbpNQ6se6_byE6NhJAz8a-ESIvthlnXlhtjBdyFBJ_97LRy-zndKD4dMABKxgNWEPar0GVbkfCzi27GlhcXfFZ_kv_uCEQsGTTF6EOa0486D0SkazwXLtt8spV7E_8KD21eDJjhANINZsSXkVTQ/w500/shadow_ai_shadow_saas_discovery_reco.jpg",
-        "Title": "Product Walkthrough: How Reco Discovers Shadow AI in SaaS",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/russian-star-blizzard-shifts-tactics-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioviRe9WPySZf63QCGITnsNvGVuvecE2mzoyC-4gyC3hIcudF2ypvJCrItZsMcpFuzlaJ7hjXe2dZYF_BYPHkT-L2EcEWYLDjK37h2tp-6DD0q8dZsZgWvNQd4lDhb6kiXYDcMUebC8indcqsaUctpfOxP9VM2Xo0421nRlDcJX_Q59gh3GbEfnB-LMDUt/w500/whatsapp.png",
         "Title": "Russian Star Blizzard Targets WhatsApp Accounts in New Spear-Phishing Campaign",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/ready-to-simplify-trust-management-join.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuWSSlPxAqKSJHnZmN_3iCXoCgLbiXXXxmA9CeOBeP9u0yaU3ePk7BJcWGsfQYuALq1bwJyLcm-mz1AybWDoAUTJDSWRZWP6fKYue7Bv5ivHJ-OfgKcJ5wDaVDDmETpjlizusx8Dw-g7x2wYzlv6n5V_i5FhR-lad1jvMstRKbLjjXhWyMrqddxkRnDuQ/w500/digi.png",
         "Title": "Ready to Simplify Trust Management? Join Free Webinar to See DigiCert ONE in Action",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagNNKLM9kqe83TFMKVqROF_OCVUDcqv7i6XhTM0-51_kxtQM0WZhaP415DwsYD-_p5klcX_dWW-NBph7PucZhwoZU883YNwE2eMQI-3pkyxwl7KCp_0a7Lcx6x3ZggGt-PYCCnL7W1RzlGt8NQ76xARWih72pGH1ApJj6NcTR_ZFICasxrEyXCY6LFUE/w500/push.png",
         "Title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga-b6BDn4A5EY_sGPFkIbsei0o5wRv5iVZQXG4VC4uDZmSSEb4GUH61er0gvsmJoVWzYCSuES-nnjHnmNdEZwGBLOEBkjfZaKgKO4ynsV9GU8quGbphTG5OKcFd_yFYWId2XC7EyfdznLuql-mqRXcRagoOnthdtnTnQd94KYJ5YimezkQjYSsLU58Dc5H/w500/pwne.png",
         "Title": "New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN2Ps40yMdm3bW7tyGPolCovIC8kBtYClBVmM3ly-Hhdxm3F3fwDHp00AFZYeRgfpYJ9krOnwGnuSJP8atX3GOD8E5FaZ9cg-TiBWgI4xlMlMg6y9lW1Ti7GsvUonAJEZG0l897wBuJ7LayKo8kumE4am8GOqoMdR4IObHbgKyEsT9xvMOHfoIV-zSd6va/w500/ntml.png",
-        "Title": "Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 17, 2025"
+        "Timestamp": "Jan 18, 2025"
     },
     {
         "Link": "https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/",
@@ -105,9 +105,23 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
+        "Link": "https://thehackernews.com/2025/01/researchers-find-exploit-allowing.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN2Ps40yMdm3bW7tyGPolCovIC8kBtYClBVmM3ly-Hhdxm3F3fwDHp00AFZYeRgfpYJ9krOnwGnuSJP8atX3GOD8E5FaZ9cg-TiBWgI4xlMlMg6y9lW1Ti7GsvUonAJEZG0l897wBuJ7LayKo8kumE4am8GOqoMdR4IObHbgKyEsT9xvMOHfoIV-zSd6va/w500/ntml.png",
+        "Title": "Researchers Find Exploit Allowing NTLMv1 Despite Active Directory Restrictions",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 16, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/hackers-hide-malware-in-images-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI-C1HC9_-pLfOEHjDgtAU8b7dmHhpxOdq5iF0PnvCLCfptO7ZDJEZa_WfEupllMIxi5Qb7QDtqY_D89X20Uk61mSU28yy4R6dWBMby5_A8lyrRdbt469QhzwSL2Qgh0OgGpFNiDRV49thgGG-1zPIPnfwxzz7vUxtjaPv19fkTT_kCgDfDXWj0iRTCoC0/w500/file-image.png",
         "Title": "Hackers Hide Malware in Images to Deploy VIP Keylogger and 0bj3ctivity Stealer",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 16, 2025"
+    },
+    {
+        "Link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSUcZN5P-13iNj0NpXjDQu_GqoK33so-5UWmu5RGwSZI5ySnjx9JrzJ_3YfAb6aiFieLjzmTZ7De0eiQ4ljqE3HPCfT0c9MKYImMZjZ8h9fSOxXVzdn9bEKVEJD_ee_zSfyg9fCGIL-5afaXSAiMZ7qHwlsi_HTEYCvqA-lt1mFUZ16gd-oreR-n2CPWW2/w500/digi.png",
+        "Title": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2025"
     },
@@ -119,9 +133,9 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/product-review-how-reco-discovers.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0FtrJbu9P2mmBDaVBwQoX11IH-sTLyxMzqYS-5Oj_AbpNQ6se6_byE6NhJAz8a-ESIvthlnXlhtjBdyFBJ_97LRy-zndKD4dMABKxgNWEPar0GVbkfCzi27GlhcXfFZ_kv_uCEQsGTTF6EOa0486D0SkazwXLtt8spV7E_8KD21eDJjhANINZsSXkVTQ/w500/shadow_ai_shadow_saas_discovery_reco.jpg",
-        "Title": "Product Walkthrough: How Reco Discovers Shadow AI in SaaS",
+        "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
+        "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2025"
     },
@@ -129,13 +143,6 @@
         "Link": "https://thehackernews.com/2025/01/researcher-uncovers-critical-flaws-in.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz0hv9aK59OTGDE2ojyNLspgKbBNn9Oas4TKgYowgQxB4LlCKTo8wQD0Ha8P6insH1O2DG_wmvnbP5sv9tykvNg4djzyLJFgQUDRrsyRbxnoOyID9e-sMV0olAs7zqsJr0vmv_LUElNmcBEYL4hyluh7MGdFa_qINdUA3oI9Uvdr7vxbcKLZ0GLEtjxYK7/w500/ivanti.jpg",
         "Title": "Researcher Uncovers Critical Flaws in Multiple Versions of Ivanti Endpoint Manager",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 16, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/azure-visibility-cheat-sheet-wiz",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOWJFbn-vEhKnRcPPy5ADdXReCpBirhoxuXbg-4Ua1EbT30r9WPJ11jv-8ZUx5eLZTWwS5jiEsDXEMAyMlQOVVpp9MvEvXiiIXJCQDTc2AxwgCsA-3xz-Z9dzEmknFFbk64p1AUjxi-FldUn3iqr84haCpth2IJBfg2V-anVkteC1u3vbZo2WziNPHmIj/s728-e100/wizz.png",
-        "Title": "Secure Your Azure: Proactive Tips for Cloud Protection",
         "Source": "The Hacker News",
         "Timestamp": "Jan 16, 2025"
     },
@@ -189,23 +196,16 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/critical-simplehelp-flaws-allow-file.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSpnxlWbTDq4IaFE8_ROHY9JHZ71pHmcabqaATIn5PCDOetgN6oQbkcxmJKWnmo9wVfYeQMVH5wY9nek_aAUhFsDtvEVEoU047Rd-rKH1sBdr0Rq1QwLFXJAfH9Sm4-7p77e8PcCsO-5LmiMpohh9m7mYd4XpNqyUl4niXYOC1Offp61Dz9IyeAgB4NgN/w500/exploit.png",
-        "Title": "Critical SimpleHelp Flaws Allow File Theft, Privilege Escalation, and RCE Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 16, 2025"
-    },
-    {
-        "Link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
-        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
-        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
+        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
-        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
-        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
+        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
+        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -308,16 +308,16 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
-        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
-        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
+        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
+        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
-        "Img_URL": "https://media.wired.com/photos/675cc71ecf3b435a5e4720b5/3:2/w_1280%2Cc_limit/security_trump_cybersecurity_gettyimages.jpg",
-        "Title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+        "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+        "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
+        "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
         "Source": "WIRED",
         "Timestamp": "Dec 16, 2024"
     },
@@ -427,24 +427,10 @@
         "Timestamp": "Nov 19, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/bitfinex-hacker-gets-5-years-for-10-billion-bitcoin-heist/",
-        "Img_URL": "https://media.wired.com/photos/673e626f6e2acda49753fd54/3:2/w_1280%2Cc_limit/chinese-surveillance-citizen-data-sale-2x1.jpg",
-        "Title": "China\u2019s Surveillance State Is Selling Citizen Data as a Side Hustle",
-        "Source": "WIRED",
-        "Timestamp": "Nov 16, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/04/shefel-fb1.png",
         "Title": "An Interview With the Target & Home Depot Hacker",
         "Source": "KrebsonSecurity",
-        "Timestamp": "Nov 14, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/trump-administration-cybersecurity-policy-reversals/",
-        "Img_URL": "https://media.wired.com/photos/673771b3001830e36802c13c/3:2/w_1280%2Cc_limit/sec-roundup-1633746142.jpg",
-        "Title": "Bitfinex Hacker Gets 5 Years for $10 Billion Bitcoin Heist",
-        "Source": "WIRED",
         "Timestamp": "Nov 14, 2024"
     },
     {
