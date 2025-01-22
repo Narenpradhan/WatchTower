@@ -2,7 +2,7 @@
     {
         "Link": "https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmSke4NE6m8JSN4ivC13AYK1SLKclqGXJdHZHJywJl_C5PYKa7ULECJQ0rsVWfIxnzc1PFGYOd5aluSk2BuJM_3GWm5mj180YoGx1MH9QEvj2SE-hNu8KOt3azq-Cd1dDj9CNvVwd5JeFTqC2zm8HcqGLeBydbvbpm_YIrZP5GE_oakL2StxmvJe2w8IW/w500/hacking.png",
-        "Title": "Mirai Variant Murdoc_Botnet Exploits AVTECH IP Cameras and Huawei Routers",
+        "Title": "Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers",
         "Source": "The Hacker News",
         "Timestamp": "Jan 21, 2025"
     },
@@ -91,14 +91,14 @@
         "Timestamp": "Jan 21, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html",
+        "Link": "https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtqt9GbOxtkWUXzcp0sb5h7ltG4pEwswO8VB5gXZrGQ3fyjrmD21KW_7-k2hdj_EZVlSJIliEPv5uqIQlboukcAY8VtMaqaf9ZQ4CxmWOLQDDUUCeA5HtW_2nIFFXCATxyvG980D9NVKWB13rd39oNBKS_7lrBtEql80Y_wklymC_pvB6yvDESMU-YFUj0/w500/tiktok.jpg",
         "Title": "TikTok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+        "Link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVZ5CLaVHKfiCltNw-azNG7yA20nZJj9UCoqxFoy1fX-2SxpJS5u094_FPvrTeOp3UeJMRXI_HohTyNL6ML_TaX75LCaqUUberQE6VVm91xEjI3_JYbz8oYx3_ahCuyc7RQ3eoo-6Z2jplT3UNl47_gc3L9ZFuFA3YRBn__0-VumN0Ca4qfEJzpNqEMJV/w500/chinese.png",
         "Title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon",
         "Source": "The Hacker News",
@@ -112,7 +112,7 @@
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html",
+        "Link": "https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl2oCkVp9mqJVFS5Maj9qSRscDC2YRFE6opNRkbz-SWGQKlt9MKDC6HceYJF74HEhvUrz6gqa0JOPVFPevSlyv3L3DUQblrdM0-XQYxvUzBS4QjVY8Lr72vMudMA4QsJvJQTPEuNNm0F3udHYsFzhy_h1CBNoZVzy-nh3DGeTIc_jrmfU3h77tw-sTmpHp/w500/root.png",
         "Title": "Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation",
         "Source": "The Hacker News",
@@ -126,56 +126,56 @@
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html",
+        "Link": "https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUaOVbm7j7dDhuKYmQg-0qLUfVqGjN83yp5Kn9ZMHMsoFcNmJkOBzJ4tqWENyVQ_f4UT6xEgLJZh41aT1TW0TQK6n815Q3aNgnqg7vfpQFuvrxVaNOHOOmSpAWyC2Wx6nNbhW3K1707rlaGQ9oM5Ww7kASZwV17nKok0LFso5om6Yg0PUP0AmAY6UA_Dk/w500/php.png",
         "Title": "Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html",
+        "Link": "https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6vsirmGXGjYM9_-ygUshM1dy0YxeQJJMpKsRxWj0lX_jtgFn7Kos5y4ZRuWQlwjZutcYoXXxdq2yqiviEyUlGDFXg8A7IiSa6Pfd13FQKbSB7_hN4JTqONnIR3KnrUfkmQg7OrGHtt-CtZFWj8sRElKNtQGTTDdweJIILIwHLYPbC97EIi37j4Xd0GEa/w500/cloud.png",
         "Title": "How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html",
+        "Link": "https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdE_Yu4pbBf_5SbhLHYA5X0stMFP__1dr7VDCDiRBtkW-T211FT37uQEiuiuHc3LfMWCoyRSUMhOPHJ8r4jbzKU7sBnYjLvT6wIO66wNqWx51nwGkuw-cfcGLiJE6e_A8jdav59QgRPQsuUoDzZmC7wrKg3gLHrANuf2SPe7rWae-6HHhLsN0Ji067yrly/w500/phishing.png",
         "Title": "New 'Sneaky 2FA' Phishing Kit Targets Microsoft 365 Accounts with 2FA Code Bypass",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/us-sanctions-north-korean-it-worker.html",
+        "Link": "https://thehackernews.com/2025/01/us-sanctions-north-korean-it-worker.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQY65Oqxr2GTPghECCPE2F_nKZiE0GLOGwmDOv9Dz8S6dC73WyjNO9Q-CTItin3FNHsbqInHOBqAa0ddnLv6EDKxMu42dXZnTZqZqsZGr_ygc1WKkE1TrgKhAFZUxS8STlDmb749WhyphenhyphenagdOlpniDZqJDzB8uBIqZbUpQSYSaHn5iAu1qindDKdU1nBVyr8/w500/korean-hackers.png",
         "Title": "U.S. Sanctions North Korean IT Worker Network Supporting WMD Programs",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html",
+        "Link": "https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqtOCuVwvLXxZ7wztKql9c3iwOGkjM59OPVwuxscxWK4c4NAj3bAeT-SySOE0IxtOQN47vpLhaMAVgocY1lSha1PoBXBqULG8OZQzcdgYSnn3NZ42uMyYYEyUUEEmJZCLqFl8DgEUCvPPvsm3Lvwn_cjnD5HY29F8z0sDKIuGoja8lANCC9FKg4m_nKNL/w500/tick.png",
         "Title": "European Privacy Group Sues TikTok and AliExpress for Illicit Data Transfers to China",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/russian-star-blizzard-shifts-tactics-to.html",
+        "Link": "https://thehackernews.com/2025/01/russian-star-blizzard-shifts-tactics-to.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioviRe9WPySZf63QCGITnsNvGVuvecE2mzoyC-4gyC3hIcudF2ypvJCrItZsMcpFuzlaJ7hjXe2dZYF_BYPHkT-L2EcEWYLDjK37h2tp-6DD0q8dZsZgWvNQd4lDhb6kiXYDcMUebC8indcqsaUctpfOxP9VM2Xo0421nRlDcJX_Q59gh3GbEfnB-LMDUt/w500/whatsapp.png",
         "Title": "Russian Star Blizzard Targets WhatsApp Accounts in New Spear-Phishing Campaign",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/ready-to-simplify-trust-management-join.html",
+        "Link": "https://thehackernews.com/2025/01/ready-to-simplify-trust-management-join.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuWSSlPxAqKSJHnZmN_3iCXoCgLbiXXXxmA9CeOBeP9u0yaU3ePk7BJcWGsfQYuALq1bwJyLcm-mz1AybWDoAUTJDSWRZWP6fKYue7Bv5ivHJ-OfgKcJ5wDaVDDmETpjlizusx8Dw-g7x2wYzlv6n5V_i5FhR-lad1jvMstRKbLjjXhWyMrqddxkRnDuQ/w500/digi.png",
         "Title": "Ready to Simplify Trust Management? Join Free Webinar to See DigiCert ONE in Action",
         "Source": "The Hacker News",
         "Timestamp": "Jan 19, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
+        "Link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagNNKLM9kqe83TFMKVqROF_OCVUDcqv7i6XhTM0-51_kxtQM0WZhaP415DwsYD-_p5klcX_dWW-NBph7PucZhwoZU883YNwE2eMQI-3pkyxwl7KCp_0a7Lcx6x3ZggGt-PYCCnL7W1RzlGt8NQ76xARWih72pGH1ApJj6NcTR_ZFICasxrEyXCY6LFUE/w500/push.png",
         "Title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
         "Source": "The Hacker News",
@@ -203,16 +203,16 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
-        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
-        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
+        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
+        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
-        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
-        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
+        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -252,16 +252,16 @@
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
-        "Img_URL": "https://media.wired.com/photos/677861198543858ca9c4cbd4/3:2/w_1280%2Cc_limit/Security_Siri_GettyImages.jpg",
-        "Title": "Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement",
+        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
+        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
+        "Title": "US Treasury Department Admits It Got Hacked by China",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
-        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
-        "Title": "US Treasury Department Admits It Got Hacked by China",
+        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
+        "Img_URL": "https://media.wired.com/photos/677861198543858ca9c4cbd4/3:2/w_1280%2Cc_limit/Security_Siri_GettyImages.jpg",
+        "Title": "Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
