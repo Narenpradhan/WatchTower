@@ -1,57 +1,120 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/eliminate-identity-based-threats.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_3x9HdMLRcpTgBXvmIV5SWLzAPDZbmRgvsM6wHaXAX9DT1fcORSs3eaWYYKdZj6RXYgwtgN8BrHhc8jjvhWz3dcsNREaGZp_eUhdD7yib1LdOSaGVIsd_d_BaxEWGnJDx1_EkUzfIwo2q0XjwnVldj8WY8qpqJlQRDG3P2XK0sWwMQWVHZFQmWCEXT4w/w500/Identity-Security.png",
+        "Title": "How to Eliminate Identity-Based Threats",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/sonicwall-urges-immediate-patch-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9G0w1_XRyjir28xDf1OQe39RpuJViL0jb88xm3-yavFkAH_LzFLMQLs1wdbdd-qJIPogh7m5sAqdzyxdhxV2Jtlhj8KtE-MgNgkcehYo9hAN94cnwfp51QQp_Yy_KSBcvvI2_LS3b7VarcG_xs_-nsgIiYafDbOF0K-LugCeebsRXdUziSb3Qt_0wfRCy/w500/sonic.jpg",
+        "Title": "SonicWall Urges Immediate Patch for Critical CVE-2025-23006 Flaw Amid Likely Exploitation",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PqSC2JRc65xTSsboeUU7ySrbr12XEKIK4O4iUvD87hYysGKfuFjPO53VBN8tep6EOybWFuJ_NnCkN__8vdRRDIvDpQzzpLF03X3y9FDE1fnuXCu_TkwKEgpbWb1bvFbMnr_8iLL0o0NAl-yByAAsnw5GhZv462y_KG6uKQhh1b72mf5-kH1H7V7Ei6M/w500/web.png",
+        "Title": "New Research: The State of Web Exposure 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/identity-attacks-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
+        "Title": "2024: A year of identity attacks | Get the new ebook",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRWkvZNxktgGTsWp4qPYKY1I5Wf1rqOl3ENY-arFcDUwnqCjsZq4v5lGkjTJmVlAz3RrWqPf5yFzvzMio2vGeAS1r1qQxpDwBou-ps2BbaNaDskOGjcc1dWalTtDJQbqWlPvAt2IralZGrVE4IF6q4YlaVxOTSr50Tamknk0q7uyROWtcPqah64e42Gkt/w500/malware-attack.png",
+        "Title": "QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1591C2FBRMXx8IfAw9jMNYvG-0hdQfjKZIWV3NUUyu-YUMZYs3ytCMWAM8s_taP4Q3-azGV0Pj5nWeJdQPldIXlyVjv8uCDI_2Dp34QyDy96QPoq3CYZWtYj0mCA94AdL9WGR4BKo4rZWdOujOxbtGKt81vFWYb9nzS08Wy_cJGFJeHe4r42mdl-UFFYb/w500/cisco.jpg",
+        "Title": "Cisco Fixes Critical Privilege Escalation Flaw in Meeting Management (CVSS 9.9)",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2MvBKKlyv7rGl3kQZ-JoUlpTDQZ2Shes63UD98NvAWqFBcOHxaYUyI3GaBYnQLpDzcsIF4Ps2_ipDnLajg8mc_KBPNUs1YcBOmirupFcNFSqyfGr5VjFADWtowj50i-oW3nkIPSG5aUqsxilaZmKOHWECFLsFqHWdtOZ2sk7wx3_e-w48AnRkxcHJ3nMy/w500/dhs.png",
         "Title": "Trump Terminates DHS Advisory Committee Memberships, Disrupting Cybersecurity Review",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagNNKLM9kqe83TFMKVqROF_OCVUDcqv7i6XhTM0-51_kxtQM0WZhaP415DwsYD-_p5klcX_dWW-NBph7PucZhwoZU883YNwE2eMQI-3pkyxwl7KCp_0a7Lcx6x3ZggGt-PYCCnL7W1RzlGt8NQ76xARWih72pGH1ApJj6NcTR_ZFICasxrEyXCY6LFUE/w500/push.png",
+        "Title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmNWPln5gYtjCTwxTUPD7nnEduJjhVcKZX5vXMjFNmI18sdaJkul2F8caSZbOlF7ZUgGFOKkIH3erXGHMs0v8pGv7h9yp5lPGk6zRr2wTEwuMDQ1anFSwM_CY-ObWKaySQXnqgGCoZotZIhJHGBRyXFgeiUcDUSKUALYnbTXCN6BdqHCipJRzGiyjPkrs/w500/google-cloud.png",
+        "Title": "TRIPLESTRENGTH Hits Cloud for Cryptojacking, On-Premises Systems for Ransomware",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbfNJ03H8aqhaeU2BIEoeaxaHP9BDMq9b2FvRnwc4tzl-YgZXsdqOOjxW1qtbw8NiPTIlYm8tcZqvQf1qBAUa19F1mu0w1_QZ8Lu0vqQhXSI_XtH2-ZNaOncrdX_ICR0XH9yqV-lkV79twVRh9M7fzEy3rCNaiFvpOz3FW3B4TqonMMj6s0dAnNN3Rlw5/w500/ddos-attack.png",
         "Title": "Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
+        "Timestamp": "Jan 23, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
         "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/saas-attacks-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLB2MtEdnySmh2W8xGraK5S_wFrS3mC4QdZXLN24I8vlYgAx7m9PaapAMKn9ZcUE0PNyEt1IK6COPYbX-ykqNO7yjvf06VpeX9dakliIPAGTVqd46zC-FD7xaT3cXc_HzG4xvbmKxE3tAPbH8oyR-nAwp8gX9zXSdmotYbMqLMs8BRgm4vEr24bLV3Lyu/s728-e100/push-1.jpg",
-        "Title": "2024: A Year of Identity Attacks | Get the New eBook",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
+        "Timestamp": "Jan 23, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/president-trump-pardons-silk-road.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhojS47F9dduEtOFppMgq3FeQHlbDIOYHyvh6xm-4GqNi3S1Nx1ZRveDGmSQj7N4FcyshJoKSdvJ3qnx_jsPfSvhOPUnZG29XrKKITgfp4-rqYjG0b0MtIy-r4d6LiVOTWtvR0ujrp-r5gvGq2N79AY-rNtFVZkfnbZB0dppyePVmQv_5rgROoRmeXdCW4F/w500/trump.png",
         "Title": "President Trump Pardons Silk Road Creator Ross Ulbricht After 11 Years in Prison",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
+        "Timestamp": "Jan 23, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8feUMfpw4kkPZ2agFg7JExErk2NI5rUCbpCqdoPeKgGLCQkl-jAaoRKPTl-Lu6ybuuxjqsnlCdcbsSGrzPqz24pVhT9cPsZ9iI6KXOaZgpdSO-mbPICG2PP-T_OhDJLKKe8OG18icf05z0-qb8JUd8ioyp-vc1GoMZTkMOCkd07fkwyP_p4e1144oh4pf/w500/eset.png",
         "Title": "PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack",
         "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://www.wired.com/story/subaru-location-tracking-vulnerabilities/",
+        "Img_URL": "https://media.wired.com/photos/679163ea81b10acbc3e4f33b/3:2/w_1280%2Cc_limit/security_subaru_getty.jpg",
+        "Title": "Subaru Security Flaws Exposed Its System for Tracking Millions of Cars",
+        "Source": "WIRED",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/",
+        "Img_URL": "https://media.wired.com/photos/67911cf80aa3f15ee684180c/3:2/w_1280%2Cc_limit/DS-JenEasterly-diptych.jpg",
+        "Title": "Under Trump, US Cyberdefense Loses Its Head",
+        "Source": "WIRED",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2025/01/akamne.png",
+        "Title": "MasterCard DNS Error Went Unnoticed for Years",
+        "Source": "KrebsonSecurity",
         "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/oracle-releases-january-2025-patch-to.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefp3X9BsfYPUUakwCq0M-_HYPce60Oxwdg_cWIys5W6kmRacZBJI_rs6CS4amxAn-dfNhJbO7M4DU5V2NEUJmSPdlYtQ_Hfs9HGgfswID1Yqnh_Dh9TPaOuMJvRAWwgkAQVWQANp3TBKTYlr37hxwSDMRqFMpQObT1y7zH1JQfSyUuJZl3hqmosLxzoun/w500/oracle.png",
         "Title": "Oracle Releases January 2025 Patch to Address 318 Flaws Across Major Products",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 22, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2iY09-KGJr2biT-gXgA-YqkZfw0ztvZ7LNJLhaAnR-tWxcsWUvjjiqCBNpiHRiuS8v93FIbXkstpAAY7gX8D1knZ01PdBPiEiYPa56FcCGKME-1gnDasaGFl85aaXrA3BnGHbfxyOla6RgLQa8bpv9xy_XIOvZ1Om1hxcll6zFZvAn_HkbCbuPG3a88/w500/nudge.png",
-        "Title": "4 Reasons Your SaaS Attack Surface Can No Longer be Ignored",
         "Source": "The Hacker News",
         "Timestamp": "Jan 22, 2025"
     },
@@ -63,9 +126,23 @@
         "Timestamp": "Jan 22, 2025"
     },
     {
+        "Link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagNNKLM9kqe83TFMKVqROF_OCVUDcqv7i6XhTM0-51_kxtQM0WZhaP415DwsYD-_p5klcX_dWW-NBph7PucZhwoZU883YNwE2eMQI-3pkyxwl7KCp_0a7Lcx6x3ZggGt-PYCCnL7W1RzlGt8NQ76xARWih72pGH1ApJj6NcTR_ZFICasxrEyXCY6LFUE/w500/push.png",
+        "Title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 22, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/murdocbotnet-found-exploiting-avtech-ip.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmSke4NE6m8JSN4ivC13AYK1SLKclqGXJdHZHJywJl_C5PYKa7ULECJQ0rsVWfIxnzc1PFGYOd5aluSk2BuJM_3GWm5mj180YoGx1MH9QEvj2SE-hNu8KOt3azq-Cd1dDj9CNvVwd5JeFTqC2zm8HcqGLeBydbvbpm_YIrZP5GE_oakL2StxmvJe2w8IW/w500/hacking.png",
         "Title": "Mirai Variant Murdoc Botnet Exploits AVTECH IP Cameras and Huawei Routers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 22, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/identity-attacks-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
+        "Title": "2024: A year of identity attacks | Get the new ebook",
         "Source": "The Hacker News",
         "Timestamp": "Jan 22, 2025"
     },
@@ -95,91 +172,35 @@
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4bJJQ_T5s5aakPPr5ueu25sBDGR-NcUWnAHCs4nF9z9flaEvSU7fgAI4Me9ZkJmH-7AT1lHkS_tIwvF9187mP4nMWWgrezOqA5kqXfNwNuTP0vFWVTnCvYcozkPa6wH8YWh96qtp1Zo3NGp58HHVTXn0GmRTjT8StTlajz5q4OsJUi4JSNccQpdKTu920/w500/map-file.png",
         "Title": "PNGPlug Loader Delivers ValleyRAT Malware Through Fake Software Installers",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
+        "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/cert-ua-warns-of-cyber-scams-using-fake.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYlTgS4qNqvZXy1fIzqNAz-mrQpwfvruzxr4WFSpO8YAiogHr1WCFtIIiKpwQsDVNzh-ZJZxFq2LCZprPFbTbuHGOuT5Iv4DGaddWriTdO0GoYPfuORt5-ww6LrjoySLBM3aeaHoTMgoHFk977GHKnGw8k0wGUdMp8WgCRZIVYVro8Zz-Ul5M4_vJ66B_8/w500/anydesk.png",
         "Title": "CERT-UA Warns of Cyber Scams Using Fake AnyDesk Requests for Fraudulent Security Audits",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/4-reasons-your-saas-attack-surface-can.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2iY09-KGJr2biT-gXgA-YqkZfw0ztvZ7LNJLhaAnR-tWxcsWUvjjiqCBNpiHRiuS8v93FIbXkstpAAY7gX8D1knZ01PdBPiEiYPa56FcCGKME-1gnDasaGFl85aaXrA3BnGHbfxyOla6RgLQa8bpv9xy_XIOvZ1Om1hxcll6zFZvAn_HkbCbuPG3a88/w500/nudge.png",
-        "Title": "4 Reasons Your SaaS Attack Surface Can No Longer be Ignored",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
+        "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbemTVqg0rpnGDJzNcmjV5hGZDDBzpEyjSQW4N8BMQIJrZjfZMwAcQ_TrIH6o3DrEzgbbTkc0vKpU-hrCTIGqago-idWziUoooxIUtjQXJNmLKfqjhw9ItbDfDQ6udECe3SoiADwveEZYF1AuBHINmuF2Cx-yddCIxDBnKkaM51AXJT1DQmQ8kij326nRU/w500/tunnel.png",
         "Title": "Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/saas-attacks-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLB2MtEdnySmh2W8xGraK5S_wFrS3mC4QdZXLN24I8vlYgAx7m9PaapAMKn9ZcUE0PNyEt1IK6COPYbX-ykqNO7yjvf06VpeX9dakliIPAGTVqd46zC-FD7xaT3cXc_HzG4xvbmKxE3tAPbH8oyR-nAwp8gX9zXSdmotYbMqLMs8BRgm4vEr24bLV3Lyu/s728-e100/push-1.jpg",
-        "Title": "2024: A Year of Identity Attacks | Get the New eBook",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
+        "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/donot-team-linked-to-new-tanzeem.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23w-g_Fkf3Lof3qVy8V5EIsCuCYv1VZF5HezUQFdBNhimKqqfkIXfLvjFbv8N67Bq5gTRCm9w2xKdvqOycbyZlypbFMZSKZb_5xgun9MQiHbHqOpN5mUA3M56YGoDFeI_2pHapkoYgRHaHjVVBfvANKE7H7zS_dmOWxDL5ybpv9un9JqphUPveixX5KJu/w500/android.png",
         "Title": "DoNot Team Linked to New Tanzeem Android Malware Targeting Intelligence Collection",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
+        "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_20.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibUYtFkTwqS47YcUb7TUXjh3O_hy4EpcleWFJwMJbNsMDq7put9WHNzJ7DzL91ft_fkec3WiI4HLOimL-vxg5z3JBwvRQC69CxVTc3n11Gsi9a19wru6TduDUV921EdMQhbWtF7GySZemOaPRhygWbQxOEthbms_qodBav8RnhE7XRnhT8wmLaNB4XvRle/w500/recap.png",
         "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [20 January]",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
-        "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRfKk6wIek4mOwy1hfJmqLoDhOKbOFpfw0tZA035CkvU0zEt8fexcuKvcIEGwFXV41TSj00Z-uW9JgkXOo6w4PDu3Atjr_n6nFdhyphenhyphenwqamSI_nJpAre1WVORx2ttLKuKbe2DVH4lnng7znIG80nnw-cMv4p3fGBzZ8wQ-VyhsOojUw8hPWPpxru2XG6w-7/w500/solana.png",
-        "Title": "Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail SMTP",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtqt9GbOxtkWUXzcp0sb5h7ltG4pEwswO8VB5gXZrGQ3fyjrmD21KW_7-k2hdj_EZVlSJIliEPv5uqIQlboukcAY8VtMaqaf9ZQ4CxmWOLQDDUUCeA5HtW_2nIFFXCATxyvG980D9NVKWB13rd39oNBKS_7lrBtEql80Y_wklymC_pvB6yvDESMU-YFUj0/w500/tiktok.jpg",
-        "Title": "TikTok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVZ5CLaVHKfiCltNw-azNG7yA20nZJj9UCoqxFoy1fX-2SxpJS5u094_FPvrTeOp3UeJMRXI_HohTyNL6ML_TaX75LCaqUUberQE6VVm91xEjI3_JYbz8oYx3_ahCuyc7RQ3eoo-6Z2jplT3UNl47_gc3L9ZFuFA3YRBn__0-VumN0Ca4qfEJzpNqEMJV/w500/chinese.png",
-        "Title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl2oCkVp9mqJVFS5Maj9qSRscDC2YRFE6opNRkbz-SWGQKlt9MKDC6HceYJF74HEhvUrz6gqa0JOPVFPevSlyv3L3DUQblrdM0-XQYxvUzBS4QjVY8Lr72vMudMA4QsJvJQTPEuNNm0F3udHYsFzhy_h1CBNoZVzy-nh3DGeTIc_jrmfU3h77tw-sTmpHp/w500/root.png",
-        "Title": "Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUaOVbm7j7dDhuKYmQg-0qLUfVqGjN83yp5Kn9ZMHMsoFcNmJkOBzJ4tqWENyVQ_f4UT6xEgLJZh41aT1TW0TQK6n815Q3aNgnqg7vfpQFuvrxVaNOHOOmSpAWyC2Wx6nNbhW3K1707rlaGQ9oM5Ww7kASZwV17nKok0LFso5om6Yg0PUP0AmAY6UA_Dk/w500/php.png",
-        "Title": "Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 21, 2025"
+        "Timestamp": "Jan 22, 2025"
     },
     {
         "Link": "https://www.wired.com/story/us-names-one-of-the-hackers-allegedly-behind-massive-salt-typhoon-breaches/",
@@ -189,13 +210,6 @@
         "Timestamp": "Jan 18, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/",
-        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
-        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
-        "Source": "WIRED",
-        "Timestamp": "Jan 17, 2025"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2025/01/lighthouse-ezdrive.png",
         "Title": "Chinese Innovations Spawn Wave of Toll Phishing Via SMS",
@@ -203,16 +217,23 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
-        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
-        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
+        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
         "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
         "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
+        "Source": "WIRED",
+        "Timestamp": "Jan 16, 2025"
+    },
+    {
+        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
+        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -371,13 +392,6 @@
         "Timestamp": "Dec 04, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2023/05/fbiwanted-matveev.png",
-        "Title": "U.S. Offered $10M for Hacker Just Arrested by Russia",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 04, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
         "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
         "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
@@ -427,25 +441,11 @@
         "Timestamp": "Nov 21, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/chineses-surveillance-state-is-selling-citizens-data-as-a-side-hustle/",
-        "Img_URL": "https://media.wired.com/photos/673d2c3bc7c8c493f68d18c6/3:2/w_1280%2Cc_limit/Security_RussianHackers_GettyImages.jpg",
-        "Title": "Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack",
-        "Source": "WIRED",
-        "Timestamp": "Nov 21, 2024"
-    },
-    {
         "Link": "https://krebsonsecurity.com/2024/11/fintech-giant-finastra-investigating-data-breach/",
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2020/03/finastra.png",
         "Title": "Fintech Giant Finastra Investigating Data Breach",
         "Source": "KrebsonSecurity",
         "Timestamp": "Nov 19, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/bitfinex-hacker-gets-5-years-for-10-billion-bitcoin-heist/",
-        "Img_URL": "https://media.wired.com/photos/673e626f6e2acda49753fd54/3:2/w_1280%2Cc_limit/chinese-surveillance-citizen-data-sale-2x1.jpg",
-        "Title": "China\u2019s Surveillance State Is Selling Citizen Data as a Side Hustle",
-        "Source": "WIRED",
-        "Timestamp": "Nov 16, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/",
