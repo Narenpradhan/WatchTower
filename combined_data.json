@@ -1,5 +1,96 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVpPUx6IdQrQ7h1XI-F_o60on_nX_Iwzd_127nKhNtlgpCHoxsMOy2uGU1QzKb7w5KBtuxepNcUv2wOw7NztzLx2iRlHXem5oy_yuaUfvJTDqIcjQcY8SLr1n6aCPuPZZKtHQOSZIzlg0neVPWuTbzxUvg4mjSm513oyxpmxTdsxzvCUWSt1kDMU_xPsEp/w500/metaai.png",
+        "Title": "Meta's Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhePNFbvgxIjP-qdgsmvOht_nOITaHPOed2POnKRuzai8xmQQiM76JLTWhZSsiTrScJiB06CPp1hgV2bqTbMmZ9_qypISemoRrD2TlGIs4rkkpp3b8bkoub12eN2PYMGZZ8IDmtiTL1o5faQrwAoSM3xkiXmV1BdeSgC4Rs1COh6E0055YtP9a2GNizFXMs/w500/telecom.png",
+        "Title": "RANsacked: Over 100 Security Flaws Found in LTE and 5G Network Implementations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_ZOgbtePsVo2Au4rt7gwxnut9c2eavF1a5LnlsqFDtZfTmONnYmNGiL9KBShuvUEaMqLGH-LTbqlYwpRDax4zT1K5grs3PgcKg07duEUbxS9zzrgWUmG8dgiEIlX_24cje2tQP94AaFhnv8BDFAzVDbtUpwnZ8uUHPiGvpGUk5Yh_hMETU4wvXpV1tc/w500/backup.png",
+        "Title": "2025 State of SaaS Backup and Recovery Report",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/identity-attacks-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
+        "Title": "2024: A year of identity attacks | Get the new ebook",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/doj-indicts-5-individuals-for-866k.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_AZMw1Rx6owfR_h91sLHgTsZBg24q3TcAAYN07wBMCu4iSAuGJvi5ulhGH-FVA1fj0mLAzJ507R8l6wU_02ke5HX1sndIA_X_Lc4RVBGTt76Qr4Xemq-7t4g6Fj61BHt05JvB9j0YSnhgeza1tIaHkE2eARq35nrQVEmpJsk5Ekma6bRBJ7bEK-28qpM6/w500/north-korea.png",
+        "Title": "DoJ Indicts 5 Individuals for $866K North Korean IT Worker Scheme Violations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/androids-new-identity-check-feature.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxUJpjjY39YjVqu7QJ12NX7mY4jYDD71rzcg-G_brUxwRJYFKJCfT4zCHy2WjxxAWGJn3Zzharp2VSAxlxP6z5uaxKuMKDeBfkF0QhFqygdW1Ra_ICjBW5JeNibeaxWbRJhFuXa1d9QKHzZvnRsygj3hQmxRJDi3jAhWcRFWGDs86evU6m2HvOp1XzfKtp/w500/android.png",
+        "Title": "Android's New Identity Check Feature Locks Device Settings Outside Trusted Locations",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/cisa-adds-five-year-old-jquery-xss-flaw.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnqgMOIt5PuIroy0Xj5Jf-thEXenaf-d7Fd0mxcEdV2NWER4mZINpMpEWGJg6AHDTu-5_HRm3rEf5_H8fytYKs2jYYrFcrKU6htVTXe-VxLLe7-_TOGj4rzPOi89E30uGR1hzawYX8v9PemdTikwp2LmuFopjKNvRsKv8j3pBRWNx5m-dLniPXBK5-ARn1/w500/jquery-xss.png",
+        "Title": "CISA Adds Five-Year-Old jQuery XSS Flaw to Exploited Vulnerabilities List",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
+        "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaMEzvR8ZCzIEr6pKoBw7XID8DH-a3WDTxR7CZk_ocpWacfxk1zCzxAB2upLl8M3Z7Q3CZe0a0uAVXFfafBNX2H4O7-sdd3BdNzqRf7IkbEjqZWYbqnk8PEiUPKcnUYpGvKvsdbN761VbSgVCZ0EIJNyKbkzcFl0OTkoqNBY_KJyChz_2jCalMaP3hebd/w500/firewall.png",
+        "Title": "Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEget0FXsNMYXF31xgrwBr22DbxvQHnAIVfpOt1oGkM9fMmRbEpwgMmBQgMrNKhqCVRNB9cGDoFIgt0YCNqi5AZpId6BUPzbSs0mdJdLYtirOGpvKtysWgqEnRb03FEQwqLuI1CGx1OLxcucejl3sgqFYZTr4CjCdE8L-hFfRoqUcgeu9hpEcx5ZF-vtWxb2/w500/recaptcha.png",
+        "Title": "Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PqSC2JRc65xTSsboeUU7ySrbr12XEKIK4O4iUvD87hYysGKfuFjPO53VBN8tep6EOybWFuJ_NnCkN__8vdRRDIvDpQzzpLF03X3y9FDE1fnuXCu_TkwKEgpbWb1bvFbMnr_8iLL0o0NAl-yByAAsnw5GhZv462y_KG6uKQhh1b72mf5-kH1H7V7Ei6M/w500/web.png",
+        "Title": "New Research: The State of Web Exposure 2025",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzW9_T09YfeuDIdaBgG8cu_4kqv8SaU7b97xIH-ytWTab6AdYDxhFFGLAwaEXlpC5tYXwPO-iiefdUbi246vZV7vUMoRhJXMWY05hW0E0z_K9Q3loIkRAn_uUKJEHN4YAWwdJ24yk613091J7X-dqiuJABdPc9qmffqqYyXFiCNvlC21HP9ryQ7vakU951/w500/jon.png",
+        "Title": "Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEuXsmwCu8NCihT8SYiIn8r-FUcfFWWtJIYSyhuZHZcqwYq376aipxLFYeQfEzpqmpe8LOIE_5dO9HPgFcw9PfCFt4MHHKbro9vLuQFyN6lkwfIdw0Tjh6oO_eT3ROpfsCYjqK60LiIJZl3QY98RZ4X-E7wUd5l1MEvOtyAaifyKQ2FvQozZrTBZ4l0gW/w500/hellcat.png",
+        "Title": "Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 26, 2025"
+    },
+    {
         "Link": "https://www.wired.com/story/section-702-fbi-searches-unconstitutional/",
         "Img_URL": "https://media.wired.com/photos/67941c58ab791fa1365fe2e4/3:2/w_1280%2Cc_limit/Security_FBICourt_GettyImages-1264708870.jpg",
         "Title": "US Privacy Snags a Win as Judge Limits Warrantless FBI Searches",
@@ -7,111 +98,20 @@
         "Timestamp": "Jan 25, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/ransacked-over-100-security-flaws-found.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhePNFbvgxIjP-qdgsmvOht_nOITaHPOed2POnKRuzai8xmQQiM76JLTWhZSsiTrScJiB06CPp1hgV2bqTbMmZ9_qypISemoRrD2TlGIs4rkkpp3b8bkoub12eN2PYMGZZ8IDmtiTL1o5faQrwAoSM3xkiXmV1BdeSgC4Rs1COh6E0055YtP9a2GNizFXMs/w500/telecom.png",
-        "Title": "RANsacked: Over 100 Security Flaws Found in LTE and 5G Network Implementations",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_ZOgbtePsVo2Au4rt7gwxnut9c2eavF1a5LnlsqFDtZfTmONnYmNGiL9KBShuvUEaMqLGH-LTbqlYwpRDax4zT1K5grs3PgcKg07duEUbxS9zzrgWUmG8dgiEIlX_24cje2tQP94AaFhnv8BDFAzVDbtUpwnZ8uUHPiGvpGUk5Yh_hMETU4wvXpV1tc/w500/backup.png",
-        "Title": "2025 State of SaaS Backup and Recovery Report",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/doj-indicts-5-individuals-for-866k.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_AZMw1Rx6owfR_h91sLHgTsZBg24q3TcAAYN07wBMCu4iSAuGJvi5ulhGH-FVA1fj0mLAzJ507R8l6wU_02ke5HX1sndIA_X_Lc4RVBGTt76Qr4Xemq-7t4g6Fj61BHt05JvB9j0YSnhgeza1tIaHkE2eARq35nrQVEmpJsk5Ekma6bRBJ7bEK-28qpM6/w500/north-korea.png",
-        "Title": "DoJ Indicts 5 Individuals for $866K North Korean IT Worker Scheme Violations",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/identity-attacks-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
-        "Title": "2024: A year of identity attacks | Get the new ebook",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/androids-new-identity-check-feature.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxUJpjjY39YjVqu7QJ12NX7mY4jYDD71rzcg-G_brUxwRJYFKJCfT4zCHy2WjxxAWGJn3Zzharp2VSAxlxP6z5uaxKuMKDeBfkF0QhFqygdW1Ra_ICjBW5JeNibeaxWbRJhFuXa1d9QKHzZvnRsygj3hQmxRJDi3jAhWcRFWGDs86evU6m2HvOp1XzfKtp/w500/android.png",
-        "Title": "Android's New Identity Check Feature Locks Device Settings Outside Trusted Locations",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/cisa-adds-five-year-old-jquery-xss-flaw.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnqgMOIt5PuIroy0Xj5Jf-thEXenaf-d7Fd0mxcEdV2NWER4mZINpMpEWGJg6AHDTu-5_HRm3rEf5_H8fytYKs2jYYrFcrKU6htVTXe-VxLLe7-_TOGj4rzPOi89E30uGR1hzawYX8v9PemdTikwp2LmuFopjKNvRsKv8j3pBRWNx5m-dLniPXBK5-ARn1/w500/jquery-xss.png",
-        "Title": "CISA Adds Five-Year-Old jQuery XSS Flaw to Exploited Vulnerabilities List",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaMEzvR8ZCzIEr6pKoBw7XID8DH-a3WDTxR7CZk_ocpWacfxk1zCzxAB2upLl8M3Z7Q3CZe0a0uAVXFfafBNX2H4O7-sdd3BdNzqRf7IkbEjqZWYbqnk8PEiUPKcnUYpGvKvsdbN761VbSgVCZ0EIJNyKbkzcFl0OTkoqNBY_KJyChz_2jCalMaP3hebd/w500/firewall.png",
-        "Title": "Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
-        "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEget0FXsNMYXF31xgrwBr22DbxvQHnAIVfpOt1oGkM9fMmRbEpwgMmBQgMrNKhqCVRNB9cGDoFIgt0YCNqi5AZpId6BUPzbSs0mdJdLYtirOGpvKtysWgqEnRb03FEQwqLuI1CGx1OLxcucejl3sgqFYZTr4CjCdE8L-hFfRoqUcgeu9hpEcx5ZF-vtWxb2/w500/recaptcha.png",
-        "Title": "Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PqSC2JRc65xTSsboeUU7ySrbr12XEKIK4O4iUvD87hYysGKfuFjPO53VBN8tep6EOybWFuJ_NnCkN__8vdRRDIvDpQzzpLF03X3y9FDE1fnuXCu_TkwKEgpbWb1bvFbMnr_8iLL0o0NAl-yByAAsnw5GhZv462y_KG6uKQhh1b72mf5-kH1H7V7Ei6M/w500/web.png",
-        "Title": "New Research: The State of Web Exposure 2025",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzW9_T09YfeuDIdaBgG8cu_4kqv8SaU7b97xIH-ytWTab6AdYDxhFFGLAwaEXlpC5tYXwPO-iiefdUbi246vZV7vUMoRhJXMWY05hW0E0z_K9Q3loIkRAn_uUKJEHN4YAWwdJ24yk613091J7X-dqiuJABdPc9qmffqqYyXFiCNvlC21HP9ryQ7vakU951/w500/jon.png",
-        "Title": "Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEuXsmwCu8NCihT8SYiIn8r-FUcfFWWtJIYSyhuZHZcqwYq376aipxLFYeQfEzpqmpe8LOIE_5dO9HPgFcw9PfCFt4MHHKbro9vLuQFyN6lkwfIdw0Tjh6oO_eT3ROpfsCYjqK60LiIJZl3QY98RZ4X-E7wUd5l1MEvOtyAaifyKQ2FvQozZrTBZ4l0gW/w500/hellcat.png",
-        "Title": "Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/eliminate-identity-based-threats.html",
+        "Link": "https://thehackernews.com/2025/01/eliminate-identity-based-threats.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_3x9HdMLRcpTgBXvmIV5SWLzAPDZbmRgvsM6wHaXAX9DT1fcORSs3eaWYYKdZj6RXYgwtgN8BrHhc8jjvhWz3dcsNREaGZp_eUhdD7yib1LdOSaGVIsd_d_BaxEWGnJDx1_EkUzfIwo2q0XjwnVldj8WY8qpqJlQRDG3P2XK0sWwMQWVHZFQmWCEXT4w/w500/Identity-Security.png",
         "Title": "How to Eliminate Identity-Based Threats",
         "Source": "The Hacker News",
-        "Timestamp": "Jan 24, 2025"
+        "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/sonicwall-urges-immediate-patch-for.html",
+        "Link": "https://thehackernews.com/2025/01/sonicwall-urges-immediate-patch-for.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9G0w1_XRyjir28xDf1OQe39RpuJViL0jb88xm3-yavFkAH_LzFLMQLs1wdbdd-qJIPogh7m5sAqdzyxdhxV2Jtlhj8KtE-MgNgkcehYo9hAN94cnwfp51QQp_Yy_KSBcvvI2_LS3b7VarcG_xs_-nsgIiYafDbOF0K-LugCeebsRXdUziSb3Qt_0wfRCy/w500/sonic.jpg",
         "Title": "SonicWall Urges Immediate Patch for Critical CVE-2025-23006 Flaw Amid Likely Exploitation",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRWkvZNxktgGTsWp4qPYKY1I5Wf1rqOl3ENY-arFcDUwnqCjsZq4v5lGkjTJmVlAz3RrWqPf5yFzvzMio2vGeAS1r1qQxpDwBou-ps2BbaNaDskOGjcc1dWalTtDJQbqWlPvAt2IralZGrVE4IF6q4YlaVxOTSr50Tamknk0q7uyROWtcPqah64e42Gkt/w500/malware-attack.png",
-        "Title": "QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2025"
-    },
-    {
         "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
         "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
@@ -119,9 +119,9 @@
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1591C2FBRMXx8IfAw9jMNYvG-0hdQfjKZIWV3NUUyu-YUMZYs3ytCMWAM8s_taP4Q3-azGV0Pj5nWeJdQPldIXlyVjv8uCDI_2Dp34QyDy96QPoq3CYZWtYj0mCA94AdL9WGR4BKo4rZWdOujOxbtGKt81vFWYb9nzS08Wy_cJGFJeHe4r42mdl-UFFYb/w500/cisco.jpg",
-        "Title": "Cisco Fixes Critical Privilege Escalation Flaw in Meeting Management (CVSS 9.9)",
+        "Link": "https://thehackernews.com/2025/01/qakbot-linked-bc-malware-adds-enhanced.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRWkvZNxktgGTsWp4qPYKY1I5Wf1rqOl3ENY-arFcDUwnqCjsZq4v5lGkjTJmVlAz3RrWqPf5yFzvzMio2vGeAS1r1qQxpDwBou-ps2BbaNaDskOGjcc1dWalTtDJQbqWlPvAt2IralZGrVE4IF6q4YlaVxOTSr50Tamknk0q7uyROWtcPqah64e42Gkt/w500/malware-attack.png",
+        "Title": "QakBot-Linked BC Malware Adds Enhanced Remote Access and Data Gathering Features",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
@@ -133,58 +133,58 @@
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html",
+        "Link": "https://thehackernews.com/2025/01/cisco-fixes-critical-privilege.html?m=1",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1591C2FBRMXx8IfAw9jMNYvG-0hdQfjKZIWV3NUUyu-YUMZYs3ytCMWAM8s_taP4Q3-azGV0Pj5nWeJdQPldIXlyVjv8uCDI_2Dp34QyDy96QPoq3CYZWtYj0mCA94AdL9WGR4BKo4rZWdOujOxbtGKt81vFWYb9nzS08Wy_cJGFJeHe4r42mdl-UFFYb/w500/cisco.jpg",
+        "Title": "Cisco Fixes Critical Privilege Escalation Flaw in Meeting Management (CVSS 9.9)",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/trump-terminates-dhs-advisory-committee.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2MvBKKlyv7rGl3kQZ-JoUlpTDQZ2Shes63UD98NvAWqFBcOHxaYUyI3GaBYnQLpDzcsIF4Ps2_ipDnLajg8mc_KBPNUs1YcBOmirupFcNFSqyfGr5VjFADWtowj50i-oW3nkIPSG5aUqsxilaZmKOHWECFLsFqHWdtOZ2sk7wx3_e-w48AnRkxcHJ3nMy/w500/dhs.png",
         "Title": "Trump Terminates DHS Advisory Committee Memberships, Disrupting Cybersecurity Review",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html",
+        "Link": "https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmNWPln5gYtjCTwxTUPD7nnEduJjhVcKZX5vXMjFNmI18sdaJkul2F8caSZbOlF7ZUgGFOKkIH3erXGHMs0v8pGv7h9yp5lPGk6zRr2wTEwuMDQ1anFSwM_CY-ObWKaySQXnqgGCoZotZIhJHGBRyXFgeiUcDUSKUALYnbTXCN6BdqHCipJRzGiyjPkrs/w500/google-cloud.png",
         "Title": "TRIPLESTRENGTH Hits Cloud for Cryptojacking, On-Premises Systems for Ransomware",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html",
+        "Link": "https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbfNJ03H8aqhaeU2BIEoeaxaHP9BDMq9b2FvRnwc4tzl-YgZXsdqOOjxW1qtbw8NiPTIlYm8tcZqvQf1qBAUa19F1mu0w1_QZ8Lu0vqQhXSI_XtH2-ZNaOncrdX_ICR0XH9yqV-lkV79twVRh9M7fzEy3rCNaiFvpOz3FW3B4TqonMMj6s0dAnNN3Rlw5/w500/ddos-attack.png",
         "Title": "Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
+        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
         "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/president-trump-pardons-silk-road.html",
+        "Link": "https://thehackernews.com/2025/01/president-trump-pardons-silk-road.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhojS47F9dduEtOFppMgq3FeQHlbDIOYHyvh6xm-4GqNi3S1Nx1ZRveDGmSQj7N4FcyshJoKSdvJ3qnx_jsPfSvhOPUnZG29XrKKITgfp4-rqYjG0b0MtIy-r4d6LiVOTWtvR0ujrp-r5gvGq2N79AY-rNtFVZkfnbZB0dppyePVmQv_5rgROoRmeXdCW4F/w500/trump.png",
         "Title": "President Trump Pardons Silk Road Creator Ross Ulbricht After 11 Years in Prison",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html",
+        "Link": "https://thehackernews.com/2025/01/plushdaemon-apt-targets-south-korean.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8feUMfpw4kkPZ2agFg7JExErk2NI5rUCbpCqdoPeKgGLCQkl-jAaoRKPTl-Lu6ybuuxjqsnlCdcbsSGrzPqz24pVhT9cPsZ9iI6KXOaZgpdSO-mbPICG2PP-T_OhDJLKKe8OG18icf05z0-qb8JUd8ioyp-vc1GoMZTkMOCkd07fkwyP_p4e1144oh4pf/w500/eset.png",
         "Title": "PlushDaemon APT Targets South Korean VPN Provider in Supply Chain Attack",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/oracle-releases-january-2025-patch-to.html",
+        "Link": "https://thehackernews.com/2025/01/oracle-releases-january-2025-patch-to.html?m=1",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefp3X9BsfYPUUakwCq0M-_HYPce60Oxwdg_cWIys5W6kmRacZBJI_rs6CS4amxAn-dfNhJbO7M4DU5V2NEUJmSPdlYtQ_Hfs9HGgfswID1Yqnh_Dh9TPaOuMJvRAWwgkAQVWQANp3TBKTYlr37hxwSDMRqFMpQObT1y7zH1JQfSyUuJZl3hqmosLxzoun/w500/oracle.png",
         "Title": "Oracle Releases January 2025 Patch to Address 318 Flaws Across Major Products",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5_fPOzdHJzMCtlVAyyBRbkHk_tKMjLfPX9l-0aF2jNM-48Z79MJb8pNdtIQp-9qr0ZThTSsaYf00XQs3nSdalYju70prnoxhZJC4djBx72QHc-VlTjZKhRePyONrq5g0ZDVuaiBVY9hJnVY1MVGAFJkwxKlgbsPH0J6RM8wuS6m6LNJJ0B9KeqVR4XY5q/w500/ddos-attack.png",
-        "Title": "Mirai Botnet Launches Record 5.6 Tbps DDoS Attack with 13,000+ IoT Devices",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
@@ -224,9 +224,9 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
-        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
-        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
+        "Link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
+        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
+        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -238,9 +238,9 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
-        "Img_URL": "https://media.wired.com/photos/678970dd30882133a7d0ac54/3:2/w_1280%2Cc_limit/Salt-Typhoon-Hacks-Security-2172231587.jpg",
-        "Title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
+        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -280,16 +280,16 @@
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
-        "Img_URL": "https://media.wired.com/photos/677861198543858ca9c4cbd4/3:2/w_1280%2Cc_limit/Security_Siri_GettyImages.jpg",
-        "Title": "Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement",
+        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
+        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
+        "Title": "US Treasury Department Admits It Got Hacked by China",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
     {
-        "Link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
-        "Img_URL": "https://media.wired.com/photos/67736127aaa47f99e0ab6d3a/3:2/w_1280%2Cc_limit/2191220960",
-        "Title": "US Treasury Department Admits It Got Hacked by China",
+        "Link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
+        "Img_URL": "https://media.wired.com/photos/677861198543858ca9c4cbd4/3:2/w_1280%2Cc_limit/Security_Siri_GettyImages.jpg",
+        "Title": "Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement",
         "Source": "WIRED",
         "Timestamp": "Dec 30, 2024"
     },
