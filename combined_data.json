@@ -1,8 +1,29 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaERY5GuhP8aoSL9NPnzV8fKNOEOnOF7WMqhXMdhJBZyHSkNEZvcHipJKcFHeRYdDugBU0VGdzdi0q9oRmbtEc_j8E2zFI86Q9NMzRkOOSMCbRYtrVnWNHgCH_yfDZx8OCoLkQUh8CxSjOcWwK4KsMminrIY4fDW_Gut_UqNGOxle5qQJ_NlxW1f_akP8E/w500/git.png",
+        "Title": "GitHub Desktop Vulnerability Risks Credential Leaks via Malicious Remote URLs",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_27.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1de6DT-dB1sOMXF-3PGpHW68C7duvJm1JreoDh3dNfwhkQ2Q6V60GrDu8HZV3ilI2uWJYCsP_dSJ-OrZNaozg3IsL8xZ_UH6jUVGWOu-cgDmT5n3q64Mgz71jwN49-m2V46my5whXSMZFV5FcTzWux_l-wpclKZCqkSOBpHs-ICyHRAgtT69yA6NTkUp-/w500/recap.png",
+        "Title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 January]",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/do-we-really-need-owasp-nhi-top-10.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GdGQZj4zg5hRQ2pnUW2aji88mvX85OngxOaDqtCeH64hAkPNIqMJC1EkMuS8be2iFPOSnmNdzEJ_fB5RXUhdP9bCsGhaAzpSodIACU0qtG4Vp8Dr-cydUfFbFxZYOPp7IwqmHG7gdpX3ZzfHqDr_IwTuSSCXhhZdEsK9FDrjF8oaMGrdUHXrhDru3mY/w500/owasp.jpg",
         "Title": "Do We Really Need The OWASP NHI Top 10?",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 27, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/identity-attacks-2024",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
+        "Title": "2024: A year of identity attacks | Get the new ebook",
         "Source": "The Hacker News",
         "Timestamp": "Jan 27, 2025"
     },
@@ -21,16 +42,16 @@
         "Timestamp": "Jan 27, 2025"
     },
     {
-        "Link": "https://thehackernews.uk/identity-attacks-2024",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
-        "Title": "2024: A year of identity attacks | Get the new ebook",
+        "Link": "https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6NtpF_bfOWslmZ-DOeXV5jVtfQQP-u9ic2TDezBYnelw2zjld590QeHdkdMjEWM3acQMb5xr5ZlFBXQYFSwXzfAsjSjpxnaAvXQU45M2N3zc_UxImyrZiuGpKuN4_Bj9QqwWhEWthYbiqwjDPcXDjlwkUmd4haFRtU9sl_ggZ_3__KJTrK87R2ukZeZWd/w500/meta.png",
+        "Title": "Meta's Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks",
         "Source": "The Hacker News",
         "Timestamp": "Jan 27, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6NtpF_bfOWslmZ-DOeXV5jVtfQQP-u9ic2TDezBYnelw2zjld590QeHdkdMjEWM3acQMb5xr5ZlFBXQYFSwXzfAsjSjpxnaAvXQU45M2N3zc_UxImyrZiuGpKuN4_Bj9QqwWhEWthYbiqwjDPcXDjlwkUmd4haFRtU9sl_ggZ_3__KJTrK87R2ukZeZWd/w500/meta.png",
-        "Title": "Meta's Llama Framework Flaw Exposes AI Systems to Remote Code Execution Risks",
+        "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
+        "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
         "Source": "The Hacker News",
         "Timestamp": "Jan 27, 2025"
     },
@@ -45,13 +66,6 @@
         "Link": "https://thehackernews.com/2025/01/insights-from-2025-saas-backup-and-recovery-report.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_ZOgbtePsVo2Au4rt7gwxnut9c2eavF1a5LnlsqFDtZfTmONnYmNGiL9KBShuvUEaMqLGH-LTbqlYwpRDax4zT1K5grs3PgcKg07duEUbxS9zzrgWUmG8dgiEIlX_24cje2tQP94AaFhnv8BDFAzVDbtUpwnZ8uUHPiGvpGUk5Yh_hMETU4wvXpV1tc/w500/backup.png",
         "Title": "2025 State of SaaS Backup and Recovery Report",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 27, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcO9KYrcbyaNfquNrGOUZX9JzIPAE8sU9-t_CaKqbIpe2OY_i2QP2_tznw1JO5PtcYnHythB5-UIMrwEbiuz1BFtryklhnmvmZ2Gy8Owot8ErPlKCMBNbXO-mfaau31w_QvSmtni3TLCKLK8Aw4CgvqSmvYNG7dzHqRYkFlm0aoPXl8eqGUrACMwNsd0v/w500/main.png",
-        "Title": "Product Walkthrough: How Satori Secures\u00a0Sensitive Data From Production to AI",
         "Source": "The Hacker News",
         "Timestamp": "Jan 27, 2025"
     },
@@ -77,20 +91,6 @@
         "Timestamp": "Jan 27, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaMEzvR8ZCzIEr6pKoBw7XID8DH-a3WDTxR7CZk_ocpWacfxk1zCzxAB2upLl8M3Z7Q3CZe0a0uAVXFfafBNX2H4O7-sdd3BdNzqRf7IkbEjqZWYbqnk8PEiUPKcnUYpGvKvsdbN761VbSgVCZ0EIJNyKbkzcFl0OTkoqNBY_KJyChz_2jCalMaP3hebd/w500/firewall.png",
-        "Title": "Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 27, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEget0FXsNMYXF31xgrwBr22DbxvQHnAIVfpOt1oGkM9fMmRbEpwgMmBQgMrNKhqCVRNB9cGDoFIgt0YCNqi5AZpId6BUPzbSs0mdJdLYtirOGpvKtysWgqEnRb03FEQwqLuI1CGx1OLxcucejl3sgqFYZTr4CjCdE8L-hFfRoqUcgeu9hpEcx5ZF-vtWxb2/w500/recaptcha.png",
-        "Title": "Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 27, 2025"
-    },
-    {
         "Link": "https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/",
         "Img_URL": "https://media.wired.com/photos/67940aa67f2ead5a21f122e4/3:2/w_1280%2Cc_limit/Security_AINews_GettyImages-952082470.jpg",
         "Title": "Scammers Are Creating Fake News Videos to Blackmail Victims",
@@ -105,16 +105,16 @@
         "Timestamp": "Jan 25, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PqSC2JRc65xTSsboeUU7ySrbr12XEKIK4O4iUvD87hYysGKfuFjPO53VBN8tep6EOybWFuJ_NnCkN__8vdRRDIvDpQzzpLF03X3y9FDE1fnuXCu_TkwKEgpbWb1bvFbMnr_8iLL0o0NAl-yByAAsnw5GhZv462y_KG6uKQhh1b72mf5-kH1H7V7Ei6M/w500/web.png",
-        "Title": "New Research: The State of Web Exposure 2025",
+        "Link": "https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIaMEzvR8ZCzIEr6pKoBw7XID8DH-a3WDTxR7CZk_ocpWacfxk1zCzxAB2upLl8M3Z7Q3CZe0a0uAVXFfafBNX2H4O7-sdd3BdNzqRf7IkbEjqZWYbqnk8PEiUPKcnUYpGvKvsdbN761VbSgVCZ0EIJNyKbkzcFl0OTkoqNBY_KJyChz_2jCalMaP3hebd/w500/firewall.png",
+        "Title": "Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzW9_T09YfeuDIdaBgG8cu_4kqv8SaU7b97xIH-ytWTab6AdYDxhFFGLAwaEXlpC5tYXwPO-iiefdUbi246vZV7vUMoRhJXMWY05hW0E0z_K9Q3loIkRAn_uUKJEHN4YAWwdJ24yk613091J7X-dqiuJABdPc9qmffqqYyXFiCNvlC21HP9ryQ7vakU951/w500/jon.png",
-        "Title": "Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers",
+        "Link": "https://thehackernews.com/2025/01/beware-fake-captcha-campaign-spreads.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEget0FXsNMYXF31xgrwBr22DbxvQHnAIVfpOt1oGkM9fMmRbEpwgMmBQgMrNKhqCVRNB9cGDoFIgt0YCNqi5AZpId6BUPzbSs0mdJdLYtirOGpvKtysWgqEnRb03FEQwqLuI1CGx1OLxcucejl3sgqFYZTr4CjCdE8L-hFfRoqUcgeu9hpEcx5ZF-vtWxb2/w500/recaptcha.png",
+        "Title": "Beware: Fake CAPTCHA Campaign Spreads Lumma Stealer in Multi-Industry Attacks",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
@@ -126,9 +126,9 @@
         "Timestamp": "Jan 23, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEuXsmwCu8NCihT8SYiIn8r-FUcfFWWtJIYSyhuZHZcqwYq376aipxLFYeQfEzpqmpe8LOIE_5dO9HPgFcw9PfCFt4MHHKbro9vLuQFyN6lkwfIdw0Tjh6oO_eT3ROpfsCYjqK60LiIJZl3QY98RZ4X-E7wUd5l1MEvOtyAaifyKQ2FvQozZrTBZ4l0gW/w500/hellcat.png",
-        "Title": "Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads",
+        "Link": "https://thehackernews.com/2025/01/new-research-state-of-web-exposure-2025.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PqSC2JRc65xTSsboeUU7ySrbr12XEKIK4O4iUvD87hYysGKfuFjPO53VBN8tep6EOybWFuJ_NnCkN__8vdRRDIvDpQzzpLF03X3y9FDE1fnuXCu_TkwKEgpbWb1bvFbMnr_8iLL0o0NAl-yByAAsnw5GhZv462y_KG6uKQhh1b72mf5-kH1H7V7Ei6M/w500/web.png",
+        "Title": "New Research: The State of Web Exposure 2025",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
@@ -136,6 +136,20 @@
         "Link": "https://thehackernews.uk/identity-attacks-2024",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE7ldGtX-latHNB-XDi9hzNPMq3Z1K7FiS2NSElyYKwD-LEyvjsoNTvSSOTFlV1vRn7APvmu-KvQ1Yjg8poXeaCBom27E4rrLl-XbJXZQBq76vfvMed9mcoMeqqYKN3GQEfJ0OtC15J4SzjoFwq83aT4rOMeSxGkQCa9Yb3yc7CzB2zW9ikfWIEYYTSVLY/s728-e100/push-2.png",
         "Title": "2024: A year of identity attacks | Get the new ebook",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/custom-backdoor-exploiting-magic-packet.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzW9_T09YfeuDIdaBgG8cu_4kqv8SaU7b97xIH-ytWTab6AdYDxhFFGLAwaEXlpC5tYXwPO-iiefdUbi246vZV7vUMoRhJXMWY05hW0E0z_K9Q3loIkRAn_uUKJEHN4YAWwdJ24yk613091J7X-dqiuJABdPc9qmffqqYyXFiCNvlC21HP9ryQ7vakU951/w500/jon.png",
+        "Title": "Custom Backdoor Exploiting Magic Packet Vulnerability in Juniper Routers",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 23, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPEuXsmwCu8NCihT8SYiIn8r-FUcfFWWtJIYSyhuZHZcqwYq376aipxLFYeQfEzpqmpe8LOIE_5dO9HPgFcw9PfCFt4MHHKbro9vLuQFyN6lkwfIdw0Tjh6oO_eT3ROpfsCYjqK60LiIJZl3QY98RZ4X-E7wUd5l1MEvOtyAaifyKQ2FvQozZrTBZ4l0gW/w500/hellcat.png",
+        "Title": "Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
@@ -178,20 +192,6 @@
         "Link": "https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmNWPln5gYtjCTwxTUPD7nnEduJjhVcKZX5vXMjFNmI18sdaJkul2F8caSZbOlF7ZUgGFOKkIH3erXGHMs0v8pGv7h9yp5lPGk6zRr2wTEwuMDQ1anFSwM_CY-ObWKaySQXnqgGCoZotZIhJHGBRyXFgeiUcDUSKUALYnbTXCN6BdqHCipJRzGiyjPkrs/w500/google-cloud.png",
         "Title": "TRIPLESTRENGTH Hits Cloud for Cryptojacking, On-Premises Systems for Ransomware",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/hackers-exploit-zero-day-in-cnpilot.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbfNJ03H8aqhaeU2BIEoeaxaHP9BDMq9b2FvRnwc4tzl-YgZXsdqOOjxW1qtbw8NiPTIlYm8tcZqvQf1qBAUa19F1mu0w1_QZ8Lu0vqQhXSI_XtH2-ZNaOncrdX_ICR0XH9yqV-lkV79twVRh9M7fzEy3rCNaiFvpOz3FW3B4TqonMMj6s0dAnNN3Rlw5/w500/ddos-attack.png",
-        "Title": "Hackers Exploit Zero-Day in cnPilot Routers to Deploy AIRASHI DDoS Botnet",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 23, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
-        "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
         "Source": "The Hacker News",
         "Timestamp": "Jan 23, 2025"
     },
