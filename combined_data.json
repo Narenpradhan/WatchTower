@@ -91,6 +91,13 @@
         "Timestamp": "Jan 29, 2025"
     },
     {
+        "Link": "https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/",
+        "Img_URL": "https://media.wired.com/photos/679a8d7133ddd278bf17e908/3:2/w_1280%2Cc_limit/DeepSeek-Exposed-Data-Security-2195972122.jpg",
+        "Title": "Exposed DeepSeek Database Revealed Chat Prompts and Internal Data",
+        "Source": "WIRED",
+        "Timestamp": "Jan 29, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/01/ransomware-targets-esxi-systems-via.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbuAemk6xq6i6aXXyKpxryeYpHaI1oG4AgM9cUrnkRr6bgLZqOfcvJUMwMqpTSLa8nMUnOT7Wor1SCKvKGMZdvfjQK3ojmeGdN1jQCK4khO0JncIFOL1S4hdFJd28hKogupixw7zUQFiuxfnrCsIzJ4Dwxivuztj7fX-I2SO6yLfJAFDZu2OAyUggO16X/w500/ransomware.png",
         "Title": "Ransomware Targets ESXi Systems via Stealthy SSH Tunnels for C2 Operations",
@@ -203,7 +210,7 @@
         "Timestamp": "Jan 25, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/subaru-location-tracking-vulnerabilities/",
+        "Link": "https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/",
         "Img_URL": "https://media.wired.com/photos/679163ea81b10acbc3e4f33b/3:2/w_1280%2Cc_limit/security_subaru_getty.jpg",
         "Title": "Subaru Security Flaws Exposed Its System for Tracking Millions of Cars",
         "Source": "WIRED",
@@ -238,16 +245,16 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
-        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
-        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
+        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
+        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
-        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
-        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
+        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -416,13 +423,6 @@
         "Link": "https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/",
         "Img_URL": "https://media.wired.com/photos/675386debaacd0b0a357a52a/3:2/w_1280%2Cc_limit/Security_FBI_getty.jpg",
         "Title": "US Officials Recommend Encryption Apps Amid Chinese Telecom Hacking",
-        "Source": "WIRED",
-        "Timestamp": "Dec 04, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/senators-warn-pentagon-salt-typhoon-china-hacking/",
-        "Img_URL": "https://media.wired.com/photos/674f916b84bcd89bf52098fc/3:2/w_1280%2Cc_limit/Security_Pegasus_GettyImages-1136195966.jpg",
-        "Title": "A New Phone Scanner That Detects Spyware Has Already Found 7 Pegasus Infections",
         "Source": "WIRED",
         "Timestamp": "Dec 04, 2024"
     },
