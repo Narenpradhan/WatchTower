@@ -1,5 +1,33 @@
 [
     {
+        "Link": "https://thehackernews.com/2025/02/us-and-dutch-authorities-dismantle-39.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZTLjGDImwINlCl8Laz5n7taKv-ulvZcF_3pBptLp4p4Nzja0kTPPP_J1u3N7GjszXsmMt1U3GpEXG9YtIF0qaA6-eadRsPQi-jaREAf6jszwmCUdtu1qsLVH7kdoH78gDDX122UKcYVAHAgUcsRvZT7qlQPrkh1ekcvpRWSc0uLZLvlFu8rd8bZwbh0m/w500/fbi.png",
+        "Title": "U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/02/beyondtrust-zero-day-breach-exposes-17.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWos5OunkTbvZAd89r_CSK8cWVYzq9otQJ6mUuh_1in_aUEcaSyoLruC_ItP6rB6S9iZEK2Wp9ROpVeoBhO9rmYtBPrw9euK-sC3YPg0fatZQiITtrb7z5FBXHjBSOO6gaMLggAVbT7q6fVJXSnOiZ9TUbSVjZQMkoIGAVUsF2fgtiJ1IlhBJi0ecHVnCF/w500/beyondTrust-breach.png",
+        "Title": "BeyondTrust Zero-Day Breach Exposed 17 SaaS Customers via Compromised API Key",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgafd5BMVXI9MLSHACRH2p8Al_4KrIk3FA4UxUfP9ma9TFeft_GQx_YuA38oRQ1sDSnnkO_7Q0CYJaT39dJFBXi98O_-PuNsFquiVPL_DAp7OwcAFhPPV3WLWYX3NW7KPBRuLMZWt3Y3b0m3YI3FxUx5FBxB4NnWFfeSBzVZEJqTlWt1T8lS9rc0WSocJ-A/w500/whatsapp.png",
+        "Title": "Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/symphony-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSduCGDLR6jlYbG5EtQYCqOOliYP5rV7xZGDg9m5wsei4_RuVjdtj7zXewL2SYypnYQRyBxjFeIR0GPsTWsUkhJTkOwQFeNx-Y2fngHdL__KF6Tf9zXOReGLTsiPeingNzAIvVl3yfAiaB0MK0mOPLCrnrSxZSCWPdlKnKNhsRlX049odK-V5Ft-Uh61-/s728-e100/palo-newsfeed.png",
+        "Title": "See The Future of Real-Time Cloud Security",
+        "Source": "The Hacker News",
+        "Timestamp": "Feb 01, 2025"
+    },
+    {
         "Link": "https://thehackernews.com/2025/02/malvertising-scam-uses-fake-google-ads.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmjvusalOsx5BY80bTBTB8ucS2cwAaDYYnT1DtwWLWesKVUVnyIr9zF9UQXHo3aew3wDOT03DoaDdTKHZ8TXol-sCUFS5D2O6iDI7hA6v5npXqF7IugbTYpAi-I5Ck3szRFVwZsaSLN8oKQz2KwngxTCcG1bK6Dmg1qNfrirvZJrtpclVVqETcLkMYjW5/w500/malware-ads.png",
         "Title": "Malvertising Scam Uses Fake Google Ads to Hijack Microsoft Advertising Accounts",
@@ -21,9 +49,9 @@
         "Timestamp": "Feb 01, 2025"
     },
     {
-        "Link": "https://thehackernews.uk/symphony-2025",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSduCGDLR6jlYbG5EtQYCqOOliYP5rV7xZGDg9m5wsei4_RuVjdtj7zXewL2SYypnYQRyBxjFeIR0GPsTWsUkhJTkOwQFeNx-Y2fngHdL__KF6Tf9zXOReGLTsiPeingNzAIvVl3yfAiaB0MK0mOPLCrnrSxZSCWPdlKnKNhsRlX049odK-V5Ft-Uh61-/s728-e100/palo-newsfeed.png",
-        "Title": "See The Future of Real-Time Cloud Security",
+        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
+        "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
         "Source": "The Hacker News",
         "Timestamp": "Feb 01, 2025"
     },
@@ -49,13 +77,6 @@
         "Timestamp": "Feb 01, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
-        "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 01, 2025"
-    },
-    {
         "Link": "https://thehackernews.com/2025/01/google-over-57-nation-state-threat.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharuUN6L-hOMgtnJXHsbPVih8SywzfSuDUyiHGl_R1hytYL9EFCm_XdgUxI_dG-FTB3IZWawq9XugkJfgB7PHg2HgYvhyphenhyphen3-hbN0U9jsVkgLMmm-0SPLUGAk6vS0eAjRt18I_o8BF28UrVBy5NE5c5eMhvaSYRBwvk2cg1olh-K7cOS6vYCyEihYtliL5QO/w500/ai-cybercrime.png",
         "Title": "Google: Over 57 Nation-State Threat Groups Using AI for Cyber Operations",
@@ -70,25 +91,18 @@
         "Timestamp": "Feb 01, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0xEQmfEtLx8L2zyl99rtf9XSBdRhK2Bp5czsQR4PJ6xb3laviWEm8Y7VlyfppUezvl-lxix6Sy-PTa3rCjIWJN7SpL3ljKDBefIv6Vs89YkqWGkVp_pgDf9zhzKImKpHoxFywNjKBD-tdLkK4m9T1JftKsG_4ttkCqdySmnl12TRbg44oF69xFilC_1tk/w500/ai.png",
-        "Title": "Lightning AI Studio Vulnerability Could've Allowed RCE via Hidden URL Parameter",
-        "Source": "The Hacker News",
+        "Link": "https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/",
+        "Img_URL": "https://media.wired.com/photos/679d4da8b9719d940ce6dacc/3:2/w_1280%2Cc_limit/Roundup-Hackers-Using-Google-Gemini-Security-1835958044.jpg",
+        "Title": "Foreign Hackers Are Using Google\u2019s Gemini in Attacks on the US",
+        "Source": "WIRED",
         "Timestamp": "Feb 01, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh11fiW3omZ5EqScHjybwmUSSAG7dA2wannsnSV-FmXvb3pD5-G0QvbLtVMqpaVaP-f8T10T_PzE4YjgIGHw1SkL3noE2ttE9MC71QcwIGqvhzHHzt1UV-O_pMQR36CaI9INabH6sCIcZwPZlzlZu2O9ZX9BdUEp5ilNX5OR6xPxAXsyD87jWfS2ynESbI/w500/soc-ai.png",
-        "Title": "SOC Analysts - Reimagining Their Role Using AI",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 01, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl0nP3wD3UGFX0Lsg7dbi7N21AxNIK6jjR_Rs9eLzwoKem-ORdABiWtAZZ9x9HeL6_B-piJKXSdbGpqMHiEeD8fPWjPg4sZmS_T194r749jQOnXRHBZ26QdiB3YhhVEQkb7pXOJ3CVGIsiL_xmV6HAk-xWfPf-SwrXUneummi59z0d8Etog5mL_hapaxZX/w500/deepseek.png",
-        "Title": "DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked",
-        "Source": "The Hacker News",
-        "Timestamp": "Feb 01, 2025"
+        "Link": "https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/",
+        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2021/09/ftexploit.png",
+        "Title": "FBI, Dutch Police Disrupt \u2018Manipulaters\u2019 Phishing Gang",
+        "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 31, 2025"
     },
     {
         "Link": "https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/",
@@ -102,6 +116,41 @@
         "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2025/01/funnell-ss.png",
         "Title": "Infrastructure Laundering: Blending in with the Cloud",
         "Source": "KrebsonSecurity",
+        "Timestamp": "Jan 30, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/lightning-ai-studio-vulnerability.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0xEQmfEtLx8L2zyl99rtf9XSBdRhK2Bp5czsQR4PJ6xb3laviWEm8Y7VlyfppUezvl-lxix6Sy-PTa3rCjIWJN7SpL3ljKDBefIv6Vs89YkqWGkVp_pgDf9zhzKImKpHoxFywNjKBD-tdLkK4m9T1JftKsG_4ttkCqdySmnl12TRbg44oF69xFilC_1tk/w500/ai.png",
+        "Title": "Lightning AI Studio Vulnerability Could've Allowed RCE via Hidden URL Parameter",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/soc-analysts-reimagining-their-role.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh11fiW3omZ5EqScHjybwmUSSAG7dA2wannsnSV-FmXvb3pD5-G0QvbLtVMqpaVaP-f8T10T_PzE4YjgIGHw1SkL3noE2ttE9MC71QcwIGqvhzHHzt1UV-O_pMQR36CaI9INabH6sCIcZwPZlzlZu2O9ZX9BdUEp5ilNX5OR6xPxAXsyD87jWfS2ynESbI/w500/soc-ai.png",
+        "Title": "SOC Analysts - Reimagining Their Role Using AI",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
+        "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2025"
+    },
+    {
+        "Link": "https://thehackernews.com/2025/01/deepseek-ai-database-exposed-over-1.html",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl0nP3wD3UGFX0Lsg7dbi7N21AxNIK6jjR_Rs9eLzwoKem-ORdABiWtAZZ9x9HeL6_B-piJKXSdbGpqMHiEeD8fPWjPg4sZmS_T194r749jQOnXRHBZ26QdiB3YhhVEQkb7pXOJ3CVGIsiL_xmV6HAk-xWfPf-SwrXUneummi59z0d8Etog5mL_hapaxZX/w500/deepseek.png",
+        "Title": "DeepSeek AI Database Exposed: Over 1 Million Log Lines, Secret Keys Leaked",
+        "Source": "The Hacker News",
+        "Timestamp": "Jan 30, 2025"
+    },
+    {
+        "Link": "https://thehackernews.uk/symphony-2025",
+        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSduCGDLR6jlYbG5EtQYCqOOliYP5rV7xZGDg9m5wsei4_RuVjdtj7zXewL2SYypnYQRyBxjFeIR0GPsTWsUkhJTkOwQFeNx-Y2fngHdL__KF6Tf9zXOReGLTsiPeingNzAIvVl3yfAiaB0MK0mOPLCrnrSxZSCWPdlKnKNhsRlX049odK-V5Ft-Uh61-/s728-e100/palo-newsfeed.png",
+        "Title": "See The Future of Real-Time Cloud Security",
+        "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2025"
     },
     {
@@ -119,23 +168,9 @@
         "Timestamp": "Jan 30, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/discover-hidden-browsing-threats-free.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVJAnISnc25ibgfxKOkvFKwdgM1SFfXFboeCNtDIouL9VUubm8Rxm5P4mAR4Sy-jIuo55lEVD-F3K_QA3Bdxo0SMJ2oT8vXHcFP5s7Yj1IXHSJH9UzVE0cb0JsBJUlwebXMBpESRfMuh_lWALwzfcAl8Eo0o_OctW8vdMyQcdpEBP43sci80CbelN9wo/w500/genai.png",
-        "Title": "Discover Hidden Browsing Threats: Free Risk Assessment for GenAI, Identity, Web, and SaaS Risks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2025"
-    },
-    {
         "Link": "https://thehackernews.com/2025/01/lazarus-group-uses-react-based-admin.html",
         "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioe9_DdBh61h2ObYzLJdUUGVOzFIU2LEpPMtOt_dKHD1gVSHrEn_uZygiWIKqozKUcwrQITPiN-Furxj0CuoMNw9GHvbO0gLJBFWZx4gCyPmfNoaXU8MpSnk-7ybKMLmRHT9xjDMZI5O5rB55YntJ8Qhn9fBSP4zXsijKxx2UIe3koLvNA6-6F4F83HHb9/w500/korea.png",
         "Title": "Lazarus Group Uses React-Based Admin Panel to Control Global Cyber Attacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2025"
-    },
-    {
-        "Link": "https://thehackernews.uk/symphony-2025",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiSduCGDLR6jlYbG5EtQYCqOOliYP5rV7xZGDg9m5wsei4_RuVjdtj7zXewL2SYypnYQRyBxjFeIR0GPsTWsUkhJTkOwQFeNx-Y2fngHdL__KF6Tf9zXOReGLTsiPeingNzAIvVl3yfAiaB0MK0mOPLCrnrSxZSCWPdlKnKNhsRlX049odK-V5Ft-Uh61-/s728-e100/palo-newsfeed.png",
-        "Title": "See The Future of Real-Time Cloud Security",
         "Source": "The Hacker News",
         "Timestamp": "Jan 30, 2025"
     },
@@ -175,27 +210,6 @@
         "Timestamp": "Jan 30, 2025"
     },
     {
-        "Link": "https://thehackernews.com/2025/01/broadcom-warns-of-high-severity-sql.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptQFf-ACUGdZwWfIEHLT9KpTkeXgrzbIFbbbC0ncrmrsA36dR0iW-qGJMItS0bbujGQ_yVon7eBoQx8JhXu0cDpClNXbUBblitsOje3UoTTFaqSve0qCnb0vP_EkUoP1ghMNDT25HvQpKe37YjsNnSf-2MOzcjqUrqtU106neAEhs8FSGc2_6kSLoxZ0C/w500/load-balancer.png",
-        "Title": "Broadcom Warns of High-Severity SQL Injection Flaw in VMware Avi Load Balancer",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/zyxel-cpe-devices-face-active.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL3h_DlAFfDqWj3NCEVbw6rWHIKO-ZYcT820PTVpaTK-mlEIYNLtEbddFEncv0ciY1veVWzBpBPjQ3pgwNsWJEzV3ugTTX46CkaOqFfqRwaSR26X6kjaN5cHyc5PGD-mWT8PTDyRwmfJH9fuAj-O6ROBSZk52fXv1efOsfLF4xnkhm6BKPzXc0iPxiiyD8/w500/zyxel.png",
-        "Title": "Zyxel CPE Devices Face Active Exploitation Due to Unpatched CVE-2024-40891 Vulnerability",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2025"
-    },
-    {
-        "Link": "https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html",
-        "Img_URL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-XDknRCKEi7D29QWiXt3-bqZF5H6GurCrcmD9OW1sGWQWGZNUwxZ0O1yzCLHGpc0rG9laJFmE-ql-EnEWppRHINSRA9Qq72DJNb2p-y8OeZF2_T4Lxkm2py8kzV-lYpZuKXSvDGSrfi6wglbEDMyCpqGK_210u6CwgQuhUHaMKyCNq0sjNgP165xwPHD2/w500/code.jpg",
-        "Title": "PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks",
-        "Source": "The Hacker News",
-        "Timestamp": "Jan 30, 2025"
-    },
-    {
         "Link": "https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/",
         "Img_URL": "https://media.wired.com/photos/679a8d7133ddd278bf17e908/3:2/w_1280%2Cc_limit/DeepSeek-Exposed-Data-Security-2195972122.jpg",
         "Title": "Exposed DeepSeek Database Revealed Chat Prompts and Internal Data",
@@ -210,11 +224,11 @@
         "Timestamp": "Jan 27, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/",
+        "Link": "https://www.wired.com/story/section-702-fbi-searches-unconstitutional/",
         "Img_URL": "https://media.wired.com/photos/67940aa67f2ead5a21f122e4/3:2/w_1280%2Cc_limit/Security_AINews_GettyImages-952082470.jpg",
         "Title": "Scammers Are Creating Fake News Videos to Blackmail Victims",
         "Source": "WIRED",
-        "Timestamp": "Jan 27, 2025"
+        "Timestamp": "Jan 25, 2025"
     },
     {
         "Link": "https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/",
@@ -266,16 +280,16 @@
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
-        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
-        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
+        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
     {
-        "Link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
-        "Img_URL": "https://media.wired.com/photos/67896955683b630ca08aa666/3:2/w_1280%2Cc_limit/FCC-Chair-Chinese-Hacks-2-Security-1440125579jpg.jpg",
-        "Title": "The FCC\u2019s Jessica Rosenworcel Isn\u2019t Leaving Without a Fight",
+        "Link": "https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/",
+        "Img_URL": "https://media.wired.com/photos/6786f2852a58365b8a076ff3/3:2/w_1280%2Cc_limit/security_cyberambassador_getty.jpg",
+        "Title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
         "Source": "WIRED",
         "Timestamp": "Jan 16, 2025"
     },
@@ -378,13 +392,6 @@
         "Timestamp": "Dec 18, 2024"
     },
     {
-        "Link": "https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/",
-        "Img_URL": "https://krebsonsecurity.com/wp-content/uploads/2024/12/thumb-mobile.png",
-        "Title": "How to Lose a Fortune with Just One Bad Click",
-        "Source": "KrebsonSecurity",
-        "Timestamp": "Dec 18, 2024"
-    },
-    {
         "Link": "https://www.wired.com/story/cisa-cuts-trump-2/",
         "Img_URL": "https://media.wired.com/photos/6733d1ef152151a37383986d/3:2/w_1280%2Cc_limit/Security_Oculus_GettyImages.jpg",
         "Title": "This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?",
@@ -425,13 +432,6 @@
         "Title": "Patch Tuesday, December 2024 Edition",
         "Source": "KrebsonSecurity",
         "Timestamp": "Dec 10, 2024"
-    },
-    {
-        "Link": "https://www.wired.com/story/encryption-apps-chinese-telecom-hacking-hydra-russia-exxon/",
-        "Img_URL": "https://media.wired.com/photos/675cbb76fa238fc0d1f77492/3:2/w_1280%2Cc_limit/Security_Microsoft_CC_GettyImages-1363201662.jpg",
-        "Title": "Microsoft\u2019s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers",
-        "Source": "WIRED",
-        "Timestamp": "Dec 07, 2024"
     },
     {
         "Link": "https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/",
