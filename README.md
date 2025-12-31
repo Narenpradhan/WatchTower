@@ -73,8 +73,9 @@ This project leverages Digital Ocean's droplet to automate a web scraping proces
 
 <i>Feel free to provide any feedback, suggestions, and future scope ideas for this project. Your input is highly valued and will contribute to the ongoing improvement and evolution of the project.</i>
 
-### Connect with on :
-<img src="https://skillicons.dev/icons?i=linkedin">
+# Connect with me on :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/narenpradhan)
 
 
 # License
